@@ -196,8 +196,8 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.xs}",
-        "fontSize": "{font-size.2}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "12px",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
@@ -285,8 +285,8 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.s}",
-        "fontSize": "{font-size.4}",
+        "lineHeight": "{line-height.2}",
+        "fontSize": "18px",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
@@ -619,17 +619,41 @@
       "type": "boxShadow",
       "description": "Shadow for drop downs, modals,notifications"
     },
-    "button": {
+    "button-primary": {
       "value": {
-        "color": "#27272733",
-        "type": "dropShadow",
         "x": "0",
-        "y": "2",
-        "blur": "8",
-        "spread": "0"
+        "y": "4",
+        "blur": "0",
+        "spread": "0",
+        "color": "#610000",
+        "type": "dropShadow"
       },
       "type": "boxShadow",
-      "description": "Shadow for button"
+      "description": "Shadow for primary button"
+    },
+    "button-secondary": {
+      "value": {
+        "x": "0",
+        "y": "4",
+        "blur": "0",
+        "spread": "0",
+        "color": "#000E69",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Shadow for button secondary"
+    },
+    "button-disabled": {
+      "value": {
+        "x": "0",
+        "y": "1",
+        "blur": "2",
+        "spread": "0",
+        "color": "#000000",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Shadow for disabled button"
     },
     "text-1": {
       "value": {
@@ -1328,7 +1352,7 @@
       "description": "use for prize item in tournament/lotery page "
     },
     "button": {
-      "value": "8px",
+      "value": "0px",
       "type": "borderRadius",
       "description": "Radius for buttons"
     },
@@ -1998,47 +2022,47 @@
   "button": {
     "bg": {
       "primary": {
-        "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+        "value": "linear-gradient(180deg, #FE0909 0%, #E75959 49.99%, #CF0404 50%, #B10000 100%)",
         "type": "color",
         "description": "Background for primary buttons"
       },
       "primary-hover": {
-        "value": "linear-gradient(180deg, #6CFFAF 0%, #3A9B84 100%)",
+        "value": "linear-gradient(180deg, #FE0909 0%, #E75959 49.99%, #CF0404 50%, #B10000 100%)",
         "type": "color",
         "description": "Background for primary buttons hover"
       },
       "primary-pressed": {
-        "value": "linear-gradient(180deg, #51BF83 0%, #348C77 100%)",
+        "value": "linear-gradient(180deg, #FE0909 0%, #E75959 49.99%, #CF0404 50%, #B10000 100%)",
         "type": "color",
         "description": "Background for primary pressed"
       },
-      "primary-disabled-additional": {
-        "value": "linear-gradient(180deg, rgba(92, 217, 149, 0.60) 0%, rgba(58, 155, 132, 0.60) 100%)",
-        "type": "color",
-        "description": "Background for primary disabled button for lighgt bg"
-      },
       "primary-disabled": {
-        "value": "transparent",
+        "value": "rgba(77,77,77,0.1)",
         "type": "color",
         "description": "Background for primary buttons disabled"
       },
+      "primary-disabled-additional": {
+        "value": "rgba(77,77,77,0.1)",
+        "type": "color",
+        "description": "Background for primary disabled button for lighgt bg"
+      },
       "secondary": {
-        "value": "linear-gradient(180deg, #4B9DE8 0%, #416FB4 100%)",
+        "value": "linear-gradient(180deg, #043CCF 0%, #365DDE 49.99%, #1435A7 50%, #11218B 100%)",
         "type": "color",
         "description": "Background for secondary buttons"
       },
       "secondary-hover": {
-        "value": "linear-gradient(180deg, #52ADFF 0%, #416FB4 100%)",
+        "value": "linear-gradient(180deg, #043CCF 0%, #365DDE 49.99%, #1435A7 50%, #11218B 100%)",
         "type": "color",
         "description": "Background for secondary buttons hover"
       },
       "secondary-pressed": {
-        "value": "linear-gradient(180deg, #3B7BB5 0%, #416FB4 100%)",
+        "value": "linear-gradient(180deg, #043CCF 0%, #365DDE 49.99%, #1435A7 50%, #11218B 100%)",
         "type": "color",
         "description": "Background for secondary buttons pressed"
       },
       "secondary-disabled": {
-        "value": "transparent",
+        "value": "rgba(77,77,77,0.1)",
         "type": "color",
         "description": "Background for secondary buttons disabled"
       },
@@ -2106,6 +2130,46 @@
       }
     },
     "border": {
+      "primary": {
+        "value": "#FE0909",
+        "type": "color",
+        "description": "border color for buttons default"
+      },
+      "primary-hover": {
+        "value": "#FFF",
+        "type": "color",
+        "description": "border color for buttons hover"
+      },
+      "primary-pressed": {
+        "value": "#FD0808",
+        "type": "color",
+        "description": "border color for buttons pressed"
+      },
+      "primary-disabled": {
+        "value": "transparent",
+        "type": "color",
+        "description": "border color for buttons disabled"
+      },
+      "secondary": {
+        "value": "#043CCF",
+        "type": "color",
+        "description": "border color for buttons secondary"
+      },
+      "secondary-hover": {
+        "value": "#fff",
+        "type": "color",
+        "description": "border color for buttons secondary hover"
+      },
+      "secondary-pressed": {
+        "value": "#043CCF",
+        "type": "color",
+        "description": "border color for buttons secondary pressed"
+      },
+      "secondary-disabled": {
+        "value": "transparent",
+        "type": "color",
+        "description": "border color for buttons secondary disabled"
+      },
       "tertiary": {
         "value": "{base.light}",
         "type": "color",
@@ -2878,28 +2942,12 @@
     }
   },
   "font-family": {
-    "roboto": {
-      "value": "Roboto",
-      "type": "fontFamilies"
-    },
-    "inter": {
-      "value": "Inter",
-      "type": "fontFamilies"
-    },
     "main": {
-      "value": "{font-family.inter}",
+      "value": "Trebuchet MS",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "{font-family.golos ui}",
-      "type": "fontFamilies"
-    },
-    "fester": {
-      "value": "Fester",
-      "type": "fontFamilies"
-    },
-    "golos ui": {
-      "value": "Golos UI",
+      "value": "Trebuchet MS",
       "type": "fontFamilies"
     }
   },
