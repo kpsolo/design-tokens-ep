@@ -2233,7 +2233,7 @@
         "description": "color on ghost buttons"
       },
       "primary-disabled": {
-        "value": "#ffffff80",
+        "value": "rgba(255,255,255,0.4)",
         "type": "color",
         "description": "Text color on primary disabled button"
       },
