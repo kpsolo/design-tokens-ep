@@ -2134,12 +2134,12 @@
         "description": "border color for buttons default"
       },
       "tertiary-hover": {
-        "value": "#e9e9e9",
+        "value": "#fff",
         "type": "color",
         "description": "border color for buttons hover"
       },
       "tertiary-pressed": {
-        "value": "#d3d3d3",
+        "value": "#fff",
         "type": "color",
         "description": "border color for buttons pressed"
       },
@@ -2186,7 +2186,12 @@
         "description": "color on tertiary buttons"
       },
       "tertiary-hover": {
-        "value": "#FFF600",
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "color on tertiary buttons hover"
+      },
+      "tertiary-pressed": {
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "color on tertiary buttons hover"
       },
@@ -2197,6 +2202,11 @@
       },
       "ghost-hover": {
         "value": "#fff600",
+        "type": "color",
+        "description": "color on ghost buttons hover"
+      },
+      "ghost-pressed": {
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "color on ghost buttons hover"
       },

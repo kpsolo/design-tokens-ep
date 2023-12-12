@@ -399,7 +399,11 @@
       "button.content.primary-disabled": "S:0f67e875e3b6a0dfa74bf158d0b11b90a992abf7,",
       "button.content.secondary-disabled": "S:1676085958e6a0cb4cf931968bcbe55009305a05,",
       "button.content.tertiary-disabled": "S:3eed055343b5c844a3843c2305b73e4d882dea28,",
-      "button.content.ghost-disabled": "S:e0ac43a9858669c374fcf5789413ddb50d742eaa,"
+      "button.content.ghost-disabled": "S:e0ac43a9858669c374fcf5789413ddb50d742eaa,",
+      "button.content.tertiary-hover": "S:9e2b8a9ba7de154867cc89bff96222af06f335d3,",
+      "button.content.tertiary-pressed": "S:b9fbb17cd57e8364ff4d098ea0e1584fd357ad4a,",
+      "button.content.ghost-hover": "S:b346e6e158b4b572029401d17701701331380173,",
+      "button.content.ghost-pressed": "S:89bb948a5994f92d6c0c5865a6dca674edd88801,"
     },
     "selectedTokenSets": {
       "VP": "enabled"
