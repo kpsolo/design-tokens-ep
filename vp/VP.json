@@ -2042,7 +2042,7 @@
         "description": "Background for primary buttons disabled"
       },
       "primary-disabled-additional": {
-        "value": "rgba(77,77,77,0.1)",
+        "value": "rgba(77,77,77,0.4)",
         "type": "color",
         "description": "Background for primary disabled button for lighgt bg"
       },
@@ -2085,48 +2085,6 @@
         "value": "#ffffff00",
         "type": "color",
         "description": "Background for ghost button"
-      }
-    },
-    "icon": {
-      "primary": {
-        "value": "#ffffff",
-        "type": "color",
-        "description": "Icon color on a primary button"
-      },
-      "secondary": {
-        "value": "#fff",
-        "type": "color",
-        "description": "Icon color on a secondary button"
-      },
-      "tertiary": {
-        "value": "#fff",
-        "type": "color",
-        "description": "Icon color on a tertiary button"
-      },
-      "ghost": {
-        "value": "#43B183",
-        "type": "color",
-        "description": "Icon color on a ghost button"
-      },
-      "primary-disabled": {
-        "value": "#ffffff66",
-        "type": "color",
-        "description": "Icon color on a primary disabled button"
-      },
-      "secondary-disabled": {
-        "value": "#ffffff66",
-        "type": "color",
-        "description": "Icon color on a secondary disabled button"
-      },
-      "tertiary-disabled": {
-        "value": "rgba(255,255,255,0.4)",
-        "type": "color",
-        "description": "Icon color on a tertiary disabled button"
-      },
-      "ghost-disabled": {
-        "value": "rgba(255,255,255,0.4)",
-        "type": "color",
-        "description": "Icon color on a ghost disabled button"
       }
     },
     "border": {
@@ -2191,7 +2149,7 @@
         "description": "border color for buttons disabled"
       },
       "ghost": {
-        "value": "{button.text.light-bg}",
+        "value": "{button.content.light-bg}",
         "type": "color",
         "description": "border color for ghost buttons (use in menu)"
       },
@@ -2206,7 +2164,7 @@
         "description": "border color for ghost buttons pressed state (use in menu)"
       }
     },
-    "text": {
+    "content": {
       "primary": {
         "value": "#ffffff",
         "type": "color",
@@ -2218,7 +2176,7 @@
         "description": "Text color on secondary button"
       },
       "light-bg": {
-        "value": "{button.text.ghost}",
+        "value": "{button.content.ghost}",
         "type": "color",
         "description": "Text color for buttons on light bg (notification)"
       },
