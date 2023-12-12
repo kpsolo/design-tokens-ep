@@ -1873,7 +1873,7 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#2DD890",
+      "value": "#FFF600",
       "type": "color",
       "description": "Background for accent elements"
     },
@@ -1898,7 +1898,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#252D40",
+      "value": "#090819",
       "type": "color",
       "description": "main color for brand bgs"
     },
@@ -2149,17 +2149,17 @@
         "description": "border color for buttons disabled"
       },
       "ghost": {
-        "value": "{button.content.light-bg}",
+        "value": "#fff",
         "type": "color",
         "description": "border color for ghost buttons (use in menu)"
       },
       "ghost-hover": {
-        "value": "#4DCC97",
+        "value": "#fff",
         "type": "color",
         "description": "border color for ghost buttons hover state (use in menu)"
       },
       "ghost-pressed": {
-        "value": "#3EA379",
+        "value": "#fff",
         "type": "color",
         "description": "border color for ghost buttons pressed state (use in menu)"
       }
@@ -2185,10 +2185,20 @@
         "type": "color",
         "description": "color on tertiary buttons"
       },
+      "tertiary-hover": {
+        "value": "#FFF600",
+        "type": "color",
+        "description": "color on tertiary buttons hover"
+      },
       "ghost": {
-        "value": "#43B183",
+        "value": "#fff",
         "type": "color",
         "description": "color on ghost buttons"
+      },
+      "ghost-hover": {
+        "value": "#fff600",
+        "type": "color",
+        "description": "color on ghost buttons hover"
       },
       "primary-disabled": {
         "value": "rgba(255,255,255,0.4)",
