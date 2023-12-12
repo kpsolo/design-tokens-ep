@@ -1465,7 +1465,7 @@
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
     "tertiary": {
-      "value": "#1C212E",
+      "value": "#0E1A39",
       "type": "color",
       "description": "bg for element above primary/secondary bg (winning now zone, game empty thumb, player status)"
     },
