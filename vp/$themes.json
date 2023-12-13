@@ -254,7 +254,6 @@
       "text.title.main": "S:e24f7ee3004d5689b55d3920a42affd1d17ca6f6,",
       "text.title.accent": "S:96b97f03356553a0610894b2ca9459b7927e7221,",
       "text.title.title-winner": "S:dfebb302e37ea138338e71ea69bdc0984bf02dc5,",
-      "menu.bg.gradient": "S:56df31fcd0df78de5f6c5f26c3d056a174e4f7ca,",
       "menu.bg.item-default": "S:97911c47906c72079d2f581b6eb7ad148957b5b2,",
       "menu.bg.item-hover": "S:1e12d3d13be7b88c28a65cbc8b3693689ceb50dc,",
       "menu.bg.item-active": "S:12142d178afca074ee34eaea8bf0654dce338964,",
@@ -403,7 +402,8 @@
       "button.content.tertiary-pressed": "S:b9fbb17cd57e8364ff4d098ea0e1584fd357ad4a,",
       "button.content.ghost-hover": "S:b346e6e158b4b572029401d17701701331380173,",
       "button.content.ghost-pressed": "S:89bb948a5994f92d6c0c5865a6dca674edd88801,",
-      "shadow.button-content-ghost": "S:661e31e690afbd7a91dc76f8858a841dc855d67b,"
+      "shadow.button-content-ghost": "S:661e31e690afbd7a91dc76f8858a841dc855d67b,",
+      "menu.bg.main": "S:56df31fcd0df78de5f6c5f26c3d056a174e4f7ca,"
     },
     "selectedTokenSets": {
       "VP": "enabled"

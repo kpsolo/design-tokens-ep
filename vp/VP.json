@@ -3608,8 +3608,8 @@
   },
   "menu": {
     "bg": {
-      "gradient": {
-        "value": "linear-gradient(180deg, #273145 0%, #364B6B 100%)",
+      "main": {
+        "value": "linear-gradient(180deg, #020532 0%, #181B49 100%)",
         "type": "color"
       },
       "item-default": {
@@ -3645,7 +3645,7 @@
         "description": "use for special notification in menu items"
       },
       "info": {
-        "value": "rgba(210, 229, 255, 0.10)",
+        "value": "#10175E",
         "type": "color",
         "description": "use as bg in menu info zone"
       }
