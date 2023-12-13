@@ -373,7 +373,6 @@
       "shadow.shine-accent": "S:34c2dd9b243d3fadc262202cf22a53ffe18931f0,",
       "shadow.text-2": "S:6b075ee48426b5d07342af55cfd1dafb70a223af,",
       "shadow.accent": "S:4f7f7f7333065e8afcfbbbfd50bc5e1c6827c354,",
-      "shadow.text-3": "S:661e31e690afbd7a91dc76f8858a841dc855d67b,",
       "shadow.text-4": "S:aa70286875ab7e8900606d12b6ae9e358b70f185,",
       "shadow.tips": "S:71b50ccecf2ee93a7f1e56f897a909d1049e2378,",
       "shadow.cashbox": "S:167b643640fea52015dab49d6001dcf4fafd3692,",
@@ -403,7 +402,8 @@
       "button.content.tertiary-hover": "S:9e2b8a9ba7de154867cc89bff96222af06f335d3,",
       "button.content.tertiary-pressed": "S:b9fbb17cd57e8364ff4d098ea0e1584fd357ad4a,",
       "button.content.ghost-hover": "S:b346e6e158b4b572029401d17701701331380173,",
-      "button.content.ghost-pressed": "S:89bb948a5994f92d6c0c5865a6dca674edd88801,"
+      "button.content.ghost-pressed": "S:89bb948a5994f92d6c0c5865a6dca674edd88801,",
+      "shadow.button-content-ghost": "S:661e31e690afbd7a91dc76f8858a841dc855d67b,"
     },
     "selectedTokenSets": {
       "VP": "enabled"
