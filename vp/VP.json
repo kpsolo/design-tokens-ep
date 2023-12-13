@@ -1025,6 +1025,24 @@
       "type": "border",
       "description": "Button border default"
     },
+    "thumb-default": {
+      "value": {
+        "color": "{small-elements.game.thumb-border-default}",
+        "style": "solid",
+        "width": "{border-width.thumb}"
+      },
+      "type": "border",
+      "description": "Thumb border default"
+    },
+    "thumb-tournament": {
+      "value": {
+        "color": "{small-elements.game.thumb-border-tournament}",
+        "style": "solid",
+        "width": "{border-width.thumb}"
+      },
+      "type": "border",
+      "description": "Thumb border tournament"
+    },
     "ghost-1": {
       "value": {
         "color": "{base.light}",
@@ -2242,6 +2260,21 @@
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
+      "thumb-border-default": {
+        "value": "linear-gradient(180deg, #4C72D7 0%, #1E2A90 100%)",
+        "type": "color",
+        "description": "Background border for thumb"
+      },
+      "thumb-default": {
+        "value": "#1E2A90",
+        "type": "color",
+        "description": "Background for thumb"
+      },
+      "thumb-border-tournament": {
+        "value": "linear-gradient(180deg, #E3C662 0%, #9F8600 100%)",
+        "type": "color",
+        "description": "Background border for thumb"
+      },
       "label-thumb-new": {
         "value": "linear-gradient(180deg, #1344D0 0%, #122795 100%)",
         "type": "color",
@@ -2855,6 +2888,10 @@
       "value": "1px",
       "type": "borderWidth",
       "description": "Border width for lines"
+    },
+    "thumb": {
+      "value": "2px",
+      "type": "borderWidth"
     }
   },
   "min-width": {

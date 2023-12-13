@@ -402,7 +402,12 @@
       "button.content.ghost-pressed": "S:89bb948a5994f92d6c0c5865a6dca674edd88801,",
       "shadow.button-content-ghost": "S:661e31e690afbd7a91dc76f8858a841dc855d67b,",
       "menu.bg.main": "S:56df31fcd0df78de5f6c5f26c3d056a174e4f7ca,",
-      "small-elements.game.logo-bg-default": "S:ed52f36454aa7414519a25b0d11f9f9dd75c689f,"
+      "small-elements.game.logo-bg-default": "S:ed52f36454aa7414519a25b0d11f9f9dd75c689f,",
+      "button.content.light-bg-hover": "S:f112e79319e6f5d833c7c9ca379e7f163bd4950f,",
+      "button.content.light-bg-pressed": "S:6d8fe37c2eaa43757f4eb3b7b75ca21504677d99,",
+      "small-elements.game.logo-bg-tournament": "S:67995bf5fce00450315dbce4dac12f8f2f74b8b8,",
+      "small-elements.game.thumb-border-default": "S:659968f4459fb7e0de575f1daae9181b9c7b76a9,",
+      "small-elements.game.thumb-border-tournament": "S:c27418463350f56c7f54ba249d3799c12ce5849d,"
     },
     "selectedTokenSets": {
       "VP": "enabled"
