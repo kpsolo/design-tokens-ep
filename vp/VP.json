@@ -1347,6 +1347,11 @@
       "type": "borderRadius",
       "description": "Radius for thumbs"
     },
+    "game-item-label": {
+      "value": "2px",
+      "type": "borderRadius",
+      "description": "Radius for labels on thumbs"
+    },
     "navbar": {
       "value": "12px",
       "type": "borderRadius",
@@ -2244,6 +2249,11 @@
         "value": "linear-gradient(180deg, #E3C662 0%, #9F8600 100%)",
         "type": "color",
         "description": "Background border for thumb"
+      },
+      "thumb-tournament": {
+        "value": "#9F8600",
+        "type": "color",
+        "description": "Background for thumb"
       },
       "label-thumb-new": {
         "value": "linear-gradient(180deg, #1344D0 0%, #122795 100%)",
