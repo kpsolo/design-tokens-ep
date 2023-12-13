@@ -1325,7 +1325,7 @@
       "description": "Radius for cards amd widgets"
     },
     "game-item": {
-      "value": "10px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for thumbs"
     },
@@ -1374,7 +1374,7 @@
       "description": "Use for inputs, dropdowns bg"
     },
     "game-item-mini": {
-      "value": "8px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for smallest game items"
     },
@@ -2232,18 +2232,23 @@
   },
   "small-elements": {
     "game": {
-      "provider-logo-bg": {
-        "value": "linear-gradient(0deg, rgba(17, 19, 39, 0.90) 0%, rgba(17, 19, 39, 0.60) 66.67%, rgba(15, 17, 34, 0.00) 100%)",
+      "logo-bg-default": {
+        "value": "linear-gradient(0deg, #1E2A90 0%, rgba(30, 42, 144, 0.60) 66.67%, rgba(30, 42, 144, 0.00) 100%)",
+        "type": "color",
+        "description": "Background for provider logo on game thumb"
+      },
+      "logo-bg-tournament": {
+        "value": "linear-gradient(0deg, #9F8600 0%, rgba(159, 134, 0, 0.60) 66.67%, rgba(159, 134, 0, 0.00) 100%)",
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
       "label-thumb-new": {
-        "value": "linear-gradient(180deg, #4B9DE8 0%, #416FB4 100%)",
+        "value": "linear-gradient(180deg, #1344D0 0%, #122795 100%)",
         "type": "color",
         "description": "Color for label thumb"
       },
       "label-thumb-top": {
-        "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+        "value": "linear-gradient(180deg, #F44 0%, #CB0404 100%)",
         "type": "color",
         "description": "Color for label thumb"
       },
@@ -2259,7 +2264,7 @@
             }
           }
         },
-        "description": "Color of counter on header of game block"
+        "description": "Color of counter on header of game block???"
       },
       "label-thumb-text": {
         "value": "{base.light}",
@@ -2388,7 +2393,7 @@
       "description": "Fade on tertiary backgrounds"
     },
     "sign": {
-      "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "star on game thumb"
     },

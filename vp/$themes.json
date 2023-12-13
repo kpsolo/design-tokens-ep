@@ -132,7 +132,6 @@
       "button.border.ghost": "S:1b31fe8321b04b81b04097645f55df5222006e2f,",
       "button.border.ghost-hover": "S:e9218a8d3b1a90f46a07208e231570b0bafd8a1c,",
       "button.border.ghost-pressed": "S:b1b4e167a2259defe51e9556e445713666ccd25a,",
-      "small-elements.game.provider-logo-bg": "S:ed52f36454aa7414519a25b0d11f9f9dd75c689f,",
       "small-elements.game.label-thumb-new": "S:513284041477100459c919c4f38509df8f03429d,",
       "small-elements.game.label-thumb-top": "S:e28403d4f7bde8b43a05e2f4f6db659ab476dfba,",
       "small-elements.game.counter-color": "S:a9c49eac9828f9a35cd850d746940ebba3929ccd,",
@@ -402,7 +401,8 @@
       "button.content.ghost-hover": "S:b346e6e158b4b572029401d17701701331380173,",
       "button.content.ghost-pressed": "S:89bb948a5994f92d6c0c5865a6dca674edd88801,",
       "shadow.button-content-ghost": "S:661e31e690afbd7a91dc76f8858a841dc855d67b,",
-      "menu.bg.main": "S:56df31fcd0df78de5f6c5f26c3d056a174e4f7ca,"
+      "menu.bg.main": "S:56df31fcd0df78de5f6c5f26c3d056a174e4f7ca,",
+      "small-elements.game.logo-bg-default": "S:ed52f36454aa7414519a25b0d11f9f9dd75c689f,"
     },
     "selectedTokenSets": {
       "VP": "enabled"
