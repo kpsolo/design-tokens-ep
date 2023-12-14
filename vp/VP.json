@@ -1509,7 +1509,7 @@
         "description": "Use for tooltip background"
       },
       "footer": {
-        "value": "#252D40",
+        "value": "#0F0E26",
         "type": "color",
         "description": "Background color for footer"
       },
@@ -1996,23 +1996,23 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "linear-gradient(180deg, rgba(60, 86, 125, 0.40) 0%, rgba(28, 33, 46, 0.40) 100%)",
+        "value": "rgba(30,89,169,0.2)",
         "type": "color",
         "description": "Use for tapbar on mainpage, strip"
       },
       "button": {
-        "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+        "value": "linear-gradient(180deg, #FFF 0%, #9DB3E5 100%)",
         "type": "color",
         "description": "use for buttton color on main tapbar"
       },
       "button-icon": {
-        "value": "linear-gradient(0deg, #B8DFE1 0.03%, #EBF2FC 58.33%, #EFF5FF 99.97%), #FFF",
+        "value": "linear-gradient(0deg, #3C567D 0.03%, #3C567D 58.33%, #1C212E 99.97%)",
         "type": "color",
         "description": "Color of icon on big button in tapbar"
       }
     },
     "menu-item-active": {
-      "value": "linear-gradient(355deg, #35B56F 0.53%, #B2FFAC 72.6%);",
+      "value": "#3075FF",
       "type": "color",
       "description": "color of active item (icon+text)"
     }
@@ -2429,12 +2429,12 @@
     },
     "badge": {
       "1": {
-        "value": "#B62D3E",
+        "value": "#CF0404",
         "type": "color",
         "description": "use for badge in main tapbar"
       },
       "2": {
-        "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+        "value": "#CF0404",
         "type": "color",
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
       }
