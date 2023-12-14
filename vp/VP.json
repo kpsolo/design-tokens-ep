@@ -667,7 +667,7 @@
       "type": "boxShadow",
       "description": "Shadow for primary button text"
     },
-    "thumb-text": {
+    "thumb-content": {
       "value": {
         "x": "0",
         "y": "1",
@@ -1658,7 +1658,7 @@
         "description": "social icons bg"
       },
       "3": {
-        "value": "{text.content}",
+        "value": "{content.content}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -1968,7 +1968,7 @@
       "description": "bg for now-live ticker"
     },
     "now-win-text": {
-      "value": "{text.light}",
+      "value": "{content.light}",
       "type": "color",
       "description": "text for now-live sticker"
     },
@@ -3160,7 +3160,7 @@
       }
     },
     "dropdown-content": {
-      "value": "{text.light}",
+      "value": "{content.light}",
       "type": "color",
       "description": "Color of text and icons for custom dropdown"
     },
@@ -3302,7 +3302,7 @@
       }
     }
   },
-  "text": {
+  "content": {
     "light": {
       "value": "{base.light}",
       "type": "color",
@@ -3396,7 +3396,7 @@
     },
     "opacity": {
       "1": {
-        "value": "{text.primary}",
+        "value": "{content.primary}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3410,7 +3410,7 @@
         "description": "footer seo header text, "
       },
       "2": {
-        "value": "{text.primary}",
+        "value": "{content.primary}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3424,7 +3424,7 @@
         "description": "footer seo text, prize in tournament/lottery list"
       },
       "3": {
-        "value": "{text.primary}",
+        "value": "{content.primary}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3437,7 +3437,7 @@
         }
       },
       "4": {
-        "value": "{text.primary}",
+        "value": "{content.primary}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
