@@ -407,7 +407,11 @@
       "content.opacity.light-2": "S:b2da9c0e7ebb5582b47c51185a5e7654ecba5ed5,",
       "content.title.main": "S:e24f7ee3004d5689b55d3920a42affd1d17ca6f6,",
       "content.title.accent": "S:96b97f03356553a0610894b2ca9459b7927e7221,",
-      "content.title.title-winner": "S:dfebb302e37ea138338e71ea69bdc0984bf02dc5,"
+      "content.title.title-winner": "S:dfebb302e37ea138338e71ea69bdc0984bf02dc5,",
+      "bg.other.banner-title": "S:6eb65c78fce507e820c44cc4dd58affdc26c1245,",
+      "small-elements.game.thumb-default": "S:a20a6ecf79a3c24e18df15a38fe1a35afbf98f67,",
+      "small-elements.game.thumb-tournament": "S:f83facb6fc5636c538e3dc4ece16f55c06feb55c,",
+      "shadow.thumb-content": "S:bd76ca7aa3650775cca7f4c2f9004ef93b036d25,"
     },
     "selectedTokenSets": {
       "VP": "enabled"

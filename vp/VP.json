@@ -478,12 +478,12 @@
     "title-3": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.4}",
-        "fontSize": "{font-size.extra-2}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "fontWeight": "500",
+        "lineHeight": "28px",
+        "fontSize": "22px",
+        "letterSpacing": "0",
+        "paragraphSpacing": "0",
+        "paragraphIndent": "0",
         "textCase": "{text-case.none}",
         "textDecoration": "{text-decoration.none}"
       },
@@ -1174,7 +1174,7 @@
     },
     "nav": {
       "value": {
-        "color": "rgba(255, 255, 255, 0.12)",
+        "color": "rgba(255, 255, 255, 0.1)",
         "width": "{border-width.nav}",
         "style": "solid"
       },
@@ -1365,7 +1365,7 @@
       "description": "Radius for labels on thumbs"
     },
     "navbar": {
-      "value": "12px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "use for navbar on main page"
     },
@@ -1494,7 +1494,7 @@
         "description": "for cashbox bonus popup content"
       },
       "promo": {
-        "value": "linear-gradient(130deg, #4865AB 0%, #000E2F 100%)",
+        "value": "linear-gradient(130deg, #463782 0%, #121746 100%)",
         "type": "color",
         "description": "Main banner background"
       },
@@ -1591,10 +1591,15 @@
         "value": "rgba(0,0,0, 0.5)",
         "type": "color",
         "description": "Bg for background popup on strip desktop"
+      },
+      "banner-title": {
+        "value": "rgba(3,4,26, 0.4)",
+        "type": "color",
+        "description": "Bg under title on banner"
       }
     },
     "gradient": {
-      "value": "linear-gradient(0deg, #090819 0%, #354CC3 100%)",
+      "value": "linear-gradient(0deg, rgba(9,8,25,0) 0%, #16225F 100%)",
       "type": "color",
       "description": "Gradient for bg"
     },
