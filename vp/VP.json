@@ -619,13 +619,13 @@
       "type": "boxShadow",
       "description": "Shadow for drop downs, modals,notifications"
     },
-    "button": {
+    "button-primary": {
       "value": {
         "x": "0",
-        "y": "2",
+        "y": "4",
         "blur": "0",
         "spread": "0",
-        "color": "rgba(0,0,0,0.4)",
+        "color": "#610000",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -1030,7 +1030,7 @@
   "border": {
     "button-default": {
       "value": {
-        "color": "{button.border.tertiary}",
+        "color": "{button.border.primary}",
         "style": "solid",
         "width": "{border-width.button}"
       },
@@ -1375,7 +1375,7 @@
       "description": "use for prize item in tournament/lotery page "
     },
     "button": {
-      "value": "0px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Radius for buttons"
     },
