@@ -1109,6 +1109,15 @@
       "type": "border",
       "description": "Thumb border tournament"
     },
+    "ghost": {
+      "value": {
+        "color": "{base.accent-primary}",
+        "width": "2",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "border on light bg"
+    },
     "ghost-1": {
       "value": {
         "color": "{base.light}",
@@ -2200,7 +2209,7 @@
         "description": "Text color on secondary button"
       },
       "light-bg": {
-        "value": "{button.content.ghost}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "Text color for buttons on light bg (notification)"
       },
