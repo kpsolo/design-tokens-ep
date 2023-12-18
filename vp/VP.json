@@ -1037,6 +1037,60 @@
       "type": "border",
       "description": "Button border default"
     },
+    "button-secondary": {
+      "value": {
+        "color": "{button.border.secondary}",
+        "style": "solid",
+        "width": "{border-width.button}"
+      },
+      "type": "border",
+      "description": "Button border default"
+    },
+    "button-tertiary": {
+      "value": {
+        "color": "{button.border.tertiary}",
+        "style": "solid",
+        "width": "{border-width.button}"
+      },
+      "type": "border",
+      "description": "Button border default"
+    },
+    "button-hover": {
+      "value": {
+        "color": "{button.border.button-hover}",
+        "style": "solid",
+        "width": "{border-width.button}"
+      },
+      "type": "border",
+      "description": "Button border hover"
+    },
+    "button-primary-pressed": {
+      "value": {
+        "color": "{button.border.primary-pressed}",
+        "style": "solid",
+        "width": "{border-width.button}"
+      },
+      "type": "border",
+      "description": "Button border pressed"
+    },
+    "button-secondary-pressed": {
+      "value": {
+        "color": "{button.border.secondary-pressed}",
+        "style": "solid",
+        "width": "{border-width.button}"
+      },
+      "type": "border",
+      "description": "Button border pressed"
+    },
+    "button-tertiary-pressed": {
+      "value": {
+        "color": "{button.border.tertiary-pressed}",
+        "style": "solid",
+        "width": "{border-width.button}"
+      },
+      "type": "border",
+      "description": "Button border pressed"
+    },
     "thumb-default": {
       "value": {
         "color": "{small-elements.game.thumb-border-default}",
@@ -1127,27 +1181,9 @@
       "type": "border",
       "description": "use for counter border in main menu badges"
     },
-    "button-hover": {
-      "value": {
-        "color": "{button.border.primary-hover}",
-        "style": "solid",
-        "width": "{border-width.button}"
-      },
-      "type": "border",
-      "description": "Button border hover"
-    },
-    "button-pressed": {
-      "value": {
-        "color": "{button.border.tertiary-pressed}",
-        "style": "solid",
-        "width": "{border-width.button}"
-      },
-      "type": "border",
-      "description": "Button border pressed"
-    },
     "button-disabled": {
       "value": {
-        "color": "{button.border.tertiary-disabled}",
+        "color": "{button.border.button-disabled}",
         "style": "solid",
         "width": "{border-width.button}"
       },
@@ -1156,7 +1192,7 @@
     },
     "button-disabled-additional": {
       "value": {
-        "color": "{button.border.tertiary-disabled}",
+        "color": "{button.border.button-disabled}",
         "style": "solid",
         "width": "2"
       },
@@ -2096,7 +2132,7 @@
         "type": "color",
         "description": "border color for buttons default"
       },
-      "primary-hover": {
+      "button-hover": {
         "value": "#FFF",
         "type": "color",
         "description": "border color for buttons hover"
@@ -2106,7 +2142,7 @@
         "type": "color",
         "description": "border color for buttons pressed"
       },
-      "primary-disabled": {
+      "button-disabled": {
         "value": "transparent",
         "type": "color",
         "description": "border color for buttons disabled"
@@ -2116,20 +2152,10 @@
         "type": "color",
         "description": "border color for buttons secondary"
       },
-      "secondary-hover": {
-        "value": "#fff",
-        "type": "color",
-        "description": "border color for buttons secondary hover"
-      },
       "secondary-pressed": {
         "value": "#043CCF",
         "type": "color",
         "description": "border color for buttons secondary pressed"
-      },
-      "secondary-disabled": {
-        "value": "transparent",
-        "type": "color",
-        "description": "border color for buttons secondary disabled"
       },
       "tertiary": {
         "value": "{base.light}",
@@ -2145,11 +2171,6 @@
         "value": "#fff",
         "type": "color",
         "description": "border color for buttons pressed"
-      },
-      "tertiary-disabled": {
-        "value": "rgba(255,255,255,0.6)",
-        "type": "color",
-        "description": "border color for buttons disabled"
       },
       "ghost": {
         "value": "#fff",

@@ -118,17 +118,12 @@
       "button.icon.tertiary-disabled": "S:8cf45287c6338c6c7eeea1259d220a2b3a436924,",
       "button.icon.ghost-disabled": "S:8351d33a46bb4730f934a11fd4a44751f5064b9d,",
       "button.border.primary": "S:746a81ee57d51dda9e491c2945995208c0abfe52,",
-      "button.border.primary-hover": "S:8ad1eef65579a9242b081138566a6c512238daa0,",
       "button.border.primary-pressed": "S:fffdbd5cb312d11267f6845098dad301c8ff6a6a,",
-      "button.border.primary-disabled": "S:c1ec4567f504172c0526099da3571f1b1a28fc10,",
       "button.border.secondary": "S:3e35812db643e5ef509a04ca6baa537a28de30bf,",
-      "button.border.secondary-hover": "S:44dc86dfbae315e383218ad36f0f267fb38c1b5f,",
       "button.border.secondary-pressed": "S:2d0858fa5984b105599d73363e5a293761543740,",
-      "button.border.secondary-disabled": "S:ec49130cbadf6e057a10d2a668a4a8cdc327d734,",
       "button.border.tertiary": "S:5e20b44e93559e345fe5a247690d58553579b42c,",
       "button.border.tertiary-hover": "S:c58d7cd0a937666ed23c55b651190dcdd3cc9bcd,",
       "button.border.tertiary-pressed": "S:f992f41c870a147fc1a3fd8643063888af36df84,",
-      "button.border.tertiary-disabled": "S:02c831115a4f8bc90d69390dc4776609dff091aa,",
       "button.border.ghost": "S:1b31fe8321b04b81b04097645f55df5222006e2f,",
       "button.border.ghost-hover": "S:e9218a8d3b1a90f46a07208e231570b0bafd8a1c,",
       "button.border.ghost-pressed": "S:b1b4e167a2259defe51e9556e445713666ccd25a,",
@@ -411,7 +406,9 @@
       "small-elements.game.thumb-default": "S:a20a6ecf79a3c24e18df15a38fe1a35afbf98f67,",
       "small-elements.game.thumb-tournament": "S:f83facb6fc5636c538e3dc4ece16f55c06feb55c,",
       "shadow.thumb-content": "S:bd76ca7aa3650775cca7f4c2f9004ef93b036d25,",
-      "shadow.button": "S:af0c34bdc6bf3b5f4f0ade602ed419f111c127e8,"
+      "shadow.button": "S:af0c34bdc6bf3b5f4f0ade602ed419f111c127e8,",
+      "button.border.button-hover": "S:8ad1eef65579a9242b081138566a6c512238daa0,",
+      "button.border.button-disabled": "S:c1ec4567f504172c0526099da3571f1b1a28fc10,"
     },
     "selectedTokenSets": {
       "VP": "enabled"
@@ -521,17 +518,12 @@
       "button.bg.app-pressed": "af524bdd8ee2879f1b4d61b7b3b5bed09d96f912",
       "button.bg.ghost": "a8e9eb0eb6484e7e4f949fb296e85f8c35814411",
       "button.border.primary": "140be1e8d8c39e4a559c30a06bee96e7635286a3",
-      "button.border.primary-hover": "30660f24e720ef65db3a7ae881c435bba1dc9912",
       "button.border.primary-pressed": "382b7d869e28a02d90ed82b2f9eb59b4794beba4",
-      "button.border.primary-disabled": "6d689d0b0da206d7b6757ceed72d2ee023329071",
       "button.border.secondary": "604e050b1bb18530dfd4491fafbbd52758e4e636",
-      "button.border.secondary-hover": "07a946efe1778744cc3e420e18825fe5053f202a",
       "button.border.secondary-pressed": "fbb29821857cf24a2d506dd708a77a2ac9fb653a",
-      "button.border.secondary-disabled": "5323952042b7556df4cbfcd8499018a4a4d5c277",
       "button.border.tertiary": "7007a61d89a44269a70d2cdec13147d13a0dccae",
       "button.border.tertiary-hover": "fba2fdcde4ed75aa99043bf2f95d9317bfe0f673",
       "button.border.tertiary-pressed": "77a0a36eef06df994847713c7e588753fb047740",
-      "button.border.tertiary-disabled": "a96cf4df7202444c9a56db533796b26af734cfac",
       "button.border.ghost": "315c685c07e80cbc7085216176b4ee142229b576",
       "button.border.ghost-hover": "bb7d7f02ce7613fdf222c940e98dc3af86ce3ebd",
       "button.border.ghost-pressed": "8b15c2fca24dbf2e4202eb66750b63d7b01a9183",
@@ -719,7 +711,9 @@
       "wheel.picker.bg-main-2-additional": "12c186115410d8060fb347b7da539074fb41ae41",
       "wheel.button.play": "ba77112179a58b0a2e5b3389383890991349c12e",
       "wheel.border.bottom": "d817908f80147b62d931acc566fe5a541250e92f",
-      "text-wrap.padding-fix": "d58af1fd325697b4e1844d143e2064a20bc9835b"
+      "text-wrap.padding-fix": "d58af1fd325697b4e1844d143e2064a20bc9835b",
+      "button.border.button-hover": "30660f24e720ef65db3a7ae881c435bba1dc9912",
+      "button.border.button-disabled": "6d689d0b0da206d7b6757ceed72d2ee023329071"
     }
   }
 ]
