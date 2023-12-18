@@ -619,13 +619,13 @@
       "type": "boxShadow",
       "description": "Shadow for drop downs, modals,notifications"
     },
-    "button-primary": {
+    "button": {
       "value": {
         "x": "0",
-        "y": "4",
+        "y": "2",
         "blur": "0",
         "spread": "0",
-        "color": "#610000",
+        "color": "rgba(0,0,0,0.4)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
