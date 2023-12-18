@@ -1028,7 +1028,7 @@
     }
   },
   "border": {
-    "button-default": {
+    "button-primary": {
       "value": {
         "color": "{button.border.primary}",
         "style": "solid",
