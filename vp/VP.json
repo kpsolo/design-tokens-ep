@@ -1129,7 +1129,7 @@
     },
     "button-hover": {
       "value": {
-        "color": "{button.border.tertiary-hover}",
+        "color": "{button.border.primary-hover}",
         "style": "solid",
         "width": "{border-width.button}"
       },
