@@ -1659,7 +1659,7 @@
       "description": "bg for menu, bottom sheets,dropdown"
     },
     "popup": {
-      "value": "#252D40",
+      "value": "linear-gradient(180deg, {nav.tab.start} 0%, {nav.tab.stop} 100%)",
       "type": "color",
       "description": "use for popups bg"
     },
