@@ -1409,7 +1409,7 @@
       "description": "Radius for cards amd widgets"
     },
     "game-item": {
-      "value": "4px",
+      "value": "6px",
       "type": "borderRadius",
       "description": "Radius for thumbs"
     },
