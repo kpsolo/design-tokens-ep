@@ -2062,7 +2062,7 @@
       }
     },
     "menu-item-active": {
-      "value": "#3075FF",
+      "value": "#fff",
       "type": "color",
       "description": "color of active item (icon+text)"
     }
