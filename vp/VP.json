@@ -2474,7 +2474,7 @@
     },
     "footer": {
       "crypto-up": {
-        "value": "linear-gradient(180deg, rgba(54, 62, 79, 0.60) 0%, rgba(54, 62, 79, 0.00) 100%)",
+        "value": "linear-gradient(180deg, rgba(54, 62, 79, 0.50) 0%, rgba(54, 62, 79, 0.00) 100%)",
         "type": "color",
         "description": "Background for crypto"
       },
@@ -2484,12 +2484,12 @@
         "description": "Background for crypto"
       },
       "navdots": {
-        "value": "#b3b3b3",
+        "value": "rgba(255,255,255,0.6)",
         "type": "color",
         "description": "navigation for crypto slider"
       },
       "bg-social": {
-        "value": "#1C212E",
+        "value": "#1d2332",
         "type": "color",
         "description": "for social icons bg"
       },
@@ -3367,7 +3367,7 @@
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
     "link": {
-      "value": "{base.accent-primary}",
+      "value": "#fff",
       "type": "color",
       "description": "also use for win tickets in lottery results"
     },
