@@ -1091,6 +1091,15 @@
       "type": "border",
       "description": "Button border pressed"
     },
+    "tab": {
+      "value": {
+        "color": "{button.border.ghost}",
+        "style": "solid",
+        "width": "{border-width.button}"
+      },
+      "type": "border",
+      "description": "Button border pressed"
+    },
     "thumb-default": {
       "value": {
         "color": "{small-elements.game.thumb-border-default}",
