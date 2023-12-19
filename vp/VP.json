@@ -559,6 +559,34 @@
       "type": "boxShadow",
       "description": "Shadow for sticky bar, modal for download app"
     },
+    "tab": {
+      "value": [
+        {
+          "color": "#fff",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "8",
+          "spread": "1"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "For tabs"
+    },
+    "tab-content": {
+      "value": [
+        {
+          "color": "{base.accent-primary}",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "4",
+          "spread": "4"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "For tabs"
+    },
     "card": {
       "value": {
         "x": "0",
@@ -1078,6 +1106,15 @@
       },
       "type": "border",
       "description": "Button border pressed"
+    },
+    "tab": {
+      "value": {
+        "color": "{button.border.ghost}",
+        "style": "solid",
+        "width": "{border-width.button}"
+      },
+      "type": "border",
+      "description": "border on tabs"
     },
     "thumb-default": {
       "value": {
