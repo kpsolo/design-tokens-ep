@@ -965,24 +965,8 @@
         "value": [
           {
             "x": "0",
-            "y": "-4",
+            "y": "-1",
             "blur": "16",
-            "spread": "",
-            "color": "rgba(255, 246, 0, 0.40)",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "-1",
-            "blur": "8",
-            "spread": "",
-            "color": "rgba(255, 246, 0, 0.40)",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "-1",
-            "blur": "6",
             "spread": "",
             "color": "rgba(255, 246, 0, 0.40)",
             "type": "dropShadow"
@@ -2067,12 +2051,12 @@
         "description": "Use for tapbar on mainpage, strip"
       },
       "button": {
-        "value": "linear-gradient(180deg, #FFF 0%, #9DB3E5 100%)",
+        "value": "linear-gradient(180deg, #043CCF 0%, #365DDE 49.99%, #1435A7 50%, #11218B 100%)",
         "type": "color",
         "description": "use for buttton color on main tapbar"
       },
       "button-icon": {
-        "value": "linear-gradient(0deg, #3C567D 0.03%, #3C567D 58.33%, #1C212E 99.97%)",
+        "value": "#fff",
         "type": "color",
         "description": "Color of icon on big button in tapbar"
       }
@@ -2681,7 +2665,7 @@
       "description": "For light icons on color background or picture- footer app buttons, icons on menu top part,header.collection cards, tournament/lottery inner card, messages picture"
     },
     "ghost-1": {
-      "value": "linear-gradient(180deg, #FFF 0%, #9BA1B1 100%)",
+      "value": "#c0c7da",
       "type": "color",
       "description": "for main icons in navbar"
     },
@@ -3032,7 +3016,7 @@
       "description": "Border-color for jackpot widgets"
     },
     "jackpot-border-2": {
-      "value": "rgba(178,172,0,0.46)",
+      "value": "rgba(178,172,0,0.2)",
       "type": "color",
       "description": "Border-color for jaclpot amount"
     },
@@ -3046,8 +3030,8 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "Bold",
         "lineHeight": "50px",
-        "fontSize": "50px",
-        "letterSpacing": "-10%",
+        "fontSize": "60px",
+        "letterSpacing": "-3%",
         "paragraphSpacing": "0",
         "paragraphIndent": "0",
         "textDecoration": "{text-decoration.none}",
@@ -3075,8 +3059,8 @@
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "Bold",
-        "lineHeight": "70px",
-        "fontSize": "64px",
+        "lineHeight": "64px",
+        "fontSize": "52px",
         "letterSpacing": "-5%",
         "paragraphSpacing": "0",
         "paragraphIndent": "0",
