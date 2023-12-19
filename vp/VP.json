@@ -625,23 +625,11 @@
         "y": "2",
         "blur": "0",
         "spread": "0",
-        "color": "rgba(0,0,0,0.3)",
+        "color": "rgba(0,0,0,0.1)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
       "description": "Shadow for primary button"
-    },
-    "button-secondary": {
-      "value": {
-        "x": "0",
-        "y": "4",
-        "blur": "0",
-        "spread": "0",
-        "color": "#000E69",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": "Shadow for button secondary"
     },
     "button-disabled": {
       "value": {
@@ -1682,7 +1670,6 @@
       "1": {
         "value": "rgba(163, 175, 255, 0.08)",
         "type": "color",
-        "$extensions": {},
         "description": "for static table headet"
       },
       "2": {
@@ -2377,7 +2364,6 @@
       "primary": {
         "value": "rgba(89, 93, 133, 0.20)",
         "type": "color",
-        "$extensions": {},
         "description": "border color for separating groups of table rows/colums,footer "
       },
       "item": {
@@ -2411,7 +2397,6 @@
       "secondary": {
         "value": "rgba(11, 15, 40, 0.80)",
         "type": "color",
-        "$extensions": {},
         "description": "use in mob registation tabs"
       }
     },
@@ -3361,7 +3346,6 @@
     "link-alternative": {
       "value": "#373ECE",
       "type": "color",
-      "$extensions": {},
       "description": "use for links on lighter bg (notifications), game page"
     },
     "accent": {
