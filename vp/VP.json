@@ -18,7 +18,7 @@
     "caption-extrasmall-strong": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "medium",
+        "fontWeight": "Bold",
         "lineHeight": "16px",
         "fontSize": "10px",
         "letterSpacing": "0",
@@ -47,7 +47,7 @@
     "caption-small": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "regular",
+        "fontWeight": "Regular",
         "lineHeight": "16px",
         "fontSize": "12px",
         "letterSpacing": "0",
@@ -62,7 +62,7 @@
     "caption-small-desktop": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "regular",
+        "fontWeight": "Regular",
         "lineHeight": "16px",
         "fontSize": "13px",
         "letterSpacing": "0",
@@ -77,7 +77,7 @@
     "caption-small-app": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "regular",
+        "fontWeight": "Regular",
         "lineHeight": "18px",
         "fontSize": "12px",
         "letterSpacing": "0",
@@ -92,7 +92,7 @@
     "caption-small-strong": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "medium",
+        "fontWeight": "Bold",
         "lineHeight": "18px",
         "fontSize": "12px",
         "letterSpacing": "0",
@@ -107,7 +107,7 @@
     "caption-small-stronger": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "bold",
+        "fontWeight": "Bold",
         "lineHeight": "18px",
         "fontSize": "12px",
         "letterSpacing": "0",
@@ -122,7 +122,7 @@
     "body-1": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "regular",
+        "fontWeight": "Regular",
         "lineHeight": "22px",
         "fontSize": "14px",
         "letterSpacing": "0",
@@ -137,7 +137,7 @@
     "body-1-cross": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "regular",
+        "fontWeight": "Regular",
         "lineHeight": "22px",
         "fontSize": "14px",
         "letterSpacing": "0",
@@ -152,7 +152,7 @@
     "body-1-stronger": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "bold",
+        "fontWeight": "Bold",
         "lineHeight": "22px",
         "fontSize": "14px",
         "letterSpacing": "0",
@@ -166,7 +166,7 @@
     "body-1-strong": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "medium",
+        "fontWeight": "Bold",
         "lineHeight": "22px",
         "fontSize": "14px",
         "letterSpacing": "0",
@@ -181,7 +181,7 @@
     "body-1-strong-cross": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "medium",
+        "fontWeight": "Bold",
         "lineHeight": "22px",
         "fontSize": "14px",
         "letterSpacing": "0",
@@ -195,7 +195,7 @@
     "button-text-sm": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "bold",
+        "fontWeight": "Bold",
         "lineHeight": "16px",
         "fontSize": "12px",
         "letterSpacing": "0",
@@ -209,7 +209,7 @@
     "link-s": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "regular",
+        "fontWeight": "Regular",
         "lineHeight": "18px",
         "fontSize": "12px",
         "letterSpacing": "0",
@@ -224,7 +224,7 @@
     "link-s-hover": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "regular",
+        "fontWeight": "Regular",
         "lineHeight": "18px",
         "fontSize": "12px",
         "letterSpacing": "0",
@@ -239,7 +239,7 @@
     "link-m": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "regular",
+        "fontWeight": "Regular",
         "lineHeight": "22px",
         "fontSize": "14px",
         "letterSpacing": "0",
@@ -254,7 +254,7 @@
     "link-m-hover": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "regular",
+        "fontWeight": "Regular",
         "lineHeight": "22px",
         "fontSize": "14px",
         "letterSpacing": "0",
@@ -269,7 +269,7 @@
     "button-text-app": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "medium",
+        "fontWeight": "Bold",
         "lineHeight": "14px",
         "fontSize": "12px",
         "letterSpacing": "0",
@@ -284,7 +284,7 @@
     "button-text-lg": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "bold",
+        "fontWeight": "Bold",
         "lineHeight": "24px",
         "fontSize": "18px",
         "letterSpacing": "0",
@@ -298,7 +298,7 @@
     "title-small": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "regular",
+        "fontWeight": "Regular",
         "lineHeight": "24px",
         "fontSize": "16px",
         "letterSpacing": "0",
@@ -313,7 +313,7 @@
     "title-small-strong": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "medium",
+        "fontWeight": "Bold",
         "lineHeight": "24px",
         "fontSize": "16px",
         "letterSpacing": "0",
@@ -328,7 +328,7 @@
     "title-tab": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "bold",
+        "fontWeight": "Bold",
         "lineHeight": "22px",
         "fontSize": "14px",
         "letterSpacing": "0",
@@ -343,7 +343,7 @@
     "title-small-stronger": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "bold",
+        "fontWeight": "Bold",
         "lineHeight": "24px",
         "fontSize": "16px",
         "letterSpacing": "0",
@@ -358,7 +358,7 @@
     "title-1-strong": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "medium",
+        "fontWeight": "Bold",
         "lineHeight": "32px",
         "fontSize": "24px",
         "letterSpacing": "0",
@@ -373,7 +373,7 @@
     "title-1-stronger": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "bold",
+        "fontWeight": "Bold",
         "lineHeight": "32px",
         "fontSize": "24px",
         "letterSpacing": "0",
@@ -388,7 +388,7 @@
     "title-2-strong": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "medium",
+        "fontWeight": "Bold",
         "lineHeight": "26px",
         "fontSize": "20px",
         "letterSpacing": "0",
@@ -403,7 +403,7 @@
     "title-1": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "medium",
+        "fontWeight": "Bold",
         "lineHeight": "32px",
         "fontSize": "24px",
         "letterSpacing": "0",
@@ -418,7 +418,7 @@
     "title-1-light": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "regular",
+        "fontWeight": "Regular",
         "lineHeight": "26px",
         "fontSize": "24px",
         "letterSpacing": "0",
@@ -433,7 +433,7 @@
     "menu-desktop": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "medium",
+        "fontWeight": "Bold",
         "lineHeight": "32px",
         "fontSize": "24px",
         "letterSpacing": "0",
@@ -448,7 +448,7 @@
     "display": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "bold",
+        "fontWeight": "Bold",
         "lineHeight": "32px",
         "fontSize": "26px",
         "letterSpacing": "0",
@@ -463,7 +463,7 @@
     "title-2": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "medium",
+        "fontWeight": "Bold",
         "lineHeight": "26px",
         "fontSize": "20px",
         "letterSpacing": "0",
@@ -478,7 +478,7 @@
     "title-3": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "500",
+        "fontWeight": "Bold",
         "lineHeight": "28px",
         "fontSize": "22px",
         "letterSpacing": "0",
@@ -493,7 +493,7 @@
     "title-2-light": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "regular",
+        "fontWeight": "Regular",
         "lineHeight": "26px",
         "fontSize": "20px",
         "letterSpacing": "0",
@@ -508,7 +508,7 @@
     "title-block": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "medium",
+        "fontWeight": "Bold",
         "lineHeight": "24px",
         "fontSize": "18px",
         "letterSpacing": "0",
@@ -523,7 +523,7 @@
     "notification-bubble": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "regular",
+        "fontWeight": "Regular",
         "lineHeight": "12px",
         "fontSize": "9px",
         "letterSpacing": "0",
@@ -3016,7 +3016,7 @@
     "jackpot-title": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "black",
+        "fontWeight": "Bold",
         "lineHeight": "50px",
         "fontSize": "50px",
         "letterSpacing": "-10%",
@@ -3031,7 +3031,7 @@
     "x-status": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "black",
+        "fontWeight": "Bold",
         "lineHeight": "16px",
         "fontSize": "13px",
         "letterSpacing": "0",
@@ -3046,7 +3046,7 @@
     "jackpot-amount": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "bold",
+        "fontWeight": "Bold",
         "lineHeight": "70px",
         "fontSize": "64px",
         "letterSpacing": "-5%",
@@ -3066,7 +3066,7 @@
     "jackpot-amount-desktop": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "bold",
+        "fontWeight": "Bold",
         "lineHeight": "44px",
         "fontSize": "38px",
         "letterSpacing": "0",
@@ -3081,7 +3081,7 @@
     "jackpot-amount-desktop-light": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "regular",
+        "fontWeight": "Bold",
         "lineHeight": "44px",
         "fontSize": "38px",
         "letterSpacing": "0",
@@ -3096,7 +3096,7 @@
     "404-500-large": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "bold",
+        "fontWeight": "Bold",
         "lineHeight": "250px",
         "fontSize": "280px",
         "letterSpacing": "0",
@@ -3111,7 +3111,7 @@
     "404-500-small": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "bold",
+        "fontWeight": "Bold",
         "lineHeight": "140px",
         "fontSize": "160px",
         "letterSpacing": "0",
@@ -3126,7 +3126,7 @@
     "referral-number": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "black",
+        "fontWeight": "Bold",
         "lineHeight": "60px",
         "fontSize": "52px",
         "letterSpacing": "0",
@@ -3171,7 +3171,7 @@
     "verification-title": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "bold",
+        "fontWeight": "Bold",
         "lineHeight": "20px",
         "fontSize": "11px",
         "letterSpacing": "0",
@@ -3185,7 +3185,7 @@
     "verification-card-num": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "bold",
+        "fontWeight": "Bold",
         "lineHeight": "8px",
         "fontSize": "6px",
         "letterSpacing": "0",
@@ -3199,7 +3199,7 @@
     "verification-card-text": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "regular",
+        "fontWeight": "Regular",
         "lineHeight": "6px",
         "fontSize": "4px",
         "letterSpacing": "0",
@@ -3213,7 +3213,7 @@
     "verification-passport-text": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "regular",
+        "fontWeight": "Regular",
         "lineHeight": "7px",
         "fontSize": "6px",
         "letterSpacing": "0",
