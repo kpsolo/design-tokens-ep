@@ -3030,12 +3030,6 @@
       "type": "textDecoration"
     }
   },
-  "paragraph-indent": {
-    "first-stroke-default": {
-      "value": "0px",
-      "type": "dimension"
-    }
-  },
   "special-blocks": {
     "jackpot-border": {
       "value": "#D2E5FF",
