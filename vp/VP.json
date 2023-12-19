@@ -742,10 +742,10 @@
     "button-content-ghost": {
       "value": {
         "x": "0",
-        "y": "2",
+        "y": "0",
         "blur": "0",
         "spread": "0",
-        "color": "rgba(0,0,0,0.25)",
+        "color": "rgba(0,0,0,0)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -1993,7 +1993,7 @@
       "description": "Bg for live icon"
     },
     "card-bg": {
-      "value": "linear-gradient(175deg, #4932D3 0.65%, #193D84 24.23%, #0B2853 77.42%, #1E2A90 96.99%)",
+      "value": "linear-gradient(180deg, #4932D3 0.65%, #1E2A90 96.99%)",
       "type": "color",
       "description": "Bg for card"
     },
@@ -2209,7 +2209,7 @@
         "description": "Text color on secondary button"
       },
       "light-bg": {
-        "value": "{base.accent-primary}",
+        "value": "#2D5EDF",
         "type": "color",
         "description": "Text color for buttons on light bg (notification)"
       },
