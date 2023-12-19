@@ -1903,12 +1903,12 @@
   "nav": {
     "tab": {
       "start": {
-        "value": "#252D40",
+        "value": "#131337",
         "type": "color",
         "description": "gradient on top for popups"
       },
       "stop": {
-        "value": "#252D40",
+        "value": "#0C0C27",
         "type": "color",
         "description": "gradient on bottom for popups"
       }
