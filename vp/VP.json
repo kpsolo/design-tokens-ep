@@ -625,23 +625,11 @@
         "y": "2",
         "blur": "0",
         "spread": "0",
-        "color": "rgba(0,0,0,0.3)",
+        "color": "rgba(0,0,0,0.1)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
       "description": "Shadow for primary button"
-    },
-    "button-secondary": {
-      "value": {
-        "x": "0",
-        "y": "4",
-        "blur": "0",
-        "spread": "0",
-        "color": "#000E69",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": "Shadow for button secondary"
     },
     "button-disabled": {
       "value": {
