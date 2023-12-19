@@ -48,7 +48,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "Regular",
-        "lineHeight": "16px",
+        "lineHeight": "18px",
         "fontSize": "12px",
         "letterSpacing": "0",
         "paragraphSpacing": "0",
@@ -2101,7 +2101,7 @@
         "description": "Background for primary pressed"
       },
       "primary-disabled": {
-        "value": "rgba(77,77,77,0.1)",
+        "value": "rgba(77,77,77,0.2)",
         "type": "color",
         "description": "Background for primary buttons disabled"
       },
@@ -2530,27 +2530,19 @@
     },
     "check-box": {
       "accent": {
-        "value": "#0046D1",
+        "value": "{base.accent-light}",
         "type": "color",
         "description": "use for check box border"
       },
       "fill": {
-        "value": "#0A0E2A",
+        "value": "#00437B",
         "type": "color",
         "description": "radio-button/check-box in lottery/shop cards desktop"
       },
       "default": {
-        "value": "{base.light}",
+        "value": "#0B63AD",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.16",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "use for border in default state"
       }
     },
@@ -3371,7 +3363,7 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "#BABCC2",
+      "value": "#c2c4cb",
       "type": "color",
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
@@ -3504,7 +3496,7 @@
     },
     "title": {
       "main": {
-        "value": "rgba(255, 255, 255, 0.90)",
+        "value": "rgba(255, 255, 255, 0.99)",
         "type": "color",
         "description": "for main headers"
       },
