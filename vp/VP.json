@@ -286,7 +286,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "Bold",
         "lineHeight": "24px",
-        "fontSize": "18px",
+        "fontSize": "16px",
         "letterSpacing": "0",
         "paragraphSpacing": "0",
         "paragraphIndent": "0",
@@ -983,6 +983,18 @@
             "blur": "36",
             "spread": "",
             "color": "#8DFCFD",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow",
+          "description": "use as wheel shaddow under main border"
+        },
+        "additional": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "8",
+            "spread": "0",
+            "color": "#FFFFFF",
             "type": "dropShadow"
           },
           "type": "boxShadow",
@@ -3640,7 +3652,7 @@
         "description": "use for rules text and denomination text"
       },
       "2": {
-        "value": "rgba(0, 0, 0, 0.90)",
+        "value": "rgba(11,13,36,0.9)",
         "type": "color",
         "description": "use for text in notification and popup"
       },
@@ -3650,7 +3662,7 @@
         "description": "use for text in denomination default buttons"
       },
       "4": {
-        "value": "#252D40",
+        "value": "#fff",
         "type": "color",
         "description": "use for text in denomination active buttons"
       },
@@ -3670,7 +3682,7 @@
         "description": "use as bg for popups and notification"
       },
       "2": {
-        "value": "linear-gradient(180deg, rgba(76, 121, 133, 0.90) 0%, rgba(74, 162, 186, 0.42) 52.99%, rgba(76, 121, 133, 0.67) 100%)",
+        "value": "linear-gradient(102deg, rgba(255, 255, 255, 0.05) 1.68%, rgba(255, 255, 255, 0.01) 100%)",
         "type": "color",
         "description": "use for denomination widget bg"
       },
@@ -3689,42 +3701,42 @@
         "description": "use for switcher default bg"
       },
       "4": {
-        "value": "#357B2F",
+        "value": "#FFF600",
         "type": "color",
         "description": "use for switcher active bg"
       },
       "sector-2": {
-        "value": "#9BA1B1",
+        "value": "#EAB007",
         "type": "color",
         "description": "use for sectors bg (type1) - start"
       },
       "sector-2-additional": {
-        "value": "#ffffff",
+        "value": "#ECB70B",
         "type": "color",
         "description": "use for sectors bg (type1) - stop"
       },
       "sector-3": {
-        "value": "#A80000",
+        "value": "#0FAFDD",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - start"
       },
       "sector-1": {
-        "value": "#3A9B84",
+        "value": "#6108CB",
         "type": "color",
         "description": "use for sectors bg (type1) - start "
       },
       "sector-1-additional": {
-        "value": "#5CD995",
+        "value": "#6B0CD0",
         "type": "color",
         "description": "use for sectors bg (type1) - stop"
       },
       "dots": {
-        "value": "#5AD4CD",
+        "value": "#464BBC",
         "type": "color",
         "description": "use for dots shine under wheel border"
       },
       "radial": {
-        "value": "radial-gradient(50% 50% at 50% 50%, rgba(141, 252, 253, 0.42) 0%, rgba(141, 252, 253, 0.00) 100%)",
+        "value": "radial-gradient(47.49% 47.49% at 50% 52.51%, rgba(91, 16, 95, 0.50) 0%, rgba(141, 21, 147, 0.00) 100%)",
         "type": "color",
         "description": "use for bg elipse on main bg under wheel"
       },
@@ -3739,7 +3751,7 @@
         "description": "use as bg for lines under wheel"
       },
       "sector-3-additional": {
-        "value": "#8DFCFD",
+        "value": "#26329C",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - stop"
       },
@@ -3820,26 +3832,18 @@
     },
     "tip": {
       "hover": {
-        "value": "#ffffff",
+        "value": "rgba(232, 238, 255, 0.08)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "use as bg for denominations bet item hover state"
       },
       "active": {
-        "value": "linear-gradient(180deg, #6EC6C7 0%, #B1FEFF 100%)",
+        "value": "#fff",
         "type": "color",
         "description": "use as bg for denominations bet item active state"
       },
       "inactive": {
-        "value": "rgba(128, 212, 213, 0.60)",
+        "value": "rgba(232, 238, 255, 0.08)",
         "type": "color",
         "description": "use as bg for denominations bet item active state"
       }
@@ -3898,7 +3902,7 @@
         "type": "color"
       },
       "bottom": {
-        "value": "#8DFCFD",
+        "value": "#9341F0",
         "type": "color",
         "description": "use as bg under wheel main border"
       }

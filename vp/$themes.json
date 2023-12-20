@@ -409,7 +409,8 @@
       "text.title.accent": "S:96b97f03356553a0610894b2ca9459b7927e7221,",
       "text.title.title-winner": "S:dfebb302e37ea138338e71ea69bdc0984bf02dc5,",
       "shadow.tab": "S:6e621b41a0d037f6d6398d3c0854f93217e343a2,",
-      "shadow.tab-content": "S:18cee1ca2c364fb7250a64433bcf2ea652dcc3a9,"
+      "shadow.tab-content": "S:18cee1ca2c364fb7250a64433bcf2ea652dcc3a9,",
+      "shadow.special-blocks.wheel.additional": "S:005071516684ea816e04879fa276cb34972684d7,"
     },
     "selectedTokenSets": {
       "VP": "enabled"
