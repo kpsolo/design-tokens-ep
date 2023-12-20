@@ -641,7 +641,7 @@
         "y": "4",
         "blur": "24",
         "spread": "0",
-        "color": "rgba(0, 0, 0, 0.20)",
+        "color": "rgba(0, 0, 0, 0.50)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -1419,7 +1419,7 @@
       "description": "Radius for labels on thumbs"
     },
     "navbar": {
-      "value": "4px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "use for navbar on main page"
     },
@@ -1439,7 +1439,7 @@
       "description": "Radius for counter"
     },
     "tap-bar": {
-      "value": "8px",
+      "value": "2px",
       "type": "borderRadius",
       "description": "Radius for tapbar"
     },
@@ -2051,7 +2051,7 @@
         "description": "Use for tapbar on mainpage, strip"
       },
       "button": {
-        "value": "linear-gradient(180deg, #043CCF 0%, #365DDE 49.99%, #1435A7 50%, #11218B 100%)",
+        "value": "linear-gradient(180deg, #FE0909 0%, #E75959 49.99%, #CF0404 50%, #B10000 100%)",
         "type": "color",
         "description": "use for buttton color on main tapbar"
       },
@@ -3151,7 +3151,7 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "#1C212E",
+      "value": "#1f2d84",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
