@@ -3800,17 +3800,17 @@
         "description": "use for navigation icons"
       },
       "1": {
-        "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%)",
+        "value": "linear-gradient(160deg, #4B8FF6 8.49%, #277AF7 91.51%)",
         "type": "color",
         "description": "use for icon respin in popup"
       },
       "2": {
-        "value": "#B51A1A",
+        "value": "#2579F7",
         "type": "color",
         "description": "use for present icon in popup"
       },
       "2-additional": {
-        "value": "#C22222",
+        "value": "#1E63CA",
         "type": "color",
         "description": "use for present icon in popup"
       }
@@ -3850,55 +3850,55 @@
     },
     "picker": {
       "bg-main": {
-        "value": "linear-gradient(90deg, #47515A 0%, #868E93 26.31%, #DCF7FD 50%, #868E93 75%, #47515A 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use as main bg on picker"
       },
       "bg-main-2-additional": {
-        "value": "#000",
+        "value": "transparent",
         "type": "color",
         "description": "use as bg for bigger circle"
       },
       "bg-shaddow": {
-        "value": "linear-gradient(174deg, rgba(255, 255, 255, 0.80) 6.36%, rgba(255, 255, 255, 0.00) 80.66%)",
+        "value": "transparent",
         "type": "color",
         "description": "use for shaddow over picker"
       },
       "bg-main-2": {
-        "value": "linear-gradient(180deg, #C12323 0%, #B62D3E 45.62%, #8DFCFD 100%), linear-gradient(180deg, #5CD995 0%, #3A9B84 100%), linear-gradient(108deg, #116B21 20.07%, #60BD61 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use as bg for circle"
       }
     },
     "button": {
       "bg-2": {
-        "value": "linear-gradient(174deg, rgba(255, 255, 255, 0.80) 6.36%, rgba(255, 255, 255, 0.00) 80.66%)",
+        "value": "transparent",
         "type": "color",
         "description": "use for shaddow under play triangle"
       },
       "play": {
-        "value": "#ffffffe6",
+        "value": "transparent",
         "type": "color",
         "description": "play triangle"
       },
       "bg-1": {
-        "value": "linear-gradient(180deg, #8DFCFD 0%, #B62D3E 45.62%, #750000 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use for bg on play button"
       },
       "bg-border-1": {
-        "value": "linear-gradient(180deg, #47515A 0%, #B6C6D4 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use as border for play button"
       }
     },
     "border": {
       "main": {
-        "value": "linear-gradient(90deg, #47515A 0%, #868E93 26.31%, #DCF7FD 50%, #868E93 75%, #47515A 100%)",
+        "value": "transparent",
         "type": "color"
       },
       "main-additional": {
-        "value": "linear-gradient(180deg, #47515A 6.83%, #868E93 29.42%, #DCF7FD 49.75%, #868E93 71.21%, #47515A 92.67%)",
+        "value": "transparent",
         "type": "color"
       },
       "bottom": {
