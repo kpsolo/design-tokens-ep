@@ -3501,7 +3501,7 @@
         "type": "color"
       },
       "item-default": {
-        "value": "{bg.top-surface}",
+        "value": "#020532",
         "type": "color",
         "description": "bg for menu\n\n(delete?)"
       },
@@ -3519,11 +3519,11 @@
         }
       },
       "item-active": {
-        "value": "#f0f9fe",
+        "value": "#0A184E",
         "type": "color"
       },
       "banner": {
-        "value": "linear-gradient(180deg, #273145 0%, #364B6B 100%)",
+        "value": "linear-gradient(180deg, #201F3B 0%, #353877 100%)",
         "type": "color",
         "description": "use for banner bg for unlogged "
       },
@@ -3539,7 +3539,7 @@
       }
     },
     "item-active-content": {
-      "value": "{navbar.menu-item-active}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     }
