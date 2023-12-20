@@ -1523,7 +1523,7 @@
     },
     "other": {
       "404": {
-        "value": "linear-gradient(180deg, #1D2E5B 0.06%, #5D6C97 99.97%)",
+        "value": "linear-gradient(180deg, #282570 0%, #040927 99.97%)",
         "type": "color",
         "description": "Bg for empty error pages"
       },
@@ -1668,7 +1668,7 @@
       "description": "bg for menu, bottom sheets,dropdown"
     },
     "popup": {
-      "value": "linear-gradient(180deg, #2E325D 0%, #0C0C27 100%)",
+      "value": "linear-gradient(180deg, #1B2666 0%, #0B0C23 100%)",
       "type": "color",
       "description": "use for popups bg"
     },
@@ -1700,7 +1700,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.10",
+              "value": "0.06",
               "space": "srgb"
             }
           }
@@ -2458,12 +2458,12 @@
     },
     "footer": {
       "crypto-up": {
-        "value": "linear-gradient(180deg, rgba(54, 62, 79, 0.50) 0%, rgba(54, 62, 79, 0.00) 100%)",
+        "value": "linear-gradient(180deg, rgba(30, 29, 52, 0.84) 0%, rgba(30, 29, 52, 0.34) 100%)",
         "type": "color",
         "description": "Background for crypto"
       },
       "crypto-down": {
-        "value": "linear-gradient(180deg, rgba(54, 62, 79, 0.60) 0%, rgba(54, 62, 79, 0.00) 100%)",
+        "value": "{small-elements.footer.crypto-up}",
         "type": "color",
         "description": "Background for crypto"
       },
@@ -2473,7 +2473,7 @@
         "description": "navigation for crypto slider"
       },
       "bg-social": {
-        "value": "#1d2332",
+        "value": "#161436",
         "type": "color",
         "description": "for social icons bg"
       },
@@ -2485,16 +2485,16 @@
       "dropdown": {
         "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
-        "description": "Background for payment dropdown element",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.2",
+              "value": "0.1",
               "space": "srgb"
             }
           }
-        }
+        },
+        "description": "Background for payment dropdown element"
       }
     },
     "label-new-1": {
@@ -2676,7 +2676,7 @@
     },
     "prize": {
       "1": {
-        "value": "#D2C25A",
+        "value": "#C5AD17",
         "type": "color",
         "description": "[delete?]"
       },
@@ -3378,7 +3378,7 @@
     },
     "prize": {
       "1": {
-        "value": "#D2C25A",
+        "value": "#DFC628",
         "type": "color",
         "description": "use for 1 prize in tournament/lottery winners list\n[delete?]"
       },
