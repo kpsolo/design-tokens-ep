@@ -1770,7 +1770,7 @@
         "description": "use for bg under status in menu top part"
       },
       "light-2": {
-        "value": "linear-gradient(180deg, #2B3344 0%, #141A27 100%)",
+        "value": "#01050b",
         "type": "color",
         "description": "use for progress bar bg "
       },
@@ -1946,7 +1946,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#090819",
+      "value": "#0C1337",
       "type": "color",
       "description": "main color for brand bgs"
     },
