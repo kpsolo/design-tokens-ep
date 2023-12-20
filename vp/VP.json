@@ -48,7 +48,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "Regular",
-        "lineHeight": "16px",
+        "lineHeight": "18px",
         "fontSize": "12px",
         "letterSpacing": "0",
         "paragraphSpacing": "0",
@@ -606,7 +606,7 @@
           "y": "1",
           "blur": "1",
           "spread": "0",
-          "color": "rgba(28, 41, 119, 0.60)",
+          "color": "rgba(255,255,255,0.08)",
           "type": "innerShadow"
         },
         {
@@ -614,7 +614,7 @@
           "y": "4",
           "blur": "8",
           "spread": "0",
-          "color": "rgba(9, 9, 27, 0.40)",
+          "color": "rgba(25, 30, 45, 0.40)",
           "type": "dropShadow"
         }
       ],
@@ -641,7 +641,7 @@
         "y": "4",
         "blur": "24",
         "spread": "0",
-        "color": "rgba(0, 0, 0, 0.20)",
+        "color": "rgba(0, 0, 0, 0.50)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -662,10 +662,10 @@
     "button-disabled": {
       "value": {
         "x": "0",
-        "y": "1",
-        "blur": "2",
+        "y": "0",
+        "blur": "0",
         "spread": "0",
-        "color": "#000000",
+        "color": "rgba(0,0,0,0)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -742,10 +742,10 @@
     "button-content-ghost": {
       "value": {
         "x": "0",
-        "y": "2",
+        "y": "0",
         "blur": "0",
         "spread": "0",
-        "color": "rgba(0,0,0,0.25)",
+        "color": "rgba(0,0,0,0)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -965,24 +965,8 @@
         "value": [
           {
             "x": "0",
-            "y": "-4",
+            "y": "-1",
             "blur": "16",
-            "spread": "",
-            "color": "rgba(255, 246, 0, 0.40)",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "-1",
-            "blur": "8",
-            "spread": "",
-            "color": "rgba(255, 246, 0, 0.40)",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "-1",
-            "blur": "6",
             "spread": "",
             "color": "rgba(255, 246, 0, 0.40)",
             "type": "dropShadow"
@@ -1435,7 +1419,7 @@
       "description": "Radius for labels on thumbs"
     },
     "navbar": {
-      "value": "4px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "use for navbar on main page"
     },
@@ -1455,7 +1439,7 @@
       "description": "Radius for counter"
     },
     "tap-bar": {
-      "value": "8px",
+      "value": "2px",
       "type": "borderRadius",
       "description": "Radius for tapbar"
     },
@@ -1539,7 +1523,7 @@
     },
     "other": {
       "404": {
-        "value": "linear-gradient(180deg, #282570 0%, #040927 99.97%)",
+        "value": "linear-gradient(180deg, #1D2E5B 0.06%, #5D6C97 99.97%)",
         "type": "color",
         "description": "Bg for empty error pages"
       },
@@ -1589,7 +1573,7 @@
         "description": "Background color for outside 1click zone "
       },
       "accent-on-light": {
-        "value": "#43B183",
+        "value": "#365DDE",
         "type": "color",
         "description": "use as accent on light bg - filter in cashdesk"
       },
@@ -2009,7 +1993,7 @@
       "description": "Bg for live icon"
     },
     "card-bg": {
-      "value": "linear-gradient(175deg, #4932D3 0.65%, #193D84 24.23%, #0B2853 77.42%, #1E2A90 96.99%)",
+      "value": "linear-gradient(180deg, #4932D3 0.65%, #1E2A90 96.99%)",
       "type": "color",
       "description": "Bg for card"
     },
@@ -2067,18 +2051,18 @@
         "description": "Use for tapbar on mainpage, strip"
       },
       "button": {
-        "value": "linear-gradient(180deg, #FFF 0%, #9DB3E5 100%)",
+        "value": "linear-gradient(180deg, #FE0909 0%, #E75959 49.99%, #CF0404 50%, #B10000 100%)",
         "type": "color",
         "description": "use for buttton color on main tapbar"
       },
       "button-icon": {
-        "value": "linear-gradient(0deg, #3C567D 0.03%, #3C567D 58.33%, #1C212E 99.97%)",
+        "value": "#fff",
         "type": "color",
         "description": "Color of icon on big button in tapbar"
       }
     },
     "menu-item-active": {
-      "value": "#3075FF",
+      "value": "#fff",
       "type": "color",
       "description": "color of active item (icon+text)"
     }
@@ -2101,7 +2085,7 @@
         "description": "Background for primary pressed"
       },
       "primary-disabled": {
-        "value": "rgba(77,77,77,0.1)",
+        "value": "rgba(77,77,77,0.2)",
         "type": "color",
         "description": "Background for primary buttons disabled"
       },
@@ -2225,7 +2209,7 @@
         "description": "Text color on secondary button"
       },
       "light-bg": {
-        "value": "{base.accent-primary}",
+        "value": "#2D5EDF",
         "type": "color",
         "description": "Text color for buttons on light bg (notification)"
       },
@@ -2270,7 +2254,7 @@
         "description": "color on ghost buttons hover"
       },
       "primary-disabled": {
-        "value": "rgba(255,255,255,0.4)",
+        "value": "rgba(255,255,255,0.7)",
         "type": "color",
         "description": "Text color on primary disabled button"
       },
@@ -2324,7 +2308,7 @@
         "description": "Background for thumb"
       },
       "label-thumb-new": {
-        "value": "linear-gradient(180deg, #1344D0 0%, #122795 100%)",
+        "value": "linear-gradient(180deg, #4C71D7 0%, #122795 100%)",
         "type": "color",
         "description": "Color for label thumb"
       },
@@ -2399,7 +2383,7 @@
     },
     "separator": {
       "primary": {
-        "value": "rgba(89, 93, 133, 0.10)",
+        "value": "rgba(89, 93, 133, 0.20)",
         "type": "color",
         "description": "border color for separating groups of table rows/colums,footer "
       },
@@ -2432,7 +2416,7 @@
         "description": "separator for dark bg (mob dropdown providers)"
       },
       "secondary": {
-        "value": "rgba(9, 13, 36, 0.80)",
+        "value": "rgba(11, 15, 40, 0.80)",
         "type": "color",
         "description": "use in mob registation tabs"
       }
@@ -2474,22 +2458,22 @@
     },
     "footer": {
       "crypto-up": {
-        "value": "linear-gradient(180deg, rgba(30, 29, 52, 0.84) 0%, rgba(30, 29, 52, 0.34) 100%)",
+        "value": "linear-gradient(180deg, rgba(54, 62, 79, 0.50) 0%, rgba(54, 62, 79, 0.00) 100%)",
         "type": "color",
         "description": "Background for crypto"
       },
       "crypto-down": {
-        "value": "{small-elements.footer.crypto-up}",
+        "value": "linear-gradient(180deg, rgba(54, 62, 79, 0.60) 0%, rgba(54, 62, 79, 0.00) 100%)",
         "type": "color",
         "description": "Background for crypto"
       },
       "navdots": {
-        "value": "#b3b3b3",
+        "value": "rgba(255,255,255,0.6)",
         "type": "color",
         "description": "navigation for crypto slider"
       },
       "bg-social": {
-        "value": "#161436",
+        "value": "#1d2332",
         "type": "color",
         "description": "for social icons bg"
       },
@@ -2501,20 +2485,20 @@
       "dropdown": {
         "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
+        "description": "Background for payment dropdown element",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.1",
+              "value": "0.2",
               "space": "srgb"
             }
           }
-        },
-        "description": "Background for payment dropdown element"
+        }
       }
     },
     "label-new-1": {
-      "value": "linear-gradient(180deg, #C26BA5 0%, #A05487 100%)",
+      "value": "{small-elements.desktop.tournament-counter}",
       "type": "color",
       "description": "use for label new in menu item"
     },
@@ -2530,27 +2514,18 @@
     },
     "check-box": {
       "accent": {
-        "value": "#0046D1",
+        "value": "{base.accent-light}",
         "type": "color",
         "description": "use for check box border"
       },
       "fill": {
-        "value": "#0A0E2A",
+        "value": "#00437B",
         "type": "color",
         "description": "radio-button/check-box in lottery/shop cards desktop"
       },
       "default": {
-        "value": "{base.light}",
+        "value": "#0B63AD",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.16",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for border in default state"
       }
     },
@@ -2587,7 +2562,7 @@
     },
     "up-button": {
       "accent": {
-        "value": "#2DD890",
+        "value": "{navbar.menu-item-active}",
         "type": "color",
         "description": "Accent icon and border on floating button"
       },
@@ -2624,7 +2599,7 @@
       "type": "color"
     },
     "slider-curret": {
-      "value": "{base.accent-primary}",
+      "value": "#fff",
       "type": "color",
       "description": "use for slider curret in mob main page"
     }
@@ -2690,7 +2665,7 @@
       "description": "For light icons on color background or picture- footer app buttons, icons on menu top part,header.collection cards, tournament/lottery inner card, messages picture"
     },
     "ghost-1": {
-      "value": "linear-gradient(180deg, #FFF 0%, #9BA1B1 100%)",
+      "value": "#c0c7da",
       "type": "color",
       "description": "for main icons in navbar"
     },
@@ -3041,7 +3016,7 @@
       "description": "Border-color for jackpot widgets"
     },
     "jackpot-border-2": {
-      "value": "rgba(178,172,0,0.46)",
+      "value": "rgba(178,172,0,0.2)",
       "type": "color",
       "description": "Border-color for jaclpot amount"
     },
@@ -3055,8 +3030,8 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "Bold",
         "lineHeight": "50px",
-        "fontSize": "50px",
-        "letterSpacing": "-10%",
+        "fontSize": "60px",
+        "letterSpacing": "-3%",
         "paragraphSpacing": "0",
         "paragraphIndent": "0",
         "textDecoration": "{text-decoration.none}",
@@ -3084,8 +3059,8 @@
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "Bold",
-        "lineHeight": "70px",
-        "fontSize": "64px",
+        "lineHeight": "64px",
+        "fontSize": "52px",
         "letterSpacing": "-5%",
         "paragraphSpacing": "0",
         "paragraphIndent": "0",
@@ -3176,7 +3151,7 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "#1C212E",
+      "value": "#1f2d84",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
@@ -3371,12 +3346,12 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "#BABCC2",
+      "value": "#c2c4cb",
       "type": "color",
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
     "link": {
-      "value": "{base.accent-primary}",
+      "value": "#fff",
       "type": "color",
       "description": "also use for win tickets in lottery results"
     },
@@ -3504,7 +3479,7 @@
     },
     "title": {
       "main": {
-        "value": "rgba(255, 255, 255, 0.90)",
+        "value": "rgba(255, 255, 255, 0.99)",
         "type": "color",
         "description": "for main headers"
       },
@@ -3544,7 +3519,7 @@
         }
       },
       "item-active": {
-        "value": "linear-gradient(0deg, rgba(45, 216, 144, 0.10) 0%, rgba(45, 216, 144, 0.10) 100%), #FFF;",
+        "value": "#f0f9fe",
         "type": "color"
       },
       "banner": {
@@ -3553,7 +3528,7 @@
         "description": "use for banner bg for unlogged "
       },
       "notification": {
-        "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+        "value": "linear-gradient(180deg, #043CCF 0%, #345BDD 47.92%, #1434A5 50.52%, #112590 100%);",
         "type": "color",
         "description": "use for special notification in menu items"
       },
@@ -3564,7 +3539,7 @@
       }
     },
     "item-active-content": {
-      "value": "{base.accent-primary}",
+      "value": "{navbar.menu-item-active}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     }
