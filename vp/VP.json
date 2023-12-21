@@ -606,7 +606,7 @@
           "y": "1",
           "blur": "1",
           "spread": "0",
-          "color": "rgba(255,255,255,0.08)",
+          "color": "#2C3887",
           "type": "innerShadow"
         },
         {
@@ -614,7 +614,7 @@
           "y": "4",
           "blur": "8",
           "spread": "0",
-          "color": "rgba(25, 30, 45, 0.40)",
+          "color": "rgba(12, 19, 38, 0.40)",
           "type": "dropShadow"
         }
       ],
@@ -1545,7 +1545,7 @@
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
       "cashbox-bonus": {
-        "value": "linear-gradient(110deg, #517AB0 1.8%, #255480 98.04%)",
+        "value": "linear-gradient(118deg, #464BBB 18.04%, #1C2976 82.33%)",
         "type": "color",
         "description": "for cashbox bonus popup"
       },
@@ -1665,12 +1665,12 @@
       }
     },
     "gradient": {
-      "value": "linear-gradient(0deg, rgba(9,8,25,0) 0%, #16225F 100%)",
+      "value": "linear-gradient(0deg, rgba(23, 34, 96, 0.00) 0%, #16225F 64.41%)",
       "type": "color",
       "description": "Gradient for bg"
     },
     "additional": {
-      "value": "#161C44",
+      "value": "#1A2252",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
@@ -1680,7 +1680,7 @@
       "description": "bg for menu, bottom sheets,dropdown"
     },
     "popup": {
-      "value": "linear-gradient(180deg, #1F2D7C 0%, #0E2B77 0.01%, #0E1A39 100%)",
+      "value": "linear-gradient(180deg, #1F2D7C 0%, #10123F 100%)",
       "type": "color",
       "description": "use for popups bg"
     },
@@ -1701,7 +1701,7 @@
     },
     "overlay": {
       "1": {
-        "value": "rgba(163, 175, 255, 0.08)",
+        "value": "rgba(163, 175, 255, 0.10)",
         "type": "color",
         "description": "for static table headet"
       },
@@ -1726,7 +1726,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.16",
+              "value": "0.10",
               "space": "srgb"
             }
           }
@@ -1813,12 +1813,12 @@
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "linear-gradient(0deg, rgba(20, 29, 83, 0.00) 0%, rgba(20, 29, 83, 0.47) 62.72%, #141D53 100%)",
+        "value": "linear-gradient(0deg, rgba(25, 38, 114, 0.00) 0%, rgba(25, 38, 114, 0.47) 62.72%, #192672 100%)",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
       "3": {
-        "value": "linear-gradient(180deg, rgba(9, 8, 25, 0.00) 0%, #090819 61.63%, #090819 100%)",
+        "value": "linear-gradient(180deg, rgba(12, 19, 55, 0.00) 0%, #0C1337 61.63%, #0C1337 100%)",
         "type": "color",
         "description": "use under link in messages\n\n[based on primary bg]"
       },
@@ -1920,7 +1920,7 @@
         "description": "gradient on top for popups"
       },
       "stop": {
-        "value": "#111442",
+        "value": "#10123F",
         "type": "color",
         "description": "gradient on bottom for popups"
       }
@@ -1933,7 +1933,7 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#FFF600",
+      "value": "#FFF602",
       "type": "color",
       "description": "Background for accent elements"
     },
@@ -1953,7 +1953,7 @@
       "description": "Darkest (black)"
     },
     "success": {
-      "value": "#00CF15",
+      "value": "#00CD15",
       "type": "color",
       "description": "Indication of success transactions"
     },
@@ -2000,57 +2000,57 @@
   },
   "live-lottery": {
     "live-tip": {
-      "value": "#cf3422",
+      "value": "transparent",
       "type": "color",
       "description": "Bg for live icon"
     },
     "card-bg": {
-      "value": "linear-gradient(180deg, #4932D3 0.65%, #1E2A90 96.99%)",
+      "value": "transparent",
       "type": "color",
       "description": "Bg for card"
     },
     "live-tip-text": {
-      "value": "{base.light}",
+      "value": "transparent",
       "type": "color",
       "description": "text for live icon"
     },
     "now-win-bg": {
-      "value": "#182141",
+      "value": "transparent",
       "type": "color",
       "description": "bg for now-live sticker"
     },
     "now-win-ticket": {
-      "value": "#A4BBC6",
+      "value": "transparent",
       "type": "color",
       "description": "bg for now-live ticker"
     },
     "now-win-ticket-text": {
-      "value": "#000",
+      "value": "transparent",
       "type": "color",
       "description": "bg for now-live ticker"
     },
     "now-win-text": {
-      "value": "{text.light}",
+      "value": "transparent",
       "type": "color",
       "description": "text for now-live sticker"
     },
     "timer-bg": {
-      "value": "linear-gradient(180deg, rgba(108, 164, 216, 0.81) 0%, rgba(92, 141, 187, 0.78) 31.25%, rgba(68, 123, 174, 0.85) 63.54%, rgba(82, 122, 160, 0.63) 100%)",
+      "value": "transparent",
       "type": "color",
       "description": "bg for timer"
     },
     "empty-ball": {
-      "value": "linear-gradient(180deg, rgba(86, 116, 160, 0.40) 0%, rgba(122, 136, 186, 0.40) 57.33%, rgba(119, 139, 187, 0.34) 91.08%, rgba(116, 162, 206, 0.40) 100%)",
+      "value": "transparent",
       "type": "color",
       "description": "bg for empty ball"
     },
     "place-label-text": {
-      "value": "#1C212E",
+      "value": "transparent",
       "type": "color",
       "description": "text on place label"
     },
     "place-label-bg": {
-      "value": "linear-gradient(180deg, #FFD37D 0%, #FFDB59 41.67%, #E1BB33 100%)",
+      "value": "transparent",
       "type": "color",
       "description": "bg on place label"
     }
@@ -2555,12 +2555,12 @@
     },
     "label": {
       "success": {
-        "value": "rgba(45, 216, 144, 0.4)",
+        "value": "rgba(0, 205, 21, 0.40)",
         "type": "color",
         "description": "use for success label in cashbox transactions"
       },
       "deny": {
-        "value": "rgba(182, 45, 62, 0.56)",
+        "value": "rgba(207, 4, 4, 0.50)",
         "type": "color",
         "description": "use for deny label in cashbox transactions"
       }
@@ -2584,7 +2584,7 @@
         "description": "Bg on hover on floating button"
       },
       "bg": {
-        "value": "#1C212E",
+        "value": "#151436",
         "type": "color",
         "description": "Bg on default on floating button"
       },
@@ -2647,7 +2647,7 @@
       "description": "Use for active icons"
     },
     "accent-additional": {
-      "value": "linear-gradient(180deg, #A3B9EA 0%, #5470CC 100%)",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "use for icons in categories mob\n"
     },
@@ -3174,7 +3174,7 @@
     },
     "referral": {
       "number": {
-        "value": "linear-gradient(153deg, #68ECE4 31.72%, #ED81EF 66.82%)",
+        "value": "transparent",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       }
@@ -3573,15 +3573,15 @@
   },
   "betting": {
     "surface": {
-      "value": "#0F1625",
+      "value": "transparent",
       "type": "color"
     },
     "card": {
-      "value": "#1C2233",
+      "value": "transparent",
       "type": "color"
     },
     "green": {
-      "value": "{base.success}",
+      "value": "transparent",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -3602,29 +3602,21 @@
       "type": "color"
     },
     "separator primary": {
-      "value": "#3B4253",
+      "value": "transparent",
       "type": "color"
     },
     "secondary": {
-      "value": "rgba(217, 217, 217, 0.08)",
+      "value": "transparent",
       "type": "color",
       "description": "cashout bg/ "
     },
     "hover card": {
-      "value": "#1C2233",
+      "value": "transparent",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.08",
-            "space": "srgb"
-          }
-        }
-      }
+      "$extensions": {}
     },
     "select card": {
-      "value": "#076DEA",
+      "value": "transparent",
       "type": "color"
     }
   },
@@ -3834,7 +3826,6 @@
       "hover": {
         "value": "rgba(232, 238, 255, 0.08)",
         "type": "color",
-        "$extensions": {},
         "description": "use as bg for denominations bet item hover state"
       },
       "active": {
