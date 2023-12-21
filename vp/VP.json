@@ -641,7 +641,7 @@
         "y": "4",
         "blur": "24",
         "spread": "0",
-        "color": "rgba(0, 0, 0, 0.50)",
+        "color": "rgba(0, 0, 0, 0.20)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -1529,7 +1529,7 @@
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
     "tertiary": {
-      "value": "#0E1A39",
+      "value": "#0A0E29",
       "type": "color",
       "description": "bg for element above primary/secondary bg (winning now zone, game empty thumb, player status)"
     },
@@ -1580,7 +1580,7 @@
         "description": "Background color for footer"
       },
       "1click": {
-        "value": "#FFF",
+        "value": "{bg.tertiary}",
         "type": "color",
         "description": "Background color for outside 1click zone "
       },
@@ -3163,7 +3163,7 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "#1f2d84",
+      "value": "#313D81",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
@@ -3311,12 +3311,12 @@
         "type": "color"
       },
       "top-desktop": {
-        "value": "#252D40",
+        "value": "#10123F",
         "type": "color",
         "description": "bg header on top for desktop"
       },
       "bottom-desktop": {
-        "value": "linear-gradient(180deg, #252D40 0%, rgba(37, 45, 64, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #10123F 0%, rgba(16, 18, 63, 0.00) 100%)",
         "type": "color",
         "description": "bg header on bottom menu for desktop"
       }
