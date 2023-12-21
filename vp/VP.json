@@ -1177,7 +1177,7 @@
     },
     "chips-active": {
       "value": {
-        "color": "#5079FF",
+        "color": "#C9D5FF",
         "width": "1",
         "style": "solid"
       },
@@ -1585,7 +1585,7 @@
         "description": "Background color for outside 1click zone "
       },
       "accent-on-light": {
-        "value": "#5079FF",
+        "value": "#C9D5FF",
         "type": "color",
         "description": "use as accent on light bg - filter in cashdesk"
       },
