@@ -2823,7 +2823,7 @@
           "studio.tokens": {
             "modify": {
               "type": "lighten",
-              "value": "0.2",
+              "value": "0.1",
               "space": "srgb"
             }
           }
@@ -2847,7 +2847,7 @@
           "studio.tokens": {
             "modify": {
               "type": "lighten",
-              "value": "0.6",
+              "value": "0.5",
               "space": "srgb"
             }
           }
@@ -3433,7 +3433,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.4",
+              "value": "0.5",
               "space": "srgb"
             }
           }
