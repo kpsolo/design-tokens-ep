@@ -2872,7 +2872,6 @@
       "disabled-label": {
         "value": "rgba(186, 188, 194, 0.80)",
         "type": "color",
-        "$extensions": {},
         "description": "use for text in confirmed field hint"
       }
     }
@@ -3523,7 +3522,7 @@
         }
       },
       "item-active": {
-        "value": "#0A184E",
+        "value": "rgba(255,255,255,0.04)",
         "type": "color"
       },
       "banner": {
