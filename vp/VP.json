@@ -621,6 +621,28 @@
       "type": "boxShadow",
       "description": "use for cards/popups inner shadow + dropshadow, "
     },
+    "card-additional-3": {
+      "value": [
+        {
+          "x": "0",
+          "y": "2",
+          "blur": "8",
+          "spread": "0",
+          "color": "rgba(255, 255, 255, 0.20)",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "4",
+          "blur": "8",
+          "spread": "0",
+          "color": "rgba(12, 19, 38, 0.40)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "use for cards/popups inner shadow + dropshadow, "
+    },
     "card-additional-2": {
       "value": [
         {
@@ -701,16 +723,16 @@
           "x": "0",
           "y": "0",
           "blur": "4",
-          "spread": "",
-          "color": "#2A8249",
+          "spread": "0",
+          "color": "#fff",
           "type": "dropShadow"
         },
         {
           "x": "0",
           "y": "0",
           "blur": "8",
-          "spread": "",
-          "color": "#2A8249",
+          "spread": "0",
+          "color": "#fff",
           "type": "dropShadow"
         }
       ],
@@ -723,16 +745,8 @@
           "x": "0",
           "y": "0",
           "blur": "4",
-          "spread": "",
-          "color": "#2A8249",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "8",
-          "spread": "",
-          "color": "#2A8249",
+          "spread": "0",
+          "color": "#fff",
           "type": "dropShadow"
         }
       ],
@@ -1121,6 +1135,15 @@
       "type": "border",
       "description": "Thumb border default"
     },
+    "thumb-default-desktop": {
+      "value": {
+        "color": "{small-elements.game.thumb-border-default-desktop}",
+        "style": "solid",
+        "width": "{border-width.thumb}"
+      },
+      "type": "border",
+      "description": "Thumb border default desktop"
+    },
     "thumb-tournament": {
       "value": {
         "color": "{small-elements.game.thumb-border-tournament}",
@@ -1416,7 +1439,7 @@
   },
   "radius": {
     "card": {
-      "value": "4px",
+      "value": "10px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     },
@@ -1590,7 +1613,7 @@
         "description": "use as accent on light bg - filter in cashdesk"
       },
       "sidebar-desktop": {
-        "value": "linear-gradient(180deg, #3C567D 0%, #1C212E 100%)",
+        "value": "linear-gradient(180deg, #202A67 0%, #2F386D 100%)",
         "type": "color",
         "description": "color for desktop sidebar"
       },
@@ -2304,10 +2327,20 @@
         "type": "color",
         "description": "Background border for thumb"
       },
+      "thumb-border-default-desktop": {
+        "value": "linear-gradient(180deg, #E1E7FF 0%, rgba(6, 16, 54, 0.57) 65.82%, #061036 100%)",
+        "type": "color",
+        "description": "Background border for thumb desktop"
+      },
       "thumb-default": {
         "value": "#1E2A90",
         "type": "color",
         "description": "Background for thumb"
+      },
+      "thumb-default-desktop": {
+        "value": "#050D29",
+        "type": "color",
+        "description": "Background for thumb desktop"
       },
       "thumb-border-tournament": {
         "value": "linear-gradient(180deg, #E3C662 0%, #9F8600 100%)",
