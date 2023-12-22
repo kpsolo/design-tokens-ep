@@ -1,7 +1,7 @@
 [
   {
     "id": "08866b038937914ce1430d1cd368882790c41a3b",
-    "name": "VP",
+    "name": "vp",
     "$figmaStyleReferences": {
       "bg.primary": "S:54bb6cde9f69e9982d7e746a8e6f57c021545097,",
       "bg.secondary": "S:d99e5e874394c9ed1490dd8cf01184f0cebfab19,",
@@ -413,7 +413,7 @@
       "shadow.special-blocks.wheel.additional": "S:005071516684ea816e04879fa276cb34972684d7,"
     },
     "selectedTokenSets": {
-      "VP": "enabled"
+      "vp.default": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:18883:1106561",
     "$figmaModeId": "18883:0",
