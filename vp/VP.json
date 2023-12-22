@@ -3545,6 +3545,11 @@
       "value": "{base.accent-primary}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
+    },
+    "subitem": {
+      "value": "#92BBDE",
+      "type": "color",
+      "description": "Menu sub item/ icon color"
     }
   },
   "max-width": {
