@@ -2633,17 +2633,8 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "linear-gradient( #0F0A0740 0%, #0B090740 100%)",
+        "value": "linear-gradient(90deg, rgba(15, 10, 7, 0.40) 0%, rgba(11, 9, 7, 0.40) 100%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Use for tapbar on mainpage, strip"
       },
       "button": {
