@@ -2483,10 +2483,6 @@
           "value": "rgba(69, 62, 60, 0.60)",
           "type": "color",
           "description": "bg for provider card"
-        },
-        "": {
-          "value": "#",
-          "type": "color"
         }
       },
       "border": {
@@ -3076,7 +3072,7 @@
         "description": "separator in filter provider item"
       },
       "basa": {
-        "value": "linear-gradient( #7D5233 0%, #EACA92 50%, #7D5233 100%)",
+        "value": "linear-gradient(#7D5233 0%, #EACA92 50%, #7D5233 100%)",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
