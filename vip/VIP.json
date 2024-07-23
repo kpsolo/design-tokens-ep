@@ -5913,13 +5913,5 @@
         "type": "color"
       }
     }
-  },
-  "notificatio": {
-    "value": "#",
-    "type": "color"
-  },
-  "notificatin": {
-    "value": "##FFE19A",
-    "type": "color"
   }
 }
