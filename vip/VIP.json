@@ -3074,7 +3074,6 @@
       "basa": {
         "value": "linear-gradient(90deg, #7D5233 0%, #EACA92 50%, #7D5233 100%)",
         "type": "color",
-        "$extensions": {},
         "description": "separator in filter provider item"
       }
     },
@@ -3606,7 +3605,6 @@
       "hover": {
         "value": "{base.dark} 0.16",
         "type": "color",
-        "$extensions": {},
         "description": "Hover background for input"
       }
     },
@@ -4620,15 +4618,7 @@
       "main": {
         "value": "linear-gradient(#352920 0%, #161113 100%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "use for navbar bg"
       },
       "additional": {
@@ -5875,14 +5865,6 @@
       "value": "24px",
       "type": "dimension",
       "description": "use for top padding in gameshall"
-    }
-  },
-  "This will change all layers that used the old token name": {
-    " This could take a while": {
-      "": {
-        "value": "#ff7a7a",
-        "type": "color"
-      }
     }
   }
 }
