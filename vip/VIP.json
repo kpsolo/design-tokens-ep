@@ -3606,15 +3606,7 @@
       "hover": {
         "value": "{base.dark} 0.16",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "Hover background for input"
       }
     },
