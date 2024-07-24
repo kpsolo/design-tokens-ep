@@ -2629,7 +2629,7 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "linear-gradient(90deg, rgba(15, 10, 7, 0.40) 0%, rgba(11, 9, 7, 0.40) 100%)",
+        "value": "rgba(15, 10, 7, 0.40)",
         "type": "color",
         "description": "Use for tapbar on mainpage, strip"
       },
