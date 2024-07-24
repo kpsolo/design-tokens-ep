@@ -4685,17 +4685,17 @@
         "type": "color"
       },
       "top-desktop": {
-        "value": "linear-gradient( #0F0A07 0%, #0B0907 100%)",
+        "value": "#0F0A07",
         "type": "color",
         "description": "bg header on top for desktop"
       },
       "bottom-desktop": {
-        "value": "{bg.gradient}",
+        "value": "linear-gradient(180deg, #0F0A07 0%, rgba(15, 10, 7, 0.00) 100%)",
         "type": "color",
         "description": "bg header on bottom menu for desktop"
       },
       "bottom-desktop-gradient": {
-        "value": "linear-gradient( #1D0D0D 0%, #1D0C0B00 100%)",
+        "value": "linear-gradient(180deg, #0F0A07 0%, rgba(15, 10, 7, 0.00) 100%)",
         "type": "color",
         "description": "bg header on bottom menu for desktop"
       }
