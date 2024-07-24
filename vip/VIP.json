@@ -2629,7 +2629,7 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "rgba(15, 10, 7, 0.40)",
+        "value": "rgba(15, 10, 7, 0.40)",
         "type": "color",
         "description": "Use for tapbar on mainpage, strip"
       },
