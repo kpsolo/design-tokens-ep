@@ -1886,7 +1886,7 @@
   },
   "bg": {
     "primary": {
-      "value": "linear-gradient( #0B0907 0%, #0B0907 100%)",
+      "value": "#0B0907",
       "type": "color",
       "description": "first level bg"
     },
