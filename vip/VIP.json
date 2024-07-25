@@ -2919,7 +2919,7 @@
         "description": "Color for label thumb"
       },
       "label-thumb-top": {
-        "value": "linear-gradient(342deg, #E7BB28 0%, #6A4A00 100%)",
+        "value": "linear-gradient(342deg, #6A4A00  0%, #E7BB28 100%)",
         "type": "color",
         "description": "Color for label thumb"
       },
@@ -2936,6 +2936,11 @@
           }
         },
         "description": "Color of counter on header of game block"
+      },
+      "label-thumb-tournament": {
+        "value": "linear-gradient(342deg, #6C0808  0%, #FD3B3B 100%)",
+        "type": "color",
+        "description": "[delete?]"
       },
       "label-thumb-text": {
         "value": "{base.accent-light}",
@@ -4618,7 +4623,6 @@
       "main": {
         "value": "linear-gradient(#352920 0%, #161113 100%)",
         "type": "color",
-        "$extensions": {},
         "description": "use for navbar bg"
       },
       "additional": {
