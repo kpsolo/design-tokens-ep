@@ -2378,7 +2378,7 @@
         "description": "use on bottom of popups\n[based on nav.tab.stop ]"
       },
       "9": {
-        "value": "{bg.overlay-gradient.3}",
+        "value": "linear-gradient(180deg, rgba(53, 39, 30, 0.00) 0%, #35271E 100%)",
         "type": "color",
         "description": "use on message page under bottom link "
       },
@@ -3478,7 +3478,7 @@
       "description": "Color for error icon"
     },
     "ghost-3": {
-      "value": "{base.accent-primary}",
+      "value": "{base.accent-light}",
       "type": "color",
       "description": "For light icons on color background or picture- footer app buttons, icons on menu top part,header.collection cards, tournament/lottery inner card, messages picture"
     },
