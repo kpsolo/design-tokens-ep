@@ -4287,7 +4287,7 @@
     },
     "referral": {
       "number": {
-        "value": "linear-gradient(153deg, #68ECE4 31.72%, #ED81EF 66.82%)",
+        "value": "linear-gradient(153deg, #FFCB66  0.00%, #6E400A 100%)",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
@@ -4297,12 +4297,12 @@
         "description": "use for numbers gradient in conditions"
       },
       "bg-dark": {
-        "value": "#292624",
+        "value": "rgba(41, 38, 36, 0.20)",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
       "bg-border-dark": {
-        "value": "#887468",
+        "value": "rgba(136, 116, 104, 1.00)",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
