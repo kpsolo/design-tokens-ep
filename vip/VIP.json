@@ -2147,7 +2147,7 @@
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
     "widget-disabled": {
-      "value": "linear-gradient(114deg, rgba(87, 87, 87, 0.60) 23.29%, rgba(28, 28, 28, 0.60) 98.01%)",
+      "value": "linear-gradient(114deg, rgba(87, 65, 52, 0.60) 23.29%, rgba(25, 16, 6, 0.60) 98.01%)",
       "type": "color",
       "description": "for past tournament,lottery"
     },
