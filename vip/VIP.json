@@ -2808,8 +2808,18 @@
         "type": "color",
         "description": "border color for buttons pressed"
       },
+      "primary-disabled": {
+        "value": "rgba(255,255,255,0.2)",
+        "type": "color",
+        "description": "border color for buttons disabled"
+      },
+      "secondary-disabled": {
+        "value": "rgba(255,255,255,0.2)",
+        "type": "color",
+        "description": "border color for buttons disabled"
+      },
       "tertiary-disabled": {
-        "value": "rgba(255,255,255,0.4)",
+        "value": "rgba(255,255,255,0.2)",
         "type": "color",
         "description": "border color for buttons disabled"
       },
