@@ -4197,7 +4197,7 @@
       "description": "For bg on filter dropdown and language dropdown"
     },
     "dropdown-custom-border": {
-      "value": "#FFE19A",
+      "value": "rgba(217, 217, 217, 0.16);",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
