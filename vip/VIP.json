@@ -3228,12 +3228,12 @@
       }
     },
     "label-new-1": {
-      "value": "{base.accent-secondary}",
+      "value": "linear-gradient(342deg, #530D03 0%, #DD940C 100%)",
       "type": "color",
       "description": "use for label new in menu item"
     },
     "label-new-1-text": {
-      "value": "{base.dark}",
+      "value": "{base.accent-light}",
       "type": "color",
       "description": "use for text of label new in menu item"
     },
@@ -5041,7 +5041,7 @@
         }
       },
       "item-active": {
-        "value": "#FFC56D",
+        "value": "#A1661F",
         "type": "color"
       },
       "banner": {
@@ -5050,7 +5050,7 @@
         "description": "use for banner bg for unlogged "
       },
       "notification": {
-        "value": "{base.accent-primary}",
+        "value": "#A1661F",
         "type": "color",
         "description": "use for special notification in menu items"
       },
@@ -5061,7 +5061,7 @@
       }
     },
     "item-active-content": {
-      "value": "{text.secondary}",
+      "value": "{base.accent-light}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
