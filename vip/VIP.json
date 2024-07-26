@@ -4153,12 +4153,17 @@
       "description": "for 404/500 "
     },
     "dropdown-custom": {
-      "value": "linear-gradient( #352920 0%, #161113 100%)",
+      "value": "#161113",
+      "type": "color",
+      "description": "For bg on filter dropdown and language dropdown"
+    },
+    "dropdown-custom-tooltip": {
+      "value": "#161113",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
     "dropdown-custom-border": {
-      "value": "rgba(255, 255, 255,  0.15)",
+      "value": "#FFE19A",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
