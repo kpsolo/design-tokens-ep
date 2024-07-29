@@ -2842,13 +2842,11 @@
       "tertiary-light-hover": {
         "value": "#FFDFA1",
         "type": "color",
-        "$extensions": {},
         "description": "border color for buttons hover"
       },
       "tertiary-light-pressed": {
         "value": "#A97F3B",
         "type": "color",
-        "$extensions": {},
         "description": "border color for buttons pressed"
       },
       "tertiary-light-disabled": {
@@ -3453,6 +3451,11 @@
       "description": "Color of warning icon"
     },
     "error": {
+      "value": "{base.error}",
+      "type": "color",
+      "description": "Color for error icon"
+    },
+    "strip": {
       "value": "{base.error}",
       "type": "color",
       "description": "Color for error icon"
