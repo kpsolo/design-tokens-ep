@@ -4281,12 +4281,12 @@
         "description": "use for numbers gradient in conditions"
       },
       "bg-dark": {
-        "value": "rgba(41, 38, 36, 0.20)",
+        "value": "rgba(41, 38, 36, 0.20)",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
       "bg-border-dark": {
-        "value": "rgba(136, 116, 104, 1.00)",
+        "value": "rgba(136, 116, 104, 1.00)",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
