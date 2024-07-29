@@ -2835,36 +2835,20 @@
         "description": "border color for ghost buttons pressed state (use in menu)"
       },
       "tertiary-light": {
-        "value": "{button.text.primary}",
+        "value": "#E1BC6E",
         "type": "color",
         "description": "border color for buttons default in cards"
       },
       "tertiary-light-hover": {
-        "value": "{button.border.tertiary-light}",
+        "value": "#FFDFA1",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "border color for buttons hover"
       },
       "tertiary-light-pressed": {
-        "value": "{button.text.tertiary-light}",
+        "value": "#A97F3B",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.7",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "border color for buttons pressed"
       },
       "tertiary-light-disabled": {
@@ -2920,7 +2904,7 @@
         "description": "Text color for buttons on light bg (notificstion)"
       },
       "tertiary-light": {
-        "value": "{button.text.primary}",
+        "value": "#FFE19A",
         "type": "color",
         "description": "color on tertiary buttons on cards"
       },
