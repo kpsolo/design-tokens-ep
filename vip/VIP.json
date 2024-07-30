@@ -1961,7 +1961,7 @@
         "description": "Use for tooltip background"
       },
       "footer": {
-        "value": "linear-gradient( #0F0A07 0%, #0B0907 100%)",
+        "value": "#0F0A07",
         "type": "color",
         "description": "Background color for footer"
       },
