@@ -3336,7 +3336,7 @@
     },
     "tournament": {
       "active-tab-content": {
-        "value": "{base.primary}",
+        "value": "{base.accent-secondary}",
         "type": "color",
         "description": "color of text and icon on active tab"
       }
