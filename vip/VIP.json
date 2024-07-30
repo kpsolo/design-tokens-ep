@@ -5024,7 +5024,7 @@
         }
       },
       "item-active": {
-        "value": "#A1661F",
+        "value": "#B18754",
         "type": "color"
       },
       "banner": {
@@ -5033,7 +5033,7 @@
         "description": "use for banner bg for unlogged "
       },
       "notification": {
-        "value": "#A1661F",
+        "value": "#EACCA9",
         "type": "color",
         "description": "use for special notification in menu items"
       },
