@@ -1420,7 +1420,7 @@
     },
     "wheel-denomination": {
       "value": {
-        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
+        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%)",
         "width": "1",
         "style": "solid"
       },
@@ -1429,7 +1429,7 @@
     },
     "achivements": {
       "value": {
-        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
+        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%)",
         "width": "1",
         "style": "solid"
       },
@@ -1526,7 +1526,7 @@
     },
     "dropdown": {
       "value": {
-        "color": "#DCE0EE",
+        "color": "rgba(217, 217, 217, 0.16);",
         "width": "1",
         "style": "solid"
       },
@@ -4419,7 +4419,7 @@
           "description": "for empty cards zone"
         },
         "empty-additional": {
-          "value": "linear-gradient(89deg, rgba(23, 35, 99, 0.87) 0.81%, rgba(27, 41, 112, 0.87) 63.22%, rgba(23, 33, 87, 0.00) 99.19%);",
+          "value": "linear-gradient(89deg, rgba(23, 35, 99, 0.87) 0.81%, rgba(27, 41, 112, 0.87) 63.22%, rgba(23, 33, 87, 0.00) 99.19%)",
           "type": "color",
           "description": "for empty cards zone / desktop"
         },
