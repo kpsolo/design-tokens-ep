@@ -2539,7 +2539,7 @@
         "description": "gradient on top for popups"
       },
       "stop": {
-        "value": "#222",
+        "value": "#161113",
         "type": "color",
         "description": "gradient on bottom for popups"
       }
