@@ -5227,7 +5227,7 @@
         "description": "use for sectors bg (type1)"
       },
       "sector-1": {
-        "value": "#360303",
+        "value": "linear-gradient(180deg, #352920 0.00%, #161113 100.00%)",
         "type": "color",
         "description": "use for sectors bg (type1)-start"
       },
