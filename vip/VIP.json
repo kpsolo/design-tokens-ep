@@ -2534,7 +2534,7 @@
   "nav": {
     "tab": {
       "start": {
-        "value": "#373737",
+        "value": "linear-gradient(0deg, #161113 0%, #352920 100%)",
         "type": "color",
         "description": "gradient on top for popups"
       },
@@ -5217,7 +5217,7 @@
         "description": "use for switcher default bg"
       },
       "4": {
-        "value": "#357B2F",
+        "value": "linear-gradient(180deg, #E3B776 0.04%, #C18360 94.00%)",
         "type": "color",
         "description": "use for switcher active bg"
       },
@@ -5242,7 +5242,7 @@
         "description": "use for borders in sectors"
       },
       "main": {
-        "value": "linear-gradient(180deg, #930101 0.06%, #2c0202 99.97%)",
+        "value": "linear-gradient(180deg, #473827 0.04%, #181505 94.00%)",
         "type": "color",
         "description": "use as bg on wheel popup"
       },
