@@ -5159,7 +5159,7 @@
         "description": "use for rules text and denomination text"
       },
       "2": {
-        "value": "#000000",
+        "value": "#ffffff",
         "type": "color",
         "description": "use for text in notification and popup"
       },
@@ -5184,22 +5184,14 @@
     },
     "bg": {
       "1": {
-        "value": "#ffffff",
+        "value": "linear-gradient(180deg, #845430 0.00%, #2A160E 100.00%)",
         "type": "color",
         "description": "use as bg for popups and notification"
       },
       "2": {
-        "value": "#ffffff",
+        "value": "rgba(52, 32, 27, 0.60) 100%",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "use for denomination widget bg"
       },
       "3": {
@@ -5307,7 +5299,7 @@
         "description": "use for navigation icons"
       },
       "1": {
-        "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%)",
+        "value": "linear-gradient(160deg, #E8AF40 0%, #735100 100%)",
         "type": "color",
         "description": "use for icon respin in popup"
       },
