@@ -5222,11 +5222,6 @@
         "type": "color",
         "description": "use for sectors bg (type1)-start"
       },
-      "dots": {
-        "value": "transparent",
-        "type": "color",
-        "description": "use for dots shine under wheel border"
-      },
       "border-sector": {
         "value": "transparent",
         "type": "color",
@@ -5236,11 +5231,6 @@
         "value": "linear-gradient(180deg, #3B271B 0.04%, #0D0703 94.00%)",
         "type": "color",
         "description": "use as bg on wheel popup"
-      },
-      "lines": {
-        "value": "transparent",
-        "type": "color",
-        "description": "use as bg for lines under wheel"
       },
       "sector-3": {
         "value": "#C78725",
@@ -5367,55 +5357,6 @@
         "value": "#ffffff99",
         "type": "color",
         "description": "use as bg for denominations bet item active state"
-      }
-    },
-    "picker": {
-      "bg-main": {
-        "value": "linear-gradient(343deg, #A46C15 3.09%, #F3B755 86.84%)",
-        "type": "color",
-        "description": "use as main bg on picker"
-      },
-      "bg-main-2-additional": {
-        "value": "linear-gradient(180deg, #530707 0%, #0F0101 100%)",
-        "type": "color",
-        "description": "use as bg for bigger circle"
-      },
-      "bg-shaddow": {
-        "value": "linear-gradient(174deg, #ffffff 6.36%, #ffffff00 80.66%)",
-        "type": "color",
-        "description": "use for shaddow over picker"
-      },
-      "bg-main-2": {
-        "value": "linear-gradient(153deg, #AA0606 21.12%, #7D0505 78.88%)",
-        "type": "color",
-        "description": "use as bg for picker in wheel "
-      },
-      "bg-main-2-extra": {
-        "value": "#8D0606",
-        "type": "color",
-        "description": "use as bg for picker in wheel icon in menu"
-      }
-    },
-    "button": {
-      "bg-2": {
-        "value": "linear-gradient(174deg, #ffffff 6.36%, #ffffff00 80.66%)",
-        "type": "color",
-        "description": "use for shaddow under play triangle"
-      },
-      "play": {
-        "value": "#ffffffe6",
-        "type": "color",
-        "description": "play triangle"
-      },
-      "bg-1": {
-        "value": "#170101",
-        "type": "color",
-        "description": "use for bg on play button on wheel icon in menu"
-      },
-      "bg-border-1": {
-        "value": "linear-gradient(-17deg, #a46c15 3.09%, #f3b755 86.84%)",
-        "type": "color",
-        "description": "use as border for play button"
       }
     },
     "border": {
