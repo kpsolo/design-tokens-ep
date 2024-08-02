@@ -5191,7 +5191,6 @@
       "2": {
         "value": "rgba(52, 32, 27, 0.60) 100%",
         "type": "color",
-        "$extensions": {},
         "description": "use for denomination widget bg"
       },
       "3": {
@@ -5234,7 +5233,7 @@
         "description": "use for borders in sectors"
       },
       "main": {
-        "value": "linear-gradient(180deg, #473827 0.04%, #181505 94.00%)",
+        "value": "linear-gradient(180deg, #3B271B 0.04%, #0D0703 94.00%)",
         "type": "color",
         "description": "use as bg on wheel popup"
       },
@@ -5360,7 +5359,7 @@
         "description": "use as bg for denominations bet item hover state"
       },
       "active": {
-        "value": "#ffffff",
+        "value": "linear-gradient(180deg, #FFE866 0%, #CFA83F 27%, #A77D1A 67%, #735100 100%)",
         "type": "color",
         "description": "use as bg for denominations bet item active state"
       },
@@ -5421,7 +5420,7 @@
     },
     "border": {
       "main": {
-        "value": "linear-gradient(59deg, #a76f18 15.01%, #c08a31 36.89%, #c78724 56.58%, #f0b24d 84.9%)",
+        "value": "linear-gradient(0deg, #755732 00%, #C6AB77 100%)",
         "type": "color"
       },
       "main-extra": {
