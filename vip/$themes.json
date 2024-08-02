@@ -1138,9 +1138,7 @@
       "typography.title-block-light": "S:e92679472f2badaf04a76a1478c73783f1352a50,",
       "bg.other.sidebar-desktop": "S:2f77000532060ffe00c022da2bd0da6d97b5119d,"
     },
-    "selectedTokenSets": {
-      "7slots.basari": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:30769:324457",
     "$figmaModeId": "30769:5",
     "$figmaVariableReferences": {
