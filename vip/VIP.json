@@ -5174,7 +5174,7 @@
         "description": "use for text in denomination active buttons"
       },
       "sector-1": {
-        "value": "#D9D9D9",
+        "value": "#ffffff",
         "type": "color"
       },
       "sector-2": {
@@ -5218,7 +5218,7 @@
         "description": "use for sectors bg (type1)"
       },
       "sector-1": {
-        "value": "linear-gradient(180deg, #352920 0.00%, #161113 100.00%)",
+        "value": "#352920",
         "type": "color",
         "description": "use for sectors bg (type1)-start"
       },
@@ -5233,17 +5233,17 @@
         "description": "use as bg on wheel popup"
       },
       "sector-3": {
-        "value": "#C78725",
+        "value": "#D2B68B",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - start"
       },
       "sector-3-additional": {
-        "value": "#970606",
+        "value": "#A66954",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - stop"
       },
       "sector-1-additional": {
-        "value": "#B70606",
+        "value": "#161113",
         "type": "color",
         "description": "use for sectors bg (type1) - stop"
       },
@@ -5361,6 +5361,14 @@
     },
     "border": {
       "main": {
+        "value": "linear-gradient(0deg, #755732 00%, #C6AB77 100%)",
+        "type": "color"
+      },
+      "popup": {
+        "value": "linear-gradient(0deg, #755732 00%, #C6AB77 100%)",
+        "type": "color"
+      },
+      "notification": {
         "value": "linear-gradient(0deg, #755732 00%, #C6AB77 100%)",
         "type": "color"
       },
