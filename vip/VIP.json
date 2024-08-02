@@ -4835,7 +4835,7 @@
       "type": "color"
     },
     "success": {
-      "value": "{base.success}",
+      "value": "#1FB137",
       "type": "color"
     },
     "warning": {
