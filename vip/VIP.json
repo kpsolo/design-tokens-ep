@@ -1562,7 +1562,7 @@
     },
     "search": {
       "value": {
-        "color": "transparent",
+        "color": "#FFD57C",
         "width": "1px",
         "style": "solid"
       },
