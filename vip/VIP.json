@@ -1438,7 +1438,7 @@
     },
     "nav-active": {
       "value": {
-        "color": "{base.accent-primary}",
+        "color": "{base.accent-light}",
         "width": "{border-width.nav}",
         "style": "solid"
       },
