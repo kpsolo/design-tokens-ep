@@ -2097,7 +2097,7 @@
         "description": "Background for search in desktop"
       },
       "search-border": {
-        "value": "linear-gradient(0deg, #CC8736 0%, #F7F1A6 100%)",
+        "value": "#FFD57C",
         "type": "color",
         "description": "Background for search in desktop"
       },
