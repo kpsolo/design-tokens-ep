@@ -2534,7 +2534,7 @@
   "nav": {
     "tab": {
       "start": {
-        "value": "linear-gradient(0deg, #161113 0%, #352920 100%)",
+        "value": "#352920",
         "type": "color",
         "description": "gradient on top for popups"
       },
