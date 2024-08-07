@@ -3401,15 +3401,15 @@
     }
   },
   "icon": {
-    "secondary": {
-      "value": "{base.dark}",
-      "type": "color",
-      "description": "menu, bottom sheet"
-    },
     "primary": {
       "value": "{base.accent-primary}",
       "type": "color",
       "description": "use for categories"
+    },
+    "secondary": {
+      "value": "{base.dark}",
+      "type": "color",
+      "description": "menu, bottom sheet"
     },
     "tertiary": {
       "value": "{base.dark}",
