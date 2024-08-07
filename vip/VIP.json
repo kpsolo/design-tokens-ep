@@ -2862,7 +2862,7 @@
         "description": "Text color on primary button"
       },
       "secondary": {
-        "value": "#000",
+        "value": "#fff",
         "type": "color",
         "description": "Text color on secondary button"
       },
@@ -3461,7 +3461,7 @@
       "description": "Color for error icon"
     },
     "ghost-3": {
-      "value": "{base.accent-light}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "For light icons on color background or picture- footer app buttons, icons on menu top part,header.collection cards, tournament/lottery inner card, messages picture"
     },
