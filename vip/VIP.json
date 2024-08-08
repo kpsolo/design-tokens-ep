@@ -2536,7 +2536,7 @@
       "start": {
         "value": "#352920",
         "type": "color",
-        "description": "gradient on top for popups"
+        "description": "gradient on top for popups [devs only]"
       },
       "stop": {
         "value": "#161113",
