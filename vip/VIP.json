@@ -2856,6 +2856,11 @@
       }
     },
     "text": {
+      "dark-bg": {
+        "value": "rgba(0, 0, 0, 0.80)",
+        "type": "color",
+        "description": "border color for ghost buttons (use in menu)"
+      },
       "primary": {
         "value": "#ffffff",
         "type": "color",
