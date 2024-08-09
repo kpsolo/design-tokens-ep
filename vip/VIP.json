@@ -4424,7 +4424,7 @@
           "description": "for empty cards zone"
         },
         "empty-additional": {
-          "value": "linear-gradient(89deg, rgba(23, 35, 99, 0.87) 0.81%, rgba(27, 41, 112, 0.87) 63.22%, rgba(23, 33, 87, 0.00) 99.19%)",
+          "value": "linear-gradient(180deg, rgba(34, 26, 24, 0.00) 0.00%, rgba(31, 24, 23, 1.00) 39%, rgba(26, 20, 20, 1.00) 100%)",
           "type": "color",
           "description": "for empty cards zone / desktop"
         },
@@ -4471,7 +4471,7 @@
           "description": "card first deposit bg in main screen"
         },
         "4": {
-          "value": "#1F3189",
+          "value": "linear-gradient( #3A2719 0%, #130B09 100%)",
           "type": "color",
           "description": "achivements card"
         },
