@@ -5194,7 +5194,7 @@
         "description": "use as bg for popups and notification"
       },
       "2": {
-        "value": "rgba(52, 32, 27, 0.60) 100%",
+        "value": "rgba(255, 255, 255, 0.10)",
         "type": "color",
         "description": "use for denomination widget bg"
       },
