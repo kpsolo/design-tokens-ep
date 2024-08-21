@@ -2902,7 +2902,7 @@
         "description": "Text color on ghost disabled button"
       },
       "light-bg": {
-        "value": "{button.text.secondary}",
+        "value": "{base.accent-dark}",
         "type": "color",
         "description": "Text color for buttons on light bg (notificstion)"
       },
