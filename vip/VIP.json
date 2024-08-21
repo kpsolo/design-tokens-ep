@@ -5365,6 +5365,11 @@
       }
     },
     "border": {
+      "2": {
+        "value": "linear-gradient(0deg, #ffffff0a 00%, #ffffff3a 100%)",
+        "type": "color",
+        "description": "use for denomination widget border "
+      },
       "main": {
         "value": "linear-gradient(0deg, #755732 00%, #C6AB77 100%)",
         "type": "color"
