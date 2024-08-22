@@ -4662,7 +4662,7 @@
         "description": "use for search bg in categories"
       },
       "extra": {
-        "value": "#CCCCCC",
+        "value": "rgba(255, 255, 255, 0.15)",
         "type": "color",
         "description": "use for search bg in categories"
       }
