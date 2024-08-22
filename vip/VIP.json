@@ -4204,7 +4204,7 @@
       "description": "Color of text and icons for custom dropdown"
     },
     "dropdown-content-active": {
-      "value": "{base.accent-primary}",
+      "value": "{base.accent-secondary}",
       "type": "color",
       "description": "Color of text and icons for custom dropdown"
     },
