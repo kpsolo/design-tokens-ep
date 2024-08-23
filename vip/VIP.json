@@ -1083,6 +1083,28 @@
           },
           "type": "boxShadow",
           "description": "use as wheel shaddow under main border"
+        },
+        "border-card": {
+          "value": [
+            {
+              "x": "0",
+              "y": "4",
+              "blur": "8",
+              "spread": "",
+              "color": "#151414aa4",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "1",
+              "blur": "1",
+              "spread": "0",
+              "color": "#93847B",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "description": "use as wheel shaddow under main border"
         }
       },
       "jackpot-amount": {
