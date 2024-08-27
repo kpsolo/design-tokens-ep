@@ -1824,7 +1824,7 @@
       "description": "use for elements with large radius ( button in footer, gold tickets in lottery)"
     },
     "badge": {
-      "value": "2",
+      "value": "24",
       "type": "borderRadius",
       "description": "use for lottery/badge"
     },
