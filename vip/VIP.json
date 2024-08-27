@@ -3744,7 +3744,7 @@
         "description": "use for text in error field hint"
       },
       "disabled-value": {
-        "value": "{base.accent-light}",
+        "value": "rgba(237, 237, 237, 0.60) 100%",
         "type": "color",
         "description": "use for text in disabled field "
       },
