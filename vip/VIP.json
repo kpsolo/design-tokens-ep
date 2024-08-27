@@ -3744,7 +3744,7 @@
         "description": "use for text in error field hint"
       },
       "disabled-value": {
-        "value": "{base.accent-dark}",
+        "value": "{base.accent-light}",
         "type": "color",
         "description": "use for text in disabled field "
       },
