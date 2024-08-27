@@ -2789,11 +2789,11 @@
     },
     "border": {
       "primary-default": {
-        "value": "linear-gradient(0deg, #CC8736 0%, #F7F1A6 100%)",
+        "value": "#E1BC6E",
         "type": "color"
       },
       "secondary-default": {
-        "value": "linear-gradient(0deg, #CC8736 0%, #F7F1A6 100%)",
+        "value": "#E1BC6E",
         "type": "color"
       },
       "tertiary-default": {
@@ -2806,12 +2806,12 @@
         "description": "border color for buttons default"
       },
       "primary-hover": {
-        "value": "linear-gradient(0deg, #FFC47E 0%, #FFFBC4 100%)",
+        "value": "#FFDFA1",
         "type": "color",
         "description": "border color for buttons hover"
       },
       "secondary-hover": {
-        "value": "linear-gradient(0deg, #FFC47E 0%, #FFFBC4 100%)",
+        "value": "#FFDFA1",
         "type": "color",
         "description": "border color for buttons hover"
       },
@@ -2821,12 +2821,12 @@
         "description": "border color for buttons hover"
       },
       "primary-pressed": {
-        "value": "linear-gradient(0deg, #8E591A 0%, #C3A45C 100%)",
+        "value": "#A97F3B",
         "type": "color",
         "description": "border color for buttons pressed"
       },
       "secondary-pressed": {
-        "value": "linear-gradient(0deg, #8E591A 0%, #C3A45C 100%)",
+        "value": "#A97F3B",
         "type": "color",
         "description": "border color for buttons pressed"
       },
