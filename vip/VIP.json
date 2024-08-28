@@ -2098,7 +2098,7 @@
         "description": "bg.other.lootboxes-cof-selected"
       },
       "categories-nav": {
-        "value": "linear-gradient( #161113 0%, #352920 100%)",
+        "value": "linear-gradient(0deg, #161113 0%, #352920 100%)",
         "type": "color",
         "description": "Baground foe categories on desktop"
       },
