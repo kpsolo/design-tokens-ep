@@ -2400,7 +2400,7 @@
         "description": "fade on pregame popup\n\n[based on base accent light]"
       },
       "8": {
-        "value": "linear-gradient(0deg, #161113 0%,#161113 56%,  rgba(22, 17, 19, 0) 100%)",
+        "value": "linear-gradient(0deg, #161113 0%, #161113 56%,  rgba(22, 17, 19, 0.00) 100%)",
         "type": "color",
         "description": "use on bottom of popups\n[based on nav.tab.stop ]"
       },
