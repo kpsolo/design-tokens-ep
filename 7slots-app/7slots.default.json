@@ -1952,7 +1952,7 @@
       "blur": "12",
       "spread": "0",
       "color": "rgba(0,0,0,0.5)",
-      "type": "innerShadow"
+      "type": "dropShadow"
     },
     "type": "boxShadow"
   },
@@ -1967,6 +1967,10 @@
     },
     "nav-bars": {
       "value": "16px",
+      "type": "dimension"
+    },
+    "story": {
+      "value": "8px",
       "type": "dimension"
     }
   },
