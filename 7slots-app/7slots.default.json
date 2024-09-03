@@ -1819,6 +1819,10 @@
     "value": "8",
     "type": "borderRadius"
   },
+  "button-s": {
+    "value": "4",
+    "type": "borderRadius"
+  },
   "min-width": {
     "button-m": {
       "value": "80",
