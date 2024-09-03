@@ -2135,9 +2135,5 @@
       "value": "72",
       "type": "spacing"
     }
-  },
-  "test_delete": {
-    "value": "5",
-    "type": "paragraphSpacing"
   }
 }
