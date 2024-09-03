@@ -1246,6 +1246,10 @@
           "value": "linear-gradient(135deg, #0094ff 0%, #00e0ff 100%)",
           "type": "color"
         },
+        "18": {
+          "value": "linear-gradient(-90deg, #4b8d9c 0%, #142f39 100%)",
+          "type": "color"
+        },
         "01": {
           "value": "linear-gradient(135deg, #09c6f9 0%, #045de9 100%)",
           "type": "color"
