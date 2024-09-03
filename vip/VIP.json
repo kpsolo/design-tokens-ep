@@ -5431,6 +5431,11 @@
         "value": "transparent",
         "type": "color",
         "description": "use as bg under wheel main border"
+      },
+      "tooltip": {
+        "value": "#cccccc",
+        "type": "color",
+        "description": "use as tooltip "
       }
     }
   },
