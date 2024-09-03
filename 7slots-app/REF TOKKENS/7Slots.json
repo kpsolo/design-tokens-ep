@@ -1,0 +1,2139 @@
+{
+  "base": {
+    "brand": {
+      "сore": {
+        "primary": {
+          "value": "linear-gradient(180deg, #5cd995 0%, #25a660 100%)",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "linear-gradient(180deg, #a4eac4 0%, #66c190 100%)",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "linear-gradient(180deg, #2e6d4b 0%, #135330 100%)",
+          "type": "color"
+        }
+      },
+      "auxiliary": {
+        "primary": {
+          "value": "linear-gradient(180deg, #5899ff 0%, #0368ff 100%)",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "linear-gradient(180deg, #8ab8ff 0%, #4f95ff 100%)",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "linear-gradient(180deg, #2c4d80 0%, #023480 100%)",
+          "type": "color"
+        }
+      }
+    },
+    "neutral": {
+      "on-dark": {
+        "primary": {
+          "100": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "200": {
+            "value": "#ffffffcc",
+            "type": "color"
+          },
+          "300": {
+            "value": "#ffffff99",
+            "type": "color"
+          },
+          "400": {
+            "value": "#ffffff4d",
+            "type": "color"
+          },
+          "500": {
+            "value": "#ffffff26",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "100": {
+            "value": "#b0c4dc",
+            "type": "color"
+          },
+          "200": {
+            "value": "#b0c4dcb3",
+            "type": "color"
+          },
+          "300": {
+            "value": "#b0c4dc99",
+            "type": "color"
+          },
+          "400": {
+            "value": "#b0c4dc4d",
+            "type": "color"
+          },
+          "500": {
+            "value": "#b0c4dc26",
+            "type": "color"
+          }
+        },
+        "tertiary": {
+          "100": {
+            "value": "#7d93ba",
+            "type": "color"
+          },
+          "200": {
+            "value": "#7d93bacc",
+            "type": "color"
+          },
+          "300": {
+            "value": "#7d93ba99",
+            "type": "color"
+          },
+          "400": {
+            "value": "#7d93ba4d",
+            "type": "color"
+          },
+          "500": {
+            "value": "#7d93ba26",
+            "type": "color"
+          }
+        }
+      },
+      "on-light": {
+        "primary": {
+          "100": {
+            "value": "#2f467c",
+            "type": "color"
+          },
+          "200": {
+            "value": "#2f467ccc",
+            "type": "color"
+          },
+          "300": {
+            "value": "#2f467c99",
+            "type": "color"
+          },
+          "400": {
+            "value": "#2f467c4d",
+            "type": "color"
+          },
+          "500": {
+            "value": "#2f467c26",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "100": {
+            "value": "#111e45",
+            "type": "color"
+          },
+          "200": {
+            "value": "#111e45cc",
+            "type": "color"
+          },
+          "300": {
+            "value": "#111e4599",
+            "type": "color"
+          },
+          "400": {
+            "value": "#111e454d",
+            "type": "color"
+          },
+          "500": {
+            "value": "#111e4526",
+            "type": "color"
+          }
+        },
+        "tertiary": {
+          "100": {
+            "value": "#070d1e",
+            "type": "color"
+          },
+          "200": {
+            "value": "#070d1ecc",
+            "type": "color"
+          },
+          "300": {
+            "value": "#070d1e99",
+            "type": "color"
+          },
+          "400": {
+            "value": "#070d1e4d",
+            "type": "color"
+          },
+          "500": {
+            "value": "#070d1e26",
+            "type": "color"
+          }
+        },
+        "muted": {
+          "100": {
+            "value": "#3e5586",
+            "type": "color"
+          },
+          "200": {
+            "value": "#3e5586cc",
+            "type": "color"
+          },
+          "300": {
+            "value": "#3e558699",
+            "type": "color"
+          },
+          "400": {
+            "value": "#3e55864d",
+            "type": "color"
+          },
+          "500": {
+            "value": "#3e558626",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "accent": {
+      "set-1": {
+        "Primary": {
+          "value": "#3380f3",
+          "type": "color"
+        },
+        "Secondary": {
+          "value": "#256ad1",
+          "type": "color"
+        },
+        "Tertiary": {
+          "value": "#1e57aa",
+          "type": "color"
+        }
+      },
+      "set-2": {
+        "Primary": {
+          "value": "#fff96b",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#fdbf30",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#574f0e",
+          "type": "color"
+        }
+      },
+      "set-3": {
+        "primary": {
+          "value": "#17cd6b",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#17cd6b80",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#17cd6b1a",
+          "type": "color"
+        }
+      },
+      "set-4": {
+        "primary": {
+          "value": "#ff1a51",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#ff1a5180",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#ff1a511a",
+          "type": "color"
+        }
+      },
+      "set-5": {
+        "primary": {
+          "value": "#ff7a1a",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#ff7a1a80",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#ff7a1a1a",
+          "type": "color"
+        }
+      }
+    },
+    "gradient": {
+      "neutral": {
+        "primary": {
+          "value": "linear-gradient(135deg, #6489ff80 0%, #6489ff4d 100%)",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "linear-gradient(135deg, #6489ff66 0%, #6489ff33 100%)",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "linear-gradient(135deg, #6489ff4d 0%, #6489ff1a 100%)",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "сomponent": {
+    "tab-bar": {
+      "background": {
+        "value": "#111e45cc",
+        "type": "color",
+        "description": "Used for the background of the tab bar container"
+      },
+      "buttons-main": {
+        "value": "linear-gradient(180deg, #5cd995 0%, #25a660 100%)",
+        "type": "color",
+        "description": "It is used for the background of the main button of the tab bar"
+      },
+      "text": {
+        "active": {
+          "value": "#2dd890",
+          "type": "color",
+          "description": "The color of the selected tab"
+        },
+        "inactive": {
+          "value": "#b0c4dc",
+          "type": "color",
+          "description": "Color of selected tab (used for text)"
+        },
+        "disabled": {
+          "value": "#b0c4dc99",
+          "type": "color",
+          "description": "Used for inactive tabs"
+        }
+      },
+      "icon": {
+        "main": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "It is used for the tab bar main button icon"
+        },
+        "inactive": {
+          "value": "#b0c4dc",
+          "type": "color",
+          "description": "Color of inactive tab (used for icon)"
+        },
+        "active": {
+          "value": "#2dd890",
+          "type": "color",
+          "description": "Color of selected tab (used for icon)"
+        },
+        "disabled": {
+          "value": "#b0c4dc99",
+          "type": "color",
+          "description": "Used for inactive tabs"
+        }
+      }
+    },
+    "button": {
+      "primary": {
+        "background": {
+          "enabled": {
+            "value": "linear-gradient(180deg, #5cd995 0%, #25a660 100%)",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0",
+                  "space": "lch"
+                }
+              }
+            },
+            "description": "The background of the enabled button"
+          },
+          "pressed": {
+            "value": "linear-gradient(180deg, #5cd995b3 0%, #25a660b3 100%)",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "disabled": {
+            "value": "linear-gradient(180deg, #5cd99580 0%, #25a66080 100%)",
+            "type": "color",
+            "description": "The background of the disabled button"
+          },
+          "loading": {
+            "value": "linear-gradient(180deg, #5cd995 0%, #25a660 100%)",
+            "type": "color",
+            "description": "The background of the loading button"
+          }
+        },
+        "text": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The text color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          }
+        },
+        "icon": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The icon color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "loading": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the loading button"
+          }
+        },
+        "border": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          },
+          "pressed": {
+            "value": "#25a66080",
+            "type": "color",
+            "description": "The border color of the pressed button"
+          },
+          "disabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the disabled button"
+          },
+          "loading": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the loading button"
+          }
+        }
+      },
+      "secondary": {
+        "background": {
+          "enabled": {
+            "value": "linear-gradient(180deg, #5899ff 0%, #0368ff 100%)",
+            "type": "color",
+            "description": "The background of the enabled button"
+          },
+          "pressed": {
+            "value": "linear-gradient(180deg, #5899ffb3 0%, #0368ffb3 100%)",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "disabled": {
+            "value": "linear-gradient(180deg, #5899ff80 0%, #0368ff80 100%)",
+            "type": "color",
+            "description": "The background of the disabled button"
+          },
+          "loading": {
+            "value": "linear-gradient(180deg, #5899ff 0%, #0368ff 100%)",
+            "type": "color",
+            "description": "The background of the loading button"
+          }
+        },
+        "text": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The text color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          }
+        },
+        "icon": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The icon color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "loading": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the loading button"
+          }
+        },
+        "border": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          },
+          "pressed": {
+            "value": "#0368ff80",
+            "type": "color",
+            "description": "The border color of the pressed button"
+          },
+          "disabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the disabled button"
+          },
+          "loading": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the loading button"
+          }
+        }
+      },
+      "tertiary": {
+        "background": {
+          "enabled": {
+            "value": "#294074",
+            "type": "color",
+            "description": "The background of the enabled button"
+          },
+          "pressed": {
+            "value": "#294074b3",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "disabled": {
+            "value": "#29407480",
+            "type": "color",
+            "description": "The background of the disabled button"
+          },
+          "loading": {
+            "value": "#294074",
+            "type": "color",
+            "description": "The background of the loading button"
+          }
+        },
+        "text": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The text color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          }
+        },
+        "icon": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The icon color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "loading": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the loading button"
+          }
+        },
+        "border": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          },
+          "pressed": {
+            "value": "#29407480",
+            "type": "color",
+            "description": "The border color of the pressed button"
+          },
+          "disabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the disabled button"
+          },
+          "loading": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the loading button"
+          }
+        }
+      },
+      "info": {
+        "background": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The background of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The background of the disabled button"
+          },
+          "loading": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The background of the loading button"
+          }
+        },
+        "text": {
+          "enabled": {
+            "value": "#0a132b",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "pressed": {
+            "value": "#0a132bcc",
+            "type": "color",
+            "description": "The text color of the pressed button"
+          },
+          "disabled": {
+            "value": "#0a132b80",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          }
+        },
+        "icon": {
+          "enabled": {
+            "value": "#0a132b",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          },
+          "pressed": {
+            "value": "#0a132bcc",
+            "type": "color",
+            "description": "The icon color of the pressed button"
+          },
+          "disabled": {
+            "value": "#0a132b80",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "loading": {
+            "value": "#0a132b",
+            "type": "color",
+            "description": "The icon color of the loading button"
+          }
+        },
+        "border": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The border color of the pressed button"
+          },
+          "disabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the disabled button"
+          },
+          "loading": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the loading button"
+          }
+        }
+      },
+      "outlined": {
+        "text": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The text color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          }
+        },
+        "icon": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The icon color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "loading": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the loading button"
+          }
+        },
+        "border": {
+          "enabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The border color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color"
+          },
+          "loading": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The border color of the loading button"
+          }
+        },
+        "background": {
+          "enabled": {
+            "value": "transparent",
+            "type": "color",
+            "description": "The background of the enabled button"
+          },
+          "pressed": {
+            "value": "transparent",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "disabled": {
+            "value": "transparent",
+            "type": "color",
+            "description": "The background of the disabled button"
+          },
+          "loading": {
+            "value": "transparent",
+            "type": "color",
+            "description": "The background of the loading button"
+          }
+        }
+      },
+      "text": {
+        "background": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The background of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffff1a",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "disabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The background of the disabled button"
+          },
+          "loading": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The background of the loading button"
+          }
+        },
+        "text": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The text color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          }
+        },
+        "icon": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The icon color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "loading": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the loading button"
+          }
+        },
+        "border": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The border color of the pressed button"
+          },
+          "disabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the disabled button"
+          },
+          "loading": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the loading button"
+          }
+        }
+      },
+      "danger": {
+        "background": {
+          "enabled": {
+            "value": "#ff1a51",
+            "type": "color",
+            "description": "The background of the enabled button"
+          },
+          "pressed": {
+            "value": "#ff1a51cc",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "disabled": {
+            "value": "#ff1a5180",
+            "type": "color",
+            "description": "The background of the disabled button"
+          },
+          "loading": {
+            "value": "#ff1a51",
+            "type": "color",
+            "description": "The background of the loading button"
+          }
+        },
+        "text": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The text color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          }
+        },
+        "icon": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The icon color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "loading": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the loading button"
+          }
+        },
+        "border": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ff1a5180",
+            "type": "color",
+            "description": "The border color of the pressed button"
+          },
+          "disabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the disabled button"
+          },
+          "loading": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the loading button"
+          }
+        }
+      }
+    },
+    "text": {
+      "on-light": {
+        "primary": {
+          "value": "{base.neutral.on-light.tertiary.100}",
+          "type": "color",
+          "description": "Color for headers"
+        },
+        "secondary": {
+          "value": "{base.neutral.on-light.secondary.300}",
+          "type": "color",
+          "description": "Color for descriptions and subtitles"
+        },
+        "tertiary": {
+          "value": "{base.neutral.on-light.tertiary.400}",
+          "type": "color",
+          "description": "Color for third line information"
+        }
+      },
+      "on-dark": {
+        "primary": {
+          "value": "{base.neutral.on-dark.primary.100}",
+          "type": "color",
+          "description": "Color for headers"
+        },
+        "secondary": {
+          "value": "{base.neutral.on-dark.secondary.100}",
+          "type": "color",
+          "description": "Color for descriptions and subtitles"
+        },
+        "tertiary": {
+          "value": "{base.neutral.on-dark.tertiary.200}",
+          "type": "color",
+          "description": "Color for third line information"
+        }
+      },
+      "error": {
+        "value": "{base.accent.set-4.primary}",
+        "type": "color",
+        "description": "Color for the error title and description"
+      },
+      "success": {
+        "value": "{base.accent.set-3.primary}",
+        "type": "color",
+        "description": "Color for the confirmation header and description"
+      },
+      "warning": {
+        "value": "{base.accent.set-5.primary}",
+        "type": "color",
+        "description": "Color for the warning header and description"
+      },
+      "prize": {
+        "value": "{base.accent.set-2.Primary}",
+        "type": "color",
+        "description": "Color for highlighting prizes and the amount of balances and free spins"
+      },
+      "brand": {
+        "value": "{base.brand.сore.primary}",
+        "type": "color"
+      },
+      "auxiliary": {
+        "value": "{base.brand.auxiliary.primary}",
+        "type": "color"
+      },
+      "link": {
+        "value": "{base.accent.set-1.Primary}",
+        "type": "color",
+        "description": "Color of the link"
+      }
+    },
+    "icon": {
+      "on-dark": {
+        "primary": {
+          "value": "{base.neutral.on-dark.primary.100}",
+          "type": "color",
+          "description": "Used for the active icon"
+        },
+        "secondary": {
+          "value": "{base.neutral.on-dark.secondary.100}",
+          "type": "color",
+          "description": "used for a secondary icon"
+        },
+        "tertiary": {
+          "value": "{base.neutral.on-dark.primary.400}",
+          "type": "color",
+          "description": "Used for a disabled icon"
+        }
+      },
+      "on-light": {
+        "primary": {
+          "value": "{base.neutral.on-light.tertiary.100}",
+          "type": "color",
+          "description": "Used for the active icon"
+        },
+        "secondary": {
+          "value": "{base.neutral.on-light.primary.100}",
+          "type": "color",
+          "description": "used for a secondary icon"
+        },
+        "tertiary": {
+          "value": "{base.neutral.on-light.tertiary.400}",
+          "type": "color",
+          "description": "Used for a disabled icon"
+        }
+      },
+      "brand": {
+        "value": "{base.brand.сore.primary}",
+        "type": "color"
+      },
+      "auxiliary": {
+        "value": "{base.brand.auxiliary.primary}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{base.accent.set-4.primary}",
+        "type": "color",
+        "description": "Used for an error icon or badge"
+      },
+      "success": {
+        "value": "{base.accent.set-3.primary}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{base.accent.set-5.primary}",
+        "type": "color"
+      },
+      "favorite": {
+        "value": "{base.accent.set-2.secondary}",
+        "type": "color",
+        "description": "Used for the favorites icon"
+      }
+    },
+    "background": {
+      "primary": {
+        "value": "{base.neutral.on-light.secondary.100}",
+        "type": "color",
+        "description": "Used as the main one for screens"
+      },
+      "secondary": {
+        "value": "{base.neutral.on-light.primary.100}",
+        "type": "color",
+        "description": "Used for dropdowns and popups"
+      },
+      "tertiary": {
+        "value": "{base.neutral.on-light.muted.100}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{base.neutral.on-dark.primary.100}",
+        "type": "color",
+        "description": "used for the timer"
+      },
+      "gradient-1": {
+        "value": "{base.gradient.neutral.tertiary}",
+        "type": "color"
+      },
+      "gradient-2": {
+        "value": "{base.gradient.neutral.secondary}",
+        "type": "color"
+      },
+      "gradient-3": {
+        "value": "{base.gradient.neutral.primary}",
+        "type": "color"
+      },
+      "auxiliary": {
+        "value": "{base.brand.auxiliary.primary}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{base.brand.сore.primary}",
+        "type": "color"
+      },
+      "overlay": {
+        "primary": {
+          "value": "{base.neutral.on-light.secondary.200}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{base.neutral.on-light.primary.300}",
+          "type": "color"
+        },
+        "Ghost-1": {
+          "value": "{base.neutral.on-dark.primary.400}",
+          "type": "color"
+        },
+        "Ghost-2": {
+          "value": "{base.neutral.on-light.tertiary.400}",
+          "type": "color"
+        },
+        "shadow-bottom": {
+          "value": "linear-gradient(180deg, #070d1e00 0%, #070d1eb3 100%)",
+          "type": "color"
+        },
+        "shadow-top": {
+          "value": "linear-gradient(180deg, #070d1eb3 0%, #070d1e00 100%)",
+          "type": "color"
+        }
+      },
+      "Error": {
+        "value": "{base.accent.set-4.secondary}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{base.accent.set-3.secondary}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{base.accent.set-5.secondary}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "on-dark": {
+        "primary": {
+          "value": "{base.neutral.on-dark.primary.100}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{base.neutral.on-dark.tertiary.200}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{base.neutral.on-dark.tertiary.400}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{base.neutral.on-dark.secondary.500}",
+          "type": "color"
+        }
+      },
+      "on-light": {
+        "primary": {
+          "value": "{base.neutral.on-light.primary.100}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{base.neutral.on-light.primary.200}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{base.neutral.on-light.tertiary.400}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{base.neutral.on-dark.secondary.500}",
+          "type": "color"
+        }
+      },
+      "favorite": {
+        "value": "{base.accent.set-2.tertiary}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{base.accent.set-4.primary}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{base.accent.set-3.primary}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{base.accent.set-5.primary}",
+        "type": "color"
+      },
+      "auxiliary": {
+        "value": "{base.brand.auxiliary.primary}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{base.brand.сore.primary}",
+        "type": "color"
+      }
+    },
+    "category": {
+      "background": {
+        "10": {
+          "value": "linear-gradient(135deg, #0094ff 0%, #00e0ff 100%)",
+          "type": "color"
+        },
+        "11": {
+          "value": "linear-gradient(135deg, #ff7e55 0%, #ec2323 100%)",
+          "type": "color"
+        },
+        "12": {
+          "value": "linear-gradient(135deg, #00ff29 0%, #009bdd 100%)",
+          "type": "color"
+        },
+        "13": {
+          "value": "linear-gradient(135deg, #ff00d6 0%, #c970ff 100%)",
+          "type": "color"
+        },
+        "14": {
+          "value": "linear-gradient(-45deg, #8a2387 0%, #f27121 100%)",
+          "type": "color"
+        },
+        "15": {
+          "value": "linear-gradient(135deg, #63b4fe 0%, #060ecf 100%)",
+          "type": "color"
+        },
+        "16": {
+          "value": "linear-gradient(135deg, #ff7474 0%, #ffd600 100%)",
+          "type": "color"
+        },
+        "17": {
+          "value": "linear-gradient(135deg, #0094ff 0%, #00e0ff 100%)",
+          "type": "color"
+        },
+        "01": {
+          "value": "linear-gradient(135deg, #09c6f9 0%, #045de9 100%)",
+          "type": "color"
+        },
+        "02": {
+          "value": "linear-gradient(135deg, #1ecc59 0%, #07bdbd 100%)",
+          "type": "color"
+        },
+        "03": {
+          "value": "linear-gradient(135deg, #f7b733 0%, #fc4a1a 100%)",
+          "type": "color"
+        },
+        "04": {
+          "value": "linear-gradient(135deg, #d187ff 0%, #8d4ccb 100%)",
+          "type": "color"
+        },
+        "05": {
+          "value": "linear-gradient(135deg, #09c6f9 0%, #045de9 100%)",
+          "type": "color"
+        },
+        "06": {
+          "value": "linear-gradient(135deg, #ff8a00 0%, #d50000 100%)",
+          "type": "color"
+        },
+        "07": {
+          "value": "linear-gradient(135deg, #1eccc1 0%, #0765bd 100%)",
+          "type": "color"
+        },
+        "08": {
+          "value": "linear-gradient(135deg, #db00ff 0%, #d170ff 100%)",
+          "type": "color"
+        },
+        "09": {
+          "value": "linear-gradient(135deg, #ff6bbb 0%, #fb3737 100%)",
+          "type": "color"
+        }
+      },
+      "text": {
+        "enabled": {
+          "value": "linear-gradient(180deg, #5899ff 0%, #0368ff 100%)",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#b0c4dc",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "border": {
+        "value": "linear-gradient(180deg, #5899ff 0%, #0368ff 100%)",
+        "type": "color"
+      }
+    },
+    "text-fields": {
+      "background": {
+        "default": {
+          "value": "#2f467c",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#2f467c4d",
+          "type": "color"
+        }
+      },
+      "text": {
+        "label": {
+          "value": "#b0c4dc",
+          "type": "color"
+        },
+        "label-disabled": {
+          "value": "#b0c4dc4d",
+          "type": "color"
+        },
+        "value": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "value-disabled": {
+          "value": "#ffffff4d",
+          "type": "color"
+        },
+        "success": {
+          "value": "#17cd6b",
+          "type": "color"
+        },
+        "success-disabled": {
+          "value": "#17cd6b80",
+          "type": "color"
+        },
+        "error": {
+          "value": "#ff1a51",
+          "type": "color"
+        },
+        "error-disabled": {
+          "value": "#ff1a5180",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "left-icon": {
+          "value": "#b0c4dc",
+          "type": "color"
+        },
+        "left-icon-disabled": {
+          "value": "#b0c4dc4d",
+          "type": "color"
+        },
+        "right-Icon": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "right-icon-disabled": {
+          "value": "#ffffff4d",
+          "type": "color"
+        },
+        "success": {
+          "value": "#17cd6b",
+          "type": "color"
+        },
+        "success-disabled": {
+          "value": "#17cd6b80",
+          "type": "color"
+        },
+        "error": {
+          "value": "#ff1a51",
+          "type": "color"
+        },
+        "error-disabled": {
+          "value": "#ff1a5180",
+          "type": "color"
+        }
+      },
+      "border": {
+        "focused": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "error-default": {
+          "value": "#ff1a5180",
+          "type": "color"
+        },
+        "error": {
+          "value": "#ff1a51",
+          "type": "color"
+        },
+        "success": {
+          "value": "#17cd6b",
+          "type": "color"
+        },
+        "success-default": {
+          "value": "#17cd6b80",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "fontFamilies": {
+    "inter": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    }
+  },
+  "lineHeights": {
+    "0": {
+      "value": "48",
+      "type": "lineHeights"
+    },
+    "1": {
+      "value": "44",
+      "type": "lineHeights"
+    },
+    "2": {
+      "value": "32",
+      "type": "lineHeights"
+    },
+    "3": {
+      "value": "24",
+      "type": "lineHeights"
+    },
+    "4": {
+      "value": "20",
+      "type": "lineHeights"
+    },
+    "5": {
+      "value": "16",
+      "type": "lineHeights"
+    },
+    "6": {
+      "value": "12",
+      "type": "lineHeights"
+    }
+  },
+  "fontWeights": {
+    "inter-0": {
+      "value": "Black Italic",
+      "type": "fontWeights"
+    },
+    "inter-1": {
+      "value": "Semi Bold",
+      "type": "fontWeights"
+    },
+    "inter-2": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "inter-3": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "inter-4": {
+      "value": "Regular",
+      "type": "fontWeights"
+    }
+  },
+  "fontSize": {
+    "0": {
+      "value": "10",
+      "type": "fontSizes"
+    },
+    "1": {
+      "value": "12",
+      "type": "fontSizes"
+    },
+    "2": {
+      "value": "14",
+      "type": "fontSizes"
+    },
+    "3": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "4": {
+      "value": "20",
+      "type": "fontSizes"
+    },
+    "5": {
+      "value": "24",
+      "type": "fontSizes"
+    },
+    "6": {
+      "value": "40",
+      "type": "fontSizes"
+    },
+    "7": {
+      "value": "48",
+      "type": "fontSizes"
+    }
+  },
+  "letterSpacing": {
+    "0": {
+      "value": "0%",
+      "type": "letterSpacing"
+    }
+  },
+  "paragraphSpacing": {
+    "0": {
+      "value": "0",
+      "type": "paragraphSpacing"
+    }
+  },
+  "Display": {
+    "Disp1_BlackItalic_48": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-0}",
+        "lineHeight": "{lineHeights.0}",
+        "fontSize": "{fontSize.7}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "Disp2_BlackItalic_40": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-0}",
+        "lineHeight": "{lineHeights.1}",
+        "fontSize": "{fontSize.6}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "Disp2_Black italic_24": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-0}",
+        "lineHeight": "{lineHeights.2}",
+        "fontSize": "{fontSize.5}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    }
+  },
+  "Headline": {
+    "H1_Semibold_24": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-1}",
+        "lineHeight": "{lineHeights.2}",
+        "fontSize": "{fontSize.5}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "H2_Medium_20": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.4}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "H3_Bold_20": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-3}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.4}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    }
+  },
+  "Subtitle": {
+    "Subt1_Bold_16": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-3}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.3}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "Subt2_Semibold_14": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-1}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSize.2}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    }
+  },
+  "Body": {
+    "Body1_Regular_16": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-4}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.3}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "Body2_Medium_16": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.3}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "Body3_Regular_14": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-4}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSize.2}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "Body4_Medium_14": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSize.2}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    }
+  },
+  "Caption": {
+    "Capt1_Regular_12": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-4}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.1}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "Capt2_Medium_12": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.1}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "Capt1_Bold_12": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-1}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.1}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "Capt3_Regular_10": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-4}",
+        "lineHeight": "{lineHeights.6}",
+        "fontSize": "{fontSize.0}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "Capt4_Semibold_10": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-1}",
+        "lineHeight": "{lineHeights.6}",
+        "fontSize": "{fontSize.0}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    }
+  },
+  "Button": {
+    "Medium_14": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSize.2}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "Medium_16": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSize.3}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    }
+  },
+  "textCase": {
+    "none": {
+      "value": "none",
+      "type": "textCase"
+    }
+  },
+  "textDecoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "paragraphIndent": {
+    "0": {
+      "value": "0px",
+      "type": "dimension"
+    }
+  },
+  "card": {
+    "value": "12",
+    "type": "borderRadius"
+  },
+  "button-l": {
+    "value": "12",
+    "type": "borderRadius"
+  },
+  "button-m": {
+    "value": "8",
+    "type": "borderRadius"
+  },
+  "min-width": {
+    "button-m": {
+      "value": "80",
+      "type": "sizing"
+    },
+    "button-l": {
+      "value": "104",
+      "type": "sizing"
+    },
+    "text-fields": {
+      "value": "156",
+      "type": "sizing"
+    },
+    "search": {
+      "value": "300",
+      "type": "sizing"
+    },
+    "chips-s": {
+      "value": "46",
+      "type": "sizing"
+    },
+    "chips-m": {
+      "value": "56",
+      "type": "sizing"
+    },
+    "fab": {
+      "value": "40",
+      "type": "sizing"
+    }
+  },
+  "min-height": {
+    "button-m": {
+      "value": "40",
+      "type": "sizing"
+    },
+    "button-l": {
+      "value": "56",
+      "type": "sizing"
+    },
+    "text-fields": {
+      "value": "56",
+      "type": "sizing"
+    },
+    "search": {
+      "value": "48",
+      "type": "sizing"
+    },
+    "chips-s": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "chips-m": {
+      "value": "32",
+      "type": "sizing"
+    },
+    "fab": {
+      "value": "40",
+      "type": "sizing"
+    }
+  },
+  "text-fields": {
+    "value": "8",
+    "type": "borderRadius"
+  },
+  "switch-interface": {
+    "value": "56",
+    "type": "borderRadius"
+  },
+  "bottom-sheet": {
+    "value": "24",
+    "type": "borderRadius"
+  },
+  "category": {
+    "value": "56",
+    "type": "borderRadius"
+  },
+  "pop-up": {
+    "value": "24",
+    "type": "borderRadius"
+  },
+  "opacity": {
+    "0": {
+      "value": "0",
+      "type": "opacity"
+    },
+    "01": {
+      "value": "0.10",
+      "type": "opacity"
+    },
+    "015": {
+      "value": "0.15",
+      "type": "opacity"
+    },
+    "02": {
+      "value": "0.2",
+      "type": "opacity"
+    },
+    "03": {
+      "value": "0.3",
+      "type": "opacity"
+    },
+    "04": {
+      "value": "0.4",
+      "type": "opacity"
+    },
+    "05": {
+      "value": "0.5",
+      "type": "opacity"
+    },
+    "06": {
+      "value": "0.6",
+      "type": "opacity"
+    },
+    "07": {
+      "value": "0.7",
+      "type": "opacity"
+    },
+    "08": {
+      "value": "0.8",
+      "type": "opacity"
+    },
+    "09": {
+      "value": "0.9",
+      "type": "opacity"
+    }
+  },
+  "chips": {
+    "value": "56",
+    "type": "borderRadius"
+  },
+  "Winning now": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "12",
+      "spread": "0",
+      "color": "rgba(0,0,0,0.5)",
+      "type": "innerShadow"
+    },
+    "type": "boxShadow"
+  },
+  "blur": {
+    "chips": {
+      "value": "12px",
+      "type": "dimension"
+    },
+    "tab-bar": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "nav-bars": {
+      "value": "16px",
+      "type": "dimension"
+    }
+  },
+  "text-field": {
+    "value": "1",
+    "type": "borderWidth"
+  },
+  "search": {
+    "value": "1",
+    "type": "borderWidth"
+  },
+  "item": {
+    "value": "1",
+    "type": "borderWidth"
+  },
+  "checkboxes": {
+    "value": "1.5",
+    "type": "borderWidth"
+  },
+  "radio-buttons": {
+    "value": "1.5",
+    "type": "borderWidth"
+  },
+  "story": {
+    "value": "2",
+    "type": "borderWidth"
+  },
+  "button-pressed": {
+    "value": "4",
+    "type": "borderWidth"
+  },
+  "fabs": {
+    "value": "8",
+    "type": "borderRadius"
+  },
+  "button": {
+    "value": "1",
+    "type": "borderWidth"
+  },
+  "fabs-pressed": {
+    "value": "4",
+    "type": "borderWidth"
+  },
+  "fab": {
+    "value": "1",
+    "type": "borderWidth"
+  },
+  "margin": {
+    "margin-0": {
+      "value": "0",
+      "type": "spacing"
+    },
+    "margin-2": {
+      "value": "2",
+      "type": "spacing"
+    },
+    "margin-4": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "margin-6": {
+      "value": "6",
+      "type": "spacing"
+    },
+    "margin-8": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "margin-10": {
+      "value": "10",
+      "type": "spacing"
+    },
+    "margin-12": {
+      "value": "12",
+      "type": "spacing"
+    },
+    "margin-16": {
+      "value": "16",
+      "type": "spacing"
+    },
+    "margin-20": {
+      "value": "20",
+      "type": "spacing"
+    },
+    "margin-24": {
+      "value": "24",
+      "type": "spacing"
+    },
+    "margin-32": {
+      "value": "32",
+      "type": "spacing"
+    },
+    "margin-48": {
+      "value": "48",
+      "type": "spacing"
+    },
+    "margin-56": {
+      "value": "56",
+      "type": "spacing"
+    },
+    "margin-64": {
+      "value": "64",
+      "type": "spacing"
+    },
+    "margin-72": {
+      "value": "72",
+      "type": "spacing"
+    }
+  },
+  "padding": {
+    "padding-0": {
+      "value": "0",
+      "type": "spacing"
+    },
+    "padding-2": {
+      "value": "2",
+      "type": "spacing"
+    },
+    "padding-4": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "padding-6": {
+      "value": "6",
+      "type": "spacing"
+    },
+    "padding-8": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "padding-10": {
+      "value": "10",
+      "type": "spacing"
+    },
+    "padding-12": {
+      "value": "12",
+      "type": "spacing"
+    },
+    "padding-16": {
+      "value": "16",
+      "type": "spacing"
+    },
+    "padding-20": {
+      "value": "20",
+      "type": "spacing"
+    },
+    "padding-24": {
+      "value": "24",
+      "type": "spacing"
+    },
+    "padding-32": {
+      "value": "32",
+      "type": "spacing"
+    },
+    "padding-48": {
+      "value": "48",
+      "type": "spacing"
+    },
+    "padding-56": {
+      "value": "56",
+      "type": "spacing"
+    },
+    "padding-64": {
+      "value": "64",
+      "type": "spacing"
+    },
+    "padding-72": {
+      "value": "72",
+      "type": "spacing"
+    }
+  }
+}
