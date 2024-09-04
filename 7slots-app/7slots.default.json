@@ -2179,7 +2179,7 @@
         "blur": "0",
         "spread": "0",
         "color": "rgba(14,99,64,0.4)",
-        "type": "innerShadow"
+        "type": "dropShadow"
       },
       {
         "x": "0",
@@ -2187,7 +2187,7 @@
         "blur": "16",
         "spread": "0",
         "color": "rgba(56,255,192,0.4)",
-        "type": "innerShadow"
+        "type": "dropShadow"
       }
     ],
     "type": "boxShadow"
