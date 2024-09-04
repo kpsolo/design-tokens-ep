@@ -2202,5 +2202,16 @@
       "type": "dropShadow"
     },
     "type": "boxShadow"
+  },
+  "story-title": {
+    "value": {
+      "x": "4",
+      "y": "4",
+      "blur": "0",
+      "spread": "0",
+      "color": "rgba(14,23,52,0.5)",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
   }
 }
