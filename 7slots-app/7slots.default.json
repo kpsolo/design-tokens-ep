@@ -2149,5 +2149,58 @@
       "value": "72",
       "type": "spacing"
     }
+  },
+  "jackpot-bg": {
+    "value": [
+      {
+        "x": "0",
+        "y": "0",
+        "blur": "12",
+        "spread": "0",
+        "color": "#006CFF",
+        "type": "innerShadow"
+      },
+      {
+        "x": "0",
+        "y": "0",
+        "blur": "8",
+        "spread": "0",
+        "color": "#006CFF",
+        "type": "dropShadow"
+      }
+    ],
+    "type": "boxShadow"
+  },
+  "jackpot-title": {
+    "value": [
+      {
+        "x": "2",
+        "y": "2",
+        "blur": "0",
+        "spread": "0",
+        "color": "rgba(14,99,64,0.4)",
+        "type": "innerShadow"
+      },
+      {
+        "x": "0",
+        "y": "0",
+        "blur": "16",
+        "spread": "0",
+        "color": "rgba(56,255,192,0.4)",
+        "type": "innerShadow"
+      }
+    ],
+    "type": "boxShadow"
+  },
+  "jackpot-prize": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "12",
+      "spread": "0",
+      "color": "#006CFF",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
   }
 }
