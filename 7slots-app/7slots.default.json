@@ -1163,6 +1163,10 @@
         "muted": {
           "value": "{base.neutral.on-dark.secondary.500}",
           "type": "color"
+        },
+        "inactive": {
+          "value": "{base.neutral.on-dark.primary.300}",
+          "type": "color"
         }
       },
       "on-light": {
@@ -1180,6 +1184,10 @@
         },
         "muted": {
           "value": "{base.neutral.on-dark.secondary.500}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{base.neutral.on-light.primary.300}",
           "type": "color"
         }
       },
