@@ -1,7 +1,7 @@
 [
   {
     "id": "57eb023093432d45f38e5afd530e21950479ab25",
-    "name": "VIP",
+    "name": "vip.default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "vip.default": "enabled"
