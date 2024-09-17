@@ -1867,6 +1867,14 @@
     "fab": {
       "value": "40",
       "type": "sizing"
+    },
+    "page-controls-act": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "page-controls-inact": {
+      "value": "4",
+      "type": "sizing"
     }
   },
   "min-height": {
