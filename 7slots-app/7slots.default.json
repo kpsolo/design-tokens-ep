@@ -1449,6 +1449,10 @@
     "6": {
       "value": "12",
       "type": "lineHeights"
+    },
+    "7": {
+      "value": "36",
+      "type": "lineHeights"
     }
   },
   "fontWeights": {
@@ -1505,6 +1509,10 @@
     "7": {
       "value": "48",
       "type": "fontSizes"
+    },
+    "8": {
+      "value": "30",
+      "type": "fontSizes"
     }
   },
   "Display": {
@@ -1526,7 +1534,16 @@
       },
       "type": "typography"
     },
-    "Disp2_Black italic_24": {
+    "Disp3_Black italic_30": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-0}",
+        "lineHeight": "{lineHeights.7}",
+        "fontSize": "{fontSize.8}"
+      },
+      "type": "typography"
+    },
+    "Disp4_Black italic_24": {
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-0}",
