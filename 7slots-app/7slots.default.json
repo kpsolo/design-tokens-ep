@@ -991,14 +991,6 @@
         "type": "color",
         "description": "Color for highlighting prizes and the amount of balances and free spins"
       },
-      "brand": {
-        "value": "{base.brand.сore.primary}",
-        "type": "color"
-      },
-      "auxiliary": {
-        "value": "{base.brand.auxiliary.primary}",
-        "type": "color"
-      },
       "link": {
         "value": "{base.accent.set-1.Primary}",
         "type": "color",
@@ -1103,10 +1095,6 @@
         "value": "{base.brand.auxiliary.primary}",
         "type": "color"
       },
-      "brand": {
-        "value": "{base.brand.сore.primary}",
-        "type": "color"
-      },
       "overlay": {
         "primary": {
           "value": "{base.neutral.on-light.secondary.200}",
@@ -1205,14 +1193,6 @@
       },
       "warning": {
         "value": "{base.accent.set-5.primary}",
-        "type": "color"
-      },
-      "auxiliary": {
-        "value": "{base.brand.auxiliary.primary}",
-        "type": "color"
-      },
-      "accent": {
-        "value": "{base.brand.сore.primary}",
         "type": "color"
       },
       "story": {
