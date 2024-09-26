@@ -622,22 +622,22 @@
         },
         "background": {
           "enabled": {
-            "value": "transparent",
+            "value": "#00000000",
             "type": "color",
             "description": "The background of the enabled button"
           },
           "pressed": {
-            "value": "transparent",
+            "value": "#00000000",
             "type": "color",
             "description": "The background of the pressed button"
           },
           "disabled": {
-            "value": "transparent",
+            "value": "#00000000",
             "type": "color",
             "description": "The background of the disabled button"
           },
           "loading": {
-            "value": "transparent",
+            "value": "#00000000",
             "type": "color",
             "description": "The background of the loading button"
           }
