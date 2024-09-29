@@ -1117,14 +1117,6 @@
         "error": {
           "value": "#ff1a51",
           "type": "color"
-        },
-        "success-default": {
-          "value": "#17cd6b80",
-          "type": "color"
-        },
-        "error-default": {
-          "value": "#ff1a5180",
-          "type": "color"
         }
       }
     }
