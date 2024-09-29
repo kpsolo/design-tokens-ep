@@ -1501,11 +1501,11 @@
       "type": "sizing"
     },
     "button-l": {
-      "value": "56",
+      "value": "48",
       "type": "sizing"
     },
     "text-fields": {
-      "value": "56",
+      "value": "48",
       "type": "sizing"
     },
     "search": {
