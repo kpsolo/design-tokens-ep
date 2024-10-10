@@ -139,22 +139,6 @@
         "value": "#ff7a1a1a",
         "type": "color"
       }
-    },
-    "gradient": {
-      "set-1": {
-        "primary": {
-          "value": "linear-gradient(135deg, #6489ff80 0%, #6489ff4d 100%)",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "linear-gradient(135deg, #6489ff66 0%, #6489ff33 100%)",
-          "type": "color"
-        },
-        "tertiary": {
-          "value": "linear-gradient(135deg, #6489ff4d 0%, #6489ff1a 100%)",
-          "type": "color"
-        }
-      }
     }
   },
   "сomponent": {
@@ -958,15 +942,7 @@
         "description": "used for the timer"
       },
       "gradient-1": {
-        "value": "{base.gradient.set-1.tertiary}",
-        "type": "color"
-      },
-      "gradient-2": {
-        "value": "{base.gradient.set-1.secondary}",
-        "type": "color"
-      },
-      "gradient-3": {
-        "value": "{base.gradient.set-1.primary}",
+        "value": "linear-gradient(135deg, #6489ff80 0%, #6489ff4d 100%)",
         "type": "color"
       },
       "auxiliary": {
@@ -998,18 +974,6 @@
           "value": "linear-gradient(180deg, #070d1eb3 0%, #070d1e00 100%)",
           "type": "color"
         }
-      },
-      "Error": {
-        "value": "{base.set-4.02}",
-        "type": "color"
-      },
-      "success": {
-        "value": "{base.set-3.02}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{base.set-5.02}",
-        "type": "color"
       }
     },
     "border": {
