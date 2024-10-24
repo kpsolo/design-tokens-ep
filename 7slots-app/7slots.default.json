@@ -1029,57 +1029,61 @@
     "text-fields": {
       "background": {
         "default": {
-          "value": "#2f467c",
+          "value": "{base.set-7.100}",
           "type": "color"
         }
       },
       "text": {
         "value": {
-          "value": "#FFFFFF",
+          "value": "{base.set-6.100}",
           "type": "color"
         },
         "label": {
-          "value": "#B0C4DC",
+          "value": "{base.neutral.100}",
           "type": "color"
         },
         "success": {
-          "value": "#17CD6B",
+          "value": "{base.set-3.01}",
           "type": "color"
         },
         "error": {
-          "value": "#FF1A51",
+          "value": "{base.set-4.01}",
           "type": "color"
         }
       },
       "icon": {
         "right-Icon": {
-          "value": "#ffffff",
+          "value": "{base.set-6.100}",
           "type": "color"
         },
         "left-icon": {
-          "value": "#b0c4dc",
+          "value": "{base.neutral.100}",
           "type": "color"
         },
         "success": {
-          "value": "#17cd6b",
+          "value": "{base.set-3.01}",
           "type": "color"
         },
         "error": {
-          "value": "#ff1a51",
+          "value": "{base.set-4.01}",
           "type": "color"
         }
       },
       "border": {
+        "default": {
+          "value": "{base.neutral.300}",
+          "type": "color"
+        },
         "focused": {
-          "value": "#ffffff",
+          "value": "{base.set-6.100}",
           "type": "color"
         },
         "success": {
-          "value": "#17cd6b",
+          "value": "{base.set-3.01}",
           "type": "color"
         },
         "error": {
-          "value": "#ff1a51",
+          "value": "{base.set-4.01}",
           "type": "color"
         }
       }
