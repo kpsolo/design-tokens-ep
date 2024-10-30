@@ -585,21 +585,21 @@
         },
         "border": {
           "enabled": {
-            "value": "#ffffff80",
+            "value": "rgba(255,255,255,0.2)",
             "type": "color",
             "description": "The border color of the enabled button"
           },
           "pressed": {
-            "value": "#ffffff80",
+            "value": "rgba(255,255,255,0.2)",
             "type": "color",
             "description": "The border color of the pressed button"
           },
           "disabled": {
-            "value": "#ffffff80",
+            "value": "rgba(255,255,255,0.1)",
             "type": "color"
           },
           "loading": {
-            "value": "#ffffff80",
+            "value": "rgba(255,255,255,0.2)",
             "type": "color",
             "description": "The border color of the loading button"
           }
@@ -1029,7 +1029,7 @@
     "text-fields": {
       "background": {
         "default": {
-          "value": "{base.set-7.100}",
+          "value": "#00000000",
           "type": "color"
         }
       },
