@@ -1461,7 +1461,7 @@
   },
   "min-height": {
     "buttun-s": {
-      "value": "36",
+      "value": "32",
       "type": "sizing"
     },
     "button-m": {
