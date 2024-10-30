@@ -1414,10 +1414,14 @@
     "type": "borderRadius"
   },
   "button-s": {
-    "value": "4",
+    "value": "56",
     "type": "borderRadius"
   },
   "min-width": {
+    "button-s": {
+      "value": "80",
+      "type": "sizing"
+    },
     "button-m": {
       "value": "80",
       "type": "sizing"
@@ -1456,6 +1460,10 @@
     }
   },
   "min-height": {
+    "buttun-s": {
+      "value": "36",
+      "type": "sizing"
+    },
     "button-m": {
       "value": "40",
       "type": "sizing"
