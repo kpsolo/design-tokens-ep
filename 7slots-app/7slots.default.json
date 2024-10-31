@@ -1022,6 +1022,10 @@
         "default": {
           "value": "#00000000",
           "type": "color"
+        },
+        "cursor": {
+          "value": "{сomponent.icon.brand}",
+          "type": "color"
         }
       },
       "text": {
