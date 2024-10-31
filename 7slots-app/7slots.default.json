@@ -44,7 +44,7 @@
         "type": "color"
       },
       "400": {
-        "value": "#2f467c",
+        "value": "#1D3774",
         "type": "color"
       }
     },
@@ -960,10 +960,6 @@
         },
         "Ghost-1": {
           "value": "{base.set-6.400}",
-          "type": "color"
-        },
-        "Ghost-2": {
-          "value": "{base.set-7.400}",
           "type": "color"
         },
         "shadow-bottom": {
