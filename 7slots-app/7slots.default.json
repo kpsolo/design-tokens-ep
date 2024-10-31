@@ -1024,6 +1024,10 @@
       "story": {
         "value": "linear-gradient(225deg, #8a3bee 0%, #f200b7 39%, #fe9402 91.67%)",
         "type": "color"
+      },
+      "auxiliary": {
+        "value": "{base.secondary}",
+        "type": "color"
       }
     },
     "text-fields": {
