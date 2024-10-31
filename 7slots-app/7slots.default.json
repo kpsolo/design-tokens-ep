@@ -1502,7 +1502,7 @@
     "type": "borderRadius"
   },
   "bottom-sheet": {
-    "value": "24",
+    "value": "16",
     "type": "borderRadius"
   },
   "category": {
