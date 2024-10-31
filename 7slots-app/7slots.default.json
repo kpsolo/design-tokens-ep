@@ -852,11 +852,6 @@
         "value": "{base.set-2.01}",
         "type": "color",
         "description": "Color for highlighting prizes and the amount of balances and free spins"
-      },
-      "link": {
-        "value": "{base.set-1.01}",
-        "type": "color",
-        "description": "Color of the link"
       }
     },
     "icon": {
@@ -936,14 +931,14 @@
         "value": "{base.neutral.300}",
         "type": "color"
       },
+      "gradient-1": {
+        "value": "linear-gradient(135deg, #6489ff4d 0%, #6489ff1a 100%)",
+        "type": "color"
+      },
       "accent": {
         "value": "{base.set-6.100}",
         "type": "color",
         "description": "used for the timer"
-      },
-      "gradient-1": {
-        "value": "linear-gradient(135deg, #6489ff80 0%, #6489ff4d 100%)",
-        "type": "color"
       },
       "auxiliary": {
         "value": "{base.secondary}",
