@@ -956,6 +956,10 @@
         "shadow-top": {
           "value": "linear-gradient(180deg, #070d1eb3 0%, #070d1e00 100%)",
           "type": "color"
+        },
+        "Ghost-1": {
+          "value": "{base.set-6.400}",
+          "type": "color"
         }
       }
     },
