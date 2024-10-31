@@ -945,16 +945,8 @@
         "type": "color"
       },
       "overlay": {
-        "primary": {
+        "navbar": {
           "value": "{base.set-7.200}",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "{base.set-7.300}",
-          "type": "color"
-        },
-        "Ghost-1": {
-          "value": "{base.set-6.400}",
           "type": "color"
         },
         "shadow-bottom": {
