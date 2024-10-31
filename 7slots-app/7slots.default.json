@@ -1105,7 +1105,7 @@
       "type": "lineHeights"
     },
     "2": {
-      "value": "32",
+      "value": "30",
       "type": "lineHeights"
     },
     "3": {
@@ -1228,7 +1228,16 @@
     }
   },
   "Headline": {
-    "H1_Semibold_24": {
+    "H1_Bold_30": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-3}",
+        "lineHeight": "{lineHeights.7}",
+        "fontSize": "{fontSize.8}"
+      },
+      "type": "typography"
+    },
+    "H2_Semibold_24": {
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
@@ -1237,7 +1246,7 @@
       },
       "type": "typography"
     },
-    "H2_Medium_20": {
+    "H3_Medium_20": {
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-2}",
@@ -1246,7 +1255,7 @@
       },
       "type": "typography"
     },
-    "H3_Bold_20": {
+    "H4_Bold_20": {
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-3}",
