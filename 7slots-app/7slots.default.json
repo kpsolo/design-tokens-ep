@@ -852,6 +852,10 @@
         "value": "{base.set-2.01}",
         "type": "color",
         "description": "Color for highlighting prizes and the amount of balances and free spins"
+      },
+      "brand": {
+        "value": "{base.primery}",
+        "type": "color"
       }
     },
     "icon": {
