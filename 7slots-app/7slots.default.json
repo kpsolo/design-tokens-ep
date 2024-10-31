@@ -935,6 +935,10 @@
         "value": "{base.neutral.300}",
         "type": "color"
       },
+      "pop-up": {
+        "value": "#0C1E55",
+        "type": "color"
+      },
       "gradient-1": {
         "value": "linear-gradient(135deg, #6489ff4d 0%, #6489ff1a 100%)",
         "type": "color"
