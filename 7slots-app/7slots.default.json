@@ -944,6 +944,10 @@
         "type": "color",
         "description": "used for the timer"
       },
+      "Confirme-mail": {
+        "value": "{base.set-1.01}",
+        "type": "color"
+      },
       "brand": {
         "value": "{base.primery}",
         "type": "color"
