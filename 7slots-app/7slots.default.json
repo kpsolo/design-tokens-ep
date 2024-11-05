@@ -944,6 +944,10 @@
         "type": "color",
         "description": "used for the timer"
       },
+      "brand": {
+        "value": "{base.primery}",
+        "type": "color"
+      },
       "auxiliary": {
         "value": "{base.secondary}",
         "type": "color"
