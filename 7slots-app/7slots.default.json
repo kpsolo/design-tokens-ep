@@ -973,6 +973,14 @@
           "value": "{base.set-6.400}",
           "type": "color"
         }
+      },
+      "bonus": {
+        "value": "linear-gradient(241deg, #0c6174 0%, #008a99 100%)",
+        "type": "color"
+      },
+      "promo": {
+        "value": "linear-gradient(225deg, #6d158c 0%, #a82cd3 100%)",
+        "type": "color"
       }
     },
     "border": {
