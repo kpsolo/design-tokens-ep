@@ -46,6 +46,10 @@
       "400": {
         "value": "#1D3774",
         "type": "color"
+      },
+      "500": {
+        "value": "#0E1837",
+        "type": "color"
       }
     },
     "set-7": {
@@ -935,8 +939,12 @@
         "value": "{base.neutral.300}",
         "type": "color"
       },
-      "gradient-1": {
+      "card": {
         "value": "linear-gradient(135deg, #6489ff4d 0%, #6489ff1a 100%)",
+        "type": "color"
+      },
+      "pre-gaming": {
+        "value": "{base.neutral.500}",
         "type": "color"
       },
       "accent": {
