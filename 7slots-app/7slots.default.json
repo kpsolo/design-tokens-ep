@@ -1278,10 +1278,10 @@
       },
       "type": "typography"
     },
-    "H4_Bold_20": {
+    "H4_Semibold_20": {
       "value": {
         "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-3}",
+        "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.3}",
         "fontSize": "{fontSize.4}"
       },
