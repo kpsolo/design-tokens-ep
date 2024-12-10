@@ -1210,6 +1210,10 @@
     "8": {
       "value": "30",
       "type": "fontSizes"
+    },
+    "9": {
+      "value": "18",
+      "type": "fontSizes"
     }
   },
   "Display": {
@@ -1269,21 +1273,21 @@
       },
       "type": "typography"
     },
-    "H3_Medium_20": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-2}",
-        "lineHeight": "{lineHeights.3}",
-        "fontSize": "{fontSize.4}"
-      },
-      "type": "typography"
-    },
-    "H4_Semibold_20": {
+    "H3_Semibold_20": {
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.3}",
         "fontSize": "{fontSize.4}"
+      },
+      "type": "typography"
+    },
+    "H4_Medium_18": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.9}"
       },
       "type": "typography"
     }
