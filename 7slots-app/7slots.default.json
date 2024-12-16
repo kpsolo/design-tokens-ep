@@ -1072,6 +1072,10 @@
         "error": {
           "value": "{base.set-4.01}",
           "type": "color"
+        },
+        "warning": {
+          "value": "{сomponent.border.warning}",
+          "type": "color"
         }
       },
       "icon": {
@@ -1090,6 +1094,10 @@
         "error": {
           "value": "{base.set-4.01}",
           "type": "color"
+        },
+        "warning": {
+          "value": "{base.set-5.01}",
+          "type": "color"
         }
       },
       "border": {
@@ -1107,6 +1115,10 @@
         },
         "error": {
           "value": "{base.set-4.01}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{base.set-5.01}",
           "type": "color"
         }
       }
