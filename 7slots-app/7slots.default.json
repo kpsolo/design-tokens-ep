@@ -989,6 +989,10 @@
       "promo": {
         "value": "linear-gradient(225deg, #6d158c 0%, #a82cd3 100%)",
         "type": "color"
+      },
+      "pop-up": {
+        "value": "#0c1e55",
+        "type": "color"
       }
     },
     "border": {
