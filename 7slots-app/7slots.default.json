@@ -1002,7 +1002,7 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{base.set-6.200}",
+          "value": "{base.set-6.300}",
           "type": "color"
         },
         "tertiary": {
