@@ -1471,7 +1471,7 @@
   },
   "min-width": {
     "button-s": {
-      "value": "80",
+      "value": "62",
       "type": "sizing"
     },
     "button-m": {
