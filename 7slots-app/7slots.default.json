@@ -919,7 +919,7 @@
         "type": "color"
       },
       "favorite": {
-        "value": "{base.set-2.02}",
+        "value": "{base.set-2.01}",
         "type": "color",
         "description": "Used for the favorites icon"
       }
@@ -992,6 +992,18 @@
       },
       "pop-up": {
         "value": "#0c1e55",
+        "type": "color"
+      },
+      "success": {
+        "value": "{base.set-3.03}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{base.set-5.03}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{base.set-4.03}",
         "type": "color"
       }
     },
