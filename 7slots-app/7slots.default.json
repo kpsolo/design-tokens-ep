@@ -1495,7 +1495,7 @@
       "type": "sizing"
     },
     "text-fields": {
-      "value": "156",
+      "value": "120",
       "type": "sizing"
     },
     "search": {
@@ -1512,14 +1512,6 @@
     },
     "fab": {
       "value": "40",
-      "type": "sizing"
-    },
-    "page-controls-act": {
-      "value": "24",
-      "type": "sizing"
-    },
-    "page-controls-inact": {
-      "value": "4",
       "type": "sizing"
     }
   },
