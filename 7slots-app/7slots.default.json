@@ -870,7 +870,7 @@
           "description": "Used for the active icon"
         },
         "secondary": {
-          "value": "{base.set-6.200}",
+          "value": "{base.set-6.300}",
           "type": "color",
           "description": "used for a secondary icon"
         },
@@ -887,7 +887,7 @@
           "description": "Used for the active icon"
         },
         "secondary": {
-          "value": "{base.neutral.400}",
+          "value": "{base.set-7.300}",
           "type": "color",
           "description": "used for a secondary icon"
         },
