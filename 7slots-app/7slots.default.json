@@ -589,7 +589,7 @@
         },
         "border": {
           "enabled": {
-            "value": "rgba(255,255,255,0.2)",
+            "value": "rgba(255,255,255,0.7)",
             "type": "color",
             "description": "The border color of the enabled button"
           },
@@ -603,7 +603,7 @@
             "type": "color"
           },
           "loading": {
-            "value": "rgba(255,255,255,0.2)",
+            "value": "rgba(255,255,255,0.7)",
             "type": "color",
             "description": "The border color of the loading button"
           }
