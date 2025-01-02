@@ -1005,6 +1005,10 @@
       "error": {
         "value": "{base.set-4.03}",
         "type": "color"
+      },
+      "points_exchange": {
+        "value": "{base.set-1.03}",
+        "type": "color"
       }
     },
     "border": {
