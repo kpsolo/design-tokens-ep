@@ -1122,7 +1122,7 @@
       },
       "border": {
         "default": {
-          "value": "{base.neutral.300}",
+          "value": "{base.neutral.200}",
           "type": "color"
         },
         "focused": {
@@ -1652,8 +1652,12 @@
       "type": "dimension"
     }
   },
-  "text-field": {
-    "value": "1.5",
+  "text-field-active": {
+    "value": "2",
+    "type": "borderWidth"
+  },
+  "text-field-default": {
+    "value": "1",
     "type": "borderWidth"
   },
   "search": {
