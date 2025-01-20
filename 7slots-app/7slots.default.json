@@ -1039,6 +1039,18 @@
           "value": "linear-gradient(0deg, #ff483c 0%, #7c1212 100%)",
           "type": "color"
         }
+      },
+      "ws01": {
+        "value": "linear-gradient(224deg, #f2511f 23.7%, #297efe 100%)",
+        "type": "color"
+      },
+      "ws02": {
+        "value": "linear-gradient(225deg, #ff004f 0%, #089ee9 100%)",
+        "type": "color"
+      },
+      "ws03": {
+        "value": "linear-gradient(225deg, #50ccfc 0%, #5200ff 100%)",
+        "type": "color"
       }
     },
     "border": {
