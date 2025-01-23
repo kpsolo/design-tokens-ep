@@ -987,7 +987,7 @@
         }
       },
       "bonus": {
-        "value": "linear-gradient(241deg, #0c6174 0%, #008a99 100%)",
+        "value": "linear-gradient(241deg, #00b274 0%, #00abbd 100%)",
         "type": "color"
       },
       "promo": {
@@ -1050,6 +1050,26 @@
       },
       "ws03": {
         "value": "linear-gradient(225deg, #50ccfc 0%, #5200ff 100%)",
+        "type": "color"
+      },
+      "сashback": {
+        "value": "linear-gradient(0deg, #e84702 0%, #ffb133 100%)",
+        "type": "color"
+      },
+      "points": {
+        "value": "linear-gradient(135deg, #6d158c 0%, #d55cff 100%)",
+        "type": "color"
+      },
+      "savings": {
+        "value": "linear-gradient(132deg, #ff6a9c 0%, #fe5762 100%)",
+        "type": "color"
+      },
+      "current-balance": {
+        "value": "linear-gradient(-45deg, #2830fa 0%, #0b7feb 100%)",
+        "type": "color"
+      },
+      "real-balance": {
+        "value": "linear-gradient(135deg, #ff5858 0%, #bf0dce 100%)",
         "type": "color"
       }
     },
