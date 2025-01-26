@@ -48,6 +48,10 @@
         "type": "color"
       },
       "500": {
+        "value": "#0c1e55",
+        "type": "color"
+      },
+      "600": {
         "value": "#0E1837",
         "type": "color"
       }
@@ -807,37 +811,37 @@
         "primary": {
           "value": "{base.set-7.100}",
           "type": "color",
-          "description": "Color for headers"
+          "description": "Color for headers on a light background"
         },
         "secondary": {
           "value": "{base.set-7.300}",
           "type": "color",
-          "description": "Color for descriptions and subtitles"
+          "description": "Color for descriptions and subtitles on a light background"
         },
         "tertiary": {
           "value": "{base.set-7.400}",
           "type": "color",
-          "description": "Color for third line information"
+          "description": "Color for third line information on a light background"
         }
       },
       "on-dark": {
         "primary": {
           "value": "{base.set-6.100}",
           "type": "color",
-          "description": "Color for headers"
+          "description": "Color for headers on a dark background"
         },
         "secondary": {
           "value": "{base.set-6.300}",
           "type": "color",
-          "description": "Color for descriptions and subtitles"
+          "description": "Color for descriptions and subtitles on a dark background"
         },
         "tertiary": {
           "value": "{base.set-6.400}",
           "type": "color",
-          "description": "Color for third line information"
+          "description": "Color for third line information on a dark background"
         }
       },
-      "error": {
+      "danger": {
         "value": "{base.set-4.01}",
         "type": "color",
         "description": "Color for the error title and description"
@@ -867,45 +871,47 @@
         "primary": {
           "value": "{base.set-6.100}",
           "type": "color",
-          "description": "Used for the active icon"
+          "description": "Used for the active icon on a dark background"
         },
         "secondary": {
           "value": "{base.set-6.300}",
           "type": "color",
-          "description": "used for a secondary icon"
+          "description": "used for a secondary icon on a dark background"
         },
         "tertiary": {
           "value": "{base.set-6.400}",
           "type": "color",
-          "description": "Used for a disabled icon"
+          "description": "Used for a disabled icon on a dark background"
         }
       },
       "on-light": {
         "primary": {
           "value": "{base.set-7.100}",
           "type": "color",
-          "description": "Used for the active icon"
+          "description": "Used for the active icon on a light background"
         },
         "secondary": {
           "value": "{base.set-7.300}",
           "type": "color",
-          "description": "used for a secondary icon"
+          "description": "used for a secondary icon on a light background"
         },
         "tertiary": {
           "value": "{base.set-7.400}",
           "type": "color",
-          "description": "Used for a disabled icon"
+          "description": "Used for a disabled icon on a light background"
         }
       },
       "brand": {
         "value": "{base.primery}",
-        "type": "color"
+        "type": "color",
+        "description": "Used to accentuate an icon"
       },
       "auxiliary": {
         "value": "{base.secondary}",
-        "type": "color"
+        "type": "color",
+        "description": "Used to accentuate an icon"
       },
-      "error": {
+      "danger": {
         "value": "{base.set-4.01}",
         "type": "color",
         "description": "Used for an error icon or badge"
@@ -928,7 +934,7 @@
       "primary": {
         "value": "{base.set-7.100}",
         "type": "color",
-        "description": "Used as the main one for screens"
+        "description": "Used as a background for the background of the main pages, and bottom sheet"
       },
       "secondary": {
         "value": "{base.neutral.400}",
@@ -940,25 +946,14 @@
         "type": "color"
       },
       "card": {
-        "value": "linear-gradient(135deg, #6489ff4d 0%, #6489ff1a 100%)",
-        "type": "color"
-      },
-      "pre-gaming": {
-        "value": "{base.neutral.500}",
-        "type": "color"
-      },
-      "pop-up": {
-        "value": "#0c1e55",
-        "type": "color"
+        "value": "linear-gradient(135deg, #2a3e7c 0%, #1a2a59 100%)",
+        "type": "color",
+        "description": "Used for the default state of the card"
       },
       "accent": {
         "value": "{base.set-6.100}",
         "type": "color",
         "description": "used for the timer"
-      },
-      "Confirme-mail": {
-        "value": "{base.set-1.01}",
-        "type": "color"
       },
       "brand": {
         "value": "{base.primery}",
@@ -968,9 +963,53 @@
         "value": "{base.secondary}",
         "type": "color"
       },
+      "confirme-mail": {
+        "value": "{base.set-1.01}",
+        "type": "color"
+      },
+      "pop-up": {
+        "value": "{base.neutral.500}",
+        "type": "color"
+      },
+      "pre-gaming": {
+        "value": "{base.neutral.600}",
+        "type": "color"
+      },
+      "bonus": {
+        "value": "linear-gradient(241deg, #00b274 0%, #00abbd 100%)",
+        "type": "color"
+      },
+      "promo": {
+        "value": "linear-gradient(225deg, #6d158c 0%, #a82cd3 100%)",
+        "type": "color"
+      },
+      "ws03": {
+        "value": "linear-gradient(225deg, #50ccfc 0%, #5200ff 100%)",
+        "type": "color"
+      },
+      "ws02": {
+        "value": "linear-gradient(225deg, #ff004f 0%, #089ee9 100%)",
+        "type": "color"
+      },
+      "ws01": {
+        "value": "linear-gradient(224deg, #f2511f 23.7%, #297efe 79.69%)",
+        "type": "color"
+      },
+      "skeleton": {
+        "value": "linear-gradient(135deg, #6489ff4d 0%, #6489ff1a 100%)",
+        "type": "color"
+      },
       "overlay": {
         "navbar": {
           "value": "{base.set-7.200}",
+          "type": "color"
+        },
+        "Ghost-1": {
+          "value": "{base.set-6.400}",
+          "type": "color"
+        },
+        "shadow-left": {
+          "value": "linear-gradient(270deg, #070d1e00 0%, #070d1eb3 100%)",
           "type": "color"
         },
         "shadow-bottom": {
@@ -981,227 +1020,250 @@
           "value": "linear-gradient(180deg, #070d1eb3 0%, #070d1e00 100%)",
           "type": "color"
         },
-        "Ghost-1": {
-          "value": "{base.set-6.400}",
+        "shadow-right": {
+          "value": "linear-gradient(90deg, #070d1e00 0%, #070d1eb3 100%)",
+          "type": "color"
+        },
+        "success": {
+          "value": "{base.set-3.03}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{base.set-5.03}",
+          "type": "color"
+        },
+        "danger": {
+          "value": "{base.set-4.03}",
+          "type": "color"
+        },
+        "points_exchange": {
+          "value": "{base.set-1.03}",
           "type": "color"
         }
-      },
-      "bonus": {
-        "value": "linear-gradient(241deg, #00b274 0%, #00abbd 100%)",
-        "type": "color"
-      },
-      "promo": {
-        "value": "linear-gradient(225deg, #6d158c 0%, #a82cd3 100%)",
-        "type": "color"
-      },
-      "success": {
-        "value": "{base.set-3.03}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{base.set-5.03}",
-        "type": "color"
-      },
-      "error": {
-        "value": "{base.set-4.03}",
-        "type": "color"
-      },
-      "points_exchange": {
-        "value": "{base.set-1.03}",
-        "type": "color"
       },
       "loyalty": {
         "01": {
           "value": "linear-gradient(0deg, #5a88ff 0%, #1959ff 100%)",
-          "type": "color"
+          "type": "color",
+          "description": "Used for the background of the loyalty program status for “Beginner”"
         },
         "02": {
           "value": "linear-gradient(0deg, #ffab4f 0%, #bb5723 100%)",
-          "type": "color"
+          "type": "color",
+          "description": "Used for the background of the loyalty program status for “Bronze”"
         },
         "03": {
           "value": "linear-gradient(0deg, #abb6be 0%, #73777c 100%)",
-          "type": "color"
+          "type": "color",
+          "description": "Used for the background of the loyalty program status for “Silver”"
         },
         "04": {
           "value": "linear-gradient(0deg, #ffe15e 0%, #bf8211 100%)",
-          "type": "color"
+          "type": "color",
+          "description": "Used for the background of the loyalty program status for “Gold”"
         },
         "05": {
           "value": "linear-gradient(0deg, #7c9aba 0%, #576272 100%)",
-          "type": "color"
+          "type": "color",
+          "description": "Used for the background of the loyalty program status for “Platinum”"
         },
         "06": {
           "value": "linear-gradient(0deg, #61d03a 0%, #428c28 100%)",
-          "type": "color"
+          "type": "color",
+          "description": "Used for the background of the loyalty program status for “Diamond”"
         },
         "07": {
           "value": "linear-gradient(0deg, #ff483c 0%, #7c1212 100%)",
-          "type": "color"
+          "type": "color",
+          "description": "Used for the background of the loyalty program status for “Super VIP”"
         }
       },
-      "ws01": {
-        "value": "linear-gradient(224deg, #f2511f 23.7%, #297efe 79.69%)",
-        "type": "color"
-      },
-      "ws02": {
-        "value": "linear-gradient(225deg, #ff004f 0%, #089ee9 100%)",
-        "type": "color"
-      },
-      "ws03": {
-        "value": "linear-gradient(225deg, #50ccfc 0%, #5200ff 100%)",
-        "type": "color"
-      },
-      "сashback": {
-        "value": "linear-gradient(0deg, #e84702 0%, #ffb133 100%)",
-        "type": "color"
-      },
-      "points": {
-        "value": "linear-gradient(135deg, #6d158c 0%, #d55cff 100%)",
-        "type": "color"
-      },
-      "savings": {
-        "value": "linear-gradient(132deg, #ff6a9c 0%, #fe5762 100%)",
-        "type": "color"
-      },
-      "current-balance": {
-        "value": "linear-gradient(-45deg, #2830fa 0%, #0b7feb 100%)",
-        "type": "color"
-      },
-      "real-balance": {
-        "value": "linear-gradient(135deg, #ff5858 0%, #bf0dce 100%)",
-        "type": "color"
+      "balances": {
+        "current": {
+          "value": "linear-gradient(-45deg, #2830fa 0%, #0b7feb 100%)",
+          "type": "color",
+          "description": "Color is used for current balance"
+        },
+        "bonus": {
+          "value": "linear-gradient(241deg, #00b274 0%, #00abbd 100%)",
+          "type": "color",
+          "description": "Color is used for bonus balance"
+        },
+        "points": {
+          "value": "linear-gradient(135deg, #6d158c 0%, #d55cff 100%)",
+          "type": "color",
+          "description": "Color is used for points balance"
+        },
+        "сashback": {
+          "value": "linear-gradient(0deg, #e84702 0%, #ffb133 100%)",
+          "type": "color",
+          "description": "Color is used for сashback balance"
+        },
+        "savings": {
+          "value": "linear-gradient(132deg, #ff6a9c 0%, #fe5762 100%)",
+          "type": "color",
+          "description": "Color is used for savings balance"
+        },
+        "real": {
+          "value": "linear-gradient(135deg, #ff5858 0%, #bf0dce 100%)",
+          "type": "color",
+          "description": "Color is used for real balance"
+        }
       }
     },
     "border": {
       "on-dark": {
         "primary": {
           "value": "{base.set-6.100}",
-          "type": "color"
+          "type": "color",
+          "description": "Used for the active border on a dark background"
         },
         "secondary": {
           "value": "{base.set-6.300}",
-          "type": "color"
+          "type": "color",
+          "description": "used for a secondary border on a dark background"
         },
         "tertiary": {
           "value": "{base.set-6.500}",
-          "type": "color"
+          "type": "color",
+          "description": "Used for a disabled border on a dark background"
         }
       },
       "on-light": {
         "primary": {
           "value": "{base.set-7.100}",
-          "type": "color"
+          "type": "color",
+          "description": "Used for the active border on a light background"
         },
         "secondary": {
           "value": "{base.set-7.200}",
-          "type": "color"
+          "type": "color",
+          "description": "used for a secondary border on a light background"
         },
         "tertiary": {
           "value": "{base.set-7.500}",
-          "type": "color"
+          "type": "color",
+          "description": "Used for a disabled border on a light background"
         }
       },
-      "favorite": {
-        "value": "{base.set-2.03}",
-        "type": "color"
-      },
-      "error": {
+      "danger": {
         "value": "{base.set-4.01}",
-        "type": "color"
+        "type": "color",
+        "description": "Used to highlight an error"
       },
       "success": {
         "value": "{base.set-3.01}",
-        "type": "color"
+        "type": "color",
+        "description": "Used to highlight a success"
       },
       "warning": {
         "value": "{base.set-5.01}",
-        "type": "color"
+        "type": "color",
+        "description": "Used to highlight a warning"
       },
       "story": {
         "value": "linear-gradient(225deg, #8a3bee 0%, #f200b7 39%, #fe9402 91.67%)",
-        "type": "color"
+        "type": "color",
+        "description": "Used for active and new stories that the user has not yet viewed"
       },
       "auxiliary": {
         "value": "{base.secondary}",
-        "type": "color"
+        "type": "color",
+        "description": "Used to highlight the active step the user is on"
       }
     },
     "text-fields": {
       "background": {
         "default": {
           "value": "#00000000",
-          "type": "color"
+          "type": "color",
+          "description": "Field text used for the background"
         },
         "cursor": {
           "value": "{сomponent.icon.brand}",
-          "type": "color"
+          "type": "color",
+          "description": "Used for the cursor when focusing with a text field"
         }
       },
       "text": {
         "value": {
           "value": "{base.set-6.100}",
-          "type": "color"
+          "type": "color",
+          "description": "The color is used for the written text"
         },
         "label": {
           "value": "{base.neutral.100}",
-          "type": "color"
+          "type": "color",
+          "description": "The color used for the label of the field text"
         },
         "success": {
           "value": "{base.set-3.01}",
-          "type": "color"
+          "type": "color",
+          "description": "For successful text support"
         },
-        "error": {
+        "danger": {
           "value": "{base.set-4.01}",
-          "type": "color"
+          "type": "color",
+          "description": "For erroneous text support"
         },
         "warning": {
           "value": "{сomponent.border.warning}",
-          "type": "color"
+          "type": "color",
+          "description": "To warning text support"
         }
       },
       "icon": {
         "right-Icon": {
           "value": "{base.set-6.100}",
-          "type": "color"
+          "type": "color",
+          "description": "The color for the active icon and the one you can interact with"
         },
         "left-icon": {
           "value": "{base.neutral.100}",
-          "type": "color"
+          "type": "color",
+          "description": "Default icon on the level and cannot be interacted with"
         },
         "success": {
           "value": "{base.set-3.01}",
-          "type": "color"
+          "type": "color",
+          "description": "For an icon that shows success"
         },
-        "error": {
+        "danger": {
           "value": "{base.set-4.01}",
-          "type": "color"
+          "type": "color",
+          "description": "For an icon that shows errors"
         },
         "warning": {
           "value": "{base.set-5.01}",
-          "type": "color"
+          "type": "color",
+          "description": "For an icon that shows warnings"
         }
       },
       "border": {
         "default": {
           "value": "{base.neutral.200}",
-          "type": "color"
+          "type": "color",
+          "description": "Default stroke root field text"
         },
         "focused": {
           "value": "{base.secondary}",
-          "type": "color"
+          "type": "color",
+          "description": "The root of interaction with the text field "
         },
         "success": {
           "value": "{base.set-3.01}",
-          "type": "color"
+          "type": "color",
+          "description": "Successful action color for border"
         },
-        "error": {
+        "danger": {
           "value": "{base.set-4.01}",
-          "type": "color"
+          "type": "color",
+          "description": "Error color for the border"
         },
         "warning": {
           "value": "{base.set-5.01}",
-          "type": "color"
+          "type": "color",
+          "description": "Warning color for the border"
         }
       }
     }
@@ -1600,6 +1662,10 @@
     },
     "search": {
       "value": "48",
+      "type": "sizing"
+    },
+    "chips-xs": {
+      "value": "16",
       "type": "sizing"
     },
     "chips-s": {
