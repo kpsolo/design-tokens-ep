@@ -1377,39 +1377,12 @@
     }
   },
   "Display": {
-    "Disp1_BlackItalic_48": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-0}",
-        "fontSize": "{fontSize.7}",
-        "lineHeight": "{lineHeights.0}"
-      },
-      "type": "typography"
-    },
-    "Disp2_BlackItalic_40": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-0}",
-        "lineHeight": "{lineHeights.1}",
-        "fontSize": "{fontSize.6}"
-      },
-      "type": "typography"
-    },
-    "Disp3_Black italic_30": {
+    "Disp1_Black italic_30": {
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-0}",
         "lineHeight": "{lineHeights.7}",
         "fontSize": "{fontSize.8}"
-      },
-      "type": "typography"
-    },
-    "Disp4_Black italic_24": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-0}",
-        "lineHeight": "{lineHeights.2}",
-        "fontSize": "{fontSize.5}"
       },
       "type": "typography"
     }
