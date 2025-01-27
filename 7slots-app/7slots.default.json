@@ -1037,7 +1037,7 @@
           "type": "color"
         },
         "points_exchange": {
-          "value": "{base.set-1.03}",
+          "value": "rgba(221,125,255,0.15)",
           "type": "color"
         }
       },
