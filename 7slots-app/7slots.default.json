@@ -918,11 +918,13 @@
       },
       "success": {
         "value": "{base.set-3.01}",
-        "type": "color"
+        "type": "color",
+        "description": "Color for the confirmation icon or badge"
       },
       "warning": {
         "value": "{base.set-5.01}",
-        "type": "color"
+        "type": "color",
+        "description": "Color for the warning icon or badge"
       },
       "favorite": {
         "value": "{base.set-2.01}",
@@ -983,17 +985,20 @@
         "value": "linear-gradient(225deg, #6d158c 0%, #a82cd3 100%)",
         "type": "color"
       },
-      "ws03": {
-        "value": "linear-gradient(225deg, #50ccfc 0%, #5200ff 100%)",
-        "type": "color"
+      "ws01": {
+        "value": "linear-gradient(224deg, #f2511f 23.7%, #297efe 79.69%)",
+        "type": "color",
+        "description": "Used for the background of the first welcome screen when the application is launched"
       },
       "ws02": {
         "value": "linear-gradient(225deg, #ff004f 0%, #089ee9 100%)",
-        "type": "color"
+        "type": "color",
+        "description": "Used for the background of the second welcome screen when the application starts"
       },
-      "ws01": {
-        "value": "linear-gradient(224deg, #f2511f 23.7%, #297efe 79.69%)",
-        "type": "color"
+      "ws03": {
+        "value": "linear-gradient(225deg, #50ccfc 0%, #5200ff 100%)",
+        "type": "color",
+        "description": "Used for the background of the third welcome screen when the application starts"
       },
       "skeleton": {
         "value": "linear-gradient(135deg, #6489ff4d 0%, #6489ff1a 100%)",
@@ -1010,19 +1015,23 @@
         },
         "shadow-left": {
           "value": "linear-gradient(270deg, #070d1e00 0%, #070d1eb3 100%)",
-          "type": "color"
+          "type": "color",
+          "description": "Used as a surface to highlight text above it"
         },
         "shadow-bottom": {
           "value": "linear-gradient(180deg, #070d1e00 0%, #070d1eb3 100%)",
-          "type": "color"
+          "type": "color",
+          "description": "Used as a surface to highlight text above it"
         },
         "shadow-top": {
           "value": "linear-gradient(180deg, #070d1eb3 0%, #070d1e00 100%)",
-          "type": "color"
+          "type": "color",
+          "description": "Used as a surface to highlight text above it"
         },
         "shadow-right": {
           "value": "linear-gradient(90deg, #070d1e00 0%, #070d1eb3 100%)",
-          "type": "color"
+          "type": "color",
+          "description": "Used as a surface to highlight text above it"
         },
         "success": {
           "value": "{base.set-3.03}",
@@ -1042,7 +1051,8 @@
         },
         "backdrop": {
           "value": "rgba(0,0,0,0.6)",
-          "type": "color"
+          "type": "color",
+          "description": "It is used as a shadow under the pop-up and bottom sheet"
         }
       },
       "loyalty": {
