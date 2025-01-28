@@ -864,6 +864,23 @@
       "brand": {
         "value": "{base.primery}",
         "type": "color"
+      },
+      "static": {
+        "primary": {
+          "value": "{base.set-6.100}",
+          "type": "color",
+          "description": "Color for headers on a dark background"
+        },
+        "secondary": {
+          "value": "{base.set-6.300}",
+          "type": "color",
+          "description": "Color for descriptions and subtitles on a dark background"
+        },
+        "tertiary": {
+          "value": "{base.set-6.400}",
+          "type": "color",
+          "description": "Color for third line information on a dark background"
+        }
       }
     },
     "icon": {
@@ -930,6 +947,23 @@
         "value": "{base.set-2.01}",
         "type": "color",
         "description": "Used for the favorites icon"
+      },
+      "static": {
+        "primary": {
+          "value": "{base.set-6.100}",
+          "type": "color",
+          "description": "Used for the active icon on a dark background"
+        },
+        "secondary": {
+          "value": "{base.set-6.300}",
+          "type": "color",
+          "description": "used for a secondary icon on a dark background"
+        },
+        "tertiary": {
+          "value": "{base.set-6.400}",
+          "type": "color",
+          "description": "Used for a disabled icon on a dark background"
+        }
       }
     },
     "background": {
@@ -1184,6 +1218,23 @@
         "value": "{base.secondary}",
         "type": "color",
         "description": "Used to highlight the active step the user is on"
+      },
+      "static": {
+        "primary": {
+          "value": "{base.set-6.100}",
+          "type": "color",
+          "description": "Used for the active border on a dark background"
+        },
+        "secondary": {
+          "value": "{base.set-6.300}",
+          "type": "color",
+          "description": "used for a secondary border on a dark background"
+        },
+        "tertiary": {
+          "value": "{base.set-6.500}",
+          "type": "color",
+          "description": "Used for a disabled border on a dark background"
+        }
       }
     },
     "text-fields": {
