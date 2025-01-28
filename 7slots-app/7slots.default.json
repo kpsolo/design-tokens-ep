@@ -1034,6 +1034,10 @@
         "type": "color",
         "description": "Used for the background of the third welcome screen when the application starts"
       },
+      "tooltip": {
+        "value": "{base.set-6.100}",
+        "type": "color"
+      },
       "skeleton": {
         "value": "linear-gradient(135deg, #6489ff4d 0%, #6489ff1a 100%)",
         "type": "color"
