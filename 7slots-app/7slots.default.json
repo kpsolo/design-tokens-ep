@@ -175,7 +175,7 @@
           "description": "Color of selected tab (used for text)"
         },
         "disabled": {
-          "value": "#b0c4dc99",
+          "value": "{base.set-6.400}",
           "type": "color",
           "description": "Used for inactive tabs"
         }
@@ -197,7 +197,7 @@
           "description": "Color of selected tab (used for icon)"
         },
         "disabled": {
-          "value": "#b0c4dc99",
+          "value": "{base.set-6.400}",
           "type": "color",
           "description": "Used for inactive tabs"
         }
