@@ -1,12 +1,14 @@
 {
   "base": {
-    "primery": {
-      "value": "linear-gradient(180deg, #5cd995 0%, #25a660 100%)",
-      "type": "color"
-    },
-    "secondary": {
-      "value": "linear-gradient(180deg, #5899ff 0%, #0368ff 100%)",
-      "type": "color"
+    "brand": {
+      "primery": {
+        "value": "linear-gradient(180deg, #5cd995 0%, #25a660 100%)",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "linear-gradient(180deg, #5899ff 0%, #0368ff 100%)",
+        "type": "color"
+      }
     },
     "set-6": {
       "100": {
@@ -14,19 +16,19 @@
         "type": "color"
       },
       "200": {
-        "value": "#ffffffcc",
+        "value": "rgba(255,255,255,0.8)",
         "type": "color"
       },
       "300": {
-        "value": "#ffffff99",
+        "value": "rgba(255,255,255,0.6)",
         "type": "color"
       },
       "400": {
-        "value": "#ffffff4d",
+        "value": "rgba(255,255,255,0.3)",
         "type": "color"
       },
       "500": {
-        "value": "#ffffff26",
+        "value": "rgba(255,255,255,0.15)",
         "type": "color"
       }
     },
@@ -62,19 +64,19 @@
         "type": "color"
       },
       "200": {
-        "value": "#111e45cc",
+        "value": "rgba(17,30,69,0.8)",
         "type": "color"
       },
       "300": {
-        "value": "#111e4599",
+        "value": "rgba(17,30,69,0.6)",
         "type": "color"
       },
       "400": {
-        "value": "#111e454d",
+        "value": "rgba(17,30,69,0.3)",
         "type": "color"
       },
       "500": {
-        "value": "#111e4526",
+        "value": "rgba(17,30,69,0.15)",
         "type": "color"
       }
     },
@@ -112,7 +114,7 @@
         "type": "color"
       },
       "02": {
-        "value": "#17cd6b80",
+        "value": "rgba(23,205,107,0.5)",
         "type": "color"
       },
       "03": {
@@ -126,7 +128,7 @@
         "type": "color"
       },
       "02": {
-        "value": "#ff1a5180",
+        "value": "rgba(255,26,81,0.5)",
         "type": "color"
       },
       "03": {
@@ -140,7 +142,7 @@
         "type": "color"
       },
       "02": {
-        "value": "#ff7a1a80",
+        "value": "rgba(255,122,26,0.5)",
         "type": "color"
       },
       "03": {
@@ -152,12 +154,12 @@
   "сomponent": {
     "tab-bar": {
       "background": {
-        "value": "#111e45cc",
+        "value": "{base.set-7.200}",
         "type": "color",
         "description": "Used for the background of the tab bar container"
       },
       "buttons-main": {
-        "value": "linear-gradient(180deg, #5cd995 0%, #25a660 100%)",
+        "value": "{base.brand.primery}",
         "type": "color",
         "description": "It is used for the background of the main button of the tab bar"
       },
@@ -168,7 +170,7 @@
           "description": "The color of the selected tab"
         },
         "inactive": {
-          "value": "#b0c4dc",
+          "value": "{base.neutral.100}",
           "type": "color",
           "description": "Color of selected tab (used for text)"
         },
@@ -180,12 +182,12 @@
       },
       "icon": {
         "main": {
-          "value": "#ffffff",
+          "value": "{base.set-6.100}",
           "type": "color",
           "description": "It is used for the tab bar main button icon"
         },
         "inactive": {
-          "value": "#b0c4dc",
+          "value": "{base.neutral.100}",
           "type": "color",
           "description": "Color of inactive tab (used for icon)"
         },
@@ -862,7 +864,7 @@
         "description": "Color for highlighting prizes and the amount of balances and free spins"
       },
       "brand": {
-        "value": "{base.primery}",
+        "value": "{base.brand.primery}",
         "type": "color"
       },
       "static": {
@@ -919,12 +921,12 @@
         }
       },
       "brand": {
-        "value": "{base.primery}",
+        "value": "{base.brand.primery}",
         "type": "color",
         "description": "Used to accentuate an icon"
       },
       "auxiliary": {
-        "value": "{base.secondary}",
+        "value": "{base.brand.secondary}",
         "type": "color",
         "description": "Used to accentuate an icon"
       },
@@ -992,11 +994,11 @@
         "description": "used for the timer"
       },
       "brand": {
-        "value": "{base.primery}",
+        "value": "{base.brand.primery}",
         "type": "color"
       },
       "auxiliary": {
-        "value": "{base.secondary}",
+        "value": "{base.brand.secondary}",
         "type": "color"
       },
       "confirme-mail": {
@@ -1219,7 +1221,7 @@
         "description": "Used for active and new stories that the user has not yet viewed"
       },
       "auxiliary": {
-        "value": "{base.secondary}",
+        "value": "{base.brand.secondary}",
         "type": "color",
         "description": "Used to highlight the active step the user is on"
       },
@@ -1315,7 +1317,7 @@
           "description": "Default stroke root field text"
         },
         "focused": {
-          "value": "{base.secondary}",
+          "value": "{base.brand.secondary}",
           "type": "color",
           "description": "The root of interaction with the text field "
         },
