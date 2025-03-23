@@ -20,7 +20,7 @@
         "type": "color"
       },
       "300": {
-        "value": "rgba(255,255,255,0.6)",
+        "value": "rgba(255,255,255,0.7)",
         "type": "color"
       },
       "400": {
@@ -152,949 +152,799 @@
     }
   },
   "contextual": {
-    "organisms": {
-      "tab-bar": {
-        "background": {
-          "value": "{core.black.200}",
+    "tab-bar": {
+      "background": {
+        "value": "{core.black.200}",
+        "type": "color",
+        "description": "Used for the background of the tab bar container"
+      },
+      "buttons-main": {
+        "value": "{core.brand.primery}",
+        "type": "color",
+        "description": "It is used for the background of the main button of the tab bar"
+      },
+      "text": {
+        "active": {
+          "value": "#2dd890",
           "type": "color",
-          "description": "Used for the background of the tab bar container"
+          "description": "The color of the selected tab"
         },
-        "buttons-main": {
-          "value": "{core.brand.primery}",
+        "inactive": {
+          "value": "{core.neutral.100}",
           "type": "color",
-          "description": "It is used for the background of the main button of the tab bar"
+          "description": "Color of selected tab (used for text)"
         },
-        "text": {
-          "active": {
-            "value": "#2dd890",
-            "type": "color",
-            "description": "The color of the selected tab"
-          },
-          "inactive": {
-            "value": "{core.neutral.100}",
-            "type": "color",
-            "description": "Color of selected tab (used for text)"
-          },
-          "disabled": {
-            "value": "{core.white.400}",
-            "type": "color",
-            "description": "Used for inactive tabs"
-          }
-        },
-        "icon": {
-          "main": {
-            "value": "{core.white.100}",
-            "type": "color",
-            "description": "It is used for the tab bar main button icon"
-          },
-          "inactive": {
-            "value": "{core.neutral.100}",
-            "type": "color",
-            "description": "Color of inactive tab (used for icon)"
-          },
-          "active": {
-            "value": "#2dd890",
-            "type": "color",
-            "description": "Color of selected tab (used for icon)"
-          },
-          "disabled": {
-            "value": "{core.white.400}",
-            "type": "color",
-            "description": "Used for inactive tabs"
-          }
+        "disabled": {
+          "value": "{core.white.400}",
+          "type": "color",
+          "description": "Used for inactive tabs"
         }
       },
-      "bottom-sheet": {
-        "background": {
-          "value": "{semantic.background.primary}",
-          "type": "color"
-        }
-      },
-      "timer": {
-        "background": {
-          "value": "{semantic.background.accent}",
-          "type": "color"
+      "icon": {
+        "main": {
+          "value": "{core.white.100}",
+          "type": "color",
+          "description": "It is used for the tab bar main button icon"
+        },
+        "inactive": {
+          "value": "{core.neutral.100}",
+          "type": "color",
+          "description": "Color of inactive tab (used for icon)"
+        },
+        "active": {
+          "value": "#2dd890",
+          "type": "color",
+          "description": "Color of selected tab (used for icon)"
+        },
+        "disabled": {
+          "value": "{core.white.400}",
+          "type": "color",
+          "description": "Used for inactive tabs"
         }
       }
     },
-    "molecules": {
-      "button": {
-        "primary": {
-          "background": {
-            "enabled": {
-              "value": "linear-gradient(180deg, #5cd995 0%, #25a660 100%)",
-              "type": "color",
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "lighten",
-                    "value": "0",
-                    "space": "lch"
-                  }
-                }
-              },
-              "description": "The background of the enabled button"
-            },
-            "pressed": {
-              "value": "linear-gradient(180deg, #5cd995b3 0%, #25a660b3 100%)",
-              "type": "color",
-              "description": "The background of the pressed button"
-            },
-            "disabled": {
-              "value": "linear-gradient(180deg, #5cd99580 0%, #25a66080 100%)",
-              "type": "color",
-              "description": "The background of the disabled button"
-            },
-            "loading": {
-              "value": "linear-gradient(180deg, #5cd995 0%, #25a660 100%)",
-              "type": "color",
-              "description": "The background of the loading button"
-            }
-          },
-          "text": {
-            "enabled": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The text color of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffffcc",
-              "type": "color",
-              "description": "The text color of the pressed button"
-            },
-            "disabled": {
-              "value": "#ffffff80",
-              "type": "color",
-              "description": "The text color of the disabled button"
-            }
-          },
-          "icon": {
-            "enabled": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The icon color of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffffcc",
-              "type": "color",
-              "description": "The icon color of the pressed button"
-            },
-            "disabled": {
-              "value": "#ffffff80",
-              "type": "color",
-              "description": "The icon color of the disabled button"
-            },
-            "loading": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The icon color of the loading button"
-            }
-          },
-          "border": {
-            "enabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the enabled button"
-            },
-            "pressed": {
-              "value": "#25a66080",
-              "type": "color",
-              "description": "The border color of the pressed button"
-            },
-            "disabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the disabled button"
-            },
-            "loading": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the loading button"
-            }
-          }
-        },
-        "secondary": {
-          "background": {
-            "enabled": {
-              "value": "linear-gradient(180deg, #5899ff 0%, #0368ff 100%)",
-              "type": "color",
-              "description": "The background of the enabled button"
-            },
-            "pressed": {
-              "value": "linear-gradient(180deg, #5899ffb3 0%, #0368ffb3 100%)",
-              "type": "color",
-              "description": "The background of the pressed button"
-            },
-            "disabled": {
-              "value": "linear-gradient(180deg, #5899ff80 0%, #0368ff80 100%)",
-              "type": "color",
-              "description": "The background of the disabled button"
-            },
-            "loading": {
-              "value": "linear-gradient(180deg, #5899ff 0%, #0368ff 100%)",
-              "type": "color",
-              "description": "The background of the loading button"
-            }
-          },
-          "text": {
-            "enabled": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The text color of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffffcc",
-              "type": "color",
-              "description": "The text color of the pressed button"
-            },
-            "disabled": {
-              "value": "#ffffff80",
-              "type": "color",
-              "description": "The text color of the disabled button"
-            }
-          },
-          "icon": {
-            "enabled": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The icon color of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffffcc",
-              "type": "color",
-              "description": "The icon color of the pressed button"
-            },
-            "disabled": {
-              "value": "#ffffff80",
-              "type": "color",
-              "description": "The icon color of the disabled button"
-            },
-            "loading": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The icon color of the loading button"
-            }
-          },
-          "border": {
-            "enabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the enabled button"
-            },
-            "pressed": {
-              "value": "#0368ff80",
-              "type": "color",
-              "description": "The border color of the pressed button"
-            },
-            "disabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the disabled button"
-            },
-            "loading": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the loading button"
-            }
-          }
-        },
-        "tertiary": {
-          "background": {
-            "enabled": {
-              "value": "#294074",
-              "type": "color",
-              "description": "The background of the enabled button"
-            },
-            "pressed": {
-              "value": "#294074b3",
-              "type": "color",
-              "description": "The background of the pressed button"
-            },
-            "disabled": {
-              "value": "#29407480",
-              "type": "color",
-              "description": "The background of the disabled button"
-            },
-            "loading": {
-              "value": "#294074",
-              "type": "color",
-              "description": "The background of the loading button"
-            }
-          },
-          "text": {
-            "enabled": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The text color of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffffcc",
-              "type": "color",
-              "description": "The text color of the pressed button"
-            },
-            "disabled": {
-              "value": "#ffffff80",
-              "type": "color",
-              "description": "The text color of the disabled button"
-            }
-          },
-          "icon": {
-            "enabled": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The icon color of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffffcc",
-              "type": "color",
-              "description": "The icon color of the pressed button"
-            },
-            "disabled": {
-              "value": "#ffffff80",
-              "type": "color",
-              "description": "The icon color of the disabled button"
-            },
-            "loading": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The icon color of the loading button"
-            }
-          },
-          "border": {
-            "enabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the enabled button"
-            },
-            "pressed": {
-              "value": "#29407480",
-              "type": "color",
-              "description": "The border color of the pressed button"
-            },
-            "disabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the disabled button"
-            },
-            "loading": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the loading button"
-            }
-          }
-        },
-        "info": {
-          "background": {
-            "enabled": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The background of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffffcc",
-              "type": "color",
-              "description": "The background of the pressed button"
-            },
-            "disabled": {
-              "value": "#ffffff80",
-              "type": "color",
-              "description": "The background of the disabled button"
-            },
-            "loading": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The background of the loading button"
-            }
-          },
-          "text": {
-            "enabled": {
-              "value": "#0a132b",
-              "type": "color",
-              "description": "The text color of the enabled button"
-            },
-            "pressed": {
-              "value": "#0a132bcc",
-              "type": "color",
-              "description": "The text color of the pressed button"
-            },
-            "disabled": {
-              "value": "#0a132b80",
-              "type": "color",
-              "description": "The text color of the disabled button"
-            }
-          },
-          "icon": {
-            "enabled": {
-              "value": "#0a132b",
-              "type": "color",
-              "description": "The icon color of the enabled button"
-            },
-            "pressed": {
-              "value": "#0a132bcc",
-              "type": "color",
-              "description": "The icon color of the pressed button"
-            },
-            "disabled": {
-              "value": "#0a132b80",
-              "type": "color",
-              "description": "The icon color of the disabled button"
-            },
-            "loading": {
-              "value": "#0a132b",
-              "type": "color",
-              "description": "The icon color of the loading button"
-            }
-          },
-          "border": {
-            "enabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffff80",
-              "type": "color",
-              "description": "The border color of the pressed button"
-            },
-            "disabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the disabled button"
-            },
-            "loading": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the loading button"
-            }
-          }
-        },
-        "outlined": {
-          "text": {
-            "enabled": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The text color of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffffcc",
-              "type": "color",
-              "description": "The text color of the pressed button"
-            },
-            "disabled": {
-              "value": "#ffffff80",
-              "type": "color",
-              "description": "The text color of the disabled button"
-            }
-          },
-          "icon": {
-            "enabled": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The icon color of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffffcc",
-              "type": "color",
-              "description": "The icon color of the pressed button"
-            },
-            "disabled": {
-              "value": "#ffffff80",
-              "type": "color",
-              "description": "The icon color of the disabled button"
-            },
-            "loading": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The icon color of the loading button"
-            }
-          },
-          "border": {
-            "enabled": {
-              "value": "rgba(255,255,255,0.7)",
-              "type": "color",
-              "description": "The border color of the enabled button"
-            },
-            "pressed": {
-              "value": "rgba(255,255,255,0.2)",
-              "type": "color",
-              "description": "The border color of the pressed button"
-            },
-            "disabled": {
-              "value": "rgba(255,255,255,0.1)",
-              "type": "color"
-            },
-            "loading": {
-              "value": "rgba(255,255,255,0.7)",
-              "type": "color",
-              "description": "The border color of the loading button"
-            }
-          },
-          "background": {
-            "enabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The background of the enabled button"
-            },
-            "pressed": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The background of the pressed button"
-            },
-            "disabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The background of the disabled button"
-            },
-            "loading": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The background of the loading button"
-            }
-          }
-        },
-        "text": {
-          "background": {
-            "enabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The background of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffff1a",
-              "type": "color",
-              "description": "The background of the pressed button"
-            },
-            "disabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The background of the disabled button"
-            },
-            "loading": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The background of the loading button"
-            }
-          },
-          "text": {
-            "enabled": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The text color of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffffcc",
-              "type": "color",
-              "description": "The text color of the pressed button"
-            },
-            "disabled": {
-              "value": "#ffffff80",
-              "type": "color",
-              "description": "The text color of the disabled button"
-            }
-          },
-          "icon": {
-            "enabled": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The icon color of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffffcc",
-              "type": "color",
-              "description": "The icon color of the pressed button"
-            },
-            "disabled": {
-              "value": "#ffffff80",
-              "type": "color",
-              "description": "The icon color of the disabled button"
-            },
-            "loading": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The icon color of the loading button"
-            }
-          },
-          "border": {
-            "enabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffff80",
-              "type": "color",
-              "description": "The border color of the pressed button"
-            },
-            "disabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the disabled button"
-            },
-            "loading": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the loading button"
-            }
-          }
-        },
-        "danger": {
-          "background": {
-            "enabled": {
-              "value": "#ff1a51",
-              "type": "color",
-              "description": "The background of the enabled button"
-            },
-            "pressed": {
-              "value": "#ff1a51cc",
-              "type": "color",
-              "description": "The background of the pressed button"
-            },
-            "disabled": {
-              "value": "#ff1a5180",
-              "type": "color",
-              "description": "The background of the disabled button"
-            },
-            "loading": {
-              "value": "#ff1a51",
-              "type": "color",
-              "description": "The background of the loading button"
-            }
-          },
-          "text": {
-            "enabled": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The text color of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffffcc",
-              "type": "color",
-              "description": "The text color of the pressed button"
-            },
-            "disabled": {
-              "value": "#ffffff80",
-              "type": "color",
-              "description": "The text color of the disabled button"
-            }
-          },
-          "icon": {
-            "enabled": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The icon color of the enabled button"
-            },
-            "pressed": {
-              "value": "#ffffffcc",
-              "type": "color",
-              "description": "The icon color of the pressed button"
-            },
-            "disabled": {
-              "value": "#ffffff80",
-              "type": "color",
-              "description": "The icon color of the disabled button"
-            },
-            "loading": {
-              "value": "#ffffff",
-              "type": "color",
-              "description": "The icon color of the loading button"
-            }
-          },
-          "border": {
-            "enabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the enabled button"
-            },
-            "pressed": {
-              "value": "#ff1a5180",
-              "type": "color",
-              "description": "The border color of the pressed button"
-            },
-            "disabled": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the disabled button"
-            },
-            "loading": {
-              "value": "#00000000",
-              "type": "color",
-              "description": "The border color of the loading button"
-            }
-          }
-        }
-      },
-      "text-fields": {
+    "button": {
+      "primary": {
         "background": {
-          "default": {
-            "value": "#00000000",
+          "enabled": {
+            "value": "linear-gradient(180deg, #5cd995 0%, #25a660 100%)",
             "type": "color",
-            "description": "Field text used for the background"
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "0",
+                  "space": "lch"
+                }
+              }
+            },
+            "description": "The background of the enabled button"
           },
-          "cursor": {
-            "value": "{semantic.icon.brand}",
+          "pressed": {
+            "value": "linear-gradient(180deg, #5cd995b3 0%, #25a660b3 100%)",
             "type": "color",
-            "description": "Used for the cursor when focusing with a text field"
+            "description": "The background of the pressed button"
+          },
+          "disabled": {
+            "value": "linear-gradient(180deg, #5cd99580 0%, #25a66080 100%)",
+            "type": "color",
+            "description": "The background of the disabled button"
+          },
+          "loading": {
+            "value": "linear-gradient(180deg, #5cd995 0%, #25a660 100%)",
+            "type": "color",
+            "description": "The background of the loading button"
           }
         },
         "text": {
-          "value": {
-            "value": "{core.white.100}",
+          "enabled": {
+            "value": "#ffffff",
             "type": "color",
-            "description": "The color is used for the written text"
+            "description": "The text color of the enabled button"
           },
-          "label": {
-            "value": "{core.neutral.100}",
+          "pressed": {
+            "value": "#ffffffcc",
             "type": "color",
-            "description": "The color used for the label of the field text"
+            "description": "The text color of the pressed button"
           },
-          "success": {
-            "value": "{core.green.01}",
+          "disabled": {
+            "value": "#ffffff80",
             "type": "color",
-            "description": "For successful text support"
-          },
-          "danger": {
-            "value": "{core.red.01}",
-            "type": "color",
-            "description": "For erroneous text support"
-          },
-          "warning": {
-            "value": "{semantic.border.warning}",
-            "type": "color",
-            "description": "To warning text support"
+            "description": "The text color of the disabled button"
           }
         },
         "icon": {
-          "right-Icon": {
-            "value": "{core.white.100}",
+          "enabled": {
+            "value": "#ffffff",
             "type": "color",
-            "description": "The color for the active icon and the one you can interact with"
+            "description": "The icon color of the enabled button"
           },
-          "left-icon": {
-            "value": "{core.neutral.100}",
+          "pressed": {
+            "value": "#ffffffcc",
             "type": "color",
-            "description": "Default icon on the level and cannot be interacted with"
+            "description": "The icon color of the pressed button"
           },
-          "success": {
-            "value": "{core.green.01}",
+          "disabled": {
+            "value": "#ffffff80",
             "type": "color",
-            "description": "For an icon that shows success"
+            "description": "The icon color of the disabled button"
           },
-          "danger": {
-            "value": "{core.red.01}",
+          "loading": {
+            "value": "#ffffff",
             "type": "color",
-            "description": "For an icon that shows errors"
-          },
-          "warning": {
-            "value": "{core.orange.01}",
-            "type": "color",
-            "description": "For an icon that shows warnings"
+            "description": "The icon color of the loading button"
           }
         },
         "border": {
-          "default": {
-            "value": "{core.neutral.200}",
+          "enabled": {
+            "value": "#00000000",
             "type": "color",
-            "description": "Default stroke root field text"
+            "description": "The border color of the enabled button"
           },
-          "focused": {
-            "value": "{core.brand.secondary}",
+          "pressed": {
+            "value": "#25a66080",
             "type": "color",
-            "description": "The root of interaction with the text field "
+            "description": "The border color of the pressed button"
           },
-          "success": {
-            "value": "{core.green.01}",
+          "disabled": {
+            "value": "#00000000",
             "type": "color",
-            "description": "Successful action color for border"
+            "description": "The border color of the disabled button"
           },
-          "danger": {
-            "value": "{core.red.01}",
+          "loading": {
+            "value": "#00000000",
             "type": "color",
-            "description": "Error color for the border"
-          },
-          "warning": {
-            "value": "{core.orange.01}",
-            "type": "color",
-            "description": "Warning color for the border"
+            "description": "The border color of the loading button"
           }
         }
       },
-      "tooltip": {
+      "secondary": {
         "background": {
-          "value": "{semantic.background.accent}",
-          "type": "color"
-        },
-        "text-default": {
-          "value": "{semantic.text.on-light.primary}",
-          "type": "color"
-        },
-        "icon-default": {
-          "value": "{semantic.icon.on-light.primary}",
-          "type": "color"
-        }
-      },
-      "checkboxes": {
-        "background": {
-          "default": {
-            "value": "#00000000",
-            "type": "color"
+          "enabled": {
+            "value": "linear-gradient(180deg, #5899ff 0%, #0368ff 100%)",
+            "type": "color",
+            "description": "The background of the enabled button"
           },
-          "selected": {
-            "value": "{semantic.background.auxiliary}",
-            "type": "color"
+          "pressed": {
+            "value": "linear-gradient(180deg, #5899ffb3 0%, #0368ffb3 100%)",
+            "type": "color",
+            "description": "The background of the pressed button"
           },
-          "border": {
-            "default": {
-              "value": "{semantic.border.on-dark.secondary}",
-              "type": "color"
-            },
-            "selected": {
-              "value": "#0000000",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "tabs": {
-        "background": {
-          "active": {
-            "value": "{semantic.background.brand}",
-            "type": "color"
+          "disabled": {
+            "value": "linear-gradient(180deg, #5899ff80 0%, #0368ff80 100%)",
+            "type": "color",
+            "description": "The background of the disabled button"
           },
-          "default": {
-            "value": "#00000000",
-            "type": "color"
+          "loading": {
+            "value": "linear-gradient(180deg, #5899ff 0%, #0368ff 100%)",
+            "type": "color",
+            "description": "The background of the loading button"
           }
         },
         "text": {
-          "active": {
-            "value": "{semantic.text.on-dark.primary}",
-            "type": "color"
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The text color of the enabled button"
           },
-          "default": {
-            "value": "{semantic.text.on-dark.secondary}",
-            "type": "color"
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The text color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The text color of the disabled button"
           }
         },
         "icon": {
-          "active": {
-            "value": "{semantic.icon.on-dark.primary}",
-            "type": "color"
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the enabled button"
           },
-          "default": {
-            "value": "{semantic.icon.on-dark.secondary}",
-            "type": "color"
-          }
-        }
-      },
-      "item": {
-        "list": {
-          "icon": {
-            "default": {
-              "value": "{semantic.icon.on-dark.primary}",
-              "type": "color"
-            },
-            "select": {
-              "value": "{semantic.icon.brand}",
-              "type": "color"
-            }
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The icon color of the pressed button"
           },
-          "text": {
-            "value": {
-              "value": "{semantic.text.on-dark.primary}",
-              "type": "color"
-            },
-            "status": {
-              "value": "{semantic.text.on-dark.secondary}",
-              "type": "color"
-            }
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The icon color of the disabled button"
           },
-          "divider": {
-            "value": "{semantic.border.static.tertiary}",
-            "type": "color"
+          "loading": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the loading button"
           }
         },
-        "tab": {
-          "background": {
-            "value": "{semantic.background.card}",
-            "type": "color"
+        "border": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the enabled button"
           },
-          "text": {
-            "default": {
-              "value": "{semantic.text.on-dark.primary}",
-              "type": "color"
-            },
-            "status": {
-              "value": "{semantic.text.on-dark.secondary}",
-              "type": "color"
-            }
+          "pressed": {
+            "value": "#0368ff80",
+            "type": "color",
+            "description": "The border color of the pressed button"
           },
-          "icon": {
-            "default": {
-              "value": "{semantic.icon.static.primary}",
-              "type": "color"
-            },
-            "static": {
-              "value": "{semantic.icon.on-dark.tertiary}",
-              "type": "color"
-            }
+          "disabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the disabled button"
+          },
+          "loading": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the loading button"
           }
         }
       },
-      "switch": {
-        "primary": {
-          "background": {
-            "default": {
-              "value": "{semantic.background.tertiary}",
-              "type": "color"
-            },
-            "selected": {
-              "value": "{semantic.background.auxiliary}",
-              "type": "color"
-            }
-          },
-          "handle": {
-            "default": {
-              "value": "{semantic.background.accent}",
-              "type": "color"
-            },
-            "selected": {
-              "value": "{semantic.background.accent}",
-              "type": "color"
-            }
-          }
-        },
-        "secondary": {
-          "background": {
-            "default": {
-              "value": "{semantic.background.overlay.Ghost-1}",
-              "type": "color"
-            },
-            "selected": {
-              "value": "{semantic.background.auxiliary}",
-              "type": "color"
-            }
-          },
-          "handle": {
-            "default": {
-              "value": "{semantic.background.accent}",
-              "type": "color"
-            },
-            "selected": {
-              "value": "{semantic.background.accent}",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "radiobuttons": {
+      "tertiary": {
         "background": {
+          "enabled": {
+            "value": "#294074",
+            "type": "color",
+            "description": "The background of the enabled button"
+          },
+          "pressed": {
+            "value": "#294074b3",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "disabled": {
+            "value": "#29407480",
+            "type": "color",
+            "description": "The background of the disabled button"
+          },
+          "loading": {
+            "value": "#294074",
+            "type": "color",
+            "description": "The background of the loading button"
+          }
+        },
+        "text": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The text color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          }
+        },
+        "icon": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The icon color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "loading": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the loading button"
+          }
+        },
+        "border": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          },
+          "pressed": {
+            "value": "#29407480",
+            "type": "color",
+            "description": "The border color of the pressed button"
+          },
+          "disabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the disabled button"
+          },
+          "loading": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the loading button"
+          }
+        }
+      },
+      "info": {
+        "background": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The background of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The background of the disabled button"
+          },
+          "loading": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The background of the loading button"
+          }
+        },
+        "text": {
+          "enabled": {
+            "value": "#0a132b",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "pressed": {
+            "value": "#0a132bcc",
+            "type": "color",
+            "description": "The text color of the pressed button"
+          },
+          "disabled": {
+            "value": "#0a132b80",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          }
+        },
+        "icon": {
+          "enabled": {
+            "value": "#0a132b",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          },
+          "pressed": {
+            "value": "#0a132bcc",
+            "type": "color",
+            "description": "The icon color of the pressed button"
+          },
+          "disabled": {
+            "value": "#0a132b80",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "loading": {
+            "value": "#0a132b",
+            "type": "color",
+            "description": "The icon color of the loading button"
+          }
+        },
+        "border": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The border color of the pressed button"
+          },
+          "disabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the disabled button"
+          },
+          "loading": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the loading button"
+          }
+        }
+      },
+      "outlined": {
+        "text": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The text color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          }
+        },
+        "icon": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The icon color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "loading": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the loading button"
+          }
+        },
+        "border": {
+          "enabled": {
+            "value": "rgba(255,255,255,0.7)",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          },
+          "pressed": {
+            "value": "rgba(255,255,255,0.2)",
+            "type": "color",
+            "description": "The border color of the pressed button"
+          },
+          "disabled": {
+            "value": "rgba(255,255,255,0.1)",
+            "type": "color"
+          },
+          "loading": {
+            "value": "rgba(255,255,255,0.7)",
+            "type": "color",
+            "description": "The border color of the loading button"
+          }
+        },
+        "background": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The background of the enabled button"
+          },
+          "pressed": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "disabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The background of the disabled button"
+          },
+          "loading": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The background of the loading button"
+          }
+        }
+      },
+      "text": {
+        "background": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The background of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffff1a",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "disabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The background of the disabled button"
+          },
+          "loading": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The background of the loading button"
+          }
+        },
+        "text": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The text color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          }
+        },
+        "icon": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The icon color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "loading": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the loading button"
+          }
+        },
+        "border": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The border color of the pressed button"
+          },
+          "disabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the disabled button"
+          },
+          "loading": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the loading button"
+          }
+        }
+      },
+      "danger": {
+        "background": {
+          "enabled": {
+            "value": "#ff1a51",
+            "type": "color",
+            "description": "The background of the enabled button"
+          },
+          "pressed": {
+            "value": "#ff1a51cc",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "disabled": {
+            "value": "#ff1a5180",
+            "type": "color",
+            "description": "The background of the disabled button"
+          },
+          "loading": {
+            "value": "#ff1a51",
+            "type": "color",
+            "description": "The background of the loading button"
+          }
+        },
+        "text": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The text color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          }
+        },
+        "icon": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ffffffcc",
+            "type": "color",
+            "description": "The icon color of the pressed button"
+          },
+          "disabled": {
+            "value": "#ffffff80",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "loading": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "The icon color of the loading button"
+          }
+        },
+        "border": {
+          "enabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          },
+          "pressed": {
+            "value": "#ff1a5180",
+            "type": "color",
+            "description": "The border color of the pressed button"
+          },
+          "disabled": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the disabled button"
+          },
+          "loading": {
+            "value": "#00000000",
+            "type": "color",
+            "description": "The border color of the loading button"
+          }
+        }
+      }
+    },
+    "text-fields": {
+      "background": {
+        "default": {
+          "value": "#00000000",
+          "type": "color",
+          "description": "Field text used for the background"
+        },
+        "cursor": {
+          "value": "{semantic.icon.brand}",
+          "type": "color",
+          "description": "Used for the cursor when focusing with a text field"
+        }
+      },
+      "text": {
+        "value": {
+          "value": "{core.white.100}",
+          "type": "color",
+          "description": "The color is used for the written text"
+        },
+        "label": {
+          "value": "{core.neutral.100}",
+          "type": "color",
+          "description": "The color used for the label of the field text"
+        },
+        "success": {
+          "value": "{core.green.01}",
+          "type": "color",
+          "description": "For successful text support"
+        },
+        "danger": {
+          "value": "{core.red.01}",
+          "type": "color",
+          "description": "For erroneous text support"
+        },
+        "warning": {
+          "value": "{semantic.border.warning}",
+          "type": "color",
+          "description": "To warning text support"
+        }
+      },
+      "icon": {
+        "right-Icon": {
+          "value": "{core.white.100}",
+          "type": "color",
+          "description": "The color for the active icon and the one you can interact with"
+        },
+        "left-icon": {
+          "value": "{core.neutral.100}",
+          "type": "color",
+          "description": "Default icon on the level and cannot be interacted with"
+        },
+        "success": {
+          "value": "{core.green.01}",
+          "type": "color",
+          "description": "For an icon that shows success"
+        },
+        "danger": {
+          "value": "{core.red.01}",
+          "type": "color",
+          "description": "For an icon that shows errors"
+        },
+        "warning": {
+          "value": "{core.orange.01}",
+          "type": "color",
+          "description": "For an icon that shows warnings"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{core.neutral.200}",
+          "type": "color",
+          "description": "Default stroke root field text"
+        },
+        "focused": {
+          "value": "{core.brand.secondary}",
+          "type": "color",
+          "description": "The root of interaction with the text field "
+        },
+        "success": {
+          "value": "{core.green.01}",
+          "type": "color",
+          "description": "Successful action color for border"
+        },
+        "danger": {
+          "value": "{core.red.01}",
+          "type": "color",
+          "description": "Error color for the border"
+        },
+        "warning": {
+          "value": "{core.orange.01}",
+          "type": "color",
+          "description": "Warning color for the border"
+        }
+      }
+    },
+    "tooltip": {
+      "background": {
+        "value": "{semantic.background.accent}",
+        "type": "color"
+      },
+      "text-default": {
+        "value": "{semantic.text.on-light.primary}",
+        "type": "color"
+      },
+      "icon-default": {
+        "value": "{semantic.icon.on-light.primary}",
+        "type": "color"
+      }
+    },
+    "tabs": {
+      "background": {
+        "active": {
+          "value": "{core.brand.primery}",
+          "type": "color"
+        },
+        "default": {
           "value": "#00000000",
           "type": "color"
         }
       },
-      "chips": {
-        "primary": {
-          "value": "{core.black.100}",
+      "text": {
+        "active": {
+          "value": "{core.white.100}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{core.white.300}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "active": {
+          "value": "{core.white.100}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{core.white.300}",
           "type": "color"
         }
       }
@@ -1528,304 +1378,6 @@
       }
     }
   },
-  "fontFamilies": {
-    "inter": {
-      "value": "Inter",
-      "type": "fontFamilies"
-    }
-  },
-  "lineHeights": {
-    "0": {
-      "value": "48",
-      "type": "lineHeights"
-    },
-    "1": {
-      "value": "44",
-      "type": "lineHeights"
-    },
-    "2": {
-      "value": "30",
-      "type": "lineHeights"
-    },
-    "3": {
-      "value": "22",
-      "type": "lineHeights"
-    },
-    "4": {
-      "value": "18",
-      "type": "lineHeights"
-    },
-    "5": {
-      "value": "16",
-      "type": "lineHeights"
-    },
-    "6": {
-      "value": "12",
-      "type": "lineHeights"
-    },
-    "7": {
-      "value": "36",
-      "type": "lineHeights"
-    }
-  },
-  "fontWeights": {
-    "inter-0": {
-      "value": "Black Italic",
-      "type": "fontWeights"
-    },
-    "inter-1": {
-      "value": "Semi Bold",
-      "type": "fontWeights"
-    },
-    "inter-2": {
-      "value": "Medium",
-      "type": "fontWeights"
-    },
-    "inter-3": {
-      "value": "Bold",
-      "type": "fontWeights"
-    },
-    "inter-4": {
-      "value": "Regular",
-      "type": "fontWeights"
-    }
-  },
-  "fontSize": {
-    "0": {
-      "value": "10",
-      "type": "fontSizes"
-    },
-    "1": {
-      "value": "12",
-      "type": "fontSizes"
-    },
-    "2": {
-      "value": "14",
-      "type": "fontSizes"
-    },
-    "3": {
-      "value": "16",
-      "type": "fontSizes"
-    },
-    "4": {
-      "value": "20",
-      "type": "fontSizes"
-    },
-    "5": {
-      "value": "24",
-      "type": "fontSizes"
-    },
-    "6": {
-      "value": "40",
-      "type": "fontSizes"
-    },
-    "7": {
-      "value": "48",
-      "type": "fontSizes"
-    },
-    "8": {
-      "value": "30",
-      "type": "fontSizes"
-    },
-    "9": {
-      "value": "18",
-      "type": "fontSizes"
-    }
-  },
-  "Display": {
-    "Disp1_Black italic_30": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-0}",
-        "lineHeight": "{lineHeights.7}",
-        "fontSize": "{fontSize.8}"
-      },
-      "type": "typography"
-    }
-  },
-  "Headline": {
-    "H1_Bold_30": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-3}",
-        "lineHeight": "{lineHeights.7}",
-        "fontSize": "{fontSize.8}"
-      },
-      "type": "typography"
-    },
-    "H2_Semibold_24": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-1}",
-        "lineHeight": "{lineHeights.2}",
-        "fontSize": "{fontSize.5}"
-      },
-      "type": "typography"
-    },
-    "H3_Semibold_20": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-1}",
-        "lineHeight": "{lineHeights.3}",
-        "fontSize": "{fontSize.4}"
-      },
-      "type": "typography"
-    },
-    "H4_Medium_18": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-2}",
-        "lineHeight": "{lineHeights.3}",
-        "fontSize": "{fontSize.9}"
-      },
-      "type": "typography"
-    }
-  },
-  "Subtitle": {
-    "Subt1_Bold_16": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-3}",
-        "lineHeight": "{lineHeights.3}",
-        "fontSize": "{fontSize.3}"
-      },
-      "type": "typography"
-    },
-    "Subt2_Semibold_14": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-1}",
-        "lineHeight": "{lineHeights.4}",
-        "fontSize": "{fontSize.2}"
-      },
-      "type": "typography"
-    }
-  },
-  "Body": {
-    "Body1_Regular_16": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-4}",
-        "lineHeight": "{lineHeights.3}",
-        "fontSize": "{fontSize.3}"
-      },
-      "type": "typography"
-    },
-    "Body2_Medium_16": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-2}",
-        "lineHeight": "{lineHeights.3}",
-        "fontSize": "{fontSize.3}"
-      },
-      "type": "typography"
-    },
-    "Body3_Regular_14": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-4}",
-        "lineHeight": "{lineHeights.4}",
-        "fontSize": "{fontSize.2}"
-      },
-      "type": "typography"
-    },
-    "Body4_Medium_14": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-2}",
-        "lineHeight": "{lineHeights.4}",
-        "fontSize": "{fontSize.2}"
-      },
-      "type": "typography"
-    }
-  },
-  "Caption": {
-    "Capt1_Regular_12": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-4}",
-        "lineHeight": "{lineHeights.5}",
-        "fontSize": "{fontSize.1}"
-      },
-      "type": "typography"
-    },
-    "Capt2_Medium_12": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-2}",
-        "lineHeight": "{lineHeights.5}",
-        "fontSize": "{fontSize.1}"
-      },
-      "type": "typography"
-    },
-    "Capt1_Bold_12": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-1}",
-        "lineHeight": "{lineHeights.5}",
-        "fontSize": "{fontSize.1}"
-      },
-      "type": "typography"
-    },
-    "Capt3_Regular_10": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-4}",
-        "lineHeight": "{lineHeights.6}",
-        "fontSize": "{fontSize.0}"
-      },
-      "type": "typography"
-    },
-    "Capt4_Semibold_10": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-1}",
-        "lineHeight": "{lineHeights.6}",
-        "fontSize": "{fontSize.0}"
-      },
-      "type": "typography"
-    }
-  },
-  "Button": {
-    "Medium_14": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-2}",
-        "lineHeight": "{lineHeights.4}",
-        "fontSize": "{fontSize.2}"
-      },
-      "type": "typography"
-    },
-    "Medium_16": {
-      "value": {
-        "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-2}",
-        "lineHeight": "{lineHeights.4}",
-        "fontSize": "{fontSize.3}"
-      },
-      "type": "typography"
-    }
-  },
-  "textCase": {
-    "none": {
-      "value": "none",
-      "type": "textCase"
-    }
-  },
-  "textDecoration": {
-    "none": {
-      "value": "none",
-      "type": "textDecoration"
-    },
-    "underline": {
-      "value": "underline",
-      "type": "textDecoration"
-    },
-    "line-through": {
-      "value": "line-through",
-      "type": "textDecoration"
-    }
-  },
   "card": {
     "value": "12",
     "type": "borderRadius"
@@ -1841,78 +1393,6 @@
   "button-s": {
     "value": "8",
     "type": "borderRadius"
-  },
-  "min-width": {
-    "button-s": {
-      "value": "62",
-      "type": "sizing"
-    },
-    "button-m": {
-      "value": "80",
-      "type": "sizing"
-    },
-    "button-l": {
-      "value": "104",
-      "type": "sizing"
-    },
-    "text-fields": {
-      "value": "120",
-      "type": "sizing"
-    },
-    "search": {
-      "value": "300",
-      "type": "sizing"
-    },
-    "chips-s": {
-      "value": "46",
-      "type": "sizing"
-    },
-    "chips-m": {
-      "value": "56",
-      "type": "sizing"
-    },
-    "fab": {
-      "value": "40",
-      "type": "sizing"
-    }
-  },
-  "min-height": {
-    "buttun-s": {
-      "value": "32",
-      "type": "sizing"
-    },
-    "button-m": {
-      "value": "40",
-      "type": "sizing"
-    },
-    "button-l": {
-      "value": "48",
-      "type": "sizing"
-    },
-    "text-fields": {
-      "value": "48",
-      "type": "sizing"
-    },
-    "search": {
-      "value": "48",
-      "type": "sizing"
-    },
-    "chips-xs": {
-      "value": "16",
-      "type": "sizing"
-    },
-    "chips-s": {
-      "value": "24",
-      "type": "sizing"
-    },
-    "chips-m": {
-      "value": "32",
-      "type": "sizing"
-    },
-    "fab": {
-      "value": "40",
-      "type": "sizing"
-    }
   },
   "text-fields": {
     "value": "8",
@@ -1934,195 +1414,367 @@
     "value": "24",
     "type": "borderRadius"
   },
-  "opacity": {
-    "0": {
-      "value": "0",
-      "type": "opacity"
-    },
-    "01": {
-      "value": "0.10",
-      "type": "opacity"
-    },
-    "015": {
-      "value": "0.15",
-      "type": "opacity"
-    },
-    "02": {
-      "value": "0.2",
-      "type": "opacity"
-    },
-    "03": {
-      "value": "0.3",
-      "type": "opacity"
-    },
-    "04": {
-      "value": "0.4",
-      "type": "opacity"
-    },
-    "05": {
-      "value": "0.5",
-      "type": "opacity"
-    },
-    "06": {
-      "value": "0.6",
-      "type": "opacity"
-    },
-    "07": {
-      "value": "0.7",
-      "type": "opacity"
-    },
-    "08": {
-      "value": "0.8",
-      "type": "opacity"
-    },
-    "09": {
-      "value": "0.9",
-      "type": "opacity"
-    }
-  },
   "chips": {
     "value": "56",
     "type": "borderRadius"
-  },
-  "Winning now": {
-    "value": {
-      "x": "0",
-      "y": "0",
-      "blur": "12",
-      "spread": "0",
-      "color": "rgba(0,0,0,0.5)",
-      "type": "dropShadow"
-    },
-    "type": "boxShadow"
-  },
-  "blur": {
-    "chips": {
-      "value": "12px",
-      "type": "dimension"
-    },
-    "tab-bar": {
-      "value": "16px",
-      "type": "dimension"
-    },
-    "nav-bars": {
-      "value": "16px",
-      "type": "dimension"
-    },
-    "story": {
-      "value": "8px",
-      "type": "dimension"
-    }
-  },
-  "text-field-active": {
-    "value": "2",
-    "type": "borderWidth"
-  },
-  "text-field-default": {
-    "value": "1",
-    "type": "borderWidth"
-  },
-  "search": {
-    "value": "1",
-    "type": "borderWidth"
-  },
-  "item": {
-    "value": "1",
-    "type": "borderWidth"
-  },
-  "checkboxes": {
-    "value": "1.5",
-    "type": "borderWidth"
-  },
-  "radio-buttons": {
-    "value": "1.5",
-    "type": "borderWidth"
-  },
-  "story": {
-    "value": "2",
-    "type": "borderWidth"
-  },
-  "button-pressed": {
-    "value": "4",
-    "type": "borderWidth"
   },
   "fabs": {
     "value": "8",
     "type": "borderRadius"
   },
+  "fontFamilies": {
+    "inter": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    }
+  },
+  "lineHeights": {
+    "0": {
+      "value": "36",
+      "type": "lineHeights"
+    },
+    "1": {
+      "value": "30",
+      "type": "lineHeights"
+    },
+    "2": {
+      "value": "22",
+      "type": "lineHeights"
+    },
+    "3": {
+      "value": "18",
+      "type": "lineHeights"
+    },
+    "4": {
+      "value": "16",
+      "type": "lineHeights"
+    },
+    "5": {
+      "value": "12",
+      "type": "lineHeights"
+    },
+    "6": {
+      "value": "10",
+      "type": "lineHeights"
+    }
+  },
+  "fontWeights": {
+    "inter-0": {
+      "value": "Black Italic",
+      "type": "fontWeights"
+    },
+    "inter-1": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "inter-2": {
+      "value": "Semi Bold",
+      "type": "fontWeights"
+    },
+    "inter-3": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "inter-4": {
+      "value": "Medium",
+      "type": "fontWeights"
+    }
+  },
+  "fontSize": {
+    "0": {
+      "value": "9",
+      "type": "fontSizes"
+    },
+    "1": {
+      "value": "10",
+      "type": "fontSizes"
+    },
+    "2": {
+      "value": "12",
+      "type": "fontSizes"
+    },
+    "3": {
+      "value": "14",
+      "type": "fontSizes"
+    },
+    "4": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "5": {
+      "value": "18",
+      "type": "fontSizes"
+    },
+    "6": {
+      "value": "20",
+      "type": "fontSizes"
+    },
+    "7": {
+      "value": "24",
+      "type": "fontSizes"
+    },
+    "8": {
+      "value": "30",
+      "type": "fontSizes"
+    }
+  },
+  "display": {
+    "disp1_black-italic_30": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-0}",
+        "fontSize": "{fontSize.8}",
+        "lineHeight": "{lineHeights.0}"
+      },
+      "type": "typography"
+    }
+  },
+  "headline": {
+    "head1_bold_30": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-1}",
+        "lineHeight": "{lineHeights.0}",
+        "fontSize": "{fontSize.8}"
+      },
+      "type": "typography"
+    },
+    "head2_semibold_24": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.1}",
+        "fontSize": "{fontSize.7}"
+      },
+      "type": "typography"
+    },
+    "head3_semibold_20": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.2}",
+        "fontSize": "{fontSize.6}"
+      },
+      "type": "typography"
+    },
+    "head4_semibold_18": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.2}",
+        "fontSize": "{fontSize.5}"
+      },
+      "type": "typography"
+    }
+  },
+  "subtitle": {
+    "subt1_bold_16": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-1}",
+        "lineHeight": "{lineHeights.2}",
+        "fontSize": "{fontSize.4}"
+      },
+      "type": "typography"
+    },
+    "subt2_semibold_16": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.2}",
+        "fontSize": "{fontSize.4}"
+      },
+      "type": "typography"
+    },
+    "subt3_bold_14": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-1}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.3}"
+      },
+      "type": "typography"
+    },
+    "subt4_semibold_14": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.2}",
+        "fontSize": "{fontSize.4}"
+      },
+      "type": "typography"
+    }
+  },
+  "body": {
+    "body1_regular_16": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-3}",
+        "lineHeight": "{lineHeights.2}",
+        "fontSize": "{fontSize.4}"
+      },
+      "type": "typography"
+    },
+    "body1_medium_16": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-4}",
+        "lineHeight": "{lineHeights.2}",
+        "fontSize": "{fontSize.4}"
+      },
+      "type": "typography"
+    },
+    "body3_regular_14": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-3}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.3}"
+      },
+      "type": "typography"
+    },
+    "body4_medium_14": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-4}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.3}"
+      },
+      "type": "typography"
+    }
+  },
+  "footnote": {
+    "foot1_bold_12": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSize.2}"
+      },
+      "type": "typography"
+    },
+    "foot2_semibold_12": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSize.2}"
+      },
+      "type": "typography"
+    },
+    "foot3_medium_12": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-4}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSize.2}"
+      },
+      "type": "typography"
+    },
+    "foot4_regular_12": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-3}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSize.2}"
+      },
+      "type": "typography"
+    }
+  },
+  "caption": {
+    "capt1_bold_10": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-1}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.1}"
+      },
+      "type": "typography"
+    },
+    "capt2_semibold_10": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.1}"
+      },
+      "type": "typography"
+    },
+    "capt3_medium_10": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-4}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.1}"
+      },
+      "type": "typography"
+    },
+    "capt4_regular_10": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-3}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSize.1}"
+      },
+      "type": "typography"
+    }
+  },
+  "small": {
+    "smal1_semibold_9": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-2}",
+        "lineHeight": "{lineHeights.6}",
+        "fontSize": "{fontSize.0}"
+      },
+      "type": "typography"
+    },
+    "smal2_medium_9": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-4}",
+        "lineHeight": "{lineHeights.6}",
+        "fontSize": "{fontSize.0}"
+      },
+      "type": "typography"
+    },
+    "smal3_regular_9": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-3}",
+        "lineHeight": "{lineHeights.6}",
+        "fontSize": "{fontSize.0}"
+      },
+      "type": "typography"
+    }
+  },
   "button": {
-    "value": "1",
-    "type": "borderWidth"
-  },
-  "fabs-pressed": {
-    "value": "4",
-    "type": "borderWidth"
-  },
-  "fab": {
-    "value": "1",
-    "type": "borderWidth"
-  },
-  "jackpot-bg": {
-    "value": [
-      {
-        "x": "0",
-        "y": "0",
-        "blur": "12",
-        "spread": "0",
-        "color": "#006CFF",
-        "type": "innerShadow"
+    "large_16": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-4}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.4}"
       },
-      {
-        "x": "0",
-        "y": "0",
-        "blur": "8",
-        "spread": "0",
-        "color": "#006CFF",
-        "type": "dropShadow"
-      }
-    ],
-    "type": "boxShadow"
-  },
-  "jackpot-title": {
-    "value": [
-      {
-        "x": "2",
-        "y": "2",
-        "blur": "0",
-        "spread": "0",
-        "color": "rgba(14,99,64,0.4)",
-        "type": "dropShadow"
+      "type": "typography"
+    },
+    "medium_14": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-4}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.3}"
       },
-      {
-        "x": "0",
-        "y": "0",
-        "blur": "16",
-        "spread": "0",
-        "color": "rgba(56,255,192,0.4)",
-        "type": "dropShadow"
-      }
-    ],
-    "type": "boxShadow"
-  },
-  "jackpot-prize": {
-    "value": {
-      "x": "0",
-      "y": "0",
-      "blur": "12",
-      "spread": "0",
-      "color": "#006CFF",
-      "type": "dropShadow"
+      "type": "typography"
     },
-    "type": "boxShadow"
-  },
-  "story-title": {
-    "value": {
-      "x": "4",
-      "y": "4",
-      "blur": "0",
-      "spread": "0",
-      "color": "rgba(14,23,52,0.5)",
-      "type": "dropShadow"
-    },
-    "type": "boxShadow"
+    "small_14": {
+      "value": {
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-4}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSize.3}"
+      },
+      "type": "typography"
+    }
   }
 }

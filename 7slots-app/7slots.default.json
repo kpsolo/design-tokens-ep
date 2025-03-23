@@ -1641,10 +1641,6 @@
       "type": "textDecoration"
     }
   },
-  "card": {
-    "value": "12",
-    "type": "borderRadius"
-  },
   "button-l": {
     "value": "8",
     "type": "borderRadius"
