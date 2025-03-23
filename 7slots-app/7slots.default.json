@@ -158,12 +158,12 @@
   "сomponent": {
     "tab-bar": {
       "background": {
-        "value": "{core.black.200}",
+        "value": "{core.black.100}",
         "type": "color",
         "description": "Used for the background of the tab bar container"
       },
       "buttons-main": {
-        "value": "{core.brand.primery}",
+        "value": "{core.brand.accent.100}",
         "type": "color",
         "description": "It is used for the background of the main button of the tab bar"
       },
@@ -179,14 +179,14 @@
           "description": "Color of selected tab (used for text)"
         },
         "disabled": {
-          "value": "{core.white.400}",
+          "value": "{core.white.500}",
           "type": "color",
           "description": "Used for inactive tabs"
         }
       },
       "icon": {
         "main": {
-          "value": "{core.white.100}",
+          "value": "{core.white.50}",
           "type": "color",
           "description": "It is used for the tab bar main button icon"
         },
@@ -201,7 +201,7 @@
           "description": "Color of selected tab (used for icon)"
         },
         "disabled": {
-          "value": "{core.white.400}",
+          "value": "{core.white.500}",
           "type": "color",
           "description": "Used for inactive tabs"
         }
@@ -815,7 +815,7 @@
     "text": {
       "on-light": {
         "primary": {
-          "value": "{core.black.100}",
+          "value": "{core.black.50}",
           "type": "color",
           "description": "Color for headers on a light background"
         },
@@ -825,65 +825,65 @@
           "description": "Color for descriptions and subtitles on a light background"
         },
         "tertiary": {
-          "value": "{core.black.400}",
+          "value": "{core.black.500}",
           "type": "color",
           "description": "Color for third line information on a light background"
         }
       },
       "on-dark": {
         "primary": {
-          "value": "{core.white.100}",
+          "value": "{core.white.50}",
           "type": "color",
           "description": "Color for headers on a dark background"
         },
         "secondary": {
-          "value": "{core.white.300}",
+          "value": "{core.white.200}",
           "type": "color",
           "description": "Color for descriptions and subtitles on a dark background"
         },
         "tertiary": {
-          "value": "{core.white.400}",
+          "value": "{core.white.500}",
           "type": "color",
           "description": "Color for third line information on a dark background"
         }
       },
       "danger": {
-        "value": "{core.red.01}",
+        "value": "{core.red.50}",
         "type": "color",
         "description": "Color for the error title and description"
       },
       "success": {
-        "value": "{core.green.01}",
+        "value": "{core.green.50}",
         "type": "color",
         "description": "Color for the confirmation header and description"
       },
       "warning": {
-        "value": "{core.orange.01}",
+        "value": "{core.orange.50}",
         "type": "color",
         "description": "Color for the warning header and description"
       },
       "prize": {
-        "value": "{core.yellow.01}",
+        "value": "{core.yellow.50}",
         "type": "color",
         "description": "Color for highlighting prizes and the amount of balances and free spins"
       },
       "brand": {
-        "value": "{core.brand.primery}",
+        "value": "{core.brand.accent.100}",
         "type": "color"
       },
       "static": {
         "primary": {
-          "value": "{core.white.100}",
+          "value": "{core.white.50}",
           "type": "color",
           "description": "Color for headers on a dark background"
         },
         "secondary": {
-          "value": "{core.white.300}",
+          "value": "{core.white.200}",
           "type": "color",
           "description": "Color for descriptions and subtitles on a dark background"
         },
         "tertiary": {
-          "value": "{core.white.400}",
+          "value": "{core.white.500}",
           "type": "color",
           "description": "Color for third line information on a dark background"
         }
@@ -892,24 +892,24 @@
     "icon": {
       "on-dark": {
         "primary": {
-          "value": "{core.white.100}",
+          "value": "{core.white.50}",
           "type": "color",
           "description": "Used for the active icon on a dark background"
         },
         "secondary": {
-          "value": "{core.white.300}",
+          "value": "{core.white.200}",
           "type": "color",
           "description": "used for a secondary icon on a dark background"
         },
         "tertiary": {
-          "value": "{core.white.400}",
+          "value": "{core.white.500}",
           "type": "color",
           "description": "Used for a disabled icon on a dark background"
         }
       },
       "on-light": {
         "primary": {
-          "value": "{core.black.100}",
+          "value": "{core.black.50}",
           "type": "color",
           "description": "Used for the active icon on a light background"
         },
@@ -919,54 +919,54 @@
           "description": "used for a secondary icon on a light background"
         },
         "tertiary": {
-          "value": "{core.black.400}",
+          "value": "{core.black.500}",
           "type": "color",
           "description": "Used for a disabled icon on a light background"
         }
       },
       "brand": {
-        "value": "{core.brand.primery}",
+        "value": "{core.brand.accent.100}",
         "type": "color",
         "description": "Used to accentuate an icon"
       },
       "auxiliary": {
-        "value": "{core.brand.secondary}",
+        "value": "{core.brand.support.100}",
         "type": "color",
         "description": "Used to accentuate an icon"
       },
       "danger": {
-        "value": "{core.red.01}",
+        "value": "{core.red.50}",
         "type": "color",
         "description": "Used for an error icon or badge"
       },
       "success": {
-        "value": "{core.green.01}",
+        "value": "{core.green.50}",
         "type": "color",
         "description": "Color for the confirmation icon or badge"
       },
       "warning": {
-        "value": "{core.orange.01}",
+        "value": "{core.orange.50}",
         "type": "color",
         "description": "Color for the warning icon or badge"
       },
       "favorite": {
-        "value": "{core.yellow.01}",
+        "value": "{core.yellow.50}",
         "type": "color",
         "description": "Used for the favorites icon"
       },
       "static": {
         "primary": {
-          "value": "{core.white.100}",
+          "value": "{core.white.50}",
           "type": "color",
           "description": "Used for the active icon on a dark background"
         },
         "secondary": {
-          "value": "{core.white.300}",
+          "value": "{core.white.200}",
           "type": "color",
           "description": "used for a secondary icon on a dark background"
         },
         "tertiary": {
-          "value": "{core.white.400}",
+          "value": "{core.white.500}",
           "type": "color",
           "description": "Used for a disabled icon on a dark background"
         }
@@ -974,7 +974,7 @@
     },
     "background": {
       "primary": {
-        "value": "{core.black.100}",
+        "value": "{core.black.50}",
         "type": "color",
         "description": "Used as a background for the background of the main pages, and bottom sheet"
       },
@@ -993,16 +993,16 @@
         "description": "Used for the default state of the card"
       },
       "accent": {
-        "value": "{core.white.100}",
+        "value": "{core.white.50}",
         "type": "color",
         "description": "used for the timer"
       },
       "brand": {
-        "value": "{core.brand.primery}",
+        "value": "{core.brand.accent.100}",
         "type": "color"
       },
       "auxiliary": {
-        "value": "{core.brand.secondary}",
+        "value": "{core.brand.support.100}",
         "type": "color"
       },
       "confirme-mail": {
@@ -1041,7 +1041,7 @@
         "description": "Used for the background of the third welcome screen when the application starts"
       },
       "tooltip": {
-        "value": "{core.white.100}",
+        "value": "{core.white.50}",
         "type": "color"
       },
       "skeleton": {
@@ -1050,11 +1050,11 @@
       },
       "overlay": {
         "navbar": {
-          "value": "{core.black.200}",
+          "value": "{core.black.100}",
           "type": "color"
         },
         "Ghost-1": {
-          "value": "{core.white.400}",
+          "value": "{core.white.500}",
           "type": "color"
         },
         "shadow-left": {
@@ -1078,15 +1078,15 @@
           "description": "Used as a surface to highlight text above it"
         },
         "success": {
-          "value": "{core.green.03}",
+          "value": "{core.green.600}",
           "type": "color"
         },
         "warning": {
-          "value": "{core.orange.03}",
+          "value": "{core.orange.600}",
           "type": "color"
         },
         "danger": {
-          "value": "{core.red.03}",
+          "value": "{core.red.600}",
           "type": "color"
         },
         "points_exchange": {
@@ -1172,50 +1172,50 @@
     "border": {
       "on-dark": {
         "primary": {
-          "value": "{core.white.100}",
+          "value": "{core.white.50}",
           "type": "color",
           "description": "Used for the active border on a dark background"
         },
         "secondary": {
-          "value": "{core.white.300}",
+          "value": "{core.white.200}",
           "type": "color",
           "description": "used for a secondary border on a dark background"
         },
         "tertiary": {
-          "value": "{core.white.500}",
+          "value": "{core.white.700}",
           "type": "color",
           "description": "Used for a disabled border on a dark background"
         }
       },
       "on-light": {
         "primary": {
-          "value": "{core.black.100}",
+          "value": "{core.black.50}",
           "type": "color",
           "description": "Used for the active border on a light background"
         },
         "secondary": {
-          "value": "{core.black.200}",
+          "value": "{core.black.100}",
           "type": "color",
           "description": "used for a secondary border on a light background"
         },
         "tertiary": {
-          "value": "{core.black.500}",
+          "value": "{core.black.700}",
           "type": "color",
           "description": "Used for a disabled border on a light background"
         }
       },
       "danger": {
-        "value": "{core.red.01}",
+        "value": "{core.red.50}",
         "type": "color",
         "description": "Used to highlight an error"
       },
       "success": {
-        "value": "{core.green.01}",
+        "value": "{core.green.50}",
         "type": "color",
         "description": "Used to highlight a success"
       },
       "warning": {
-        "value": "{core.orange.01}",
+        "value": "{core.orange.50}",
         "type": "color",
         "description": "Used to highlight a warning"
       },
@@ -1225,23 +1225,23 @@
         "description": "Used for active and new stories that the user has not yet viewed"
       },
       "auxiliary": {
-        "value": "{core.brand.secondary}",
+        "value": "{core.brand.support.100}",
         "type": "color",
         "description": "Used to highlight the active step the user is on"
       },
       "static": {
         "primary": {
-          "value": "{core.white.100}",
+          "value": "{core.white.50}",
           "type": "color",
           "description": "Used for the active border on a dark background"
         },
         "secondary": {
-          "value": "{core.white.300}",
+          "value": "{core.white.200}",
           "type": "color",
           "description": "used for a secondary border on a dark background"
         },
         "tertiary": {
-          "value": "{core.white.500}",
+          "value": "{core.white.700}",
           "type": "color",
           "description": "Used for a disabled border on a dark background"
         }
@@ -1262,7 +1262,7 @@
       },
       "text": {
         "value": {
-          "value": "{core.white.100}",
+          "value": "{core.white.50}",
           "type": "color",
           "description": "The color is used for the written text"
         },
@@ -1272,12 +1272,12 @@
           "description": "The color used for the label of the field text"
         },
         "success": {
-          "value": "{core.green.01}",
+          "value": "{core.green.50}",
           "type": "color",
           "description": "For successful text support"
         },
         "danger": {
-          "value": "{core.red.01}",
+          "value": "{core.red.50}",
           "type": "color",
           "description": "For erroneous text support"
         },
@@ -1289,7 +1289,7 @@
       },
       "icon": {
         "right-Icon": {
-          "value": "{core.white.100}",
+          "value": "{core.white.50}",
           "type": "color",
           "description": "The color for the active icon and the one you can interact with"
         },
@@ -1299,17 +1299,17 @@
           "description": "Default icon on the level and cannot be interacted with"
         },
         "success": {
-          "value": "{core.green.01}",
+          "value": "{core.green.50}",
           "type": "color",
           "description": "For an icon that shows success"
         },
         "danger": {
-          "value": "{core.red.01}",
+          "value": "{core.red.50}",
           "type": "color",
           "description": "For an icon that shows errors"
         },
         "warning": {
-          "value": "{core.orange.01}",
+          "value": "{core.orange.50}",
           "type": "color",
           "description": "For an icon that shows warnings"
         }
@@ -1321,22 +1321,22 @@
           "description": "Default stroke root field text"
         },
         "focused": {
-          "value": "{core.brand.secondary}",
+          "value": "{core.brand.support.100}",
           "type": "color",
           "description": "The root of interaction with the text field "
         },
         "success": {
-          "value": "{core.green.01}",
+          "value": "{core.green.50}",
           "type": "color",
           "description": "Successful action color for border"
         },
         "danger": {
-          "value": "{core.red.01}",
+          "value": "{core.red.50}",
           "type": "color",
           "description": "Error color for the border"
         },
         "warning": {
-          "value": "{core.orange.01}",
+          "value": "{core.orange.50}",
           "type": "color",
           "description": "Warning color for the border"
         }
