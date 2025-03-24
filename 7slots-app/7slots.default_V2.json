@@ -1125,6 +1125,10 @@
         "disabled": {
           "value": "{core.white.700}",
           "type": "color"
+        },
+        "nope": {
+          "value": "#00000000",
+          "type": "color"
         }
       },
       "icon": {
@@ -1134,6 +1138,54 @@
         },
         "disabled": {
           "value": "{core.white.500}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{core.white.300}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{core.brand.support.100}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.white.700}",
+          "type": "color"
+        },
+        "nope": {
+          "value": "#00000000",
+          "type": "color"
+        }
+      }
+    },
+    "check-box": {
+      "background": {
+        "selected": {
+          "value": "{core.brand.support.100}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.white.700}",
+          "type": "color"
+        },
+        "nope": {
+          "value": "#00000000",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "selected": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.white.500}",
+          "type": "color"
+        },
+        "selected-2": {
+          "value": "{core.brand.accent.100}",
           "type": "color"
         }
       },
@@ -2162,5 +2214,9 @@
   "progres": {
     "value": "{core-radios.full}",
     "type": "borderRadius"
+  },
+  "radio-button": {
+    "value": "{core-width.1p5}",
+    "type": "borderWidth"
   }
 }
