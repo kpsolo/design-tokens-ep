@@ -1251,6 +1251,16 @@
           "type": "color"
         }
       }
+    },
+    "bottom-sheet": {
+      "bg": {
+        "value": "{core.black.50}",
+        "type": "color"
+      },
+      "handle": {
+        "value": "{core.white.300}",
+        "type": "color"
+      }
     }
   },
   "semantic": {
