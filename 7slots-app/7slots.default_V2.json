@@ -1207,6 +1207,50 @@
           "type": "color"
         }
       }
+    },
+    "snackbar": {
+      "background": {
+        "info": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{core.red.50}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{core.green.50}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "Info": {
+          "value": "{core.black.50}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{core.white.50}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "Info": {
+          "value": "{core.black.50}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{core.white.50}",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {
