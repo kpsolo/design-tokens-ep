@@ -1111,6 +1111,50 @@
           "type": "color"
         }
       }
+    },
+    "radio": {
+      "background": {
+        "selected": {
+          "value": "{core.brand.support.100}",
+          "type": "color"
+        },
+        "selected2": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.white.700}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "selected": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.white.500}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{core.white.300}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{core.brand.support.100}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.white.700}",
+          "type": "color"
+        },
+        "nope": {
+          "value": "#00000000",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {
