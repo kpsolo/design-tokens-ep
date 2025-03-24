@@ -2288,8 +2288,14 @@
     "type": "borderRadius"
   },
   "switch": {
-    "value": "{core-radios.full}",
-    "type": "borderRadius"
+    "container": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    },
+    "thumb": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    }
   },
   "radio": {
     "value": "{core-radios.full}",
