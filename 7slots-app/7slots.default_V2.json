@@ -2272,5 +2272,63 @@
   "radio-button": {
     "value": "{core-width.1p5}",
     "type": "borderWidth"
+  },
+  "core-dimension": {
+    "0": {
+      "value": "0px",
+      "type": "dimension"
+    },
+    "2": {
+      "value": "2px",
+      "type": "dimension"
+    },
+    "4": {
+      "value": "4px",
+      "type": "dimension"
+    },
+    "8": {
+      "value": "8px",
+      "type": "dimension"
+    },
+    "12": {
+      "value": "12px",
+      "type": "dimension"
+    },
+    "16": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "24": {
+      "value": "24px",
+      "type": "dimension"
+    },
+    "32": {
+      "value": "32px",
+      "type": "dimension"
+    },
+    "48": {
+      "value": "48px",
+      "type": "dimension"
+    },
+    "56": {
+      "value": "56px",
+      "type": "dimension"
+    },
+    "full": {
+      "value": "100px",
+      "type": "dimension"
+    }
+  },
+  "Chips": {
+    "value": "{core-dimension.12}",
+    "type": "dimension"
+  },
+  "top-bar": {
+    "value": "{core-dimension.16}",
+    "type": "dimension"
+  },
+  "tab-bar": {
+    "value": "{core-dimension.16}",
+    "type": "dimension"
   }
 }
