@@ -1307,6 +1307,14 @@
           }
         }
       }
+    },
+    "search": {
+      "background": {
+        "enabled": {
+          "value": "{core.neutral.300}",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {
