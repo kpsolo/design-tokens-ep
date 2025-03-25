@@ -2531,5 +2531,9 @@
   "timer": {
     "value": "{core-dimension.12}",
     "type": "dimension"
+  },
+  "timers": {
+    "value": "{core-dimension.4}",
+    "type": "borderRadius"
   }
 }
