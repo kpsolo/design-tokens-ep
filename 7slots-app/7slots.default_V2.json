@@ -220,7 +220,7 @@
         "type": "color"
       },
       "600": {
-        "value": "rgba(23,205,107,0.15)",
+        "value": "rgba(23,205,107,0.20)",
         "type": "color"
       }
     },
@@ -250,7 +250,7 @@
         "type": "color"
       },
       "600": {
-        "value": "rgba(255,26,81,0.15)",
+        "value": "rgba(255,26,81,0.20)",
         "type": "color"
       }
     },
@@ -280,7 +280,7 @@
         "type": "color"
       },
       "600": {
-        "value": "rgba(255,122,26,0.15)",
+        "value": "rgba(255,122,26,0.2)",
         "type": "color"
       }
     }
@@ -1563,6 +1563,96 @@
           "type": "color"
         }
       }
+    },
+    "status": {
+      "background": {
+        "success": {
+          "value": "{core.green.600}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{core.orange.600}",
+          "type": "color"
+        },
+        "danger": {
+          "value": "{core.red.600}",
+          "type": "color"
+        },
+        "attention": {
+          "value": "{core.brand.support.100}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{core.white.500}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "success": {
+          "value": "{core.green.50}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{core.orange.50}",
+          "type": "color"
+        },
+        "danger": {
+          "value": "{core.red.50}",
+          "type": "color"
+        },
+        "attention": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{core.white.50}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "success": {
+          "value": "{core.green.50}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{core.orange.50}",
+          "type": "color"
+        },
+        "danger": {
+          "value": "{core.red.50}",
+          "type": "color"
+        },
+        "attention": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{core.white.50}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "success": {
+          "value": "#00000000",
+          "type": "color"
+        },
+        "warning": {
+          "value": "#00000000",
+          "type": "color"
+        },
+        "danger": {
+          "value": "#00000000",
+          "type": "color"
+        },
+        "attention": {
+          "value": "#00000000",
+          "type": "color"
+        },
+        "info": {
+          "value": "#00000000",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {
@@ -2682,6 +2772,14 @@
     }
   },
   "chipss": {
+    "value": "{core-width.0}",
+    "type": "borderWidth"
+  },
+  "status": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
+  },
+  "statuses": {
     "value": "{core-width.0}",
     "type": "borderWidth"
   }
