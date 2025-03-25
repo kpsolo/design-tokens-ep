@@ -963,11 +963,15 @@
           "type": "color",
           "description": "Field text used for the background"
         },
-        "cursor": {
-          "value": "{semantic.icon.brand}",
-          "type": "color",
-          "description": "Used for the cursor when focusing with a text field"
+        "focused": {
+          "value": "#00000000",
+          "type": "color"
         }
+      },
+      "cursor": {
+        "value": "{semantic.icon.brand}",
+        "type": "color",
+        "description": "Used for the cursor when focusing with a text field"
       },
       "text": {
         "value": {
@@ -1310,8 +1314,46 @@
     },
     "search": {
       "background": {
-        "enabled": {
-          "value": "{core.neutral.300}",
+        "default": {
+          "value": "#294074",
+          "type": "color"
+        },
+        "focused": {
+          "value": "#294074",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "left": {
+          "value": "{core.white.300}",
+          "type": "color"
+        },
+        "right": {
+          "value": "{core.white.50}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "defolt": {
+          "value": "#00000000",
+          "type": "color"
+        },
+        "focused": {
+          "value": "{core.white.50}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "default": {
+          "value": "{core.white.300}",
+          "type": "color"
+        },
+        "focused": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "button": {
+          "value": "{core.white.50}",
           "type": "color"
         }
       }
@@ -2292,7 +2334,7 @@
     "type": "borderRadius"
   },
   "search": {
-    "value": "{core-radios.12}",
+    "value": "{core-radios.8}",
     "type": "borderRadius"
   },
   "switch": {
@@ -2418,5 +2460,15 @@
   "capitalize": {
     "value": "capitalize",
     "type": "textCase"
+  },
+  "search_": {
+    "active": {
+      "value": "{core-width.1p5}",
+      "type": "borderWidth"
+    },
+    "inactive": {
+      "value": "{core-width.0}",
+      "type": "borderWidth"
+    }
   }
 }
