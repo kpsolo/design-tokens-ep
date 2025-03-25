@@ -1505,6 +1505,64 @@
           "type": "color"
         }
       }
+    },
+    "сhips": {
+      "background": {
+        "сhosen": {
+          "value": "{core.brand.support.100}",
+          "type": "color"
+        },
+        "Default": {
+          "value": "{core.neutral.400}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{core.white.500}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "сhosen": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "Default": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{core.white.50}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "сhosen": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "Default": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{core.white.50}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "сhosen": {
+          "value": "#00000000",
+          "type": "color"
+        },
+        "Default": {
+          "value": "#00000000",
+          "type": "color"
+        },
+        "info": {
+          "value": "#00000000",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {
@@ -2622,5 +2680,9 @@
       },
       "type": "boxShadow"
     }
+  },
+  "chipss": {
+    "value": "{core-width.0}",
+    "type": "borderWidth"
   }
 }
