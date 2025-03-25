@@ -2368,6 +2368,10 @@
     "menu": {
       "value": "{core-radios.12}",
       "type": "borderRadius"
+    },
+    "providers": {
+      "value": "{core-radios.12}",
+      "type": "borderRadius"
     }
   },
   "tooltip": {
