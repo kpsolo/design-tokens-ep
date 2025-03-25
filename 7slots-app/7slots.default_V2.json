@@ -1490,6 +1490,20 @@
           "value": "{core.white.600}",
           "type": "color"
         }
+      },
+      "text": {
+        "primary": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.black.50}",
+          "type": "color"
+        }
       }
     }
   },
@@ -2573,5 +2587,40 @@
   "progresbar": {
     "value": "{core-dimension.8}",
     "type": "dimension"
+  },
+  "progressbar": {
+    "primary": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "4",
+        "spread": "0",
+        "color": "rgba(92, 217, 149, 0.5)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "secondary": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "4",
+        "spread": "0",
+        "color": "rgba(88, 153, 255, 0.5)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "tertiary": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "4",
+        "spread": "0",
+        "color": "rgba(255,255,255,0.5)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
   }
 }
