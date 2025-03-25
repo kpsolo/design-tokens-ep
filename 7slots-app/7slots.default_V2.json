@@ -1357,6 +1357,80 @@
           "type": "color"
         }
       }
+    },
+    "step": {
+      "background": {
+        "default": {
+          "value": "#00000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "#00000000",
+          "type": "color"
+        },
+        "pause": {
+          "value": "#00000000",
+          "type": "color"
+        },
+        "done": {
+          "value": "{core.green.50}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{core.white.300}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.white.300}",
+          "type": "color"
+        },
+        "pause": {
+          "value": "{core.orange.300}",
+          "type": "color"
+        },
+        "done": {
+          "value": "#000000000",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "00000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "pause": {
+          "value": "{core.orange.50}",
+          "type": "color"
+        },
+        "done": {
+          "value": "{core.white.50}",
+          "type": "color"
+        }
+      },
+      "track": {
+        "default": {
+          "value": "{core.white.300}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "pause": {
+          "value": "{core.orange.50}",
+          "type": "color"
+        },
+        "done": {
+          "value": "{core.green.50}",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {
