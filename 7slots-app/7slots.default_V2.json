@@ -2782,5 +2782,53 @@
   "statuses": {
     "value": "{core-width.0}",
     "type": "borderWidth"
+  },
+  "min-width": {
+    "button": {
+      "large": {
+        "value": "80",
+        "type": "sizing"
+      },
+      "medium": {
+        "value": "64",
+        "type": "sizing"
+      },
+      "small": {
+        "value": "56",
+        "type": "sizing"
+      }
+    }
+  },
+  "min-height": {
+    "button": {
+      "large": {
+        "value": "48",
+        "type": "sizing"
+      },
+      "medium": {
+        "value": "40",
+        "type": "sizing"
+      },
+      "small": {
+        "value": "32",
+        "type": "sizing"
+      }
+    }
+  },
+  "max-height": {
+    "button": {
+      "large": {
+        "value": "48",
+        "type": "sizing"
+      },
+      "medium": {
+        "value": "40",
+        "type": "sizing"
+      },
+      "small": {
+        "value": "32",
+        "type": "sizing"
+      }
+    }
   }
 }
