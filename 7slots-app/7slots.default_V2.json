@@ -1461,6 +1461,36 @@
         "value": "{core.white.50}",
         "type": "color"
       }
+    },
+    "progres": {
+      "track": {
+        "primary": {
+          "value": "{core.brand.accent.100}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.brand.support.100}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.white.50}",
+          "type": "color"
+        }
+      },
+      "fill": {
+        "primary": {
+          "value": "{core.white.600}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.white.600}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.white.600}",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {
@@ -2539,5 +2569,9 @@
   "timers": {
     "value": "{core-dimension.4}",
     "type": "borderRadius"
+  },
+  "progresbar": {
+    "value": "{core-dimension.8}",
+    "type": "dimension"
   }
 }
