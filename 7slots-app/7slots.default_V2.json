@@ -1435,23 +1435,6 @@
           "type": "color",
           "description": "Color for third line information on a dark background"
         }
-      },
-      "static-light": {
-        "primary": {
-          "value": "{core.black.50}",
-          "type": "color",
-          "description": "Color for headers on a light background"
-        },
-        "secondary": {
-          "value": "{core.black.200}",
-          "type": "color",
-          "description": "Color for descriptions and subtitles on a light background"
-        },
-        "tertiary": {
-          "value": "{core.black.500}",
-          "type": "color",
-          "description": "Color for third line information on a light background"
-        }
       }
     },
     "icon": {
@@ -1529,23 +1512,6 @@
           "value": "{core.white.500}",
           "type": "color",
           "description": "Used for a disabled icon on a dark background"
-        }
-      },
-      "static-light": {
-        "primary": {
-          "value": "{core.black.50}",
-          "type": "color",
-          "description": "Used for the active icon on a light background"
-        },
-        "secondary": {
-          "value": "{core.black.200}",
-          "type": "color",
-          "description": "used for a secondary icon on a light background"
-        },
-        "tertiary": {
-          "value": "{core.black.500}",
-          "type": "color",
-          "description": "Used for a disabled icon on a light background"
         }
       }
     },
@@ -1789,23 +1755,6 @@
           "value": "{core.white.700}",
           "type": "color",
           "description": "Used for a disabled border on a dark background"
-        }
-      },
-      "static-light": {
-        "primary": {
-          "value": "{core.black.50}",
-          "type": "color",
-          "description": "Used for the active border on a light background"
-        },
-        "secondary": {
-          "value": "{core.black.100}",
-          "type": "color",
-          "description": "used for a secondary border on a light background"
-        },
-        "tertiary": {
-          "value": "{core.black.700}",
-          "type": "color",
-          "description": "Used for a disabled border on a light background"
         }
       }
     }
