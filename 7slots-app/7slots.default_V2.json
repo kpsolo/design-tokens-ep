@@ -1822,18 +1822,13 @@
         "description": "Used as a background for the background of the main pages, and bottom sheet"
       },
       "secondary": {
-        "value": "{core.neutral.400}",
+        "value": "linear-gradient(123deg, #1E3E7B 0%, #112C63 100%);",
         "type": "color",
-        "description": "Used for dropdowns and popups"
+        "description": "Used for the default state of the card"
       },
       "tertiary": {
         "value": "{core.neutral.300}",
         "type": "color"
-      },
-      "card": {
-        "value": "linear-gradient(135deg, #2a3e7c 0%, #1a2a59 100%)",
-        "type": "color",
-        "description": "Used for the default state of the card"
       },
       "accent": {
         "value": "{core.white.50}",
