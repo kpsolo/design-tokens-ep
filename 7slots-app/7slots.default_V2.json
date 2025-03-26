@@ -2811,6 +2811,42 @@
         "value": "36",
         "type": "sizing"
       }
+    },
+    "status": {
+      "large": {
+        "value": "40",
+        "type": "sizing"
+      },
+      "small": {
+        "value": "36",
+        "type": "sizing"
+      }
+    },
+    "tooltip": {
+      "value": "54",
+      "type": "sizing"
+    },
+    "text-fields": {
+      "default": {
+        "value": "80",
+        "type": "sizing"
+      },
+      "point": {
+        "value": "160",
+        "type": "sizing"
+      },
+      "code": {
+        "value": "48",
+        "type": "sizing"
+      }
+    },
+    "search": {
+      "value": "240",
+      "type": "sizing"
+    },
+    "snackbar": {
+      "value": "240",
+      "type": "sizing"
     }
   },
   "min-height": {
@@ -2841,6 +2877,42 @@
         "value": "20",
         "type": "sizing"
       }
+    },
+    "status": {
+      "large": {
+        "value": "24",
+        "type": "sizing"
+      },
+      "small": {
+        "value": "20",
+        "type": "sizing"
+      }
+    },
+    "tooltip": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "text-fields": {
+      "default": {
+        "value": "48",
+        "type": "sizing"
+      },
+      "point": {
+        "value": "74",
+        "type": "sizing"
+      },
+      "code": {
+        "value": "48",
+        "type": "sizing"
+      }
+    },
+    "search": {
+      "value": "40",
+      "type": "sizing"
+    },
+    "snackbar": {
+      "value": "48",
+      "type": "sizing"
     }
   },
   "max-height": {
@@ -2871,6 +2943,42 @@
         "value": "20",
         "type": "sizing"
       }
+    },
+    "status": {
+      "large": {
+        "value": "24",
+        "type": "sizing"
+      },
+      "small": {
+        "value": "20",
+        "type": "sizing"
+      }
+    },
+    "tooltip": {
+      "value": "320",
+      "type": "sizing"
+    },
+    "text-fields": {
+      "default": {
+        "value": "84",
+        "type": "sizing"
+      },
+      "point": {
+        "value": "74",
+        "type": "sizing"
+      },
+      "code": {
+        "value": "48",
+        "type": "sizing"
+      }
+    },
+    "search": {
+      "value": "40",
+      "type": "sizing"
+    },
+    "snackbar": {
+      "value": "64",
+      "type": "sizing"
     }
   },
   "max-width": {
@@ -2887,6 +2995,38 @@
         "value": "140",
         "type": "sizing"
       }
+    },
+    "status": {
+      "large": {
+        "value": "160",
+        "type": "sizing"
+      },
+      "small": {
+        "value": "140",
+        "type": "sizing"
+      }
+    },
+    "tooltip": {
+      "value": "260",
+      "type": "sizing"
+    },
+    "text-fields": {
+      "default": {
+        "value": "420",
+        "type": "sizing"
+      },
+      "point": {
+        "value": "420",
+        "type": "sizing"
+      },
+      "code": {
+        "value": "48",
+        "type": "sizing"
+      }
+    },
+    "search": {
+      "value": "420",
+      "type": "sizing"
     }
   }
 }
