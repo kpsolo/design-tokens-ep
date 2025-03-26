@@ -1822,7 +1822,7 @@
         "description": "Used as a background for the background of the main pages, and bottom sheet"
       },
       "secondary": {
-        "value": "linear-gradient(123deg, #1E3E7B 0%, #112C63 100%);",
+        "value": "linear-gradient(135deg, #2A3E7C 0%, #1A2A59 100%)",
         "type": "color",
         "description": "Used for the default state of the card"
       },
