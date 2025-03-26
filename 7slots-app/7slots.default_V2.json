@@ -1653,6 +1653,10 @@
           "type": "color"
         }
       }
+    },
+    "skeleton": {
+      "value": "linear-gradient(135deg, rgba(100, 137, 255, 0.30) 0%, rgba(100, 137, 255, 0.10) 100%)",
+      "type": "color"
     }
   },
   "semantic": {
@@ -1836,14 +1840,6 @@
         "type": "color",
         "description": "used for the timer"
       },
-      "brand": {
-        "value": "{core.brand.accent.100}",
-        "type": "color"
-      },
-      "auxiliary": {
-        "value": "{core.brand.support.100}",
-        "type": "color"
-      },
       "pop-up": {
         "value": "{core.neutral.500}",
         "type": "color"
@@ -1852,24 +1848,22 @@
         "value": "{core.neutral.600}",
         "type": "color"
       },
-      "ws01": {
-        "value": "linear-gradient(224deg, rgba(242, 81, 31, 1) 23.7%, rgba(41, 126, 254, 1) 79.69%)",
-        "type": "color",
-        "description": "Used for the background of the first welcome screen when the application is launched"
-      },
-      "ws02": {
-        "value": "linear-gradient(225deg, rgba(255, 0, 79, 1) 0%, rgba(8, 158, 233, 1) 100%)",
-        "type": "color",
-        "description": "Used for the background of the second welcome screen when the application starts"
-      },
-      "ws03": {
-        "value": "linear-gradient(225deg, rgba(80, 204, 252, 1) 0%, rgba(82, 0, 255, 1) 100%)",
-        "type": "color",
-        "description": "Used for the background of the third welcome screen when the application starts"
-      },
-      "skeleton": {
-        "value": "linear-gradient(135deg, rgba(100, 137, 255, 0.30) 0%, rgba(100, 137, 255, 0.10) 100%)",
-        "type": "color"
+      "welcome_scr": {
+        "01": {
+          "value": "linear-gradient(224deg, rgba(242, 81, 31, 1) 23.7%, rgba(41, 126, 254, 1) 79.69%)",
+          "type": "color",
+          "description": "Used for the background of the first welcome screen when the application is launched"
+        },
+        "ws02": {
+          "value": "linear-gradient(225deg, rgba(255, 0, 79, 1) 0%, rgba(8, 158, 233, 1) 100%)",
+          "type": "color",
+          "description": "Used for the background of the second welcome screen when the application starts"
+        },
+        "ws03": {
+          "value": "linear-gradient(225deg, rgba(80, 204, 252, 1) 0%, rgba(82, 0, 255, 1) 100%)",
+          "type": "color",
+          "description": "Used for the background of the third welcome screen when the application starts"
+        }
       },
       "overlay": {
         "navbar": {
