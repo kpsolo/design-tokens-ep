@@ -1943,6 +1943,10 @@
           "value": "{core.white.500}",
           "type": "color"
         },
+        "Ghost-3": {
+          "value": "{core.white.800}",
+          "type": "color"
+        },
         "shadow-left": {
           "value": "linear-gradient(270deg, #070d1e00 0%, #070d1eb3 100%)",
           "type": "color",
