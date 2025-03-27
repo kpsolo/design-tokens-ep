@@ -1667,11 +1667,11 @@
     "category": {
       "background": {
         "active": {
-          "value": "#0000000",
+          "value": "#00000000",
           "type": "color"
         },
         "inactive": {
-          "value": "#0000000",
+          "value": "#00000000",
           "type": "color"
         }
       },
@@ -1691,7 +1691,7 @@
           "type": "color"
         },
         "inactive": {
-          "value": "#0000000",
+          "value": "#00000000",
           "type": "color"
         }
       },
@@ -1702,6 +1702,28 @@
         },
         "inactive": {
           "value": "{core.white.50}",
+          "type": "color"
+        }
+      }
+    },
+    "page-control": {
+      "primary": {
+        "active": {
+          "value": "{core.brand.support.100}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{core.white.500}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "active": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{core.white.500}",
           "type": "color"
         }
       }
