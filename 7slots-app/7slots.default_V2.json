@@ -1659,6 +1659,48 @@
         "value": "linear-gradient(135deg, rgba(100, 137, 255, 0.30) 0%, rgba(100, 137, 255, 0.10) 100%)",
         "type": "color"
       }
+    },
+    "category": {
+      "background": {
+        "active": {
+          "value": "#0000000",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "#0000000",
+          "type": "color"
+        }
+      },
+      "text": {
+        "active": {
+          "value": "{core.brand.support.100}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{core.white.200}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "active": {
+          "value": "{core.brand.support.100}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "#0000000",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "active": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{core.white.50}",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {
