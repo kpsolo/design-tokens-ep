@@ -1658,6 +1658,10 @@
       "background": {
         "value": "linear-gradient(135deg, rgba(100, 137, 255, 0.30) 0%, rgba(100, 137, 255, 0.10) 100%)",
         "type": "color"
+      },
+      "logo": {
+        "value": "{core.white.600}",
+        "type": "color"
       }
     },
     "category": {
