@@ -3061,5 +3061,13 @@
       "value": "420",
       "type": "sizing"
     }
+  },
+  "category": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
+  },
+  "categor": {
+    "value": "{core-width.2}",
+    "type": "borderWidth"
   }
 }
