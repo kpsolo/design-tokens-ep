@@ -2485,7 +2485,7 @@
       "type": "borderRadius"
     },
     "small": {
-      "value": "{core-radios.8}",
+      "value": "{core-radios.full}",
       "type": "borderRadius"
     },
     "enabled": {
