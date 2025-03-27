@@ -1713,7 +1713,7 @@
           "type": "color"
         },
         "default": {
-          "value": "{core.white.500}",
+          "value": "{core.white.600}",
           "type": "color"
         }
       },
@@ -1723,7 +1723,7 @@
           "type": "color"
         },
         "default": {
-          "value": "{core.white.500}",
+          "value": "{core.white.600}",
           "type": "color"
         }
       }
@@ -3095,5 +3095,9 @@
   "categor": {
     "value": "{core-width.2}",
     "type": "borderWidth"
+  },
+  "page-control": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
   }
 }
