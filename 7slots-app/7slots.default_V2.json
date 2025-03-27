@@ -1913,6 +1913,10 @@
         "value": "{core.neutral.600}",
         "type": "color"
       },
+      "brand": {
+        "value": "{core.brand.accent.100}",
+        "type": "color"
+      },
       "welcome_scr": {
         "01": {
           "value": "linear-gradient(224deg, rgba(242, 81, 31, 1) 23.7%, rgba(41, 126, 254, 1) 79.69%)",
