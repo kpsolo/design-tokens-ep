@@ -374,7 +374,7 @@
             "description": "The background of the pressed button"
           },
           "disabled": {
-            "value": "{core.brand.accent.300}",
+            "value": "{core.white.700}",
             "type": "color",
             "description": "The background of the disabled button"
           },
@@ -396,7 +396,7 @@
             "description": "The text color of the pressed button"
           },
           "disabled": {
-            "value": "{core.white.400}",
+            "value": "{core.white.500}",
             "type": "color",
             "description": "The text color of the disabled button"
           }
@@ -413,7 +413,7 @@
             "description": "The icon color of the pressed button"
           },
           "disabled": {
-            "value": "{core.white.400}",
+            "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
           },
@@ -430,7 +430,7 @@
             "description": "The border color of the enabled button"
           },
           "pressed": {
-            "value": "#25a66080",
+            "value": "#00000000",
             "type": "color",
             "description": "The border color of the pressed button"
           },
@@ -459,7 +459,7 @@
             "description": "The background of the pressed button"
           },
           "disabled": {
-            "value": "{core.brand.support.300}",
+            "value": "{core.white.700}",
             "type": "color",
             "description": "The background of the disabled button"
           },
@@ -481,7 +481,7 @@
             "description": "The text color of the pressed button"
           },
           "disabled": {
-            "value": "{core.white.400}",
+            "value": "{core.white.500}",
             "type": "color",
             "description": "The text color of the disabled button"
           }
@@ -498,7 +498,7 @@
             "description": "The icon color of the pressed button"
           },
           "disabled": {
-            "value": "{core.white.400}",
+            "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
           },
@@ -515,7 +515,7 @@
             "description": "The border color of the enabled button"
           },
           "pressed": {
-            "value": "#0368ff80",
+            "value": "#00000000",
             "type": "color",
             "description": "The border color of the pressed button"
           },
@@ -544,7 +544,7 @@
             "description": "The background of the pressed button"
           },
           "disabled": {
-            "value": "rgba(54,81,143,0.5)",
+            "value": "{core.white.700}",
             "type": "color",
             "description": "The background of the disabled button"
           },
@@ -566,7 +566,7 @@
             "description": "The text color of the pressed button"
           },
           "disabled": {
-            "value": "{core.white.400}",
+            "value": "{core.white.500}",
             "type": "color",
             "description": "The text color of the disabled button"
           }
@@ -583,7 +583,7 @@
             "description": "The icon color of the pressed button"
           },
           "disabled": {
-            "value": "{core.white.400}",
+            "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
           },
@@ -600,7 +600,7 @@
             "description": "The border color of the enabled button"
           },
           "pressed": {
-            "value": "#29407480",
+            "value": "#00000000",
             "type": "color",
             "description": "The border color of the pressed button"
           },
@@ -629,7 +629,7 @@
             "description": "The background of the pressed button"
           },
           "disabled": {
-            "value": "{core.white.400}",
+            "value": "{core.white.700}",
             "type": "color",
             "description": "The background of the disabled button"
           },
@@ -651,7 +651,7 @@
             "description": "The text color of the pressed button"
           },
           "disabled": {
-            "value": "{core.black.500}",
+            "value": "{core.white.500}",
             "type": "color",
             "description": "The text color of the disabled button"
           }
@@ -668,7 +668,7 @@
             "description": "The icon color of the pressed button"
           },
           "disabled": {
-            "value": "{core.black.500}",
+            "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
           },
@@ -685,7 +685,7 @@
             "description": "The border color of the enabled button"
           },
           "pressed": {
-            "value": "{core.white.400}",
+            "value": "#00000000",
             "type": "color",
             "description": "The border color of the pressed button"
           },
@@ -714,7 +714,7 @@
             "description": "The text color of the pressed button"
           },
           "disabled": {
-            "value": "{core.white.400}",
+            "value": "{core.white.500}",
             "type": "color",
             "description": "The text color of the disabled button"
           }
@@ -731,7 +731,7 @@
             "description": "The icon color of the pressed button"
           },
           "disabled": {
-            "value": "{core.white.400}",
+            "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
           },
@@ -753,7 +753,7 @@
             "description": "The border color of the pressed button"
           },
           "disabled": {
-            "value": "{core.white.800}",
+            "value": "{core.white.700}",
             "type": "color"
           },
           "loading": {
@@ -769,7 +769,7 @@
             "description": "The background of the enabled button"
           },
           "pressed": {
-            "value": "{core.white.800}",
+            "value": "#00000000",
             "type": "color",
             "description": "The background of the pressed button"
           },
@@ -793,7 +793,7 @@
             "description": "The background of the enabled button"
           },
           "pressed": {
-            "value": "{core.white.800}",
+            "value": "#00000000",
             "type": "color",
             "description": "The background of the pressed button"
           },
@@ -820,7 +820,7 @@
             "description": "The text color of the pressed button"
           },
           "disabled": {
-            "value": "{core.white.400}",
+            "value": "{core.white.500}",
             "type": "color",
             "description": "The text color of the disabled button"
           }
@@ -837,7 +837,7 @@
             "description": "The icon color of the pressed button"
           },
           "disabled": {
-            "value": "{core.white.400}",
+            "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
           },
@@ -854,7 +854,7 @@
             "description": "The border color of the enabled button"
           },
           "pressed": {
-            "value": "{core.white.400}",
+            "value": "#00000000",
             "type": "color",
             "description": "The border color of the pressed button"
           },
@@ -883,7 +883,7 @@
             "description": "The background of the pressed button"
           },
           "disabled": {
-            "value": "{core.red.400}",
+            "value": "{core.white.700}",
             "type": "color",
             "description": "The background of the disabled button"
           },
@@ -905,7 +905,7 @@
             "description": "The text color of the pressed button"
           },
           "disabled": {
-            "value": "{core.white.400}",
+            "value": "{core.white.500}",
             "type": "color",
             "description": "The text color of the disabled button"
           }
@@ -922,7 +922,7 @@
             "description": "The icon color of the pressed button"
           },
           "disabled": {
-            "value": "{core.white.400}",
+            "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
           },
@@ -939,7 +939,7 @@
             "description": "The border color of the enabled button"
           },
           "pressed": {
-            "value": "{core.red.100}",
+            "value": "#00000000",
             "type": "color",
             "description": "The border color of the pressed button"
           },
@@ -2493,7 +2493,7 @@
       "type": "borderWidth"
     },
     "pressed": {
-      "value": "{core-width.4}",
+      "value": "{core-width.1p5}",
       "type": "borderWidth"
     },
     "disabled": {
