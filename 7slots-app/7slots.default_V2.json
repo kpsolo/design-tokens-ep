@@ -47,7 +47,7 @@
           "type": "color"
         },
         "200": {
-          "value": "linear-gradient(180deg, rgba(72, 178, 122, 1) 0%, rgba(26, 135, 77, 1) 100%)",
+          "value": "linear-gradient(180deg, rgb(70, 169, 118) 0%, rgb(26, 117, 68) 100%)",
           "type": "color"
         },
         "300": {
