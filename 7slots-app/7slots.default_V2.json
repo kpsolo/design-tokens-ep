@@ -2219,11 +2219,11 @@
     }
   },
   "display": {
-    "disp1_black-italic_30": {
+    "disp1_black-italic_24": {
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-0}",
-        "fontSize": "{fontSize.7}",
+        "fontSize": "{fontSize.8}",
         "lineHeight": "{lineHeights.0}"
       },
       "type": "typography"
