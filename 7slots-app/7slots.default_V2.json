@@ -2223,7 +2223,7 @@
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-0}",
-        "fontSize": "{fontSize.8}",
+        "fontSize": "{fontSize.7}",
         "lineHeight": "{lineHeights.0}"
       },
       "type": "typography"
