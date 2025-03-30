@@ -1174,8 +1174,8 @@
           "value": "{core.white.700}",
           "type": "color"
         },
-        "nope": {
-          "value": "#00000000",
+        "error": {
+          "value": "{core.red.50}",
           "type": "color"
         }
       },
@@ -1188,8 +1188,8 @@
           "value": "{core.white.500}",
           "type": "color"
         },
-        "selected-2": {
-          "value": "{core.brand.accent.100}",
+        "error": {
+          "value": "{core.white.50}",
           "type": "color"
         }
       },
@@ -1206,8 +1206,8 @@
           "value": "{core.white.700}",
           "type": "color"
         },
-        "nope": {
-          "value": "#00000000",
+        "error": {
+          "value": "{core.red.300}",
           "type": "color"
         }
       }
