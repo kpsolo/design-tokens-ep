@@ -578,7 +578,7 @@
             "description": "The icon color of the enabled button"
           },
           "pressed": {
-            "value": "{core.white.100}",
+            "value": "{core.white.200}",
             "type": "color",
             "description": "The icon color of the pressed button"
           },
@@ -624,7 +624,7 @@
             "description": "The background of the enabled button"
           },
           "pressed": {
-            "value": "{core.white.100}",
+            "value": "{core.white.200}",
             "type": "color",
             "description": "The background of the pressed button"
           },
@@ -646,7 +646,7 @@
             "description": "The text color of the enabled button"
           },
           "pressed": {
-            "value": "{core.black.100}",
+            "value": "{core.black.200}",
             "type": "color",
             "description": "The text color of the pressed button"
           },
@@ -663,7 +663,7 @@
             "description": "The icon color of the enabled button"
           },
           "pressed": {
-            "value": "{core.black.100}",
+            "value": "{core.black.200}",
             "type": "color",
             "description": "The icon color of the pressed button"
           },
@@ -709,7 +709,7 @@
             "description": "The text color of the enabled button"
           },
           "pressed": {
-            "value": "{core.white.100}",
+            "value": "{core.white.200}",
             "type": "color",
             "description": "The text color of the pressed button"
           },
@@ -726,7 +726,7 @@
             "description": "The icon color of the enabled button"
           },
           "pressed": {
-            "value": "{core.white.100}",
+            "value": "{core.white.200}",
             "type": "color",
             "description": "The icon color of the pressed button"
           },
@@ -815,7 +815,7 @@
             "description": "The text color of the enabled button"
           },
           "pressed": {
-            "value": "{core.white.100}",
+            "value": "{core.white.200}",
             "type": "color",
             "description": "The text color of the pressed button"
           },
@@ -832,7 +832,7 @@
             "description": "The icon color of the enabled button"
           },
           "pressed": {
-            "value": "{core.white.100}",
+            "value": "{core.white.200}",
             "type": "color",
             "description": "The icon color of the pressed button"
           },
@@ -878,7 +878,7 @@
             "description": "The background of the enabled button"
           },
           "pressed": {
-            "value": "{core.red.100}",
+            "value": "{core.red.200}",
             "type": "color",
             "description": "The background of the pressed button"
           },
@@ -900,7 +900,7 @@
             "description": "The text color of the enabled button"
           },
           "pressed": {
-            "value": "{core.white.100}",
+            "value": "{core.white.200}",
             "type": "color",
             "description": "The text color of the pressed button"
           },
@@ -917,7 +917,7 @@
             "description": "The icon color of the enabled button"
           },
           "pressed": {
-            "value": "{core.white.100}",
+            "value": "{core.white.200}",
             "type": "color",
             "description": "The icon color of the pressed button"
           },
