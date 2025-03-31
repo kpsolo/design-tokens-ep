@@ -1727,6 +1727,16 @@
           "type": "color"
         }
       }
+    },
+    "confirm-email": {
+      "background": {
+        "value": "{сomponent.background.auxiliary}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{core.white.50}",
+        "type": "color"
+      }
     }
   },
   "semantic": {
