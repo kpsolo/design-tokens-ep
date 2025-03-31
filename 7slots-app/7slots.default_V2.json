@@ -1741,6 +1741,22 @@
         "value": "{core.white.50}",
         "type": "color"
       }
+    },
+    "tag-thumb": {
+      "background": {
+        "new": {
+          "value": "linear-gradient(135deg, rgb(9, 198, 249) 0%, rgb(4, 93, 233) 100%)",
+          "type": "color"
+        },
+        "tournaments": {
+          "value": "linear-gradient(135deg, rgb(255, 0, 214) 0%, rgb(201, 112, 255) 100%)",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "value": "{core.white.50}",
+        "type": "color"
+      }
     }
   },
   "semantic": {
