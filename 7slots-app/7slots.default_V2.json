@@ -1730,7 +1730,7 @@
     },
     "confirm-email": {
       "background": {
-        "value": "{сomponent.background.auxiliary}",
+        "value": "rgba(51,128,243,1)",
         "type": "color"
       },
       "text": {
