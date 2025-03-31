@@ -2808,8 +2808,18 @@
     "type": "dimension"
   },
   "timers": {
-    "value": "{core-dimension.4}",
-    "type": "borderRadius"
+    "large": {
+      "value": "{core-radios.6}",
+      "type": "borderRadius"
+    },
+    "medium": {
+      "value": "{core-radios.4}",
+      "type": "borderRadius"
+    },
+    "small": {
+      "value": "{core-radios.2}",
+      "type": "borderRadius"
+    }
   },
   "progresbar": {
     "value": "{core-dimension.8}",
