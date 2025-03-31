@@ -2067,6 +2067,23 @@
           "type": "color",
           "description": "Color is used for real balance"
         }
+      },
+      "static": {
+        "primary": {
+          "value": "{core.white.300}",
+          "type": "color",
+          "description": "Used for the active icon on a dark background"
+        },
+        "secondary": {
+          "value": "{core.white.500}",
+          "type": "color",
+          "description": "used for a secondary icon on a dark background"
+        },
+        "tertiary": {
+          "value": "{core.white.800}",
+          "type": "color",
+          "description": "Used for a disabled icon on a dark background"
+        }
       }
     },
     "border": {
@@ -2082,7 +2099,7 @@
           "description": "used for a secondary border on a dark background"
         },
         "tertiary": {
-          "value": "{core.white.700}",
+          "value": "{core.white.800}",
           "type": "color",
           "description": "Used for a disabled border on a dark background"
         }
