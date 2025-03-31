@@ -1585,6 +1585,10 @@
         "info": {
           "value": "{core.white.500}",
           "type": "color"
+        },
+        "story": {
+          "value": "{core.white.700}",
+          "type": "color"
         }
       },
       "text": {
