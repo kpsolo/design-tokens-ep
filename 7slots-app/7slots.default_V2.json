@@ -2327,7 +2327,7 @@
       },
       "type": "typography"
     },
-    "body1_medium_16": {
+    "body2_medium_16": {
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-4}",
@@ -2461,7 +2461,7 @@
     }
   },
   "button": {
-    "small_14": {
+    "sm": {
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-4}",
@@ -2470,7 +2470,7 @@
       },
       "type": "typography"
     },
-    "medium_14": {
+    "md": {
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-4}",
@@ -2479,7 +2479,7 @@
       },
       "type": "typography"
     },
-    "large_16": {
+    "lg": {
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-4}",
