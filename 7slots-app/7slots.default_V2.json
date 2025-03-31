@@ -1897,7 +1897,7 @@
         "type": "color",
         "description": "Used for the favorites icon"
       },
-      "static-dark": {
+      "static": {
         "primary": {
           "value": "{core.white.50}",
           "type": "color",
@@ -2162,7 +2162,7 @@
         "type": "color",
         "description": "Used to highlight the active step the user is on"
       },
-      "static-dark": {
+      "static": {
         "primary": {
           "value": "{core.white.50}",
           "type": "color",
