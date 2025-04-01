@@ -1819,7 +1819,7 @@
         "value": "{core.brand.accent.100}",
         "type": "color"
       },
-      "static-dark": {
+      "static": {
         "primary": {
           "value": "{core.white.50}",
           "type": "color",
