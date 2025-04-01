@@ -2690,6 +2690,10 @@
     "providers": {
       "value": "{core-radios.12}",
       "type": "borderRadius"
+    },
+    "vip-club": {
+      "value": "{core-radios.12}",
+      "type": "borderRadius"
     }
   },
   "tooltip": {
