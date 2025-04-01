@@ -1724,14 +1724,16 @@
         }
       }
     },
-    "confirm-email": {
-      "background": {
-        "value": "rgba(51,128,243,1)",
-        "type": "color"
-      },
-      "text": {
-        "value": "{core.white.50}",
-        "type": "color"
+    "data-confirm": {
+      "email": {
+        "background": {
+          "value": "rgba(51,128,243,1)",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.50}",
+          "type": "color"
+        }
       }
     },
     "tag-thumb": {
