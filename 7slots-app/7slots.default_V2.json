@@ -1194,10 +1194,6 @@
           "value": "{core.white.300}",
           "type": "color"
         },
-        "selected": {
-          "value": "{core.brand.support.100}",
-          "type": "color"
-        },
         "disabled": {
           "value": "{core.white.700}",
           "type": "color"
