@@ -341,10 +341,6 @@
           "value": "#2DD890",
           "type": "color"
         },
-        "inactive": {
-          "value": "#00000000",
-          "type": "color"
-        },
         "default": {
           "value": "{core.white.800}",
           "type": "color"
