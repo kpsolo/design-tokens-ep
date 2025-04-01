@@ -1113,24 +1113,6 @@
       }
     },
     "radio": {
-      "background": {
-        "selected": {
-          "value": "{core.brand.support.100}",
-          "type": "color"
-        },
-        "selected2": {
-          "value": "{core.white.50}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{core.white.700}",
-          "type": "color"
-        },
-        "nope": {
-          "value": "#00000000",
-          "type": "color"
-        }
-      },
       "icon": {
         "selected": {
           "value": "{core.white.50}",
@@ -1152,10 +1134,6 @@
         },
         "disabled": {
           "value": "{core.white.700}",
-          "type": "color"
-        },
-        "nope": {
-          "value": "#00000000",
           "type": "color"
         }
       }
