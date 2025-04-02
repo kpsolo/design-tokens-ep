@@ -418,28 +418,6 @@
             "type": "color",
             "description": "The icon color of the loading button"
           }
-        },
-        "border": {
-          "enabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the enabled button"
-          },
-          "pressed": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the pressed button"
-          },
-          "disabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the disabled button"
-          },
-          "loading": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the loading button"
-          }
         }
       },
       "secondary": {
@@ -502,28 +480,6 @@
             "value": "{core.white.50}",
             "type": "color",
             "description": "The icon color of the loading button"
-          }
-        },
-        "border": {
-          "enabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the enabled button"
-          },
-          "pressed": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the pressed button"
-          },
-          "disabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the disabled button"
-          },
-          "loading": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the loading button"
           }
         }
       },
@@ -588,28 +544,6 @@
             "type": "color",
             "description": "The icon color of the loading button"
           }
-        },
-        "border": {
-          "enabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the enabled button"
-          },
-          "pressed": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the pressed button"
-          },
-          "disabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the disabled button"
-          },
-          "loading": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the loading button"
-          }
         }
       },
       "info": {
@@ -673,28 +607,6 @@
             "type": "color",
             "description": "The icon color of the loading button"
           }
-        },
-        "border": {
-          "enabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the enabled button"
-          },
-          "pressed": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the pressed button"
-          },
-          "disabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the disabled button"
-          },
-          "loading": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the loading button"
-          }
         }
       },
       "outlined": {
@@ -757,53 +669,9 @@
             "type": "color",
             "description": "The border color of the loading button"
           }
-        },
-        "background": {
-          "enabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The background of the enabled button"
-          },
-          "pressed": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The background of the pressed button"
-          },
-          "disabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The background of the disabled button"
-          },
-          "loading": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The background of the loading button"
-          }
         }
       },
       "text": {
-        "background": {
-          "enabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The background of the enabled button"
-          },
-          "pressed": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The background of the pressed button"
-          },
-          "disabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The background of the disabled button"
-          },
-          "loading": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The background of the loading button"
-          }
-        },
         "text": {
           "enabled": {
             "value": "{core.white.50}",
@@ -841,28 +709,6 @@
             "value": "{core.white.50}",
             "type": "color",
             "description": "The icon color of the loading button"
-          }
-        },
-        "border": {
-          "enabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the enabled button"
-          },
-          "pressed": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the pressed button"
-          },
-          "disabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the disabled button"
-          },
-          "loading": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the loading button"
           }
         }
       },
@@ -926,28 +772,6 @@
             "value": "{core.white.50}",
             "type": "color",
             "description": "The icon color of the loading button"
-          }
-        },
-        "border": {
-          "enabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the enabled button"
-          },
-          "pressed": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the pressed button"
-          },
-          "disabled": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the disabled button"
-          },
-          "loading": {
-            "value": "#00000000",
-            "type": "color",
-            "description": "The border color of the loading button"
           }
         }
       }
