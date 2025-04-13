@@ -2329,22 +2329,6 @@
       "value": "{core-radios.full}",
       "type": "borderRadius"
     },
-    "enabled": {
-      "value": "{core-width.1p5}",
-      "type": "borderWidth"
-    },
-    "pressed": {
-      "value": "{core-width.1p5}",
-      "type": "borderWidth"
-    },
-    "disabled": {
-      "value": "{core-width.1p5}",
-      "type": "borderWidth"
-    },
-    "loading": {
-      "value": "{core-width.1p5}",
-      "type": "borderWidth"
-    },
     "tab-bar": {
       "value": "{core-radios.full}",
       "type": "borderRadius"
