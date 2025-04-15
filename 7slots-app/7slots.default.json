@@ -1009,7 +1009,7 @@
     "snackbar": {
       "background": {
         "info": {
-          "value": "{core.white.50}",
+          "value": "{core.neutral.100}",
           "type": "color"
         },
         "error": {
@@ -2407,6 +2407,19 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
+    },
+    "winning": {
+      "thumb": {
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "12",
+          "spread": "0",
+          "color": "rgba(0,0,0,0.5)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
     }
   },
   "chipss": {
@@ -3021,5 +3034,53 @@
       "value": "{core-radios.full}",
       "type": "borderRadius"
     }
+  },
+  "snackbars": {
+    "value": [
+      {
+        "x": "0",
+        "y": "4",
+        "blur": "8",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.15)",
+        "type": "dropShadow"
+      },
+      {
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "0",
+        "color": "#000000",
+        "type": "innerShadow"
+      }
+    ],
+    "type": "boxShadow"
+  },
+  "winning-now": {
+    "value": "{core-dimension.4}",
+    "type": "dimension"
+  },
+  "backdrop": {
+    "value": "{core-dimension.8}",
+    "type": "dimension"
+  },
+  "tooltips": {
+    "value": {
+      "x": "0",
+      "y": "4",
+      "blur": "24",
+      "spread": "0",
+      "color": "rgba(0,0,0,0.2)",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "statusess": {
+    "value": "{core-dimension.12}",
+    "type": "dimension"
+  },
+  "chipses": {
+    "value": "{core-dimension.12}",
+    "type": "dimension"
   }
 }
