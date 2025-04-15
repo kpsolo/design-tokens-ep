@@ -1839,6 +1839,20 @@
           "value": "rgba(0,0,0,0.6)",
           "type": "color",
           "description": "It is used as a shadow under the pop-up and bottom sheet"
+        },
+        "glow": {
+          "default": {
+            "value": "linear-gradient(180deg, rgba(6, 144, 241, 0.15) 0%, rgba(17, 30, 69, 0.00) 100%)",
+            "type": "color"
+          },
+          "error": {
+            "value": "linear-gradient(180deg, rgba(255, 26, 81, 0.15) 0%, rgba(17, 30, 69, 0.00) 100%)",
+            "type": "color"
+          },
+          "success": {
+            "value": "linear-gradient(180deg, rgba(23, 205, 107, 0.15) 0%, rgba(17, 30, 69, 0.00) 100%)",
+            "type": "color"
+          }
         }
       },
       "loyalty": {
