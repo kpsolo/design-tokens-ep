@@ -1539,6 +1539,46 @@
         "value": "{core.white.50}",
         "type": "color"
       }
+    },
+    "segmented": {
+      "background": {
+        "surface": {
+          "value": "{core.neutral.400}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.brand.support.100}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "default": {
+          "value": "{core.white.100}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.white.500}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "{core.white.100}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.white.500}",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {
@@ -2944,6 +2984,16 @@
         "fontSize": "{fontSize.10}"
       },
       "type": "typography"
+    }
+  },
+  "segment": {
+    "surface": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    },
+    "item": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
     }
   }
 }
