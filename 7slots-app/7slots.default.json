@@ -2407,19 +2407,6 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
-    },
-    "winning": {
-      "thumb": {
-        "value": {
-          "x": "0",
-          "y": "0",
-          "blur": "12",
-          "spread": "0",
-          "color": "rgba(0,0,0,0.5)",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      }
     }
   },
   "chipss": {
@@ -3056,6 +3043,17 @@
     ],
     "type": "boxShadow"
   },
+  "winning_thumb": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "12",
+      "spread": "0",
+      "color": "rgba(0,0,0,0.5)",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
   "winning-now": {
     "value": "{core-dimension.4}",
     "type": "dimension"
@@ -3076,10 +3074,6 @@
     "type": "boxShadow"
   },
   "statusess": {
-    "value": "{core-dimension.12}",
-    "type": "dimension"
-  },
-  "chipses": {
     "value": "{core-dimension.12}",
     "type": "dimension"
   }
