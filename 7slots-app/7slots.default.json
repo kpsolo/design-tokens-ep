@@ -1835,6 +1835,14 @@
           "type": "color",
           "description": "Used as a surface to highlight text above it"
         },
+        "success": {
+          "value": "{core.green.600}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{core.red.600}",
+          "type": "color"
+        },
         "backdrop": {
           "value": "rgba(0,0,0,0.6)",
           "type": "color",
@@ -1842,15 +1850,15 @@
         },
         "glow": {
           "default": {
-            "value": "linear-gradient(180deg, rgba(6, 144, 241, 0.15) 0%, rgba(17, 30, 69, 0.00) 100%)",
+            "value": "linear-gradient(180deg, rgba(6, 144, 241, 0.25) 0%, rgba(17, 30, 69, 0.00) 100%)",
             "type": "color"
           },
           "error": {
-            "value": "linear-gradient(180deg, rgba(255, 26, 81, 0.15) 0%, rgba(17, 30, 69, 0.00) 100%)",
+            "value": "linear-gradient(180deg, rgba(255, 26, 81, 0.25) 0%, rgba(17, 30, 69, 0.00) 100%)",
             "type": "color"
           },
           "success": {
-            "value": "linear-gradient(180deg, rgba(23, 205, 107, 0.15) 0%, rgba(17, 30, 69, 0.00) 100%)",
+            "value": "linear-gradient(180deg, rgba(23, 205, 107, 0.25) 0%, rgba(17, 30, 69, 0.00) 100%)",
             "type": "color"
           }
         }
