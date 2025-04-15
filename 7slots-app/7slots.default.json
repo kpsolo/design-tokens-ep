@@ -1578,6 +1578,10 @@
           "value": "{core.white.500}",
           "type": "color"
         }
+      },
+      "divider": {
+        "value": "{core.white.800}",
+        "type": "color"
       }
     }
   },
