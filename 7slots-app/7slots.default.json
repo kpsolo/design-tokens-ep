@@ -373,11 +373,6 @@
             "value": "{core.white.700}",
             "type": "color",
             "description": "The background of the disabled button"
-          },
-          "loading": {
-            "value": "{core.brand.accent.100}",
-            "type": "color",
-            "description": "The background of the loading button"
           }
         },
         "text": {
@@ -412,11 +407,6 @@
             "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
-          },
-          "loading": {
-            "value": "{core.white.50}",
-            "type": "color",
-            "description": "The icon color of the loading button"
           }
         }
       },
@@ -436,11 +426,6 @@
             "value": "{core.white.700}",
             "type": "color",
             "description": "The background of the disabled button"
-          },
-          "loading": {
-            "value": "{core.brand.support.100}",
-            "type": "color",
-            "description": "The background of the loading button"
           }
         },
         "text": {
@@ -475,11 +460,6 @@
             "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
-          },
-          "loading": {
-            "value": "{core.white.50}",
-            "type": "color",
-            "description": "The icon color of the loading button"
           }
         }
       },
@@ -499,11 +479,6 @@
             "value": "{core.white.700}",
             "type": "color",
             "description": "The background of the disabled button"
-          },
-          "loading": {
-            "value": "#36518F",
-            "type": "color",
-            "description": "The background of the loading button"
           }
         },
         "text": {
@@ -538,11 +513,6 @@
             "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
-          },
-          "loading": {
-            "value": "{core.white.50}",
-            "type": "color",
-            "description": "The icon color of the loading button"
           }
         }
       },
@@ -562,11 +532,6 @@
             "value": "{core.white.700}",
             "type": "color",
             "description": "The background of the disabled button"
-          },
-          "loading": {
-            "value": "{core.white.50}",
-            "type": "color",
-            "description": "The background of the loading button"
           }
         },
         "text": {
@@ -601,11 +566,6 @@
             "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
-          },
-          "loading": {
-            "value": "{core.black.50}",
-            "type": "color",
-            "description": "The icon color of the loading button"
           }
         }
       },
@@ -642,11 +602,6 @@
             "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
-          },
-          "loading": {
-            "value": "{core.white.50}",
-            "type": "color",
-            "description": "The icon color of the loading button"
           }
         },
         "border": {
@@ -663,11 +618,6 @@
           "disabled": {
             "value": "{core.white.700}",
             "type": "color"
-          },
-          "loading": {
-            "value": "{core.white.200}",
-            "type": "color",
-            "description": "The border color of the loading button"
           }
         }
       },
@@ -704,11 +654,6 @@
             "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
-          },
-          "loading": {
-            "value": "{core.white.50}",
-            "type": "color",
-            "description": "The icon color of the loading button"
           }
         }
       },
@@ -728,11 +673,6 @@
             "value": "{core.white.700}",
             "type": "color",
             "description": "The background of the disabled button"
-          },
-          "loading": {
-            "value": "{core.red.50}",
-            "type": "color",
-            "description": "The background of the loading button"
           }
         },
         "text": {
@@ -767,11 +707,6 @@
             "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
-          },
-          "loading": {
-            "value": "{core.white.50}",
-            "type": "color",
-            "description": "The icon color of the loading button"
           }
         }
       }
