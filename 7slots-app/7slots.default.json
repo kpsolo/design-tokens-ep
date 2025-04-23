@@ -1597,22 +1597,20 @@
       }
     },
     "icon": {
-      "on-dark": {
-        "primary": {
-          "value": "{core.white.50}",
-          "type": "color",
-          "description": "Used for the active icon on a dark background"
-        },
-        "secondary": {
-          "value": "{core.white.200}",
-          "type": "color",
-          "description": "used for a secondary icon on a dark background"
-        },
-        "tertiary": {
-          "value": "{core.white.500}",
-          "type": "color",
-          "description": "Used for a disabled icon on a dark background"
-        }
+      "primary": {
+        "value": "{core.white.50}",
+        "type": "color",
+        "description": "Used for the active icon on a dark background"
+      },
+      "secondary": {
+        "value": "{core.white.200}",
+        "type": "color",
+        "description": "used for a secondary icon on a dark background"
+      },
+      "tertiary": {
+        "value": "{core.white.500}",
+        "type": "color",
+        "description": "Used for a disabled icon on a dark background"
       },
       "on-light": {
         "primary": {
@@ -1630,11 +1628,6 @@
           "type": "color",
           "description": "Used for a disabled icon on a light background"
         }
-      },
-      "brand": {
-        "value": "{core.brand.accent.100}",
-        "type": "color",
-        "description": "Used to accentuate an icon"
       },
       "danger": {
         "value": "{core.red.50}",
@@ -1884,22 +1877,20 @@
       }
     },
     "border": {
-      "on-dark": {
-        "primary": {
-          "value": "{core.white.50}",
-          "type": "color",
-          "description": "Used for the active border on a dark background"
-        },
-        "secondary": {
-          "value": "{core.white.200}",
-          "type": "color",
-          "description": "used for a secondary border on a dark background"
-        },
-        "tertiary": {
-          "value": "{core.white.800}",
-          "type": "color",
-          "description": "Used for a disabled border on a dark background"
-        }
+      "primary": {
+        "value": "{core.white.50}",
+        "type": "color",
+        "description": "Used for the active border on a dark background"
+      },
+      "secondary": {
+        "value": "{core.white.200}",
+        "type": "color",
+        "description": "used for a secondary border on a dark background"
+      },
+      "tertiary": {
+        "value": "{core.white.800}",
+        "type": "color",
+        "description": "Used for a disabled border on a dark background"
       },
       "on-light": {
         "primary": {
@@ -1937,11 +1928,6 @@
         "value": "linear-gradient(225deg, rgba(138, 59, 238, 1) 0%, rgba(242, 0, 183, 1) 39%, rgba(254, 148, 2, 1) 91.67%)",
         "type": "color",
         "description": "Used for active and new stories that the user has not yet viewed"
-      },
-      "auxiliary": {
-        "value": "{core.brand.support.100}",
-        "type": "color",
-        "description": "Used to highlight the active step the user is on"
       },
       "static": {
         "primary": {
