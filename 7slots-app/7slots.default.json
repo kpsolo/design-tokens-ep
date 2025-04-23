@@ -1540,11 +1540,6 @@
         }
       },
       "on-dark": {
-        "primary": {
-          "value": "{core.white.50}",
-          "type": "color",
-          "description": "Color for headers on a dark background"
-        },
         "secondary": {
           "value": "{core.white.200}",
           "type": "color",
@@ -1556,10 +1551,10 @@
           "description": "Color for third line information on a dark background"
         }
       },
-      "danger": {
-        "value": "{core.red.50}",
+      "primary": {
+        "value": "{core.white.50}",
         "type": "color",
-        "description": "Color for the error title and description"
+        "description": "Color for headers on a dark background"
       },
       "success": {
         "value": "{core.green.50}",
@@ -1570,6 +1565,11 @@
         "value": "{core.orange.50}",
         "type": "color",
         "description": "Color for the warning header and description"
+      },
+      "danger": {
+        "value": "{core.red.50}",
+        "type": "color",
+        "description": "Color for the error title and description"
       },
       "prize": {
         "value": "{core.yellow.50}",
