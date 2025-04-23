@@ -1539,22 +1539,20 @@
           "description": "Color for third line information on a light background"
         }
       },
-      "on-dark": {
-        "secondary": {
-          "value": "{core.white.200}",
-          "type": "color",
-          "description": "Color for descriptions and subtitles on a dark background"
-        },
-        "tertiary": {
-          "value": "{core.white.500}",
-          "type": "color",
-          "description": "Color for third line information on a dark background"
-        }
-      },
       "primary": {
         "value": "{core.white.50}",
         "type": "color",
         "description": "Color for headers on a dark background"
+      },
+      "secondary": {
+        "value": "{core.white.200}",
+        "type": "color",
+        "description": "Color for descriptions and subtitles on a dark background"
+      },
+      "tertiary": {
+        "value": "{core.white.500}",
+        "type": "color",
+        "description": "Color for third line information on a dark background"
       },
       "success": {
         "value": "{core.green.50}",
