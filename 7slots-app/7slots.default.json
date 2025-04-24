@@ -1522,23 +1522,6 @@
   },
   "semantic": {
     "text": {
-      "on-light": {
-        "primary": {
-          "value": "{core.black.50}",
-          "type": "color",
-          "description": "Color for headers on a light background"
-        },
-        "secondary": {
-          "value": "{core.black.200}",
-          "type": "color",
-          "description": "Color for descriptions and subtitles on a light background"
-        },
-        "tertiary": {
-          "value": "{core.black.500}",
-          "type": "color",
-          "description": "Color for third line information on a light background"
-        }
-      },
       "primary": {
         "value": "{core.white.50}",
         "type": "color",
@@ -1574,10 +1557,6 @@
         "type": "color",
         "description": "Color for highlighting prizes and the amount of balances and free spins"
       },
-      "brand": {
-        "value": "{core.brand.accent.100}",
-        "type": "color"
-      },
       "static": {
         "primary": {
           "value": "{core.white.50}",
@@ -1612,28 +1591,6 @@
         "type": "color",
         "description": "Used for a disabled icon on a dark background"
       },
-      "on-light": {
-        "primary": {
-          "value": "{core.black.50}",
-          "type": "color",
-          "description": "Used for the active icon on a light background"
-        },
-        "secondary": {
-          "value": "{core.black.200}",
-          "type": "color",
-          "description": "used for a secondary icon on a light background"
-        },
-        "tertiary": {
-          "value": "{core.black.500}",
-          "type": "color",
-          "description": "Used for a disabled icon on a light background"
-        }
-      },
-      "danger": {
-        "value": "{core.red.50}",
-        "type": "color",
-        "description": "Used for an error icon or badge"
-      },
       "success": {
         "value": "{core.green.50}",
         "type": "color",
@@ -1644,10 +1601,19 @@
         "type": "color",
         "description": "Color for the warning icon or badge"
       },
+      "danger": {
+        "value": "{core.red.50}",
+        "type": "color",
+        "description": "Used for an error icon or badge"
+      },
       "favorite": {
         "value": "{core.yellow.50}",
         "type": "color",
         "description": "Used for the favorites icon"
+      },
+      "deposit": {
+        "value": "{core.brand.accent.100}",
+        "type": "color"
       },
       "static": {
         "primary": {
@@ -1892,28 +1858,6 @@
         "type": "color",
         "description": "Used for a disabled border on a dark background"
       },
-      "on-light": {
-        "primary": {
-          "value": "{core.black.50}",
-          "type": "color",
-          "description": "Used for the active border on a light background"
-        },
-        "secondary": {
-          "value": "{core.black.100}",
-          "type": "color",
-          "description": "used for a secondary border on a light background"
-        },
-        "tertiary": {
-          "value": "{core.black.700}",
-          "type": "color",
-          "description": "Used for a disabled border on a light background"
-        }
-      },
-      "danger": {
-        "value": "{core.red.50}",
-        "type": "color",
-        "description": "Used to highlight an error"
-      },
       "success": {
         "value": "{core.green.50}",
         "type": "color",
@@ -1923,6 +1867,11 @@
         "value": "{core.orange.50}",
         "type": "color",
         "description": "Used to highlight a warning"
+      },
+      "danger": {
+        "value": "{core.red.50}",
+        "type": "color",
+        "description": "Used to highlight an error"
       },
       "story": {
         "value": "linear-gradient(225deg, rgba(138, 59, 238, 1) 0%, rgba(242, 0, 183, 1) 39%, rgba(254, 148, 2, 1) 91.67%)",
