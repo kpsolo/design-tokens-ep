@@ -349,61 +349,52 @@
     },
     "button": {
       "primary": {
-        "background": {
-          "enabled": {
+        "enabled": {
+          "background": {
             "value": "{core.brand.accent.100}",
             "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "0",
-                  "space": "lch"
-                }
-              }
-            },
             "description": "The background of the enabled button"
           },
-          "pressed": {
-            "value": "{core.brand.accent.200}",
-            "type": "color",
-            "description": "The background of the pressed button"
-          },
-          "disabled": {
-            "value": "{core.white.700}",
-            "type": "color",
-            "description": "The background of the disabled button"
-          }
-        },
-        "text": {
-          "enabled": {
+          "text": {
             "value": "{core.white.50}",
             "type": "color",
             "description": "The text color of the enabled button"
           },
-          "pressed": {
+          "icon": {
+            "value": "{core.white.50}",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          }
+        },
+        "pressed": {
+          "background": {
+            "value": "{core.brand.accent.200}",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "text": {
             "value": "{core.white.100}",
             "type": "color",
             "description": "The text color of the pressed button"
           },
-          "disabled": {
-            "value": "{core.white.500}",
-            "type": "color",
-            "description": "The text color of the disabled button"
-          }
-        },
-        "icon": {
-          "enabled": {
-            "value": "{core.white.50}",
-            "type": "color",
-            "description": "The icon color of the enabled button"
-          },
-          "pressed": {
+          "icon": {
             "value": "{core.white.100}",
             "type": "color",
             "description": "The icon color of the pressed button"
+          }
+        },
+        "disabled": {
+          "background": {
+            "value": "{core.white.700}",
+            "type": "color",
+            "description": "The background of the disabled button"
           },
-          "disabled": {
+          "text": {
+            "value": "{core.white.500}",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          },
+          "icon": {
             "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
@@ -411,52 +402,52 @@
         }
       },
       "secondary": {
-        "background": {
-          "enabled": {
+        "enabled": {
+          "background": {
             "value": "{core.brand.support.100}",
             "type": "color",
             "description": "The background of the enabled button"
           },
-          "pressed": {
-            "value": "{core.brand.support.200}",
-            "type": "color",
-            "description": "The background of the pressed button"
-          },
-          "disabled": {
-            "value": "{core.white.700}",
-            "type": "color",
-            "description": "The background of the disabled button"
-          }
-        },
-        "text": {
-          "enabled": {
+          "text": {
             "value": "{core.white.50}",
             "type": "color",
             "description": "The text color of the enabled button"
           },
-          "pressed": {
+          "icon": {
+            "value": "{core.white.50}",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          }
+        },
+        "pressed": {
+          "background": {
+            "value": "{core.brand.support.200}",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "text": {
             "value": "{core.white.100}",
             "type": "color",
             "description": "The text color of the pressed button"
           },
-          "disabled": {
-            "value": "{core.white.500}",
-            "type": "color",
-            "description": "The text color of the disabled button"
-          }
-        },
-        "icon": {
-          "enabled": {
-            "value": "{core.white.50}",
-            "type": "color",
-            "description": "The icon color of the enabled button"
-          },
-          "pressed": {
+          "icon": {
             "value": "{core.white.100}",
             "type": "color",
             "description": "The icon color of the pressed button"
+          }
+        },
+        "disabled": {
+          "background": {
+            "value": "{core.white.700}",
+            "type": "color",
+            "description": "The background of the disabled button"
           },
-          "disabled": {
+          "text": {
+            "value": "{core.white.500}",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          },
+          "icon": {
             "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
@@ -517,52 +508,52 @@
         }
       },
       "info": {
-        "background": {
-          "enabled": {
+        "enabled": {
+          "background": {
             "value": "{core.white.50}",
             "type": "color",
             "description": "The background of the enabled button"
           },
-          "pressed": {
-            "value": "{core.white.200}",
-            "type": "color",
-            "description": "The background of the pressed button"
-          },
-          "disabled": {
-            "value": "{core.white.700}",
-            "type": "color",
-            "description": "The background of the disabled button"
-          }
-        },
-        "text": {
-          "enabled": {
+          "text": {
             "value": "{core.black.50}",
             "type": "color",
             "description": "The text color of the enabled button"
           },
-          "pressed": {
+          "icon": {
+            "value": "{core.black.50}",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          }
+        },
+        "pressed": {
+          "background": {
+            "value": "{core.white.200}",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "text": {
             "value": "{core.black.200}",
             "type": "color",
             "description": "The text color of the pressed button"
           },
-          "disabled": {
-            "value": "{core.white.500}",
-            "type": "color",
-            "description": "The text color of the disabled button"
-          }
-        },
-        "icon": {
-          "enabled": {
-            "value": "{core.black.50}",
-            "type": "color",
-            "description": "The icon color of the enabled button"
-          },
-          "pressed": {
+          "icon": {
             "value": "{core.black.200}",
             "type": "color",
             "description": "The icon color of the pressed button"
+          }
+        },
+        "disabled": {
+          "background": {
+            "value": "{core.white.700}",
+            "type": "color",
+            "description": "The background of the disabled button"
           },
-          "disabled": {
+          "text": {
+            "value": "{core.white.500}",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          },
+          "icon": {
             "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
@@ -570,87 +561,89 @@
         }
       },
       "outlined": {
-        "text": {
-          "enabled": {
+        "enabled": {
+          "text": {
             "value": "{core.white.50}",
             "type": "color",
             "description": "The text color of the enabled button"
           },
-          "pressed": {
-            "value": "{core.white.200}",
-            "type": "color",
-            "description": "The text color of the pressed button"
-          },
-          "disabled": {
-            "value": "{core.white.500}",
-            "type": "color",
-            "description": "The text color of the disabled button"
-          }
-        },
-        "icon": {
-          "enabled": {
+          "icon": {
             "value": "{core.white.50}",
             "type": "color",
             "description": "The icon color of the enabled button"
           },
-          "pressed": {
+          "border": {
+            "value": "{core.white.200}",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          }
+        },
+        "pressed": {
+          "text": {
+            "value": "{core.white.200}",
+            "type": "color",
+            "description": "The text color of the pressed button"
+          },
+          "icon": {
             "value": "{core.white.200}",
             "type": "color",
             "description": "The icon color of the pressed button"
           },
-          "disabled": {
-            "value": "{core.white.500}",
-            "type": "color",
-            "description": "The icon color of the disabled button"
-          }
-        },
-        "border": {
-          "enabled": {
-            "value": "{core.white.200}",
-            "type": "color",
-            "description": "The border color of the enabled button"
-          },
-          "pressed": {
+          "border": {
             "value": "{core.white.400}",
             "type": "color",
             "description": "The border color of the pressed button"
+          }
+        },
+        "disabled": {
+          "text": {
+            "value": "{core.white.500}",
+            "type": "color",
+            "description": "The text color of the disabled button"
           },
-          "disabled": {
+          "icon": {
+            "value": "{core.white.500}",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "border": {
             "value": "{core.white.700}",
             "type": "color"
           }
         }
       },
       "text": {
-        "text": {
-          "enabled": {
+        "enabled": {
+          "text": {
             "value": "{core.white.50}",
             "type": "color",
             "description": "The text color of the enabled button"
           },
-          "pressed": {
+          "icon": {
+            "value": "{core.white.50}",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          }
+        },
+        "pressed": {
+          "text": {
             "value": "{core.white.200}",
             "type": "color",
             "description": "The text color of the pressed button"
           },
-          "disabled": {
-            "value": "{core.white.500}",
-            "type": "color",
-            "description": "The text color of the disabled button"
-          }
-        },
-        "icon": {
-          "enabled": {
-            "value": "{core.white.50}",
-            "type": "color",
-            "description": "The icon color of the enabled button"
-          },
-          "pressed": {
+          "icon": {
             "value": "{core.white.200}",
             "type": "color",
             "description": "The icon color of the pressed button"
+          }
+        },
+        "disabled": {
+          "text": {
+            "value": "{core.white.500}",
+            "type": "color",
+            "description": "The text color of the disabled button"
           },
-          "disabled": {
+          "icon": {
             "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
@@ -658,52 +651,52 @@
         }
       },
       "danger": {
-        "background": {
-          "enabled": {
+        "enabled": {
+          "background": {
             "value": "{core.red.50}",
             "type": "color",
             "description": "The background of the enabled button"
           },
-          "pressed": {
-            "value": "{core.red.200}",
-            "type": "color",
-            "description": "The background of the pressed button"
-          },
-          "disabled": {
-            "value": "{core.white.700}",
-            "type": "color",
-            "description": "The background of the disabled button"
-          }
-        },
-        "text": {
-          "enabled": {
+          "text": {
             "value": "{core.white.50}",
             "type": "color",
             "description": "The text color of the enabled button"
           },
-          "pressed": {
+          "icon": {
+            "value": "{core.white.50}",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          }
+        },
+        "pressed": {
+          "background": {
+            "value": "{core.red.200}",
+            "type": "color",
+            "description": "The background of the pressed button"
+          },
+          "text": {
             "value": "{core.white.200}",
             "type": "color",
             "description": "The text color of the pressed button"
           },
-          "disabled": {
-            "value": "{core.white.500}",
-            "type": "color",
-            "description": "The text color of the disabled button"
-          }
-        },
-        "icon": {
-          "enabled": {
-            "value": "{core.white.50}",
-            "type": "color",
-            "description": "The icon color of the enabled button"
-          },
-          "pressed": {
+          "icon": {
             "value": "{core.white.200}",
             "type": "color",
             "description": "The icon color of the pressed button"
+          }
+        },
+        "disabled": {
+          "background": {
+            "value": "{core.white.700}",
+            "type": "color",
+            "description": "The background of the disabled button"
           },
-          "disabled": {
+          "text": {
+            "value": "{core.white.500}",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          },
+          "icon": {
             "value": "{core.white.500}",
             "type": "color",
             "description": "The icon color of the disabled button"
@@ -1653,18 +1646,6 @@
         "type": "color",
         "description": "used for the timer"
       },
-      "pop-up": {
-        "value": "{core.neutral.500}",
-        "type": "color"
-      },
-      "pre-gaming": {
-        "value": "{core.neutral.600}",
-        "type": "color"
-      },
-      "brand": {
-        "value": "{core.brand.accent.100}",
-        "type": "color"
-      },
       "success": {
         "value": "{core.green.50}",
         "type": "color"
@@ -1675,6 +1656,14 @@
       },
       "error": {
         "value": "{core.red.50}",
+        "type": "color"
+      },
+      "pre-gaming": {
+        "value": "{core.neutral.600}",
+        "type": "color"
+      },
+      "pop-up": {
+        "value": "{core.neutral.500}",
         "type": "color"
       },
       "welcome_scr": {
@@ -1707,6 +1696,19 @@
           "value": "{core.white.800}",
           "type": "color"
         },
+        "success": {
+          "value": "{core.green.600}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{core.red.600}",
+          "type": "color"
+        },
+        "backdrop": {
+          "value": "rgba(0,0,0,0.6)",
+          "type": "color",
+          "description": "It is used as a shadow under the pop-up and bottom sheet"
+        },
         "shadow-left": {
           "value": "linear-gradient(270deg, #070d1e00 0%, #070d1eb3 100%)",
           "type": "color",
@@ -1726,19 +1728,6 @@
           "value": "linear-gradient(90deg, #070d1e00 0%, #070d1eb3 100%)",
           "type": "color",
           "description": "Used as a surface to highlight text above it"
-        },
-        "success": {
-          "value": "{core.green.600}",
-          "type": "color"
-        },
-        "error": {
-          "value": "{core.red.600}",
-          "type": "color"
-        },
-        "backdrop": {
-          "value": "rgba(0,0,0,0.6)",
-          "type": "color",
-          "description": "It is used as a shadow under the pop-up and bottom sheet"
         },
         "glow": {
           "default": {
