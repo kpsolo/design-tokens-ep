@@ -717,7 +717,7 @@
         }
       },
       "cursor": {
-        "value": "{semantic.icon.brand}",
+        "value": "{core.brand.accent.100}",
         "type": "color",
         "description": "Used for the cursor when focusing with a text field"
       },
@@ -794,11 +794,11 @@
         "type": "color"
       },
       "text-default": {
-        "value": "{semantic.text.on-light.primary}",
+        "value": "{core.black.50}",
         "type": "color"
       },
       "icon-default": {
-        "value": "{semantic.icon.on-light.primary}",
+        "value": "{core.black.50}",
         "type": "color"
       }
     },
