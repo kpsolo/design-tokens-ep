@@ -2134,5 +2134,223 @@
       "type": "dropShadow"
     },
     "type": "boxShadow"
+  },
+  "size-button": {
+    "large": {
+      "min-width": {
+        "value": "80",
+        "type": "sizing"
+      },
+      "min-height": {
+        "value": "50",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "50",
+        "type": "sizing"
+      }
+    },
+    "medium": {
+      "min-width": {
+        "value": "80",
+        "type": "sizing"
+      },
+      "min-height": {
+        "value": "44",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "44",
+        "type": "sizing"
+      }
+    },
+    "small": {
+      "min-width": {
+        "value": "56",
+        "type": "sizing"
+      },
+      "min-height": {
+        "value": "32",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "32",
+        "type": "sizing"
+      }
+    },
+    "swipe": {
+      "min-width": {
+        "value": "300",
+        "type": "sizing"
+      },
+      "min-height": {
+        "value": "52",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "52",
+        "type": "sizing"
+      }
+    }
+  },
+  "size-chips": {
+    "large": {
+      "min-width": {
+        "value": "56",
+        "type": "sizing"
+      },
+      "max-width": {
+        "value": "250",
+        "type": "sizing"
+      },
+      "min-height": {
+        "value": "32",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "32",
+        "type": "sizing"
+      }
+    },
+    "medium": {
+      "min-width": {
+        "value": "56",
+        "type": "sizing"
+      },
+      "max-width": {
+        "value": "200",
+        "type": "sizing"
+      },
+      "min-height": {
+        "value": "24",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "24",
+        "type": "sizing"
+      }
+    }
+  },
+  "size-statuses": {
+    "large": {
+      "min-width": {
+        "value": "56",
+        "type": "sizing"
+      },
+      "max-width": {
+        "value": "250",
+        "type": "sizing"
+      },
+      "min-height": {
+        "value": "24",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "24",
+        "type": "sizing"
+      }
+    },
+    "medium": {
+      "min-width": {
+        "value": "56",
+        "type": "sizing"
+      },
+      "max-width": {
+        "value": "200",
+        "type": "sizing"
+      },
+      "min-height": {
+        "value": "20",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "20",
+        "type": "sizing"
+      }
+    }
+  },
+  "size-text-field": {
+    "min-width": {
+      "value": "50",
+      "type": "sizing"
+    },
+    "min-height": {
+      "value": "50",
+      "type": "sizing"
+    },
+    "max-height": {
+      "value": "50",
+      "type": "sizing"
+    }
+  },
+  "size-snackbar": {
+    "min-height": {
+      "value": "50",
+      "type": "sizing"
+    },
+    "max-height": {
+      "value": "86",
+      "type": "sizing"
+    }
+  },
+  "size-search": {
+    "min-height": {
+      "value": "36",
+      "type": "sizing"
+    },
+    "max-height": {
+      "value": "36",
+      "type": "sizing"
+    }
+  },
+  "size-segment-control": {
+    "сontainer": {
+      "min-height": {
+        "value": "32",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "32",
+        "type": "sizing"
+      }
+    },
+    "button": {
+      "min-height": {
+        "value": "28",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "28",
+        "type": "sizing"
+      }
+    }
+  },
+  "size-badge": {
+    "small": {
+      "value": "6",
+      "type": "sizing"
+    },
+    "large": {
+      "value": "16",
+      "type": "sizing"
+    }
+  },
+  "size-tooltip": {
+    "min-width": {
+      "value": "76",
+      "type": "sizing"
+    },
+    "max-width": {
+      "value": "320",
+      "type": "sizing"
+    },
+    "min-height": {
+      "value": "38",
+      "type": "sizing"
+    },
+    "max-height": {
+      "value": "360",
+      "type": "sizing"
+    }
   }
 }
