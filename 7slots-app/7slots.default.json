@@ -366,23 +366,6 @@
             "description": "The icon color of the enabled button"
           }
         },
-        "pressed": {
-          "background": {
-            "value": "{core.brand.accent.200}",
-            "type": "color",
-            "description": "The background of the pressed button"
-          },
-          "text": {
-            "value": "{core.white.100}",
-            "type": "color",
-            "description": "The text color of the pressed button"
-          },
-          "icon": {
-            "value": "{core.white.100}",
-            "type": "color",
-            "description": "The icon color of the pressed button"
-          }
-        },
         "disabled": {
           "background": {
             "value": "{core.white.700}",
@@ -417,23 +400,6 @@
             "value": "{core.white.50}",
             "type": "color",
             "description": "The icon color of the enabled button"
-          }
-        },
-        "pressed": {
-          "background": {
-            "value": "{core.brand.support.200}",
-            "type": "color",
-            "description": "The background of the pressed button"
-          },
-          "text": {
-            "value": "{core.white.100}",
-            "type": "color",
-            "description": "The text color of the pressed button"
-          },
-          "icon": {
-            "value": "{core.white.100}",
-            "type": "color",
-            "description": "The icon color of the pressed button"
           }
         },
         "disabled": {
@@ -472,23 +438,6 @@
             "description": "The icon color of the enabled button"
           }
         },
-        "pressed": {
-          "background": {
-            "value": "rgba(54,81,143,0.7)",
-            "type": "color",
-            "description": "The background of the pressed button"
-          },
-          "text": {
-            "value": "{core.white.100}",
-            "type": "color",
-            "description": "The text color of the pressed button"
-          },
-          "icon": {
-            "value": "{core.white.200}",
-            "type": "color",
-            "description": "The icon color of the pressed button"
-          }
-        },
         "disabled": {
           "background": {
             "value": "{core.white.700}",
@@ -523,23 +472,6 @@
             "value": "{core.black.50}",
             "type": "color",
             "description": "The icon color of the enabled button"
-          }
-        },
-        "pressed": {
-          "background": {
-            "value": "{core.white.200}",
-            "type": "color",
-            "description": "The background of the pressed button"
-          },
-          "text": {
-            "value": "{core.black.200}",
-            "type": "color",
-            "description": "The text color of the pressed button"
-          },
-          "icon": {
-            "value": "{core.black.200}",
-            "type": "color",
-            "description": "The icon color of the pressed button"
           }
         },
         "disabled": {
@@ -578,23 +510,6 @@
             "description": "The border color of the enabled button"
           }
         },
-        "pressed": {
-          "text": {
-            "value": "{core.white.200}",
-            "type": "color",
-            "description": "The text color of the pressed button"
-          },
-          "icon": {
-            "value": "{core.white.200}",
-            "type": "color",
-            "description": "The icon color of the pressed button"
-          },
-          "border": {
-            "value": "{core.white.400}",
-            "type": "color",
-            "description": "The border color of the pressed button"
-          }
-        },
         "disabled": {
           "text": {
             "value": "{core.white.500}",
@@ -623,18 +538,6 @@
             "value": "{core.white.50}",
             "type": "color",
             "description": "The icon color of the enabled button"
-          }
-        },
-        "pressed": {
-          "text": {
-            "value": "{core.white.200}",
-            "type": "color",
-            "description": "The text color of the pressed button"
-          },
-          "icon": {
-            "value": "{core.white.200}",
-            "type": "color",
-            "description": "The icon color of the pressed button"
           }
         },
         "disabled": {
@@ -668,23 +571,6 @@
             "description": "The icon color of the enabled button"
           }
         },
-        "pressed": {
-          "background": {
-            "value": "{core.red.200}",
-            "type": "color",
-            "description": "The background of the pressed button"
-          },
-          "text": {
-            "value": "{core.white.200}",
-            "type": "color",
-            "description": "The text color of the pressed button"
-          },
-          "icon": {
-            "value": "{core.white.200}",
-            "type": "color",
-            "description": "The icon color of the pressed button"
-          }
-        },
         "disabled": {
           "background": {
             "value": "{core.white.700}",
@@ -714,6 +600,14 @@
         "focused": {
           "value": "#00000000",
           "type": "color"
+        },
+        "danger": {
+          "value": "#00000000",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#00000000",
+          "type": "color"
         }
       },
       "cursor": {
@@ -722,51 +616,55 @@
         "description": "Used for the cursor when focusing with a text field"
       },
       "text": {
-        "value": {
+        "enabled": {
           "value": "{core.white.50}",
           "type": "color",
           "description": "The color is used for the written text"
         },
-        "label": {
+        "disabled": {
+          "value": "{core.white.500}",
+          "type": "color",
+          "description": "The color used for the label of the field text"
+        }
+      },
+      "icon": {
+        "left-icon": {
+          "value": "{core.white.50}",
+          "type": "color",
+          "description": "Default icon on the level and cannot be interacted with"
+        },
+        "disabled": {
+          "value": "{core.white.600}",
+          "type": "color",
+          "description": "The color for the active icon and the one you can interact with"
+        }
+      },
+      "label": {
+        "enabled": {
           "value": "{core.white.200}",
           "type": "color",
           "description": "The color used for the label of the field text"
         },
-        "success": {
-          "value": "{core.green.50}",
+        "disabled": {
+          "value": "{core.white.600}",
           "type": "color",
-          "description": "For successful text support"
-        },
-        "danger": {
-          "value": "{core.red.50}",
-          "type": "color",
-          "description": "For erroneous text support"
+          "description": "The color used for the label of the field text"
         }
       },
-      "icon": {
-        "right-Icon": {
-          "value": "{core.white.50}",
-          "type": "color",
-          "description": "The color for the active icon and the one you can interact with"
-        },
-        "left-icon": {
+      "suffix": {
+        "enabled": {
           "value": "{core.white.200}",
           "type": "color",
-          "description": "Default icon on the level and cannot be interacted with"
+          "description": "The color is used for the written text"
         },
-        "success": {
-          "value": "{core.green.50}",
+        "disabled": {
+          "value": "{core.white.600}",
           "type": "color",
-          "description": "For an icon that shows success"
-        },
-        "danger": {
-          "value": "{core.red.50}",
-          "type": "color",
-          "description": "For an icon that shows errors"
+          "description": "The color used for the label of the field text"
         }
       },
       "border": {
-        "default": {
+        "enabled": {
           "value": "{core.white.400}",
           "type": "color",
           "description": "Default stroke root field text"
@@ -775,11 +673,6 @@
           "value": "{core.brand.support.100}",
           "type": "color",
           "description": "The root of interaction with the text field "
-        },
-        "success": {
-          "value": "{core.green.50}",
-          "type": "color",
-          "description": "Successful action color for border"
         },
         "danger": {
           "value": "{core.red.50}",
@@ -1470,46 +1363,36 @@
     },
     "segmented": {
       "background": {
-        "surface": {
-          "value": "{core.neutral.400}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{core.brand.support.100}",
-          "type": "color"
-        }
+        "value": "{core.neutral.400}",
+        "type": "color"
       },
-      "text": {
-        "default": {
-          "value": "{core.white.100}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{core.white.50}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{core.white.500}",
-          "type": "color"
-        }
-      },
-      "icon": {
-        "default": {
-          "value": "{core.white.100}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{core.white.50}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{core.white.500}",
-          "type": "color"
-        }
-      },
-      "divider": {
+      "separator": {
         "value": "{core.white.800}",
         "type": "color"
+      },
+      "selected": {
+        "background": {
+          "value": "{core.brand.support.100}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.white.50}",
+          "type": "color"
+        }
+      },
+      "inselected": {
+        "text": {
+          "value": "{core.white.100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.white.100}",
+          "type": "color"
+        }
       }
     }
   },
