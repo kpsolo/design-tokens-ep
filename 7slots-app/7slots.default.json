@@ -678,6 +678,10 @@
           "value": "{core.red.50}",
           "type": "color",
           "description": "Error color for the border"
+        },
+        "disabled": {
+          "value": "{core.white.500}",
+          "type": "color"
         }
       }
     },
