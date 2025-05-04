@@ -588,6 +588,58 @@
             "description": "The icon color of the disabled button"
           }
         }
+      },
+      "swipe": {
+        "default": {
+          "background": {
+            "value": "{core.white.50}",
+            "type": "color"
+          },
+          "thumb": {
+            "value": "{core.brand.accent.100}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.black.50}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.white.50}",
+            "type": "color"
+          }
+        },
+        "filled": {
+          "background": {
+            "value": "{core.white.50}",
+            "type": "color"
+          },
+          "thumb": {
+            "value": "{core.brand.accent.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.white.50}",
+            "type": "color"
+          }
+        },
+        "completed": {
+          "background": {
+            "value": "{core.white.50}",
+            "type": "color"
+          },
+          "thumb": {
+            "value": "{core.brand.accent.100}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.white.50}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.white.50}",
+            "type": "color"
+          }
+        }
       }
     },
     "text-fields": {
@@ -1395,6 +1447,60 @@
         },
         "icon": {
           "value": "{core.white.100}",
+          "type": "color"
+        }
+      }
+    },
+    "bonus": {
+      "background": {
+        "no-deposit": {
+          "value": "linear-gradient(241deg, #8BC9FF 7.95%, #6F00FF 92.05%)",
+          "type": "color"
+        },
+        "manual": {
+          "value": "linear-gradient(123deg, #0052D4 0%, #4364F7 50%, #6FB1FC 100%)",
+          "type": "color"
+        },
+        "progressive": {
+          "value": "linear-gradient(309deg, #9C1EBC -1.31%, #D72590 49.34%, #FF7676 100%)",
+          "type": "color"
+        },
+        "range": {
+          "value": "linear-gradient(135deg, #D24074 0%, #A21599 50%, #6518B4 100%)",
+          "type": "color"
+        },
+        "total-bets": {
+          "value": "linear-gradient(127deg, #E13303 0%, #FF6923 50.42%, #FF8127 100.84%)",
+          "type": "color"
+        },
+        "choose": {
+          "value": "linear-gradient(128deg, #0A3AE6 0%, #8B66F6 50%, #CB5DFF 100%)",
+          "type": "color"
+        },
+        "reactivate": {
+          "value": "linear-gradient(123deg, #F28703 0%, #FFB115 50%, #F4C003 100%)",
+          "type": "color"
+        },
+        "permanent": {
+          "value": "linear-gradient(225deg, #6D158C 0%, #A82CD3 100%)",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{core.white.500}",
+          "type": "color"
+        }
+      },
+      "surface": {
+        "primary": {
+          "value": "{core.black.500}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.black.600}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.black.700}",
           "type": "color"
         }
       }
