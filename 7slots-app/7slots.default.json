@@ -1491,16 +1491,30 @@
         }
       },
       "surface": {
-        "primary": {
+        "selected": {
+          "value": "rgba(17, 30, 69, 0.40)",
+          "type": "color"
+        },
+        "inselected": {
           "value": "{core.black.500}",
           "type": "color"
         },
-        "secondary": {
-          "value": "{core.black.600}",
+        "inactive": {
+          "value": "{core.black.700}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "selected": {
+          "value": "{core.white.50}",
           "type": "color"
         },
-        "tertiary": {
-          "value": "{core.black.700}",
+        "inselected": {
+          "value": "#transparent",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "#transparent",
           "type": "color"
         }
       }
