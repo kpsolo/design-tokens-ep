@@ -1485,6 +1485,10 @@
           "value": "linear-gradient(225deg, #6D158C 0%, #A82CD3 100%)",
           "type": "color"
         },
+        "promo-code": {
+          "value": "linear-gradient(135deg, #FD8709 2.88%, #F72FD9 100%)",
+          "type": "color"
+        },
         "inactive": {
           "value": "{core.white.500}",
           "type": "color"
@@ -2043,6 +2047,10 @@
     },
     "bonus": {
       "value": "{core-radios.16}",
+      "type": "borderRadius"
+    },
+    "bonus-card": {
+      "value": "{core-radios.10}",
       "type": "borderRadius"
     },
     "menu": {
