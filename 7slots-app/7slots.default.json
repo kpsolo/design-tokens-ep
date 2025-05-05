@@ -2920,9 +2920,5 @@
   "statusess": {
     "value": "{core-dimension.12}",
     "type": "dimension"
-  },
-  "test": {
-    "value": "#ffffff",
-    "type": "color"
   }
 }
