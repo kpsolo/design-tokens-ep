@@ -1010,7 +1010,7 @@
           "type": "color"
         },
         "focused": {
-          "value": "{core.white.50}",
+          "value": "#00000000",
           "type": "color"
         }
       },
