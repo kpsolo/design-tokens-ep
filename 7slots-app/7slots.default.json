@@ -2087,7 +2087,7 @@
       "value": "{core-radios.16}",
       "type": "borderRadius"
     },
-    "bonus-card": {
+    "bonus-surface": {
       "value": "{core-radios.10}",
       "type": "borderRadius"
     },
@@ -2961,6 +2961,10 @@
   },
   "statusess": {
     "value": "{core-dimension.12}",
+    "type": "dimension"
+  },
+  "bonus-surface": {
+    "value": "{core-dimension.24}",
     "type": "dimension"
   }
 }

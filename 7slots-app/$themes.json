@@ -458,7 +458,6 @@
       "card.balance": "8813f7266f019aaf9cd8c16c35b5ee08c7dd67e3",
       "card.story": "2a4aef5b80a64dd32893b856f8fd1095aaa2f601",
       "card.bonus": "865df20a2e66094762c46952b655e8340785d2ea",
-      "card.bonus-card": "6d16285167a6062ffb145f1f888ae89c0e8b973a",
       "card.menu": "060949547dd0d2236f3368e56e6642932ea96956",
       "card.providers": "95bcef3f2c98b830db00340f4d23e51870584580",
       "card.vip-club": "68c8a41fc9c9c1609fb93355c556732fd4e4043e",
@@ -578,7 +577,8 @@
       "segment.item": "ace804db75878afcaab785a036fbc5f53d92a9a8",
       "winning-now": "d1897b6531b149c07b0479a59a66fd52b9ba5a0f",
       "backdrop": "6333362612cdabeba017e4b8c2ec09ab4b8bb763",
-      "statusess": "3eaa41df270d56a2c5bdb72cb6b42f34481741da"
+      "statusess": "3eaa41df270d56a2c5bdb72cb6b42f34481741da",
+      "card.bonus-surface": "6d16285167a6062ffb145f1f888ae89c0e8b973a"
     },
     "$figmaCollectionId": "VariableCollectionId:22521:26366",
     "$figmaModeId": "22521:0"
