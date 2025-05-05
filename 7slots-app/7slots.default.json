@@ -1895,6 +1895,10 @@
       },
       "type": "typography"
     },
+    "larges": {
+      "value": "{core-radios.10}",
+      "type": "borderRadius"
+    },
     "middle": {
       "value": "{core-radios.8}",
       "type": "borderRadius"
@@ -1916,6 +1920,10 @@
         "fontSize": "{fontSize.14}"
       },
       "type": "typography"
+    },
+    "smal": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
     },
     "tab-bar": {
       "value": "{core-radios.full}",
@@ -2281,249 +2289,225 @@
     "value": "{core-width.0}",
     "type": "borderWidth"
   },
-  "min-width": {
-    "button": {
-      "large": {
+  "size-button": {
+    "large": {
+      "min-width": {
         "value": "80",
         "type": "sizing"
       },
-      "medium": {
+      "min-height": {
+        "value": "48",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "48",
+        "type": "sizing"
+      }
+    },
+    "medium": {
+      "min-width": {
         "value": "64",
         "type": "sizing"
       },
-      "small": {
+      "min-height": {
+        "value": "40",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "40",
+        "type": "sizing"
+      }
+    },
+    "small": {
+      "min-width": {
         "value": "56",
         "type": "sizing"
-      }
-    },
-    "chips": {
-      "large": {
-        "value": "48",
+      },
+      "min-height": {
+        "value": "32",
         "type": "sizing"
       },
-      "medium": {
-        "value": "40",
-        "type": "sizing"
-      },
-      "small": {
-        "value": "36",
+      "max-height": {
+        "value": "32",
         "type": "sizing"
       }
-    },
-    "status": {
-      "large": {
-        "value": "40",
-        "type": "sizing"
-      },
-      "small": {
-        "value": "36",
-        "type": "sizing"
-      }
-    },
-    "tooltip": {
-      "value": "54",
-      "type": "sizing"
-    },
-    "text-fields": {
-      "default": {
-        "value": "80",
-        "type": "sizing"
-      },
-      "point": {
-        "value": "160",
-        "type": "sizing"
-      },
-      "code": {
-        "value": "48",
-        "type": "sizing"
-      }
-    },
-    "search": {
-      "value": "240",
-      "type": "sizing"
-    },
-    "snackbar": {
-      "value": "240",
-      "type": "sizing"
     }
   },
-  "min-height": {
-    "button": {
-      "large": {
+  "size-chips": {
+    "large": {
+      "min-width": {
         "value": "48",
         "type": "sizing"
       },
-      "medium": {
-        "value": "40",
-        "type": "sizing"
-      },
-      "small": {
-        "value": "32",
-        "type": "sizing"
-      }
-    },
-    "chips": {
-      "large": {
-        "value": "32",
-        "type": "sizing"
-      },
-      "medium": {
-        "value": "24",
-        "type": "sizing"
-      },
-      "small": {
-        "value": "20",
-        "type": "sizing"
-      }
-    },
-    "status": {
-      "large": {
-        "value": "24",
-        "type": "sizing"
-      },
-      "small": {
-        "value": "20",
-        "type": "sizing"
-      }
-    },
-    "tooltip": {
-      "value": "24",
-      "type": "sizing"
-    },
-    "text-fields": {
-      "default": {
-        "value": "48",
-        "type": "sizing"
-      },
-      "point": {
-        "value": "74",
-        "type": "sizing"
-      },
-      "code": {
-        "value": "48",
-        "type": "sizing"
-      }
-    },
-    "search": {
-      "value": "40",
-      "type": "sizing"
-    },
-    "snackbar": {
-      "value": "48",
-      "type": "sizing"
-    }
-  },
-  "max-height": {
-    "button": {
-      "large": {
-        "value": "48",
-        "type": "sizing"
-      },
-      "medium": {
-        "value": "40",
-        "type": "sizing"
-      },
-      "small": {
-        "value": "32",
-        "type": "sizing"
-      }
-    },
-    "chips": {
-      "large": {
-        "value": "32",
-        "type": "sizing"
-      },
-      "medium": {
-        "value": "24",
-        "type": "sizing"
-      },
-      "small": {
-        "value": "20",
-        "type": "sizing"
-      }
-    },
-    "status": {
-      "large": {
-        "value": "24",
-        "type": "sizing"
-      },
-      "small": {
-        "value": "20",
-        "type": "sizing"
-      }
-    },
-    "tooltip": {
-      "value": "320",
-      "type": "sizing"
-    },
-    "text-fields": {
-      "default": {
-        "value": "84",
-        "type": "sizing"
-      },
-      "point": {
-        "value": "74",
-        "type": "sizing"
-      },
-      "code": {
-        "value": "48",
-        "type": "sizing"
-      }
-    },
-    "search": {
-      "value": "40",
-      "type": "sizing"
-    },
-    "snackbar": {
-      "value": "64",
-      "type": "sizing"
-    }
-  },
-  "max-width": {
-    "chips": {
-      "large": {
+      "max-width": {
         "value": "200",
         "type": "sizing"
       },
-      "medium": {
-        "value": "160",
+      "min-height": {
+        "value": "32",
         "type": "sizing"
       },
-      "small": {
-        "value": "140",
+      "max-height": {
+        "value": "32",
         "type": "sizing"
       }
     },
-    "status": {
-      "large": {
-        "value": "160",
+    "medium": {
+      "min-width": {
+        "value": "36",
         "type": "sizing"
       },
-      "small": {
+      "min-height": {
+        "value": "20",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "20",
+        "type": "sizing"
+      },
+      "max-width": {
         "value": "140",
         "type": "sizing"
       }
+    }
+  },
+  "size-status": {
+    "large": {
+      "min-width": {
+        "value": "40",
+        "type": "sizing"
+      },
+      "min-height": {
+        "value": "24",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "24",
+        "type": "sizing"
+      },
+      "max-width": {
+        "value": "160",
+        "type": "sizing"
+      }
     },
-    "tooltip": {
-      "value": "260",
+    "small": {
+      "min-width": {
+        "value": "36",
+        "type": "sizing"
+      },
+      "min-height": {
+        "value": "20",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "20",
+        "type": "sizing"
+      },
+      "max-width": {
+        "value": "140",
+        "type": "sizing"
+      }
+    }
+  },
+  "size-tooltip": {
+    "min-width": {
+      "value": "54",
       "type": "sizing"
     },
-    "text-fields": {
-      "default": {
-        "value": "420",
+    "min-height": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "max-height": {
+      "value": "320",
+      "type": "sizing"
+    },
+    "max-width": {
+      "value": "260",
+      "type": "sizing"
+    }
+  },
+  "size-text-fields": {
+    "default": {
+      "min-width": {
+        "value": "80",
         "type": "sizing"
       },
-      "point": {
-        "value": "420",
+      "min-height": {
+        "value": "48",
         "type": "sizing"
       },
-      "code": {
+      "max-height": {
+        "value": "84",
+        "type": "sizing"
+      },
+      "max-width": {
+        "value": "420",
+        "type": "sizing"
+      }
+    },
+    "point": {
+      "min-width": {
+        "value": "160",
+        "type": "sizing"
+      },
+      "min-height": {
+        "value": "74",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "74",
+        "type": "sizing"
+      },
+      "max-width": {
+        "value": "420",
+        "type": "sizing"
+      }
+    },
+    "code": {
+      "min-width": {
+        "value": "48",
+        "type": "sizing"
+      },
+      "min-height": {
+        "value": "48",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "48",
+        "type": "sizing"
+      },
+      "max-width": {
         "value": "48",
         "type": "sizing"
       }
+    }
+  },
+  "size-search": {
+    "min-width": {
+      "value": "240",
+      "type": "sizing"
     },
-    "search": {
-      "value": "420",
+    "max-height": {
+      "value": "40",
+      "type": "sizing"
+    },
+    "min-height": {
+      "value": "40",
+      "type": "sizing"
+    }
+  },
+  "size-snackbar": {
+    "min-width": {
+      "value": "240",
+      "type": "sizing"
+    },
+    "min-height": {
+      "value": "48",
+      "type": "sizing"
+    },
+    "max-height": {
+      "value": "64",
       "type": "sizing"
     }
   },
