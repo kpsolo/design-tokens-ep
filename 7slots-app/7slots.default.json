@@ -2548,20 +2548,6 @@
       }
     }
   },
-  "size-search": {
-    "min-width": {
-      "value": "240",
-      "type": "sizing"
-    },
-    "max-height": {
-      "value": "40",
-      "type": "sizing"
-    },
-    "min-height": {
-      "value": "40",
-      "type": "sizing"
-    }
-  },
   "size-snackbar": {
     "min-width": {
       "value": "240",
