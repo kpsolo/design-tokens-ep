@@ -1564,6 +1564,38 @@
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Super VIP”"
       }
+    },
+    "balances": {
+      "current": {
+        "value": "linear-gradient(-45deg, #2830fa 0%, #0b7feb 100%)",
+        "type": "color",
+        "description": "Color is used for current balance"
+      },
+      "bonus": {
+        "value": "linear-gradient(241deg, #00b274 0%, #00abbd 100%)",
+        "type": "color",
+        "description": "Color is used for bonus balance"
+      },
+      "points": {
+        "value": "linear-gradient(135deg, #6d158c 0%, #d55cff 100%)",
+        "type": "color",
+        "description": "Color is used for points balance"
+      },
+      "сashback": {
+        "value": "linear-gradient(0deg, #e84702 0%, #ffb133 100%)",
+        "type": "color",
+        "description": "Color is used for сashback balance"
+      },
+      "savings": {
+        "value": "linear-gradient(132deg, #ff6a9c 0%, #fe5762 100%)",
+        "type": "color",
+        "description": "Color is used for savings balance"
+      },
+      "real": {
+        "value": "linear-gradient(135deg, #ff5858 0%, #bf0dce 100%)",
+        "type": "color",
+        "description": "Color is used for real balance"
+      }
     }
   },
   "semantic": {
@@ -1795,38 +1827,6 @@
             "value": "linear-gradient(180deg, rgba(23, 205, 107, 0.25) 0%, rgba(17, 30, 69, 0.00) 100%)",
             "type": "color"
           }
-        }
-      },
-      "balances": {
-        "current": {
-          "value": "linear-gradient(-45deg, #2830fa 0%, #0b7feb 100%)",
-          "type": "color",
-          "description": "Color is used for current balance"
-        },
-        "bonus": {
-          "value": "linear-gradient(241deg, #00b274 0%, #00abbd 100%)",
-          "type": "color",
-          "description": "Color is used for bonus balance"
-        },
-        "points": {
-          "value": "linear-gradient(135deg, #6d158c 0%, #d55cff 100%)",
-          "type": "color",
-          "description": "Color is used for points balance"
-        },
-        "сashback": {
-          "value": "linear-gradient(0deg, #e84702 0%, #ffb133 100%)",
-          "type": "color",
-          "description": "Color is used for сashback balance"
-        },
-        "savings": {
-          "value": "linear-gradient(132deg, #ff6a9c 0%, #fe5762 100%)",
-          "type": "color",
-          "description": "Color is used for savings balance"
-        },
-        "real": {
-          "value": "linear-gradient(135deg, #ff5858 0%, #bf0dce 100%)",
-          "type": "color",
-          "description": "Color is used for real balance"
         }
       }
     },
