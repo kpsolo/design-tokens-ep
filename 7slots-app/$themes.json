@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "5d3d580f2531ea62684a81251c552e183da73f4f",
+    "name": "7slot.default",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "7slots.default": "enabled"
+    }
+  }
+]
