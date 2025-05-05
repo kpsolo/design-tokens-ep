@@ -401,7 +401,17 @@
       "progressbar.tertiary": "S:20872e1d6d493dfd47957f282766976615996f23,",
       "snackbars": "S:919c4ad27f0a96bc1417363365527dc173d5da19,",
       "winning_thumb": "S:850b9c900bf17fad7624437ef130a71d10963b07,",
-      "tooltips": "S:94638ce34c7f6197b4949f8a9e6d148464baa13c,"
+      "tooltips": "S:94638ce34c7f6197b4949f8a9e6d148464baa13c,",
+      "contextual.bonus.sheet.no-deposit": "S:7cc10135018b752d883c6304df8e41caf8003652,",
+      "contextual.bonus.sheet.manual": "S:99babfd46510745d09cfebbda62aa1bf6e89d8ac,",
+      "contextual.bonus.sheet.progressive": "S:7348bd4c548635060048c82ab0b8b85403bf7e64,",
+      "contextual.bonus.sheet.range": "S:10db9ee79712aac1efc1f05ece2589cbf36bb02b,",
+      "contextual.bonus.sheet.total-bets": "S:9c9e37072d40b809d569c50706dcd75cc9bf15fb,",
+      "contextual.bonus.sheet.choose": "S:df02079a1f2584becbeebafef443dfe7d211a89c,",
+      "contextual.bonus.sheet.reactivate": "S:7b6f21d09f7bacfe3a17aa8a9e489156db513c41,",
+      "contextual.bonus.sheet.permanent": "S:43c552534d15e800a2842815d3e52721b1d9df3a,",
+      "contextual.bonus.sheet.welcome": "S:b2d63142f1c90c04060f9a9cf1014e0689b2d40d,",
+      "contextual.bonus.sheet.inactive": "S:8115ce34426a2c19069225779c663359159cffc7,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
