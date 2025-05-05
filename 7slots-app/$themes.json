@@ -411,7 +411,21 @@
       "contextual.bonus.sheet.reactivate": "S:7b6f21d09f7bacfe3a17aa8a9e489156db513c41,",
       "contextual.bonus.sheet.permanent": "S:43c552534d15e800a2842815d3e52721b1d9df3a,",
       "contextual.bonus.sheet.welcome": "S:b2d63142f1c90c04060f9a9cf1014e0689b2d40d,",
-      "contextual.bonus.sheet.inactive": "S:8115ce34426a2c19069225779c663359159cffc7,"
+      "contextual.bonus.sheet.inactive": "S:8115ce34426a2c19069225779c663359159cffc7,",
+      "contextual.welcome_scr.01": "S:aa6ae812654428a6b4303b183bad503124ff53cf,",
+      "contextual.welcome_scr.ws02": "S:0c30f464a9176ab079fa1ca8586d197b9fbeeacf,",
+      "contextual.welcome_scr.ws03": "S:dbc0b9ccdb2500165941023308183d815902aa3e,",
+      "semantic.background.overlay.primary": "S:e68a0e6d528656b23cd8ff0d41b771135a802f3f,",
+      "semantic.background.overlay.secondary": "S:7400eff0e97b918c6c4f2e25aee337d1b803a105,",
+      "semantic.background.overlay.tertiary": "S:9f55dd0fa9eb3546be103c48dca0130f179b5e2f,",
+      "semantic.background.overlay.info": "S:091dac982bf0d58992265b2d3871523b1a07d32d,",
+      "semantic.background.shadow.left": "S:5ae5f2544cfe8fb6035068a1d2d3cea49ce01455,",
+      "semantic.background.shadow.bottom": "S:b5b5c9061f86b1d917d0cca2c334148c805c2d03,",
+      "semantic.background.shadow.top": "S:c7d5c75228e0738cc5bebfd0d63cad4274daa172,",
+      "semantic.background.shadow.right": "S:d3d82cce51e0ffa437443cd56270abe13eb005a0,",
+      "semantic.background.static.primary": "S:541b01fca192cdea0dee1d8a8966f8ed1722495e,",
+      "semantic.background.static.secondary": "S:24e26b4b1b361b3f739ff463a652243eeeffe09c,",
+      "semantic.background.static.tertiary": "S:bb363b62f09678edd9bf4c7f7a4be7e295c7b93f,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -458,6 +472,7 @@
       "card.balance": "8813f7266f019aaf9cd8c16c35b5ee08c7dd67e3",
       "card.story": "2a4aef5b80a64dd32893b856f8fd1095aaa2f601",
       "card.bonus": "865df20a2e66094762c46952b655e8340785d2ea",
+      "card.bonus-surface": "6d16285167a6062ffb145f1f888ae89c0e8b973a",
       "card.menu": "060949547dd0d2236f3368e56e6642932ea96956",
       "card.providers": "95bcef3f2c98b830db00340f4d23e51870584580",
       "card.vip-club": "68c8a41fc9c9c1609fb93355c556732fd4e4043e",
@@ -578,7 +593,7 @@
       "winning-now": "d1897b6531b149c07b0479a59a66fd52b9ba5a0f",
       "backdrop": "6333362612cdabeba017e4b8c2ec09ab4b8bb763",
       "statusess": "3eaa41df270d56a2c5bdb72cb6b42f34481741da",
-      "card.bonus-surface": "6d16285167a6062ffb145f1f888ae89c0e8b973a"
+      "bonus-surface": "9f3963625615b78f619ecbf0d34b7798a39d457e"
     },
     "$figmaCollectionId": "VariableCollectionId:22521:26366",
     "$figmaModeId": "22521:0"

@@ -1638,6 +1638,23 @@
         "type": "color",
         "description": "Color is used for real balance"
       }
+    },
+    "welcome_scr": {
+      "01": {
+        "value": "linear-gradient(224deg, rgba(242, 81, 31, 1) 23.7%, rgba(41, 126, 254, 1) 79.69%)",
+        "type": "color",
+        "description": "Used for the background of the first welcome screen when the application is launched"
+      },
+      "ws02": {
+        "value": "linear-gradient(225deg, rgba(255, 0, 79, 1) 0%, rgba(8, 158, 233, 1) 100%)",
+        "type": "color",
+        "description": "Used for the background of the second welcome screen when the application starts"
+      },
+      "ws03": {
+        "value": "linear-gradient(225deg, rgba(80, 204, 252, 1) 0%, rgba(82, 0, 255, 1) 100%)",
+        "type": "color",
+        "description": "Used for the background of the third welcome screen when the application starts"
+      }
     }
   },
   "semantic": {
@@ -1793,34 +1810,21 @@
         "value": "{core.neutral.500}",
         "type": "color"
       },
-      "welcome_scr": {
-        "01": {
-          "value": "linear-gradient(224deg, rgba(242, 81, 31, 1) 23.7%, rgba(41, 126, 254, 1) 79.69%)",
-          "type": "color",
-          "description": "Used for the background of the first welcome screen when the application is launched"
-        },
-        "ws02": {
-          "value": "linear-gradient(225deg, rgba(255, 0, 79, 1) 0%, rgba(8, 158, 233, 1) 100%)",
-          "type": "color",
-          "description": "Used for the background of the second welcome screen when the application starts"
-        },
-        "ws03": {
-          "value": "linear-gradient(225deg, rgba(80, 204, 252, 1) 0%, rgba(82, 0, 255, 1) 100%)",
-          "type": "color",
-          "description": "Used for the background of the third welcome screen when the application starts"
-        }
-      },
       "overlay": {
-        "navbar": {
+        "primary": {
           "value": "{core.black.100}",
           "type": "color"
         },
-        "Ghost-1": {
-          "value": "{core.white.500}",
+        "secondary": {
+          "value": "{core.black.400}",
           "type": "color"
         },
-        "Ghost-3": {
-          "value": "{core.white.800}",
+        "tertiary": {
+          "value": "{core.black.600}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{core.white.500}",
           "type": "color"
         },
         "success": {
@@ -1836,26 +1840,6 @@
           "type": "color",
           "description": "It is used as a shadow under the pop-up and bottom sheet"
         },
-        "shadow-left": {
-          "value": "linear-gradient(270deg, #070d1e00 0%, #070d1eb3 100%)",
-          "type": "color",
-          "description": "Used as a surface to highlight text above it"
-        },
-        "shadow-bottom": {
-          "value": "linear-gradient(180deg, #070d1e00 0%, #070d1eb3 100%)",
-          "type": "color",
-          "description": "Used as a surface to highlight text above it"
-        },
-        "shadow-top": {
-          "value": "linear-gradient(180deg, #070d1eb3 0%, #070d1e00 100%)",
-          "type": "color",
-          "description": "Used as a surface to highlight text above it"
-        },
-        "shadow-right": {
-          "value": "linear-gradient(90deg, #070d1e00 0%, #070d1eb3 100%)",
-          "type": "color",
-          "description": "Used as a surface to highlight text above it"
-        },
         "glow": {
           "default": {
             "value": "linear-gradient(180deg, rgba(6, 144, 241, 0.25) 0%, rgba(17, 30, 69, 0.00) 100%)",
@@ -1869,6 +1853,45 @@
             "value": "linear-gradient(180deg, rgba(23, 205, 107, 0.25) 0%, rgba(17, 30, 69, 0.00) 100%)",
             "type": "color"
           }
+        }
+      },
+      "shadow": {
+        "left": {
+          "value": "linear-gradient(270deg, #070d1e00 0%, #070d1eb3 100%)",
+          "type": "color",
+          "description": "Used as a surface to highlight text above it"
+        },
+        "bottom": {
+          "value": "linear-gradient(180deg, #070d1e00 0%, #070d1eb3 100%)",
+          "type": "color",
+          "description": "Used as a surface to highlight text above it"
+        },
+        "top": {
+          "value": "linear-gradient(180deg, #070d1eb3 0%, #070d1e00 100%)",
+          "type": "color",
+          "description": "Used as a surface to highlight text above it"
+        },
+        "right": {
+          "value": "linear-gradient(90deg, #070d1e00 0%, #070d1eb3 100%)",
+          "type": "color",
+          "description": "Used as a surface to highlight text above it"
+        }
+      },
+      "static": {
+        "primary": {
+          "value": "{core.white.50}",
+          "type": "color",
+          "description": "Used for the active border on a dark background"
+        },
+        "secondary": {
+          "value": "{core.white.300}",
+          "type": "color",
+          "description": "used for a secondary border on a dark background"
+        },
+        "tertiary": {
+          "value": "{core.white.600}",
+          "type": "color",
+          "description": "Used for a disabled border on a dark background"
         }
       }
     },
