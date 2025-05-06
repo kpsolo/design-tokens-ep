@@ -506,33 +506,33 @@
       "swipe": {
         "default": {
           "background": {
-            "value": "#FFFFFF",
+            "value": "{core.white.100}",
             "type": "color"
           },
           "text": {
-            "value": "#242425",
+            "value": "{core.black.100}",
             "type": "color"
           },
           "thumb": {
-            "value": "#FF7020",
+            "value": "{core.accent.100}",
             "type": "color"
           },
           "icon": {
-            "value": "#FFFFFF",
+            "value": "{core.white.100}",
             "type": "color"
           }
         },
         "filled": {
           "background": {
-            "value": "#FFFFFF",
+            "value": "{core.white.100}",
             "type": "color"
           },
           "thumb": {
-            "value": "#FF7020",
+            "value": "{core.accent.100}",
             "type": "color"
           },
           "icon": {
-            "value": "#FFFFFF",
+            "value": "{core.white.100}",
             "type": "color"
           }
         },
@@ -961,6 +961,10 @@
       },
       "handle": {
         "value": "{core.neutral.600}",
+        "type": "color"
+      },
+      "divider": {
+        "value": "{core.black.800}",
         "type": "color"
       }
     },
