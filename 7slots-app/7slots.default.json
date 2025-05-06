@@ -1511,64 +1511,45 @@
         }
       },
       "sheet": {
-        "background": {
-          "no-deposit": {
-            "value": "linear-gradient(194deg, #8AC8FE 0%, #5102B8 43.04%, #111E45 100%)",
-            "type": "color"
-          },
-          "manual": {
-            "value": "linear-gradient(180deg, #3661EF 0%, #0B3D9A 30.43%, #192D6B 100%)",
-            "type": "color"
-          },
-          "progressive": {
-            "value": "linear-gradient(180deg, #F05E7D 0%, #7B2C67 30.43%, #241D5A 100%)",
-            "type": "color"
-          },
-          "range": {
-            "value": "linear-gradient(180deg, #C7377B 0%, #7B2C67 30.43%, #241D5A 100%)",
-            "type": "color"
-          },
-          "total-bets": {
-            "value": "linear-gradient(180deg, #E13303 0%, #BA5127 30.43%, #42303E 100%)",
-            "type": "color"
-          },
-          "choose": {
-            "value": "linear-gradient(180deg, #6D5BEF 0%, #404DEC 30.43%, #2F2C6A 100%), linear-gradient(194deg, #8AC8FE 0%, #5102B8 43.04%, #111E45 100%)",
-            "type": "color"
-          },
-          "reactivate": {
-            "value": "linear-gradient(166deg, #F28703 0%, #8E6F2A 43.04%, #534D32 100%)",
-            "type": "color"
-          },
-          "permanent": {
-            "value": "linear-gradient(180deg, #811DA4 0%, #472076 30.43%, #302162 100%)",
-            "type": "color"
-          },
-          "welcome": {
-            "value": "linear-gradient(180deg, #EF511F 0%, #0B3DA1 100%)",
-            "type": "color"
-          },
-          "inactive": {
-            "value": "linear-gradient(180deg, #58617D 0%, #2C385A 30.43%, #202C50 100%)",
-            "type": "color"
-          }
+        "no-deposit": {
+          "value": "linear-gradient(194deg, #8AC8FE 0%, #5102B8 43.04%, #111E45 100%)",
+          "type": "color"
         },
-        "text": {
-          "primary": {
-            "value": "{core.white.50}",
-            "type": "color",
-            "description": "Color for headers on a dark background"
-          },
-          "secondary": {
-            "value": "{core.white.200}",
-            "type": "color",
-            "description": "Color for descriptions and subtitles on a dark background"
-          },
-          "tertiary": {
-            "value": "{core.white.500}",
-            "type": "color",
-            "description": "Color for third line information on a dark background"
-          }
+        "manual": {
+          "value": "linear-gradient(180deg, #3661EF 0%, #0B3D9A 30.43%, #192D6B 100%)",
+          "type": "color"
+        },
+        "progressive": {
+          "value": "linear-gradient(180deg, #F05E7D 0%, #7B2C67 30.43%, #241D5A 100%)",
+          "type": "color"
+        },
+        "range": {
+          "value": "linear-gradient(180deg, #C7377B 0%, #7B2C67 30.43%, #241D5A 100%)",
+          "type": "color"
+        },
+        "total-bets": {
+          "value": "linear-gradient(180deg, #E13303 0%, #BA5127 30.43%, #42303E 100%)",
+          "type": "color"
+        },
+        "choose": {
+          "value": "linear-gradient(180deg, #6D5BEF 0%, #404DEC 30.43%, #2F2C6A 100%), linear-gradient(194deg, #8AC8FE 0%, #5102B8 43.04%, #111E45 100%)",
+          "type": "color"
+        },
+        "reactivate": {
+          "value": "linear-gradient(166deg, #F28703 0%, #8E6F2A 43.04%, #534D32 100%)",
+          "type": "color"
+        },
+        "permanent": {
+          "value": "linear-gradient(180deg, #811DA4 0%, #472076 30.43%, #302162 100%)",
+          "type": "color"
+        },
+        "welcome": {
+          "value": "linear-gradient(180deg, #EF511F 0%, #0B3DA1 100%)",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "linear-gradient(180deg, #58617D 0%, #2C385A 30.43%, #202C50 100%)",
+          "type": "color"
         }
       }
     },
