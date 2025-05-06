@@ -425,7 +425,20 @@
       "semantic.background.shadow.right": "S:d3d82cce51e0ffa437443cd56270abe13eb005a0,",
       "semantic.background.static.primary": "S:541b01fca192cdea0dee1d8a8966f8ed1722495e,",
       "semantic.background.static.secondary": "S:24e26b4b1b361b3f739ff463a652243eeeffe09c,",
-      "semantic.background.static.tertiary": "S:bb363b62f09678edd9bf4c7f7a4be7e295c7b93f,"
+      "semantic.background.static.tertiary": "S:bb363b62f09678edd9bf4c7f7a4be7e295c7b93f,",
+      "contextual.bonus.sheet.background.no-deposit": "S:7cc10135018b752d883c6304df8e41caf8003652,",
+      "contextual.bonus.sheet.background.manual": "S:99babfd46510745d09cfebbda62aa1bf6e89d8ac,",
+      "contextual.bonus.sheet.background.progressive": "S:7348bd4c548635060048c82ab0b8b85403bf7e64,",
+      "contextual.bonus.sheet.background.range": "S:10db9ee79712aac1efc1f05ece2589cbf36bb02b,",
+      "contextual.bonus.sheet.background.total-bets": "S:9c9e37072d40b809d569c50706dcd75cc9bf15fb,",
+      "contextual.bonus.sheet.background.choose": "S:df02079a1f2584becbeebafef443dfe7d211a89c,",
+      "contextual.bonus.sheet.background.reactivate": "S:7b6f21d09f7bacfe3a17aa8a9e489156db513c41,",
+      "contextual.bonus.sheet.background.permanent": "S:43c552534d15e800a2842815d3e52721b1d9df3a,",
+      "contextual.bonus.sheet.background.welcome": "S:b2d63142f1c90c04060f9a9cf1014e0689b2d40d,",
+      "contextual.bonus.sheet.background.inactive": "S:8115ce34426a2c19069225779c663359159cffc7,",
+      "contextual.bonus.sheet.text.primary": "S:08204bced040735c6087a2b2a4a78c28a55d7290,",
+      "contextual.bonus.sheet.text.secondary": "S:7401a9fa814bad2791640080589555f114f22d32,",
+      "contextual.bonus.sheet.text.tertiary": "S:fcf87ba9a11b9f06b8d3e875aac692f47d14e095,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -557,9 +570,6 @@
       "size-text-fields.code.min-height": "bfa4fc00815e8107246ec3a6661ea830ae7b5046",
       "size-text-fields.code.max-height": "53956e624fc6446aba8323a9206fe423a06b3865",
       "size-text-fields.code.max-width": "90ce54cb38ec9b96989e9e00a8bd502c95f5aed8",
-      "size-search.min-width": "aa2a3eb30ef3f8ace204286f2a95d74d1f803791",
-      "size-search.max-height": "dc59f17aad5cabe47d62ea6f2c469a330493cd71",
-      "size-search.min-height": "90a71cc94dece0bd7c50a3b691677a29440f3723",
       "size-snackbar.min-width": "dbe26adfcff34e1748d9f83e473c18efb5fc2b3c",
       "size-snackbar.min-height": "446813b1630bbbe4c563fd725609713c411a8879",
       "size-snackbar.max-height": "985731035fe08b233baded4207cfd19a391db9d6",
