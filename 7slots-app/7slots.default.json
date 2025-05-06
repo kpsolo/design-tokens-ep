@@ -848,10 +848,6 @@
         "disabled": {
           "value": "{core.white.700}",
           "type": "color"
-        },
-        "error": {
-          "value": "{core.red.50}",
-          "type": "color"
         }
       },
       "icon": {
@@ -862,10 +858,6 @@
         "disabled": {
           "value": "{core.white.500}",
           "type": "color"
-        },
-        "error": {
-          "value": "{core.white.50}",
-          "type": "color"
         }
       },
       "border": {
@@ -875,10 +867,6 @@
         },
         "disabled": {
           "value": "{core.white.700}",
-          "type": "color"
-        },
-        "error": {
-          "value": "{core.red.300}",
           "type": "color"
         }
       }
