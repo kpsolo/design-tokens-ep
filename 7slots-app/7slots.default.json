@@ -2115,26 +2115,6 @@
       "type": "borderRadius"
     }
   },
-  "tooltip": {
-    "value": "{core-radios.4}",
-    "type": "borderRadius"
-  },
-  "bottom-sheet": {
-    "value": "{core-radios.16}",
-    "type": "borderRadius"
-  },
-  "snackbar": {
-    "value": "{core-radios.8}",
-    "type": "borderRadius"
-  },
-  "dialogs": {
-    "value": "{core-radios.16}",
-    "type": "borderRadius"
-  },
-  "search": {
-    "value": "{core-radios.8}",
-    "type": "borderRadius"
-  },
   "switch": {
     "container": {
       "value": "{core-radios.full}",
@@ -2144,30 +2124,6 @@
       "value": "{core-radios.full}",
       "type": "borderRadius"
     }
-  },
-  "radio": {
-    "value": "{core-radios.full}",
-    "type": "borderRadius"
-  },
-  "chips": {
-    "value": "{core-radios.full}",
-    "type": "borderRadius"
-  },
-  "badge": {
-    "value": "{core-radios.full}",
-    "type": "borderRadius"
-  },
-  "tab-item": {
-    "value": "{core-radios.12}",
-    "type": "borderRadius"
-  },
-  "check-box": {
-    "value": "{core-radios.4}",
-    "type": "borderRadius"
-  },
-  "progres": {
-    "value": "{core-radios.full}",
-    "type": "borderRadius"
   },
   "radio-button": {
     "value": "{core-width.1p5}",
@@ -2333,6 +2289,46 @@
   "chipss": {
     "value": "{core-width.0}",
     "type": "borderWidth"
+  },
+  "snackbar": {
+    "value": "{core-radios.8}",
+    "type": "borderRadius"
+  },
+  "tooltip": {
+    "value": "{core-radios.4}",
+    "type": "borderRadius"
+  },
+  "search": {
+    "value": "{core-radios.8}",
+    "type": "borderRadius"
+  },
+  "check-box": {
+    "value": "{core-radios.4}",
+    "type": "borderRadius"
+  },
+  "tab-item": {
+    "value": "{core-radios.12}",
+    "type": "borderRadius"
+  },
+  "badge": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
+  },
+  "dialogs": {
+    "value": "{core-radios.16}",
+    "type": "borderRadius"
+  },
+  "chips": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
+  },
+  "radio": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
+  },
+  "progres": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
   },
   "status": {
     "value": "{core-radios.full}",
@@ -2549,6 +2545,10 @@
       "value": "64",
       "type": "sizing"
     }
+  },
+  "bottom-sheet": {
+    "value": "{core-radios.16}",
+    "type": "borderRadius"
   },
   "category": {
     "value": "{core-radios.full}",
@@ -2897,11 +2897,11 @@
   },
   "segment": {
     "surface": {
-      "value": "{core-radios.full}",
+      "value": "{core-radios.8}",
       "type": "borderRadius"
     },
     "item": {
-      "value": "{core-radios.full}",
+      "value": "{core-radios.8}",
       "type": "borderRadius"
     }
   },
