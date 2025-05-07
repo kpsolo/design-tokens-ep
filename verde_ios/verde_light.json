@@ -1224,6 +1224,20 @@
           "value": "linear-gradient(90deg, #00000000 0%, #000000cc 100%)",
           "type": "color"
         }
+      },
+      "static": {
+        "primary": {
+          "value": "{core.white.100}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.white.300}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.white.500}",
+          "type": "color"
+        }
       }
     },
     "text": {

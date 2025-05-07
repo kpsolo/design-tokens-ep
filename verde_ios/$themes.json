@@ -308,7 +308,10 @@
       "contextual.statuses.story.not-reviewed.icon": "S:c0880da968d8b606690f9c3315173bbd5d90a86c,",
       "permission-notification": "S:1ce542e802754af8e7644cea341e6fae33d7afda,",
       "contextual.modal-screen.divider": "S:45507163d626d6a1d1fef4796a605bb27042fc96,",
-      "contextual.modal-screen.divider-copy": "S:b3c33b476ec875f5bba95e32c9a36acf1ad02952,"
+      "contextual.modal-screen.divider-copy": "S:b3c33b476ec875f5bba95e32c9a36acf1ad02952,",
+      "semantic.background.static.primary": "S:6b862f5468b7f0884c1fcb81c532c33715065147,",
+      "semantic.background.static.secondary": "S:2c94812534288285b579dc2eb106a797d5aa82d6,",
+      "semantic.background.static.tertiary": "S:96699792eea0f3e567fb9f7b06da395821943748,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -767,7 +770,10 @@
       "contextual.statuses.story.not-reviewed.border": "S:0de64f51899110a1fe1c317925ebecb0cf580cf8,",
       "contextual.statuses.story.not-reviewed.icon": "S:f321701551e8064cdb64fe5f328c24dfdf5e5680,",
       "permission-notification": "S:03971ca53d92705724fd8334ca42e499f8cc373c,",
-      "contextual.modal-screen.divider": "S:54dd90b390f876fd09ae8a661e3bc277eb6febf1,"
+      "contextual.modal-screen.divider": "S:54dd90b390f876fd09ae8a661e3bc277eb6febf1,",
+      "semantic.background.static.primary": "S:fd3cd402027e776d1bdf26d03c8f38d593f4d125,",
+      "semantic.background.static.secondary": "S:ea5598efa6278972873894c6268c0e8a3f435afe,",
+      "semantic.background.static.tertiary": "S:cb0b4e3b8dcd1c72c64b716bff486b1a8b46ff03,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
