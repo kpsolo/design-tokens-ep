@@ -1237,6 +1237,10 @@
         "tertiary": {
           "value": "{core.white.500}",
           "type": "color"
+        },
+        "quaternary": {
+          "value": "{core.white.800}",
+          "type": "color"
         }
       }
     },
@@ -1328,10 +1332,6 @@
         },
         "tertiary": {
           "value": "{core.white.500}",
-          "type": "color"
-        },
-        "quaternary": {
-          "value": "{core.white.800}",
           "type": "color"
         }
       }

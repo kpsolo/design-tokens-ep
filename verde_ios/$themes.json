@@ -309,10 +309,11 @@
       "permission-notification": "S:1ce542e802754af8e7644cea341e6fae33d7afda,",
       "contextual.modal-screen.divider": "S:45507163d626d6a1d1fef4796a605bb27042fc96,",
       "contextual.modal-screen.divider-copy": "S:b3c33b476ec875f5bba95e32c9a36acf1ad02952,",
-      "semantic.background.static.primary": "S:c671fd6e6960a7fa0aa9deea0f4483816de5baba,",
-      "semantic.background.static.secondary": "S:aaa4e97f3c9debdb9df3d5640faf558ef5327769,",
-      "semantic.background.static.tertiary": "S:67a2f1f6852a1ba6a986091f5f08691dbca947f3,",
-      "semantic.icon.static.quaternary": "S:ba71fb28d894e20b60f468bb1c8bab80b8c13a0d,"
+      "semantic.background.static.primary": "S:b1f50a5f79b5d270ea8d64eddb257a50be603d8e,",
+      "semantic.background.static.secondary": "S:746f390eab7fba6198cc0f6ca0096a45a8963507,",
+      "semantic.background.static.tertiary": "S:6a512e5f93574ae3593f17c67bf06e4e341817bd,",
+      "semantic.icon.static.quaternary": "S:4705310ec4f07147e1c60ba7a14c84dda6bfc023,",
+      "semantic.background.static.quaternary": "S:d19c409ad008cf96b4d361f601102f1e0d687834,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -775,7 +776,8 @@
       "semantic.background.static.primary": "S:fd3cd402027e776d1bdf26d03c8f38d593f4d125,",
       "semantic.background.static.secondary": "S:ea5598efa6278972873894c6268c0e8a3f435afe,",
       "semantic.background.static.tertiary": "S:cb0b4e3b8dcd1c72c64b716bff486b1a8b46ff03,",
-      "semantic.icon.static.quaternary": "S:1aae6826e3dfb58b97f7cc5ec481af8de069d13a,"
+      "semantic.icon.static.quaternary": "S:1aae6826e3dfb58b97f7cc5ec481af8de069d13a,",
+      "semantic.background.static.quaternary": "S:7e339610cb66c019b25e909d8589c82a8c2576c0,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
