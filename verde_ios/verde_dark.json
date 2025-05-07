@@ -565,10 +565,6 @@
         "value": "#FFFFFF",
         "type": "color"
       },
-      "label": {
-        "value": "#FFFFFF",
-        "type": "color"
-      },
       "text-time": {
         "value": "#242425",
         "type": "color"
