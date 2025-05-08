@@ -1161,6 +1161,36 @@
           "type": "color"
         }
       }
+    },
+    "progres": {
+      "track": {
+        "primary": {
+          "value": "{core.brand.primery}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.accent.100}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.white.100}",
+          "type": "color"
+        }
+      },
+      "background": {
+        "primary": {
+          "value": "{core.white.600}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.white.600}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.white.600}",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {

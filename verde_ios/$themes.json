@@ -313,7 +313,13 @@
       "semantic.background.static.secondary": "S:746f390eab7fba6198cc0f6ca0096a45a8963507,",
       "semantic.background.static.tertiary": "S:6a512e5f93574ae3593f17c67bf06e4e341817bd,",
       "semantic.icon.static.quaternary": "S:4705310ec4f07147e1c60ba7a14c84dda6bfc023,",
-      "semantic.background.static.quaternary": "S:d19c409ad008cf96b4d361f601102f1e0d687834,"
+      "semantic.background.static.quaternary": "S:d19c409ad008cf96b4d361f601102f1e0d687834,",
+      "contextual.progres.track.primary": "S:ed056f7116dc08f76a04beb696676b20754de424,",
+      "contextual.progres.track.secondary": "S:6b8526e3be5181d3c2746c9b2132f593d53f215c,",
+      "contextual.progres.track.tertiary": "S:6dea19f1790349f287f73ffcc2751a187976f30d,",
+      "contextual.progres.background.primary": "S:4b25c6dae856bde31a9a39d429a2713244664dd9,",
+      "contextual.progres.background.secondary": "S:77ed98ab766639c8fba717b12648255ef72d5dca,",
+      "contextual.progres.background.tertiary": "S:29adbc1194dfecb94551d1ad53ba68b46b89aac5,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -777,7 +783,13 @@
       "semantic.background.static.secondary": "S:ea5598efa6278972873894c6268c0e8a3f435afe,",
       "semantic.background.static.tertiary": "S:cb0b4e3b8dcd1c72c64b716bff486b1a8b46ff03,",
       "semantic.icon.static.quaternary": "S:1aae6826e3dfb58b97f7cc5ec481af8de069d13a,",
-      "semantic.background.static.quaternary": "S:7e339610cb66c019b25e909d8589c82a8c2576c0,"
+      "semantic.background.static.quaternary": "S:7e339610cb66c019b25e909d8589c82a8c2576c0,",
+      "contextual.progres.track.primary": "S:d3821eea3d4343241327a2305f7a707935e3819f,",
+      "contextual.progres.track.secondary": "S:588ca1a9fba11eedab62adacaf6d80201f631c96,",
+      "contextual.progres.track.tertiary": "S:bcdec67d78601b2d3c0c554b553c0f8402d8054f,",
+      "contextual.progres.background.primary": "S:c83ec00d55174d99dc08b49b836bc267c484c4b2,",
+      "contextual.progres.background.secondary": "S:ed0ae4bc509329fb42be7d49f7093a4393b693ab,",
+      "contextual.progres.background.tertiary": "S:737228070487d98b259adb4a17f5a41bf5861de1,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
