@@ -467,7 +467,8 @@
       "size-tooltip.min-width": "a71b126900d282a7f41c8e2f033f15703bee9d51",
       "size-tooltip.max-width": "9db083ca3777424fbf63f22bd59244eb5b75bc9d",
       "size-tooltip.min-height": "14fdb7f194121d7f87af5b507fe45f387b3e53d9",
-      "size-tooltip.max-height": "1299d9fa829e55afae29948740d65860929e9137"
+      "size-tooltip.max-height": "1299d9fa829e55afae29948740d65860929e9137",
+      "background-blur.top-game": "cf7628448b5ea02c1adb60b4aeade13a4c0dfc02"
     }
   },
   {
@@ -937,7 +938,8 @@
       "size-tooltip.min-width": "bd4f43745a234c880201d22fb3678bed592a06a0",
       "size-tooltip.max-width": "ea3f2e9400b77e52c878487cf91a8728399c1f55",
       "size-tooltip.min-height": "d7453f7d928bad8d935ca9a57f564246ab8f4a7c",
-      "size-tooltip.max-height": "d80d27aeb585dd76fddd6a97d422b1fc10ba285b"
+      "size-tooltip.max-height": "d80d27aeb585dd76fddd6a97d422b1fc10ba285b",
+      "background-blur.top-game": "c6121488db30f6238272f0495179ea769f328e62"
     }
   }
 ]
