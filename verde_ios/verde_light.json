@@ -834,7 +834,7 @@
     },
     "checkbox": {
       "unselected": {
-        "background": {
+        "border": {
           "enable": {
             "value": "{core.neutral.600}",
             "type": "color"
