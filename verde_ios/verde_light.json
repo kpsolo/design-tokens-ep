@@ -2122,6 +2122,10 @@
     "navigation-bar": {
       "value": "24px",
       "type": "dimension"
+    },
+    "top-game": {
+      "value": "12px",
+      "type": "dimension"
     }
   },
   "text-field": {
