@@ -1211,6 +1211,14 @@
         "value": "{core.accent.100}",
         "type": "color"
       },
+      "success": {
+        "value": "{core.green.100}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{core.red.100}",
+        "type": "color"
+      },
       "winning": {
         "value": "linear-gradient(136deg, #028a4e 0%, #9bd102 100%)",
         "type": "color"
