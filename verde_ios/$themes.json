@@ -319,7 +319,11 @@
       "contextual.progres.track.tertiary": "S:6dea19f1790349f287f73ffcc2751a187976f30d,",
       "contextual.progres.background.primary": "S:4b25c6dae856bde31a9a39d429a2713244664dd9,",
       "contextual.progres.background.secondary": "S:77ed98ab766639c8fba717b12648255ef72d5dca,",
-      "contextual.progres.background.tertiary": "S:29adbc1194dfecb94551d1ad53ba68b46b89aac5,"
+      "contextual.progres.background.tertiary": "S:29adbc1194dfecb94551d1ad53ba68b46b89aac5,",
+      "contextual.checkbox.unselected.border.enable": "S:8b0322e8449783fba3063b5811b41436b50dbdc8,",
+      "contextual.checkbox.unselected.border.disabled": "S:c7af203dd84d9cdbb14c728083c7dc78974a1817,",
+      "semantic.background.success": "S:69f68d5f4160b3713bd6e48fbba926193c8e4278,",
+      "semantic.background.error": "S:4bedce8678a930dd70b9bdf52fab5204a342ed41,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -417,6 +421,7 @@
       "background-blur.statuses": "c72cfae20ff79cc0dd9f226e0a81e0ca3120270e",
       "background-blur.tab-bar": "532a7e49b35127dc04c634c69d32b60d0f8c64a7",
       "background-blur.navigation-bar": "10a0cf4fe0ca2f02ac8934920db1b9bd1d198588",
+      "background-blur.top-game": "cf7628448b5ea02c1adb60b4aeade13a4c0dfc02",
       "text-field": "498a4ded00166c31909ac3c81e4f16bcbdd25860",
       "radio-buttons": "eca7987069c959f08011ceb831cc8a4c3bab3113",
       "checkboxs": "728c3f05140f3fcd8da33dd1fc695ddb0077c54f",
@@ -467,8 +472,7 @@
       "size-tooltip.min-width": "a71b126900d282a7f41c8e2f033f15703bee9d51",
       "size-tooltip.max-width": "9db083ca3777424fbf63f22bd59244eb5b75bc9d",
       "size-tooltip.min-height": "14fdb7f194121d7f87af5b507fe45f387b3e53d9",
-      "size-tooltip.max-height": "1299d9fa829e55afae29948740d65860929e9137",
-      "background-blur.top-game": "cf7628448b5ea02c1adb60b4aeade13a4c0dfc02"
+      "size-tooltip.max-height": "1299d9fa829e55afae29948740d65860929e9137"
     }
   },
   {
@@ -790,7 +794,11 @@
       "contextual.progres.track.tertiary": "S:bcdec67d78601b2d3c0c554b553c0f8402d8054f,",
       "contextual.progres.background.primary": "S:c83ec00d55174d99dc08b49b836bc267c484c4b2,",
       "contextual.progres.background.secondary": "S:ed0ae4bc509329fb42be7d49f7093a4393b693ab,",
-      "contextual.progres.background.tertiary": "S:737228070487d98b259adb4a17f5a41bf5861de1,"
+      "contextual.progres.background.tertiary": "S:737228070487d98b259adb4a17f5a41bf5861de1,",
+      "contextual.checkbox.unselected.border.enable": "S:5d16b9314a2fec91c9fd9dfd050b108655f2f905,",
+      "contextual.checkbox.unselected.border.disabled": "S:bbb3991ea7e5079497e3ff0e95657656afd6f754,",
+      "semantic.background.success": "S:4d3d120a28427c648a3b918c41e30b94c9d54c25,",
+      "semantic.background.error": "S:854a33cddc19daf77ae8c09726c49ce8e975c3cd,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
@@ -888,6 +896,7 @@
       "background-blur.statuses": "659d0508f73e994dc7ad9ce41e651b7915e37ca4",
       "background-blur.tab-bar": "47406c0ed118e886e2b597a0bc253cc43195da8a",
       "background-blur.navigation-bar": "03e6a864859399467ef7f5bfa905702d72e4ea97",
+      "background-blur.top-game": "c6121488db30f6238272f0495179ea769f328e62",
       "text-field": "ba0e704579eb0806d214c9c6d39d29efd017d23d",
       "radio-buttons": "7d85632a05517a2c3e83ba9e1c916c51338ccde1",
       "checkboxs": "f47473b5c9e5a9c25023b2c082ee31eb17cc678a",
@@ -938,8 +947,7 @@
       "size-tooltip.min-width": "bd4f43745a234c880201d22fb3678bed592a06a0",
       "size-tooltip.max-width": "ea3f2e9400b77e52c878487cf91a8728399c1f55",
       "size-tooltip.min-height": "d7453f7d928bad8d935ca9a57f564246ab8f4a7c",
-      "size-tooltip.max-height": "d80d27aeb585dd76fddd6a97d422b1fc10ba285b",
-      "background-blur.top-game": "c6121488db30f6238272f0495179ea769f328e62"
+      "size-tooltip.max-height": "d80d27aeb585dd76fddd6a97d422b1fc10ba285b"
     }
   }
 ]
