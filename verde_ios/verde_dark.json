@@ -1240,6 +1240,14 @@
           "value": "{core.accent.500}",
           "type": "color"
         },
+        "success": {
+          "value": "{core.green.500}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{core.red.500}",
+          "type": "color"
+        },
         "backdrop": {
           "value": "rgba(0, 0, 0, 0.50)",
           "type": "color"
