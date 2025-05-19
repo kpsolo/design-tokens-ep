@@ -758,7 +758,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.neutral.500}",
+            "value": "{core.neutral.400}",
             "type": "color"
           }
         },
