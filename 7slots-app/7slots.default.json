@@ -1662,6 +1662,10 @@
         "type": "color",
         "description": "Color for third line information on a dark background"
       },
+      "accent": {
+        "value": "{core.brand.accent.100}",
+        "type": "color"
+      },
       "success": {
         "value": "{core.green.50}",
         "type": "color",
@@ -1716,6 +1720,10 @@
         "type": "color",
         "description": "Used for a disabled icon on a dark background"
       },
+      "accent": {
+        "value": "{core.brand.accent.100}",
+        "type": "color"
+      },
       "success": {
         "value": "{core.green.50}",
         "type": "color",
@@ -1735,10 +1743,6 @@
         "value": "{core.yellow.50}",
         "type": "color",
         "description": "Used for the favorites icon"
-      },
-      "deposit": {
-        "value": "{core.brand.accent.100}",
-        "type": "color"
       },
       "static": {
         "primary": {

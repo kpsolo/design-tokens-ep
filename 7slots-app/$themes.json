@@ -438,7 +438,9 @@
       "contextual.bonus.sheet.background.inactive": "S:8115ce34426a2c19069225779c663359159cffc7,",
       "contextual.bonus.sheet.text.primary": "S:08204bced040735c6087a2b2a4a78c28a55d7290,",
       "contextual.bonus.sheet.text.secondary": "S:7401a9fa814bad2791640080589555f114f22d32,",
-      "contextual.bonus.sheet.text.tertiary": "S:fcf87ba9a11b9f06b8d3e875aac692f47d14e095,"
+      "contextual.bonus.sheet.text.tertiary": "S:fcf87ba9a11b9f06b8d3e875aac692f47d14e095,",
+      "semantic.text.accent": "S:2173af7f7be6a53070caae2288b6db099f57975a,",
+      "semantic.icon.accent": "S:a190e49ef77efcf9f50728f4b72e6b347dfa20cd,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
