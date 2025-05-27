@@ -1555,32 +1555,32 @@
     },
     "loyalty": {
       "01": {
-        "value": "linear-gradient(0deg, rgb(90, 136, 255) 0%, rgb(25, 89, 255) 100%)",
+        "value": "linear-gradient(0deg, rgb(1, 41, 144) 0%, rgb(25, 89, 255) 100%)",
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Beginner”"
       },
       "02": {
-        "value": "linear-gradient(0deg, rgb(255, 171, 79) 0%, rgb(229, 87, 13) 100%)",
+        "value": "linear-gradient(0deg, rgb(219, 96, 2) 0%, rgb(255, 123, 14) 100%)",
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Bronze”"
       },
       "03": {
-        "value": "linear-gradient(0deg, rgb(174, 191, 203) 0%, rgb(123, 133, 145) 100%)",
+        "value": "linear-gradient(0deg, rgb(132, 185, 223) 0%, rgb(120, 134, 152) 100%)",
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Silver”"
       },
       "04": {
-        "value": "linear-gradient(0deg, rgb(255, 223, 79) 0%, rgb(221, 144, 0) 100%)",
+        "value": "linear-gradient(0deg, rgb(255, 128, 0) 0%, rgb(243, 178, 0) 100%)",
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Gold”"
       },
       "05": {
-        "value": "linear-gradient(0deg, rgb(124, 154, 186) 0%, rgb(70, 93, 125) 100%)",
+        "value": "linear-gradient(0deg, rgb(100, 139, 182) 0%, rgb(57, 88, 130) 100%)",
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Platinum”"
       },
       "06": {
-        "value": "linear-gradient(0deg, rgb(97, 208, 58) 0%, rgb(52, 139, 22) 100%)",
+        "value": "linear-gradient(0deg, rgb(32, 116, 2) 0%, rgb(4, 180, 10) 100%)",
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Diamond”"
       },
@@ -1590,7 +1590,7 @@
         "description": "Used for the default state of the card"
       },
       "07": {
-        "value": "linear-gradient(0deg, rgb(255, 72, 60) 0%, rgb(144, 9, 9) 100%)",
+        "value": "linear-gradient(0deg, #FF2F21 0%, #A20000 100%)",
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Super VIP”"
       }
