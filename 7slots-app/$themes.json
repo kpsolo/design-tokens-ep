@@ -440,7 +440,8 @@
       "contextual.bonus.sheet.text.secondary": "S:7401a9fa814bad2791640080589555f114f22d32,",
       "contextual.bonus.sheet.text.tertiary": "S:fcf87ba9a11b9f06b8d3e875aac692f47d14e095,",
       "semantic.text.accent": "S:2173af7f7be6a53070caae2288b6db099f57975a,",
-      "semantic.icon.accent": "S:a190e49ef77efcf9f50728f4b72e6b347dfa20cd,"
+      "semantic.icon.accent": "S:a190e49ef77efcf9f50728f4b72e6b347dfa20cd,",
+      "contextual.welcome_scr.login": "S:21cf06c96db6d5f46dab27fff2a5533548f136e9,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"

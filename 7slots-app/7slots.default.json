@@ -1642,6 +1642,10 @@
         "value": "linear-gradient(225deg, rgba(80, 204, 252, 1) 0%, rgba(82, 0, 255, 1) 100%)",
         "type": "color",
         "description": "Used for the background of the third welcome screen when the application starts"
+      },
+      "login": {
+        "value": "linear-gradient(218deg, #1FC86C 18.18%, #297EFE 63.54%)",
+        "type": "color"
       }
     }
   },
