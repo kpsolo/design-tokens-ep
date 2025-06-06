@@ -2264,7 +2264,7 @@
   "size-chips": {
     "large": {
       "min-width": {
-        "value": "56",
+        "value": "32",
         "type": "sizing"
       },
       "max-width": {
@@ -2282,7 +2282,7 @@
     },
     "medium": {
       "min-width": {
-        "value": "56",
+        "value": "32",
         "type": "sizing"
       },
       "max-width": {
