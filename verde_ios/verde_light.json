@@ -890,7 +890,7 @@
         }
       },
       "logo": {
-        "value": "{core.neutral.300}",
+        "value": "{core.neutral.500}",
         "type": "color"
       }
     },
