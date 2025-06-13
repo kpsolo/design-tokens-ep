@@ -325,7 +325,8 @@
       "semantic.background.success": "S:69f68d5f4160b3713bd6e48fbba926193c8e4278,",
       "semantic.background.error": "S:4bedce8678a930dd70b9bdf52fab5204a342ed41,",
       "semantic.background.overlay.success": "S:1dcbfa2bfd5f5b6faa6441cad0a92669456bcd50,",
-      "semantic.background.overlay.error": "S:a25e3d077a49c600a9c40e4b6d686fb547617b4f,"
+      "semantic.background.overlay.error": "S:a25e3d077a49c600a9c40e4b6d686fb547617b4f,",
+      "semantic.background.shadow.total": "S:3e83d87ce651bba71ec2c700d08aa3a8d197ccca,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -802,7 +803,8 @@
       "semantic.background.success": "S:4d3d120a28427c648a3b918c41e30b94c9d54c25,",
       "semantic.background.error": "S:854a33cddc19daf77ae8c09726c49ce8e975c3cd,",
       "semantic.background.overlay.success": "S:60a954b37833420c8065617025e0b1ecda24773b,",
-      "semantic.background.overlay.error": "S:1b0cf3d59f21d09ad823c6ad4807ab846a5cf0a5,"
+      "semantic.background.overlay.error": "S:1b0cf3d59f21d09ad823c6ad4807ab846a5cf0a5,",
+      "semantic.background.shadow.total": "S:a18fe2d3a342abccb78018c8ad88286e0cc490c3,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
