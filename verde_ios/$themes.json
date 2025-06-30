@@ -330,7 +330,8 @@
       "contextual.in-game.background": "S:49b226672148f40f49bf2450aecc18eb4e272b4c,",
       "contextual.in-game.active": "S:9df2dcfae91862351b86a4d8bee1571f81cfb817,",
       "contextual.in-game.inactive": "S:90dcdf31f4c6d4e3dc2add499759769a42dbbe20,",
-      "in-game": "S:1a05a5c84cf13fee05c69e7fac2b50f4a85e8503,"
+      "in-game": "S:1a05a5c84cf13fee05c69e7fac2b50f4a85e8503,",
+      "contextual.in-game.tab": "S:7837172567f1b3e105fda8e0925d2fa23fcda632,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -429,6 +430,7 @@
       "background-blur.tab-bar": "532a7e49b35127dc04c634c69d32b60d0f8c64a7",
       "background-blur.navigation-bar": "10a0cf4fe0ca2f02ac8934920db1b9bd1d198588",
       "background-blur.top-game": "cf7628448b5ea02c1adb60b4aeade13a4c0dfc02",
+      "background-blur.in-game": "4e44af9767075c0f31d9547266acc5c5e8444bf5",
       "text-field": "498a4ded00166c31909ac3c81e4f16bcbdd25860",
       "radio-buttons": "eca7987069c959f08011ceb831cc8a4c3bab3113",
       "checkboxs": "728c3f05140f3fcd8da33dd1fc695ddb0077c54f",
@@ -480,7 +482,6 @@
       "size-tooltip.max-width": "9db083ca3777424fbf63f22bd59244eb5b75bc9d",
       "size-tooltip.min-height": "14fdb7f194121d7f87af5b507fe45f387b3e53d9",
       "size-tooltip.max-height": "1299d9fa829e55afae29948740d65860929e9137",
-      "background-blur.in-game": "4e44af9767075c0f31d9547266acc5c5e8444bf5",
       "in-games": "66c1a356e9e616d27c5322084c2650258cc3deae"
     }
   },
@@ -814,7 +815,8 @@
       "contextual.in-game.background": "S:b5f21ea6f4fe128edaa32e810b2b3de7d5699635,",
       "contextual.in-game.active": "S:06d8de366beeb5bcfc377b21fcca017219b80e7b,",
       "contextual.in-game.inactive": "S:23989b32279ae3fdeed1f98362ca4b402ec79e84,",
-      "in-game": "S:b4853f6ae0560818984abe53696da1b603bc4811,"
+      "in-game": "S:b4853f6ae0560818984abe53696da1b603bc4811,",
+      "contextual.in-game.tab": "S:c95d4616579ddc0a7d86a710eb44443dd7640135,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
@@ -913,6 +915,7 @@
       "background-blur.tab-bar": "47406c0ed118e886e2b597a0bc253cc43195da8a",
       "background-blur.navigation-bar": "03e6a864859399467ef7f5bfa905702d72e4ea97",
       "background-blur.top-game": "c6121488db30f6238272f0495179ea769f328e62",
+      "background-blur.in-game": "aeaa7633608802329e7baa5b5944eade75d9d905",
       "text-field": "ba0e704579eb0806d214c9c6d39d29efd017d23d",
       "radio-buttons": "7d85632a05517a2c3e83ba9e1c916c51338ccde1",
       "checkboxs": "f47473b5c9e5a9c25023b2c082ee31eb17cc678a",
@@ -964,7 +967,6 @@
       "size-tooltip.max-width": "ea3f2e9400b77e52c878487cf91a8728399c1f55",
       "size-tooltip.min-height": "d7453f7d928bad8d935ca9a57f564246ab8f4a7c",
       "size-tooltip.max-height": "d80d27aeb585dd76fddd6a97d422b1fc10ba285b",
-      "background-blur.in-game": "aeaa7633608802329e7baa5b5944eade75d9d905",
       "in-games": "0b01cb7ea7d21aa5b086521b71a95e8009a4898b"
     }
   }
