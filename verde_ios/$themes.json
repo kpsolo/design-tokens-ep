@@ -326,7 +326,11 @@
       "semantic.background.error": "S:4bedce8678a930dd70b9bdf52fab5204a342ed41,",
       "semantic.background.overlay.success": "S:1dcbfa2bfd5f5b6faa6441cad0a92669456bcd50,",
       "semantic.background.overlay.error": "S:a25e3d077a49c600a9c40e4b6d686fb547617b4f,",
-      "semantic.background.shadow.total": "S:3e83d87ce651bba71ec2c700d08aa3a8d197ccca,"
+      "semantic.background.shadow.total": "S:3e83d87ce651bba71ec2c700d08aa3a8d197ccca,",
+      "contextual.in-game.background": "S:49b226672148f40f49bf2450aecc18eb4e272b4c,",
+      "contextual.in-game.active": "S:9df2dcfae91862351b86a4d8bee1571f81cfb817,",
+      "contextual.in-game.inactive": "S:90dcdf31f4c6d4e3dc2add499759769a42dbbe20,",
+      "in-game": "S:1a05a5c84cf13fee05c69e7fac2b50f4a85e8503,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -475,7 +479,9 @@
       "size-tooltip.min-width": "a71b126900d282a7f41c8e2f033f15703bee9d51",
       "size-tooltip.max-width": "9db083ca3777424fbf63f22bd59244eb5b75bc9d",
       "size-tooltip.min-height": "14fdb7f194121d7f87af5b507fe45f387b3e53d9",
-      "size-tooltip.max-height": "1299d9fa829e55afae29948740d65860929e9137"
+      "size-tooltip.max-height": "1299d9fa829e55afae29948740d65860929e9137",
+      "background-blur.in-game": "4e44af9767075c0f31d9547266acc5c5e8444bf5",
+      "in-games": "66c1a356e9e616d27c5322084c2650258cc3deae"
     }
   },
   {
@@ -804,7 +810,11 @@
       "semantic.background.error": "S:854a33cddc19daf77ae8c09726c49ce8e975c3cd,",
       "semantic.background.overlay.success": "S:60a954b37833420c8065617025e0b1ecda24773b,",
       "semantic.background.overlay.error": "S:1b0cf3d59f21d09ad823c6ad4807ab846a5cf0a5,",
-      "semantic.background.shadow.total": "S:a18fe2d3a342abccb78018c8ad88286e0cc490c3,"
+      "semantic.background.shadow.total": "S:a18fe2d3a342abccb78018c8ad88286e0cc490c3,",
+      "contextual.in-game.background": "S:b5f21ea6f4fe128edaa32e810b2b3de7d5699635,",
+      "contextual.in-game.active": "S:06d8de366beeb5bcfc377b21fcca017219b80e7b,",
+      "contextual.in-game.inactive": "S:23989b32279ae3fdeed1f98362ca4b402ec79e84,",
+      "in-game": "S:b4853f6ae0560818984abe53696da1b603bc4811,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
@@ -953,7 +963,9 @@
       "size-tooltip.min-width": "bd4f43745a234c880201d22fb3678bed592a06a0",
       "size-tooltip.max-width": "ea3f2e9400b77e52c878487cf91a8728399c1f55",
       "size-tooltip.min-height": "d7453f7d928bad8d935ca9a57f564246ab8f4a7c",
-      "size-tooltip.max-height": "d80d27aeb585dd76fddd6a97d422b1fc10ba285b"
+      "size-tooltip.max-height": "d80d27aeb585dd76fddd6a97d422b1fc10ba285b",
+      "background-blur.in-game": "aeaa7633608802329e7baa5b5944eade75d9d905",
+      "in-games": "0b01cb7ea7d21aa5b086521b71a95e8009a4898b"
     }
   }
 ]
