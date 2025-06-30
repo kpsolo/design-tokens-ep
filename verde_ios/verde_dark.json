@@ -1191,6 +1191,20 @@
           "type": "color"
         }
       }
+    },
+    "in-game": {
+      "background": {
+        "value": "{core.white.600}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{core.accent.100}",
+        "type": "color"
+      },
+      "inactive": {
+        "value": "{core.white.100}",
+        "type": "color"
+      }
     }
   },
   "semantic": {
@@ -2150,6 +2164,10 @@
     "top-game": {
       "value": "12px",
       "type": "dimension"
+    },
+    "in-game": {
+      "value": "24px",
+      "type": "dimension"
     }
   },
   "text-field": {
@@ -2428,5 +2446,20 @@
       "value": "360",
       "type": "sizing"
     }
+  },
+  "in-game": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "16",
+      "spread": "0",
+      "color": "rgba(0,0,0,0.1)",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "in-games": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
   }
 }
