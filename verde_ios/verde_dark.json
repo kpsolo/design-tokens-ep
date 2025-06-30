@@ -1197,6 +1197,10 @@
         "value": "{core.white.600}",
         "type": "color"
       },
+      "tab": {
+        "value": "{core.white.100}",
+        "type": "color"
+      },
       "active": {
         "value": "{core.accent.100}",
         "type": "color"
