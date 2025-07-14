@@ -46,7 +46,7 @@
   "core": {
     "brand": {
       "primery": {
-        "value": "linear-gradient(180deg, #a3dc06 0%, #529300 100%)",
+        "value": "linear-gradient(180deg, rgba(163, 220, 6, 1) 0%, rgba(82, 147, 0, 1) 100%)",
         "type": "color"
       }
     },
@@ -76,7 +76,7 @@
         "type": "color"
       },
       "700": {
-        "value": "#808aa6",
+        "value": "rgba(128, 138, 166, 1)",
         "type": "color"
       }
     },
@@ -1100,7 +1100,7 @@
             "type": "color"
           },
           "border": {
-            "value": "linear-gradient(225deg, #8a3bee 0%, #f200b7 39%, #fe9402 91.67%)",
+            "value": "linear-gradient(225deg, rgba(138, 59, 238, 1) 0%, rgba(242, 0, 183, 1) 39%, rgba(254, 148, 2, 1) 91.67%)",
             "type": "color"
           },
           "icon": {
@@ -1238,7 +1238,7 @@
         "type": "color"
       },
       "winning": {
-        "value": "linear-gradient(136deg, #028a4e 0%, #9bd102 100%)",
+        "value": "linear-gradient(136deg, rgba(2, 138, 78, 1) 0%, rgba(155, 209, 2, 1) 100%)",
         "type": "color"
       },
       "overlay": {
@@ -1431,10 +1431,6 @@
       },
       "error": {
         "value": "{core.red.100}",
-        "type": "color"
-      },
-      "story": {
-        "value": "linear-gradient(225deg, #8a3bee 0%, #f200b7 39%, #fe9402 91.67%)",
         "type": "color"
       },
       "static": {
