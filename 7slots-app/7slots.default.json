@@ -1773,7 +1773,7 @@
         "description": "Used as a background for the background of the main pages, and bottom sheet"
       },
       "secondary": {
-        "value": "linear-gradient(135deg, #2A3E7C 0%, #1A2A59 100%)",
+        "value": "linear-gradient(135deg, rgba(32, 62, 152, 1) 0%, rgba(15, 39, 111, 1) 100%)",
         "type": "color",
         "description": "Used for the default state of the card"
       },
