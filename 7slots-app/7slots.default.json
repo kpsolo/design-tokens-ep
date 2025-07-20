@@ -2095,7 +2095,7 @@
       "type": "borderRadius"
     },
     "balance": {
-      "value": "{core-radios.12}",
+      "value": "{core-radios.16}",
       "type": "borderRadius"
     },
     "story": {
@@ -2555,7 +2555,7 @@
     }
   },
   "bottom-sheet": {
-    "value": "{core-radios.16}",
+    "value": "{core-radios.24}",
     "type": "borderRadius"
   },
   "category": {
