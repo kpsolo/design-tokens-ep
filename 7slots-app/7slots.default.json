@@ -1768,7 +1768,7 @@
     },
     "background": {
       "primary": {
-        "value": "{core.black.50}",
+        "value": "{core.neutral.500}",
         "type": "color",
         "description": "Used as a background for the background of the main pages, and bottom sheet"
       },
