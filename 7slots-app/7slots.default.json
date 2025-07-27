@@ -114,15 +114,15 @@
     },
     "neutral": {
       "100": {
-        "value": "#b0c4dc",
-        "type": "color"
-      },
-      "200": {
         "value": "#7d93ba",
         "type": "color"
       },
-      "300": {
+      "200": {
         "value": "#3e5586",
+        "type": "color"
+      },
+      "300": {
+        "value": "rgba(34, 70, 153, 1)",
         "type": "color"
       },
       "400": {
@@ -423,7 +423,7 @@
       "tertiary": {
         "enabled": {
           "background": {
-            "value": "#36518F",
+            "value": "{core.neutral.300}",
             "type": "color",
             "description": "The background of the enabled button"
           },
@@ -1778,7 +1778,7 @@
         "description": "Used for the default state of the card"
       },
       "tertiary": {
-        "value": "{core.neutral.300}",
+        "value": "{core.neutral.200}",
         "type": "color"
       },
       "accent": {
