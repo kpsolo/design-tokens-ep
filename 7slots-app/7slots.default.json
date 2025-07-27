@@ -917,11 +917,11 @@
     },
     "bottom-sheet": {
       "background": {
-        "value": "{core.black.50}",
+        "value": "{core.neutral.500}",
         "type": "color"
       },
       "handle": {
-        "value": "{core.white.300}",
+        "value": "{core.white.50}",
         "type": "color"
       }
     },
