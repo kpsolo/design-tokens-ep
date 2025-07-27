@@ -2509,7 +2509,7 @@
     "small": {
       "value": {
         "fontFamily": "{fontFamilies.inter}",
-        "fontWeight": "{fontWeights.inter-3}",
+        "fontWeight": "{fontWeights.inter-5}",
         "lineHeight": "{lineHeights.24}",
         "fontSize": "{fontSize.18}"
       },
