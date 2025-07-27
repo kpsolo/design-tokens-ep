@@ -1957,11 +1957,11 @@
       "type": "typography"
     },
     "larges": {
-      "value": "{core-radios.10}",
+      "value": "{core-radios.16}",
       "type": "borderRadius"
     },
     "middle": {
-      "value": "{core-radios.8}",
+      "value": "{core-radios.12}",
       "type": "borderRadius"
     },
     "medium": {
