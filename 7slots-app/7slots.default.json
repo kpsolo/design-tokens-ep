@@ -2347,7 +2347,7 @@
     "type": "borderWidth"
   },
   "bottom-sheet": {
-    "value": "{core-radios.24}",
+    "value": "{core-radios.32}",
     "type": "borderRadius"
   },
   "category": {
