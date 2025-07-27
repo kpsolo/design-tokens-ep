@@ -2083,7 +2083,7 @@
   },
   "card": {
     "thumb": {
-      "value": "{core-radios.12}",
+      "value": "{core-radios.16}",
       "type": "borderRadius"
     },
     "winning-now": {
