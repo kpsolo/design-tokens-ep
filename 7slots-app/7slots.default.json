@@ -1951,7 +1951,7 @@
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-5}",
-        "lineHeight": "{lineHeights.22}",
+        "lineHeight": "{lineHeights.24}",
         "fontSize": "{fontSize.16}"
       },
       "type": "typography"
@@ -2385,8 +2385,8 @@
       "value": "20",
       "type": "lineHeights"
     },
-    "22": {
-      "value": "22",
+    "24": {
+      "value": "24",
       "type": "lineHeights"
     },
     "26": {
@@ -2481,7 +2481,7 @@
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
-        "lineHeight": "{lineHeights.22}",
+        "lineHeight": "{lineHeights.24}",
         "fontSize": "{fontSize.18}"
       },
       "type": "typography"
@@ -2510,7 +2510,7 @@
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-3}",
-        "lineHeight": "{lineHeights.22}",
+        "lineHeight": "{lineHeights.24}",
         "fontSize": "{fontSize.18}"
       },
       "type": "typography"
@@ -2521,7 +2521,7 @@
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-3}",
-        "lineHeight": "{lineHeights.22}",
+        "lineHeight": "{lineHeights.24}",
         "fontSize": "{fontSize.16}"
       },
       "type": "typography"
@@ -2550,7 +2550,7 @@
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-4}",
-        "lineHeight": "{lineHeights.22}",
+        "lineHeight": "{lineHeights.24}",
         "fontSize": "{fontSize.16}"
       },
       "type": "typography"
@@ -2559,7 +2559,7 @@
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-5}",
-        "lineHeight": "{lineHeights.22}",
+        "lineHeight": "{lineHeights.24}",
         "fontSize": "{fontSize.16}"
       },
       "type": "typography"
@@ -2644,7 +2644,7 @@
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-4}",
-        "lineHeight": "{lineHeights.22}",
+        "lineHeight": "{lineHeights.24}",
         "fontSize": "{fontSize.16}"
       },
       "type": "typography"
@@ -2653,7 +2653,7 @@
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-5}",
-        "lineHeight": "{lineHeights.22}",
+        "lineHeight": "{lineHeights.24}",
         "fontSize": "{fontSize.16}"
       },
       "type": "typography"

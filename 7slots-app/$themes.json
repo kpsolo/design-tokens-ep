@@ -539,7 +539,8 @@
       "lineHeights.10": "9355ee656e1b4db06dc872e467fbff73cc8cbd0d",
       "lineHeights.12": "68022b85ae1c5206f93eb178b23e4d4b5ca7951c",
       "lineHeights.16": "1666aa80defaec81495a43191fc075c306854c16",
-      "lineHeights.22": "5243efed2017fb23ec0251e65ab21d261c2f79f9",
+      "lineHeights.20": "fcb2cfcf0e255d6aca4db5e93ad14314d2e99cad",
+      "lineHeights.24": "5243efed2017fb23ec0251e65ab21d261c2f79f9",
       "lineHeights.26": "737be697ff6e9c39780719d96770855ce27e6182",
       "lineHeights.34": "7ac1726380cb0c677f26080eac736731897568b0",
       "fontWeights.inter-0": "845c9772c96621b1dca2b2b141c0d3c23f081571",
@@ -554,15 +555,14 @@
       "fontSize.14": "ad12c973bdf8099afd2c90e08d241b9f5d46f392",
       "fontSize.16": "48d8dcecd9ec2f0c1bf4906ab89d7c12c7d8a0a9",
       "fontSize.18": "4f2ea6270a3727b11535bff6543d957db3354a63",
+      "fontSize.24": "95ab8038227c60c46ce9eb1646a2b4a52f2efcfb",
       "fontSize.30": "314d197193eecea2325ab3e24b6b4658079d511a",
       "segment.surface": "fc7c67125a03ad9f0efc6a544b01aa9cadb6cf9f",
       "segment.item": "cab40efcd36f27506d59bdcb8e00f7610b69b324",
       "winning-now": "1ddccfb6abfad07abe9dec577c6b4d1d119e9047",
       "backdrop": "fa8bfd43ef0840bba71abb533df9ae9a7c1a9186",
       "statusess": "6e3121c2349e96e347e726120c00ccf504cebf03",
-      "bonus-surface": "61d43c738676e65aa7d0b7081faac8bcc3300f71",
-      "lineHeights.20": "fcb2cfcf0e255d6aca4db5e93ad14314d2e99cad",
-      "fontSize.24": "95ab8038227c60c46ce9eb1646a2b4a52f2efcfb"
+      "bonus-surface": "61d43c738676e65aa7d0b7081faac8bcc3300f71"
     },
     "$figmaCollectionId": "VariableCollectionId:23777:1113",
     "$figmaModeId": "23777:0"
