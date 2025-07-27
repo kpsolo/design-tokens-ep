@@ -134,7 +134,7 @@
         "type": "color"
       },
       "600": {
-        "value": "#0E1837",
+        "value": "rgba(0, 15, 61, 1)",
         "type": "color"
       }
     },
