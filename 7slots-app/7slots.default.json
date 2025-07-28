@@ -2087,11 +2087,11 @@
       "type": "borderRadius"
     },
     "winning-now": {
-      "value": "{core-radios.12}",
+      "value": "{core-radios.16}",
       "type": "borderRadius"
     },
     "collection": {
-      "value": "{core-radios.12}",
+      "value": "{core-radios.16}",
       "type": "borderRadius"
     },
     "balance": {
@@ -2099,7 +2099,7 @@
       "type": "borderRadius"
     },
     "story": {
-      "value": "{core-radios.12}",
+      "value": "{core-radios.16}",
       "type": "borderRadius"
     },
     "bonus": {
@@ -2115,7 +2115,7 @@
       "type": "borderRadius"
     },
     "providers": {
-      "value": "{core-radios.12}",
+      "value": "{core-radios.16}",
       "type": "borderRadius"
     },
     "vip-club": {
