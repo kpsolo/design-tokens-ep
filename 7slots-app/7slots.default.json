@@ -2323,7 +2323,7 @@
     "type": "borderRadius"
   },
   "dialogs": {
-    "value": "{core-radios.16}",
+    "value": "{core-radios.32}",
     "type": "borderRadius"
   },
   "chips": {
