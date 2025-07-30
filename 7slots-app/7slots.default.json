@@ -2073,7 +2073,7 @@
       "type": "borderWidth"
     },
     "point": {
-      "value": "{core-radios.12}",
+      "value": "{core-radios.16}",
       "type": "borderRadius"
     },
     "default": {
@@ -2763,5 +2763,9 @@
   "bonus-surface": {
     "value": "{core-dimension.24}",
     "type": "dimension"
+  },
+  "callout": {
+    "value": "{core-radios.16}",
+    "type": "borderRadius"
   }
 }
