@@ -2299,7 +2299,7 @@
     "type": "borderWidth"
   },
   "snackbar": {
-    "value": "{core-radios.8}",
+    "value": "{core-radios.16}",
     "type": "borderRadius"
   },
   "tooltip": {
