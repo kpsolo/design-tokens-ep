@@ -1555,32 +1555,32 @@
     },
     "loyalty": {
       "01": {
-        "value": "linear-gradient(0deg, rgba(0, 33, 117, 0.8) 0%, rgba(25, 89, 255, 0.8) 100%)",
+        "value": "linear-gradient(0deg, rgba(0, 33, 117, 1) 0%, rgba(25, 89, 255, 1) 100%)",
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Beginner”"
       },
       "02": {
-        "value": "linear-gradient(0deg, rgba(128, 11, 2, 0.8) 0%, rgba(255, 102, 14, 0.8) 100%)",
+        "value": "linear-gradient(0deg, rgba(128, 11, 2, 1) 0%, rgba(255, 102, 14, 1) 100%)",
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Bronze”"
       },
       "03": {
-        "value": "linear-gradient(0deg, rgba(45, 88, 118, 0.8) 0%, rgba(120, 134, 152, 0.8) 100%)",
+        "value": "linear-gradient(0deg, rgba(45, 88, 118, 1) 0%, rgba(120, 134, 152, 1) 100%)",
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Silver”"
       },
       "04": {
-        "value": "linear-gradient(0deg, rgba(195, 47, 1, 0.8) 0%, rgba(243, 178, 0, 0.8) 100%)",
+        "value": "linear-gradient(0deg, rgba(195, 47, 1, 1) 0%, rgba(243, 178, 0, 1) 100%)",
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Gold”"
       },
       "05": {
-        "value": "linear-gradient(0deg, rgba(100, 139, 182, 0.8) 0%, rgba(57, 88, 130, 0.8) 100%)",
+        "value": "linear-gradient(0deg, rgba(100, 139, 182, 1) 0%, rgba(57, 88, 130, 1) 100%)",
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Platinum”"
       },
       "06": {
-        "value": "linear-gradient(0deg, rgba(1, 73, 35, 0.8) 0%, rgba(4, 180, 10, 0.8) 100%)",
+        "value": "linear-gradient(0deg, rgba(1, 73, 35, 1) 0%, rgba(4, 180, 10, 1) 100%)",
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Diamond”"
       },
@@ -1590,7 +1590,7 @@
         "description": "Used for the default state of the card"
       },
       "07": {
-        "value": "linear-gradient(0deg, rgba(255, 47, 33, 0.8) 0%, rgba(138, 2, 2, 0.8) 100%)",
+        "value": "linear-gradient(0deg, rgba(255, 47, 33, 1) 0%, rgba(138, 2, 2, 1) 100%)",
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Super VIP”"
       }
