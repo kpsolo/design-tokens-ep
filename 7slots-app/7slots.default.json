@@ -2103,7 +2103,7 @@
       "type": "borderRadius"
     },
     "bonus": {
-      "value": "{core-radios.16}",
+      "value": "{core-radios.20}",
       "type": "borderRadius"
     },
     "bonus-surface": {
