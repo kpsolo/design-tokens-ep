@@ -1450,7 +1450,7 @@
           "type": "color"
         },
         "progressive": {
-          "value": "linear-gradient(309deg, #9C1EBC -1.31%, #D72590 49.34%, #FF7676 100%)",
+          "value": "linear-gradient(309deg, #9C1EBC 0%, #D72590 49.34%, #FF7676 100%)",
           "type": "color"
         },
         "range": {
@@ -1458,7 +1458,7 @@
           "type": "color"
         },
         "total-bets": {
-          "value": "linear-gradient(127deg, #E13303 0%, #FF6923 50.42%, #FF8127 100.84%)",
+          "value": "linear-gradient(127deg, #E13303 0%, #FF6923 50.42%, #FF8127 100%)",
           "type": "color"
         },
         "choose": {
