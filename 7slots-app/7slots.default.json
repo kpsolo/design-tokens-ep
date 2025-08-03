@@ -2107,7 +2107,7 @@
       "type": "borderRadius"
     },
     "bonus-surface": {
-      "value": "{core-radios.10}",
+      "value": "{core-radios.16}",
       "type": "borderRadius"
     },
     "menu": {
@@ -2671,8 +2671,8 @@
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-5}",
-        "lineHeight": "{lineHeights.16}",
-        "fontSize": "{fontSize.12}"
+        "lineHeight": "{lineHeights.20}",
+        "fontSize": "{fontSize.14}"
       },
       "type": "typography"
     },
