@@ -126,7 +126,7 @@
         "type": "color"
       },
       "400": {
-        "value": "#1D3774",
+        "value": "rgba(31, 64, 138, 1)",
         "type": "color"
       },
       "500": {
@@ -974,11 +974,11 @@
     "search": {
       "background": {
         "default": {
-          "value": "#294074",
+          "value": "{core.neutral.400}",
           "type": "color"
         },
         "focused": {
-          "value": "#294074",
+          "value": "{core.neutral.400}",
           "type": "color"
         }
       },
@@ -998,7 +998,7 @@
           "type": "color"
         },
         "focused": {
-          "value": "#00000000",
+          "value": "{contextual.сhips.background.сhosen}",
           "type": "color"
         }
       },
