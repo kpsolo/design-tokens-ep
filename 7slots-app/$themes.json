@@ -441,7 +441,11 @@
       "contextual.bonus.sheet.text.tertiary": "S:fcf87ba9a11b9f06b8d3e875aac692f47d14e095,",
       "semantic.text.accent": "S:25c64d8b7a4599ef70420b44d0a78c3465e05448,",
       "semantic.icon.accent": "S:73503692518b24d291d3566c182c77c065c452b1,",
-      "contextual.welcome_scr.login": "S:caebd4371962af5799d9e2391936807802a1e955,"
+      "contextual.welcome_scr.login": "S:caebd4371962af5799d9e2391936807802a1e955,",
+      "contextual.bonus.background.welcome": "S:dcfbb1a960c61459acb5afb91a59738288fe7079,",
+      "contextual.welcome_scr.ws01": "S:11341595975bfa2e314675711f6fe9f2e9ab08ef,",
+      "contextual.background.pre-gaming": "S:5d3ac3d969c1d467656927be8b90d5b0dc29faef,",
+      "contextual.background.pop-up": "S:ef50429079c9ce6732fa8d70825da5dd8c9545cd,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
