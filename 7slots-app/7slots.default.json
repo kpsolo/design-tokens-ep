@@ -140,43 +140,43 @@
     },
     "black": {
       "50": {
-        "value": "rgba(17, 30, 69, 1)",
+        "value": "rgba(0, 18, 73, 1)",
         "type": "color"
       },
       "100": {
-        "value": "rgba(17,30,69,0.8)",
+        "value": "rgba(0, 18, 73, 0.8)",
         "type": "color"
       },
       "200": {
-        "value": "rgba(17,30,69,0.7)",
+        "value": "rgba(0, 18, 73, 0.7)",
         "type": "color"
       },
       "300": {
-        "value": "rgba(17,30,69,0.6)",
+        "value": "rgba(0, 18, 73, 0.6)",
         "type": "color"
       },
       "400": {
-        "value": "rgba(17,30,69,0.5)",
+        "value": "rgba(0, 18, 73, 0.5)",
         "type": "color"
       },
       "500": {
-        "value": "rgba(17,30,69,0.3)",
+        "value": "rgba(0, 18, 73, 0.3)",
         "type": "color"
       },
       "600": {
-        "value": "rgba(17,30,69,0.2)",
+        "value": "rgba(0, 18, 73, 0.2)",
         "type": "color"
       },
       "700": {
-        "value": "rgba(17,30,69,0.15)",
+        "value": "rgba(0, 18, 73, 0.15)",
         "type": "color"
       },
       "800": {
-        "value": "rgba(17,30,69,0.1)",
+        "value": "rgba(0, 18, 73, 0.1)",
         "type": "color"
       },
       "900": {
-        "value": "rgba(17,30,69,0.05)",
+        "value": "rgba(0, 18, 73, 0.05)",
         "type": "color"
       }
     },
@@ -1768,7 +1768,7 @@
     },
     "background": {
       "primary": {
-        "value": "{core.neutral.500}",
+        "value": "{core.black.50}",
         "type": "color",
         "description": "Used as a background for the background of the main pages, and bottom sheet"
       },
