@@ -878,17 +878,17 @@
           "type": "color"
         },
         "error": {
-          "value": "{core.red.50}",
+          "value": "{core.neutral.100}",
           "type": "color"
         },
         "success": {
-          "value": "{core.green.50}",
+          "value": "{core.neutral.100}",
           "type": "color"
         }
       },
       "text": {
         "Info": {
-          "value": "{core.black.50}",
+          "value": "{core.white.50}",
           "type": "color"
         },
         "error": {
@@ -902,15 +902,15 @@
       },
       "icon": {
         "Info": {
-          "value": "{core.black.50}",
+          "value": "{core.white.50}",
           "type": "color"
         },
         "error": {
-          "value": "{core.white.50}",
+          "value": "{core.red.50}",
           "type": "color"
         },
         "success": {
-          "value": "{core.white.50}",
+          "value": "{core.green.50}",
           "type": "color"
         }
       }
@@ -2313,7 +2313,7 @@
     "type": "borderWidth"
   },
   "snackbar": {
-    "value": "{core-radios.16}",
+    "value": "{core-radios.12}",
     "type": "borderRadius"
   },
   "tooltip": {
