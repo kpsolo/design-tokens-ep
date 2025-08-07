@@ -878,11 +878,11 @@
           "type": "color"
         },
         "error": {
-          "value": "{core.neutral.100}",
+          "value": "{core.red.50}",
           "type": "color"
         },
         "success": {
-          "value": "{core.neutral.100}",
+          "value": "{core.green.50}",
           "type": "color"
         }
       },
@@ -896,7 +896,7 @@
           "type": "color"
         },
         "success": {
-          "value": "{core.white.50}",
+          "value": "{core.black.50}",
           "type": "color"
         }
       },
@@ -906,11 +906,11 @@
           "type": "color"
         },
         "error": {
-          "value": "{core.red.50}",
+          "value": "{core.white.50}",
           "type": "color"
         },
         "success": {
-          "value": "{core.green.50}",
+          "value": "{core.black.50}",
           "type": "color"
         }
       }
