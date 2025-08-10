@@ -640,6 +640,111 @@
             "type": "color"
           }
         }
+      },
+      "primery-outlined": {
+        "enabled": {
+          "text": {
+            "value": "{core.brand.accent.100}",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "icon": {
+            "value": "{core.brand.accent.100}",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          },
+          "border": {
+            "value": "{core.brand.accent.100}",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          }
+        },
+        "disabled": {
+          "text": {
+            "value": "{core.white.500}",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          },
+          "icon": {
+            "value": "{core.white.500}",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "border": {
+            "value": "{core.white.700}",
+            "type": "color"
+          }
+        }
+      },
+      "secondary-outlined": {
+        "enabled": {
+          "text": {
+            "value": "{core.brand.support.100}",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "icon": {
+            "value": "{core.brand.support.100}",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          },
+          "border": {
+            "value": "{core.brand.support.100}",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          }
+        },
+        "disabled": {
+          "text": {
+            "value": "{core.white.500}",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          },
+          "icon": {
+            "value": "{core.white.500}",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "border": {
+            "value": "{core.white.700}",
+            "type": "color"
+          }
+        }
+      },
+      "tertiary-outlined": {
+        "enabled": {
+          "text": {
+            "value": "{core.white.50}",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "icon": {
+            "value": "{core.white.50}",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          },
+          "border": {
+            "value": "{core.neutral.300}",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          }
+        },
+        "disabled": {
+          "text": {
+            "value": "{core.white.500}",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          },
+          "icon": {
+            "value": "{core.white.500}",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          },
+          "border": {
+            "value": "{core.white.700}",
+            "type": "color"
+          }
+        }
       }
     },
     "text-fields": {
