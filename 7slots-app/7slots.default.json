@@ -2176,34 +2176,20 @@
     "tab-bar": {
       "value": "{core-radios.full}",
       "type": "borderRadius"
+    }
+  },
+  "buttons": {
+    "lagre": {
+      "value": "{core-width.2}",
+      "type": "borderWidth"
     },
-    "fill": {
-      "lagre": {
-        "value": "{core-width.2}",
-        "type": "borderWidth"
-      },
-      "medium": {
-        "value": "{core-width.2}",
-        "type": "borderWidth"
-      },
-      "small": {
-        "value": "{core-width.1}",
-        "type": "borderWidth"
-      }
+    "medium": {
+      "value": "{core-width.2}",
+      "type": "borderWidth"
     },
-    "outlined": {
-      "lagre": {
-        "value": "{core-width.2}",
-        "type": "borderWidth"
-      },
-      "medium": {
-        "value": "{core-width.2}",
-        "type": "borderWidth"
-      },
-      "small": {
-        "value": "{core-width.1}",
-        "type": "borderWidth"
-      }
+    "small": {
+      "value": "{core-width.1}",
+      "type": "borderWidth"
     }
   },
   "core-radios": {
