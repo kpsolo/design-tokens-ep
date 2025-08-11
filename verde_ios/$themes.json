@@ -450,7 +450,6 @@
       "buttons.swipe-button.thumb": "fe25367ed65dad60e296a6d3326494f37f271a09",
       "buttons.static": "157367fa6d12a0e328d61f8624da05eb70ebf749",
       "buttons.static-outlined": "606c975dad23ed2d20bc5fb49b4fe84c7dc6e537",
-      "card.thumb": "945e8414fb47437964249edc3b84cb09eb56fbe7",
       "card.provider": "907d4d6df421393c76ee7933d34ee18b471210fd",
       "card.sport": "1e8570338a4dd4f990342aa156429ddfe84aa379",
       "card.story": "8e57ef2e0fb951ee650ae63dd1a7a5a161430d46",
@@ -489,7 +488,8 @@
       "text-fields.default": "e7ec39ed49ce2240cf730b87e2b037f5d3bebd01",
       "text-fields.focus": "93c8f4a225286362016c6053fad68413bfcda02a",
       "text-fields.error": "ea90c0d021974b267b9cb1f58a20c0367c4b9102",
-      "in-games": "02c9178f5116a63e8c5f3f68f3f5b8d06ced070e"
+      "in-games": "02c9178f5116a63e8c5f3f68f3f5b8d06ced070e",
+      "thumb.large": "945e8414fb47437964249edc3b84cb09eb56fbe7"
     }
   },
   {
@@ -928,7 +928,6 @@
       "buttons.error": "71e63d0d5480294bd27ec2a8dab764da59b97a1b",
       "buttons.swipe-button.container": "abd0ad57dcb36907d905b421b1784d5e9d572ae3",
       "buttons.swipe-button.thumb": "75de2d01ccddb59ca688941975ccac01c4a71adf",
-      "card.thumb": "74a35fa5f4e79d4c5291b2731940287b2b8693ac",
       "card.provider": "feca3de959611e2290ab6b66c95c8d6ac551e6cf",
       "card.sport": "1d77141dc6b86d7b0774537e6213283352b079f1",
       "card.story": "cfec29be1fb7bee1603fbad8363cf0a5b1039c7f",
@@ -967,7 +966,8 @@
       "text-fields.default": "4e007a6221a19186e34347afb3af31c263618b86",
       "text-fields.focus": "3894d6fc4cadd0e82f117dac3db40be9f423ed97",
       "text-fields.error": "ddfd34d27d6c68774ab42749bcc0233762b639b3",
-      "in-games": "0ea32e63509afb9d22edab543bcc6d4e90ddd098"
+      "in-games": "0ea32e63509afb9d22edab543bcc6d4e90ddd098",
+      "thumb.large": "74a35fa5f4e79d4c5291b2731940287b2b8693ac"
     }
   }
 ]

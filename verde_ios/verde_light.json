@@ -2038,10 +2038,6 @@
     }
   },
   "card": {
-    "thumb": {
-      "value": "{core-radios.500}",
-      "type": "borderRadius"
-    },
     "provider": {
       "value": "{core-radios.500}",
       "type": "borderRadius"
@@ -2089,7 +2085,7 @@
   },
   "timer": {
     "large": {
-      "value": "{core-radios.200}",
+      "value": "{core-radios.300}",
       "type": "borderRadius"
     },
     "medium": {
@@ -2260,6 +2256,10 @@
     "in-game": {
       "value": "24px",
       "type": "dimension"
+    },
+    "button": {
+      "value": "24px",
+      "type": "dimension"
     }
   },
   "text-field": {
@@ -2335,5 +2335,19 @@
   "in-games": {
     "value": "{core-radios.full}",
     "type": "borderRadius"
+  },
+  "thumb": {
+    "large": {
+      "value": "{core-radios.500}",
+      "type": "borderRadius"
+    },
+    "medium": {
+      "value": "{core-radios.400}",
+      "type": "borderRadius"
+    },
+    "small": {
+      "value": "{core-radios.300}",
+      "type": "borderRadius"
+    }
   }
 }
