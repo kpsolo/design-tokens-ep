@@ -420,12 +420,12 @@
         },
         "disabled": {
           "background": {
-            "value": "{core.black.800}",
+            "value": "#transparent",
             "type": "color",
             "description": "The background of the disabled button"
           },
           "border": {
-            "value": "#transparent",
+            "value": "{core.black.800}",
             "type": "color",
             "description": "The border color of the disabled button"
           },
