@@ -379,7 +379,9 @@
       "contextual.button.tertiary.disabled.background": "S:08e03ad5cf874a2cd2ce70a725ae058401d96413,",
       "contextual.button.tertiary.disabled.border": "S:47749ab8c9e826a4a3455a14e8bfae4c1aaa086c,",
       "contextual.button.tertiary.disabled.text": "S:adef8b6d7a9a76bae482e04c2797563275b6247c,",
-      "contextual.button.tertiary.disabled.icon": "S:e15b50bda99d9badf43e31b296695ebba327d903,"
+      "contextual.button.tertiary.disabled.icon": "S:e15b50bda99d9badf43e31b296695ebba327d903,",
+      "lable.x-large": "S:db26a34aad11f1c39a26a2d7755ef61918e4647f,",
+      "lable.x-large_prominent": "S:abf5b96eb1cdfb36738c4f6649b3759c182075be,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -853,7 +855,9 @@
       "contextual.button.tertiary.disabled.background": "S:8f6d67d020e9d397e7c8e307a9ab4c8ac3fe3a2d,",
       "contextual.button.tertiary.disabled.border": "S:df8fb7b9290b923f52958143caceeb0cb18ee117,",
       "contextual.button.tertiary.disabled.text": "S:87148b4a0361d0eecb3d533b593179b90919239b,",
-      "contextual.button.tertiary.disabled.icon": "S:98ef697ae43c9cb7167ad9c4044f255a001ad1e4,"
+      "contextual.button.tertiary.disabled.icon": "S:98ef697ae43c9cb7167ad9c4044f255a001ad1e4,",
+      "lable.x-large": "S:3f1e370379dd4ec0bf4644912ac0f8e535b731f1,",
+      "lable.x-large_prominent": "S:4082c94473b73c63481133597a8a4da6f0f43aa9,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"

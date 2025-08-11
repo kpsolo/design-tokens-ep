@@ -1834,8 +1834,8 @@
       "value": {
         "fontFamily": "{fontFamilies.montserrat}",
         "fontWeight": "{fontWeights.semibold}",
-        "lineHeight": "{lineHeights.18}",
-        "fontSize": "{fontSize.14}"
+        "lineHeight": "{lineHeights.22}",
+        "fontSize": "{fontSize.16}"
       },
       "type": "typography"
     },
