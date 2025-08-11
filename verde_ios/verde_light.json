@@ -268,11 +268,11 @@
       "tab": {
         "default": {
           "lable": {
-            "value": "{core.neutral.600}",
+            "value": "{core.black.400}",
             "type": "color"
           },
           "icon": {
-            "value": "{core.neutral.600}",
+            "value": "{core.black.400}",
             "type": "color"
           }
         },
@@ -292,11 +292,11 @@
         },
         "disabled": {
           "lable": {
-            "value": "{core.neutral.500}",
+            "value": "{core.black.500}",
             "type": "color"
           },
           "icon": {
-            "value": "{core.neutral.500}",
+            "value": "{core.black.500}",
             "type": "color"
           }
         }
@@ -420,7 +420,7 @@
         },
         "disabled": {
           "background": {
-            "value": "#transparent",
+            "value": "#00000000",
             "type": "color",
             "description": "The background of the disabled button"
           },

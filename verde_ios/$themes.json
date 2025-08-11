@@ -448,6 +448,8 @@
       "buttons.error": "1e4afb2a45983f76fd6d7be8d3574f0e584fc4f1",
       "buttons.swipe-button.container": "0f2eb51532a41f5950235e2dfaaa9265dbf0b2f1",
       "buttons.swipe-button.thumb": "fe25367ed65dad60e296a6d3326494f37f271a09",
+      "buttons.static": "157367fa6d12a0e328d61f8624da05eb70ebf749",
+      "buttons.static-outlined": "606c975dad23ed2d20bc5fb49b4fe84c7dc6e537",
       "card.thumb": "945e8414fb47437964249edc3b84cb09eb56fbe7",
       "card.provider": "907d4d6df421393c76ee7933d34ee18b471210fd",
       "card.sport": "1e8570338a4dd4f990342aa156429ddfe84aa379",
@@ -487,9 +489,7 @@
       "text-fields.default": "e7ec39ed49ce2240cf730b87e2b037f5d3bebd01",
       "text-fields.focus": "93c8f4a225286362016c6053fad68413bfcda02a",
       "text-fields.error": "ea90c0d021974b267b9cb1f58a20c0367c4b9102",
-      "in-games": "02c9178f5116a63e8c5f3f68f3f5b8d06ced070e",
-      "buttons.static": "157367fa6d12a0e328d61f8624da05eb70ebf749",
-      "buttons.static-outlined": "606c975dad23ed2d20bc5fb49b4fe84c7dc6e537"
+      "in-games": "02c9178f5116a63e8c5f3f68f3f5b8d06ced070e"
     }
   },
   {
