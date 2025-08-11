@@ -357,7 +357,7 @@
             "description": "The background of the enabled button"
           },
           "border": {
-            "value": "#transparent",
+            "value": "{core.accent.100}",
             "type": "color",
             "description": "The border color of the enabled button"
           },
@@ -454,19 +454,19 @@
             "description": "The border color of the enabled button"
           },
           "text": {
-            "value": "{core.black.100}",
+            "value": "{core.white.100}",
             "type": "color",
             "description": "The text color of the enabled button"
           },
           "icon": {
-            "value": "{core.accent.100}",
+            "value": "{core.white.100}",
             "type": "color",
             "description": "The icon color of the enabled button"
           }
         },
         "disabled": {
           "background": {
-            "value": "{core.black.800}",
+            "value": "{core.white.800}",
             "type": "color",
             "description": "The background of the disabled button"
           },
@@ -476,12 +476,12 @@
             "description": "The border color of the disabled button"
           },
           "text": {
-            "value": "{core.black.700}",
+            "value": "{core.white.700}",
             "type": "color",
             "description": "The text color of the disabled button"
           },
           "icon": {
-            "value": "{core.black.700}",
+            "value": "{core.white.700}",
             "type": "color",
             "description": "The icon color of the disabled button"
           }
@@ -495,29 +495,29 @@
             "description": "The border color of the enabled button"
           },
           "text": {
-            "value": "{core.black.100}",
+            "value": "{core.white.100}",
             "type": "color",
             "description": "The text color of the enabled button"
           },
           "icon": {
-            "value": "{core.accent.100}",
+            "value": "{core.white.100}",
             "type": "color",
             "description": "The icon color of the enabled button"
           }
         },
         "disabled": {
           "border": {
-            "value": "{core.black.800}",
+            "value": "{core.white.800}",
             "type": "color",
             "description": "The border color of the disabled button"
           },
           "text": {
-            "value": "{core.black.700}",
+            "value": "{core.white.700}",
             "type": "color",
             "description": "The text color of the disabled button"
           },
           "icon": {
-            "value": "{core.black.700}",
+            "value": "{core.white.700}",
             "type": "color",
             "description": "The icon color of the disabled button"
           }
