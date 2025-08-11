@@ -553,14 +553,6 @@
       "contextual.button.primary.enabled.text": "S:599fe2a98f2eca32188df7652889e50841655fac,",
       "contextual.button.primary.enabled.icon": "S:6e5895921d111ccd891d1104b55d2fe5c7e67eb9,",
       "contextual.button.primary.disabled.icon": "S:305be3fa457f22f1e55786643f4439ec85280e06,",
-      "contextual.button.secondaty.enabled.background": "S:e2bef8761f500da23b1f3d8cd6fca85bffea86c0,",
-      "contextual.button.secondaty.disabled.background": "S:70ae5e91f8f1b096e5455d602761d66d7f511fc2,",
-      "contextual.button.secondaty.enabled.border": "S:e83ebe182190c84e90c359a340cecca4bf885dc5,",
-      "contextual.button.secondaty.enabled.text": "S:849b64e7c3f0e775595425a3a8db9d536adece02,",
-      "contextual.button.secondaty.disabled.border": "S:246ce5e896b6b29271e98d21ddcdc1cc43ffb309,",
-      "contextual.button.secondaty.disabled.text": "S:b232c4d11c6b9f8c412354a921ad7095b65b4dec,",
-      "contextual.button.secondaty.enabled.icon": "S:4de1b210a486a4dd38401c83be72dd841bdf4dd9,",
-      "contextual.button.secondaty.disabled.icon": "S:fd9caa6b0479284b6e1e72713feda48d95749a12,",
       "contextual.button.stroke.enabled.border": "S:591c30df5b1a1e4ae031d5136972901eac5d6bcf,",
       "contextual.button.stroke.enabled.text": "S:cffcff732605d972ae3fa5d96c637e5d1bea1b5f,",
       "contextual.button.stroke.disabled.border": "S:a81eac2e10b83858fdf19ae98f33db9e7a991b44,",
@@ -857,7 +849,15 @@
       "contextual.button.tertiary.disabled.text": "S:a84455985b1be824b30d3dc71c2768c588e65fb3,",
       "contextual.button.tertiary.disabled.icon": "S:b6328f30a421c8ff99114f06cb34e402bad1d6ea,",
       "lable.x-large": "S:3f1e370379dd4ec0bf4644912ac0f8e535b731f1,",
-      "lable.x-large_prominent": "S:4082c94473b73c63481133597a8a4da6f0f43aa9,"
+      "lable.x-large_prominent": "S:4082c94473b73c63481133597a8a4da6f0f43aa9,",
+      "contextual.button.secondary.enabled.background": "S:e2bef8761f500da23b1f3d8cd6fca85bffea86c0,",
+      "contextual.button.secondary.disabled.background": "S:70ae5e91f8f1b096e5455d602761d66d7f511fc2,",
+      "contextual.button.secondary.enabled.border": "S:e83ebe182190c84e90c359a340cecca4bf885dc5,",
+      "contextual.button.secondary.enabled.text": "S:849b64e7c3f0e775595425a3a8db9d536adece02,",
+      "contextual.button.secondary.disabled.border": "S:246ce5e896b6b29271e98d21ddcdc1cc43ffb309,",
+      "contextual.button.secondary.disabled.text": "S:b232c4d11c6b9f8c412354a921ad7095b65b4dec,",
+      "contextual.button.secondary.enabled.icon": "S:4de1b210a486a4dd38401c83be72dd841bdf4dd9,",
+      "contextual.button.secondary.disabled.icon": "S:fd9caa6b0479284b6e1e72713feda48d95749a12,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
