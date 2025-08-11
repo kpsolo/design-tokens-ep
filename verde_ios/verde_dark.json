@@ -352,7 +352,7 @@
       "secondaty": {
         "enabled": {
           "background": {
-            "value": "{core.white.100}",
+            "value": "{core.neutral.300}",
             "type": "color",
             "description": "The background of the enabled button"
           },
@@ -362,7 +362,7 @@
             "description": "The border color of the enabled button"
           },
           "text": {
-            "value": "{core.black.100}",
+            "value": "{core.white.100}",
             "type": "color",
             "description": "The text color of the enabled button"
           },
@@ -395,7 +395,7 @@
           }
         }
       },
-      "stroke": {
+      "secondaty-outlined": {
         "enabled": {
           "border": {
             "value": "{core.white.600}",
@@ -431,27 +431,83 @@
           }
         }
       },
-      "text-only": {
+      "static": {
         "enabled": {
-          "text": {
+          "background": {
             "value": "{core.white.100}",
+            "type": "color",
+            "description": "The background of the enabled button"
+          },
+          "border": {
+            "value": "#transparent",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          },
+          "text": {
+            "value": "{core.black.100}",
             "type": "color",
             "description": "The text color of the enabled button"
           },
           "icon": {
-            "value": "{core.white.100}",
+            "value": "{core.accent.100}",
             "type": "color",
             "description": "The icon color of the enabled button"
           }
         },
         "disabled": {
+          "background": {
+            "value": "{core.black.800}",
+            "type": "color",
+            "description": "The background of the disabled button"
+          },
+          "border": {
+            "value": "#transparent",
+            "type": "color",
+            "description": "The border color of the disabled button"
+          },
           "text": {
-            "value": "{core.white.700}",
+            "value": "{core.black.700}",
             "type": "color",
             "description": "The text color of the disabled button"
           },
           "icon": {
-            "value": "{core.white.700}",
+            "value": "{core.black.700}",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          }
+        }
+      },
+      "static-outlined": {
+        "enabled": {
+          "border": {
+            "value": "{core.white.100}",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          },
+          "text": {
+            "value": "{core.black.100}",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "icon": {
+            "value": "{core.accent.100}",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          }
+        },
+        "disabled": {
+          "border": {
+            "value": "{core.black.800}",
+            "type": "color",
+            "description": "The border color of the disabled button"
+          },
+          "text": {
+            "value": "{core.black.700}",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          },
+          "icon": {
+            "value": "{core.black.700}",
             "type": "color",
             "description": "The icon color of the disabled button"
           }
@@ -482,7 +538,7 @@
         },
         "disabled": {
           "background": {
-            "value": "{core.white.800}",
+            "value": "{core.black.800}",
             "type": "color",
             "description": "The background of the disabled button"
           },
@@ -492,12 +548,48 @@
             "description": "The border color of the disabled button"
           },
           "text": {
-            "value": "{core.white.700}",
+            "value": "{core.black.700}",
             "type": "color",
             "description": "The text color of the disabled button"
           },
           "icon": {
-            "value": "{core.white.700}",
+            "value": "{core.black.700}",
+            "type": "color",
+            "description": "The icon color of the disabled button"
+          }
+        }
+      },
+      "error-outlined": {
+        "enabled": {
+          "border": {
+            "value": "{core.red.100}",
+            "type": "color",
+            "description": "The border color of the enabled button"
+          },
+          "text": {
+            "value": "{core.red.100}",
+            "type": "color",
+            "description": "The text color of the enabled button"
+          },
+          "icon": {
+            "value": "{core.red.100}",
+            "type": "color",
+            "description": "The icon color of the enabled button"
+          }
+        },
+        "disabled": {
+          "border": {
+            "value": "{core.black.800}",
+            "type": "color",
+            "description": "The border color of the disabled button"
+          },
+          "text": {
+            "value": "{core.black.700}",
+            "type": "color",
+            "description": "The text color of the disabled button"
+          },
+          "icon": {
+            "value": "{core.black.700}",
             "type": "color",
             "description": "The icon color of the disabled button"
           }
