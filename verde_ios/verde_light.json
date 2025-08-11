@@ -454,12 +454,12 @@
             "description": "The border color of the enabled button"
           },
           "text": {
-            "value": "{core.white.100}",
+            "value": "{core.black.100}",
             "type": "color",
             "description": "The text color of the enabled button"
           },
           "icon": {
-            "value": "{core.white.100}",
+            "value": "{core.accent.100}",
             "type": "color",
             "description": "The icon color of the enabled button"
           }
