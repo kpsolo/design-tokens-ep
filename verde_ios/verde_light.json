@@ -2007,11 +2007,19 @@
       "type": "borderWidth"
     },
     "secondaty": {
+      "value": "1.5",
+      "type": "borderWidth"
+    },
+    "tertiary": {
+      "value": "1.5",
+      "type": "borderWidth"
+    },
+    "static": {
       "value": "0",
       "type": "borderWidth"
     },
-    "stroke": {
-      "value": "1",
+    "static-outlined": {
+      "value": "1.5",
       "type": "borderWidth"
     },
     "error": {

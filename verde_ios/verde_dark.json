@@ -2010,8 +2010,8 @@
       "value": "0",
       "type": "borderWidth"
     },
-    "stroke": {
-      "value": "1",
+    "tertiary": {
+      "value": "1.5",
       "type": "borderWidth"
     },
     "error": {
@@ -2027,6 +2027,14 @@
         "value": "{core-radios.400}",
         "type": "borderRadius"
       }
+    },
+    "static": {
+      "value": "0",
+      "type": "borderWidth"
+    },
+    "static-outlined": {
+      "value": "1.5",
+      "type": "borderWidth"
     }
   },
   "card": {
