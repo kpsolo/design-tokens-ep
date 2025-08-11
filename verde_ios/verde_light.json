@@ -2035,7 +2035,7 @@
   },
   "buttons": {
     "large": {
-      "value": "{core-radios.400}",
+      "value": "{core-radios.500}",
       "type": "borderRadius"
     },
     "medium": {
@@ -2299,7 +2299,7 @@
     }
   },
   "text-field": {
-    "value": "{core-radios.400}",
+    "value": "{core-radios.500}",
     "type": "borderRadius"
   },
   "radio-buttons": {
