@@ -482,6 +482,7 @@
       "background-blur.navigation-bar": "536cef1404ae6cd5650eb2bf7054e62c3a9f9a2a",
       "background-blur.top-game": "2453b6cc417e09b3ccabe8e38f145e68d51767cf",
       "background-blur.in-game": "70a4cbbb5e525934c5abfb5ed43fb21afdc5462c",
+      "background-blur.button": "b7cb47fdcc228906bb1c5cac840c740435d655ae",
       "text-field": "e4dc2f7b4d5f732affc5233e501025a80e940d22",
       "radio-buttons": "dcfaa58c3e55f869fcb7ed006b76d09804504176",
       "checkboxs": "126ac157150e24e0aa6889cc6db61d4f4efaf1a5",
@@ -489,7 +490,6 @@
       "text-fields.focus": "26d8f8b77973490684be26e53326a09c6b22edaa",
       "text-fields.error": "ef76a8141431a8e7eb3db06d02750d7e96aeced6",
       "in-games": "7ef474d879094b3196c95598c94672a6ae561573",
-      "background-blur.button": "b7cb47fdcc228906bb1c5cac840c740435d655ae",
       "thumb.large": "d3c1514923e0578eb97edd21619c6d959e795c15",
       "thumb.medium": "62de47060b55738a5ce973d31eef576ea05e2ef1",
       "thumb.small": "a23bbb1e5ba00ffb43059240a32af852a2222564"
@@ -963,6 +963,7 @@
       "background-blur.navigation-bar": "9c99d6ae305b374b3cabd30804f662a607d47505",
       "background-blur.top-game": "8737e391fec4e35e5bae5c84cc6b1d17411cee3b",
       "background-blur.in-game": "72e5aadc06f1e2753b7381a042aa1b2afc5ccf2f",
+      "background-blur.button": "e38ee0930701008a75ec4a3815a4c84a3fdeab81",
       "text-field": "35249088080d9b4c8a4d57c58228fc7cfe3f2b53",
       "radio-buttons": "11aab6f7201e357ba648302699dd2e04765a8fa2",
       "checkboxs": "f366cc991671615b9cb27e1c4001d78fd61a3434",
@@ -970,7 +971,6 @@
       "text-fields.focus": "e01b94bc2bf3b847234e97c74fe9874b9083536c",
       "text-fields.error": "4f3e67f98e0a66da0ae26b9088e887ce6856948b",
       "in-games": "8cef7d5d0c780b136d623287fe4f091efb4b3273",
-      "background-blur.button": "e38ee0930701008a75ec4a3815a4c84a3fdeab81",
       "thumb.large": "ca1849484cf224c28e6ef6ed7aff5ee4a0915b0e",
       "thumb.medium": "2f061630329be3d860c13db9d1179f9d1f84c152",
       "thumb.small": "c7b756a52022f428fd2aedf3e9737f49067511ee"

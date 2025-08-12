@@ -2118,7 +2118,7 @@
     "type": "borderRadius"
   },
   "bottom-sheet": {
-    "value": "{core-radios.500}",
+    "value": "{core-radios.600}",
     "type": "borderRadius"
   },
   "tab-item": {
