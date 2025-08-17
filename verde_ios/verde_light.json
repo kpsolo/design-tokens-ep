@@ -1117,46 +1117,92 @@
       }
     },
     "statuses": {
-      "success": {
-        "background": {
-          "value": "{core.green.400}",
-          "type": "color"
+      "overlay": {
+        "success": {
+          "background": {
+            "value": "{core.green.400}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.green.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.green.100}",
+            "type": "color"
+          }
         },
-        "text": {
-          "value": "{core.green.100}",
-          "type": "color"
+        "warning": {
+          "background": {
+            "value": "{core.accent.400}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.accent.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.accent.100}",
+            "type": "color"
+          }
         },
-        "icon": {
-          "value": "{core.green.100}",
-          "type": "color"
+        "error": {
+          "background": {
+            "value": "{core.red.400}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.red.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.red.100}",
+            "type": "color"
+          }
         }
       },
-      "warning": {
-        "background": {
-          "value": "{core.yellow.400}",
-          "type": "color"
+      "fill": {
+        "success": {
+          "background": {
+            "value": "{core.green.100}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.white.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.white.100}",
+            "type": "color"
+          }
         },
-        "text": {
-          "value": "{core.yellow.100}",
-          "type": "color"
+        "warning": {
+          "background": {
+            "value": "{core.accent.100}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.white.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.white.100}",
+            "type": "color"
+          }
         },
-        "icon": {
-          "value": "{core.yellow.100}",
-          "type": "color"
-        }
-      },
-      "error": {
-        "background": {
-          "value": "{core.red.400}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{core.red.100}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{core.red.100}",
-          "type": "color"
+        "error": {
+          "background": {
+            "value": "{core.red.100}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.white.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.white.100}",
+            "type": "color"
+          }
         }
       },
       "story": {
