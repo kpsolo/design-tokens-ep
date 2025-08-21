@@ -45,7 +45,7 @@
       "type": "color"
     },
     "D3": {
-      "value": "#FFFFFF1A",
+      "value": "rgba(255, 255, 255, 0.1)",
       "type": "color"
     },
     "E1": {
