@@ -2520,8 +2520,14 @@
     "type": "borderRadius"
   },
   "search": {
-    "value": "{core-radios.16}",
-    "type": "borderRadius"
+    "android": {
+      "value": "{core-radios.16}",
+      "type": "borderRadius"
+    },
+    "ios": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    }
   },
   "check-box": {
     "value": "{core-radios.4}",
@@ -2909,13 +2915,25 @@
     }
   },
   "segment": {
-    "surface": {
-      "value": "{core-radios.8}",
-      "type": "borderRadius"
+    "android": {
+      "surface": {
+        "value": "{core-radios.8}",
+        "type": "borderRadius"
+      },
+      "item": {
+        "value": "{core-radios.8}",
+        "type": "borderRadius"
+      }
     },
-    "item": {
-      "value": "{core-radios.8}",
-      "type": "borderRadius"
+    "ios": {
+      "surface": {
+        "value": "{core-radios.full}",
+        "type": "borderRadius"
+      },
+      "item": {
+        "value": "{core-radios.full}",
+        "type": "borderRadius"
+      }
     }
   },
   "snackbars": {
