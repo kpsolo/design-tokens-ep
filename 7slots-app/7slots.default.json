@@ -2464,7 +2464,7 @@
       "type": "borderRadius"
     },
     "small": {
-      "value": "{core-radios.2}",
+      "value": "{core-radios.4}",
       "type": "borderRadius"
     }
   },

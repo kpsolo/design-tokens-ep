@@ -617,13 +617,13 @@
       "fontSize.30": "89953591f43fb2929b8f9f64ff0bb8e273b03089",
       "segment.android.surface": "c2534c1094377777a594a433eb83710c5126a68f",
       "segment.android.item": "54a6fdcf4ded4bedfc0db8935dd062681f55fada",
+      "segment.ios.surface": "c13e74bf0f7c852ed0a4f8931d3e0ef4d953324b",
+      "segment.ios.item": "df70cf318abcfc897137ad01c131a031716f646d",
       "winning-now": "82d319933071680543d46d7c1bd7090dba500937",
       "backdrop": "0bfaf4317e0574d2a0ee4bcaa0d689719f9639a0",
       "statusess": "d222a8caa903a732a28233a57c085e130697c2d8",
       "bonus-surface": "fa51aa92b6ee65947a375d12bb7a6544efba719b",
-      "callout": "484beea425216ad29eb80336f8971a0a41fa68b8",
-      "segment.ios.surface": "c13e74bf0f7c852ed0a4f8931d3e0ef4d953324b",
-      "segment.ios.item": "df70cf318abcfc897137ad01c131a031716f646d"
+      "callout": "484beea425216ad29eb80336f8971a0a41fa68b8"
     },
     "$figmaCollectionId": "VariableCollectionId:25158:445",
     "$figmaModeId": "25158:0"
