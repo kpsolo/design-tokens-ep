@@ -350,7 +350,7 @@
   },
   "icon": {
     "primary": {
-      "value": "{base.A3}",
+      "value": "{base.F1}",
       "type": "color"
     },
     "secondary": {
