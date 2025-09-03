@@ -157,7 +157,7 @@
       "type": "color"
     },
     "warning": {
-      "value": "{base.D1}",
+      "value": "{base.B1}",
       "type": "color"
     },
     "accent": {
