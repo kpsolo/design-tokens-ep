@@ -1859,24 +1859,6 @@
     }
   },
   "lable": {
-    "x-large": {
-      "value": {
-        "fontFamily": "{fontFamilies.montserrat}",
-        "fontWeight": "{fontWeights.medium}",
-        "lineHeight": "{lineHeights.24}",
-        "fontSize": "{fontSize.16}"
-      },
-      "type": "typography"
-    },
-    "x-large_prominent": {
-      "value": {
-        "fontFamily": "{fontFamilies.montserrat}",
-        "fontWeight": "{fontWeights.semibold}",
-        "lineHeight": "{lineHeights.24}",
-        "fontSize": "{fontSize.16}"
-      },
-      "type": "typography"
-    },
     "large": {
       "value": {
         "fontFamily": "{fontFamilies.montserrat}",
