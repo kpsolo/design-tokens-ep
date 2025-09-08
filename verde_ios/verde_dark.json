@@ -2280,6 +2280,10 @@
     "button": {
       "value": "24px",
       "type": "dimension"
+    },
+    "backdrop": {
+      "value": "2px",
+      "type": "dimension"
     }
   },
   "text-field": {
