@@ -499,6 +499,7 @@
       "background-blur.top-game": "4069d615ac23ff845fdb9b2d8e38233eca7c63ce",
       "background-blur.in-game": "37757b498660bb17e1029eee15ebad593e856df1",
       "background-blur.button": "1d7d30c9fef7699707a3ac2be1330f43717fbefd",
+      "background-blur.backdrop": "3f3a8e6011eb542c682a7e99e66e58886d46726b",
       "text-field": "22146cebaf62fb60cfc5fe3b9ef0895413cd2fc1",
       "radio-buttons": "43fb656e6735009f75072673ab9425f610c27003",
       "checkboxs": "a597a37867fcacce5c9eea8432ac0fd449751edd",
@@ -508,7 +509,8 @@
       "in-games": "821c52b90852b963609dd381f45457cf7f74495a",
       "thumb.large": "2ee5b49043c72add16ade6347aed1850c6322400",
       "thumb.medium": "99237b6f23498c5727c138f921e4b84848b09ff1",
-      "thumb.small": "c8965cafd65d0acdcf817fa6966fe6f7e7752a2e"
+      "thumb.small": "c8965cafd65d0acdcf817fa6966fe6f7e7752a2e",
+      "buttons.battle": "0657bc08a32f197f76c773f1f497870186df9d8b"
     }
   },
   {
@@ -933,6 +935,7 @@
       "fontSize.8": "0ac992bf5263ead130e45f8dc584fc222a722cfb",
       "fontSize.10": "87f3f5ac46f5358d01cde1148987d0f38e71472b",
       "fontSize.12": "c16d060b1c0d7ba79f3c3000e1dcdbe3783b63d2",
+      "fontSize.14": "5b05b65abba5045bc026e120fe55c339a2e3f420",
       "fontSize.16": "b0d2a809607c72007ca872fba9b4986170145385",
       "fontSize.18": "9136d91505f14110259d08f0522a1f44b286402a",
       "fontSize.20": "b28f87d86c2fa48b3a652f35a6d597cfceb8c4f3",
@@ -995,6 +998,7 @@
       "background-blur.top-game": "ad69b3b439f1d109d6d07790ddcce809118d05bb",
       "background-blur.in-game": "1f8eb403330854686fc70250a5c7a97903f28f55",
       "background-blur.button": "9ce79430d2147ac20d094543fa17fd73cfb43bc1",
+      "background-blur.backdrop": "eb06e4c64b07f66e991d5a7b9fd188879e97ac8e",
       "text-field": "2f0db0013181685ca656371a578ddd10ad95b271",
       "radio-buttons": "2b7dd798762923969d84a67c619da7f46fd949c3",
       "checkboxs": "35d7868340e6c4365ca825bb6f4a3894bded0d3f",
@@ -1004,8 +1008,7 @@
       "in-games": "55ef878af1d556e297274b8ea16f570ff44f44f9",
       "thumb.large": "ec42119c2080c4d4d56505c2cd27ca7a981a9d7e",
       "thumb.medium": "7e40203650031af1b40ec4da3afdd7e3a1b0dedb",
-      "thumb.small": "06549cc7cb9cf292978f00a061ac5e7f1e3da5f4",
-      "fontSize.14": "5b05b65abba5045bc026e120fe55c339a2e3f420"
+      "thumb.small": "06549cc7cb9cf292978f00a061ac5e7f1e3da5f4"
     }
   }
 ]
