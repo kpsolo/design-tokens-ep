@@ -2022,6 +2022,10 @@
       "value": "{core-radios.300}",
       "type": "borderRadius"
     },
+    "battle": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    },
     "primary": {
       "value": "0",
       "type": "borderWidth"
