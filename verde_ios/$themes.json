@@ -529,7 +529,10 @@
       "thumb.small": "0544bba4886afa4192577f722ccb07c0af073613",
       "search.ios": "1eaac0aef61d124f2c3d5a86f2f0bcf95864eb67",
       "search.android": "0260bdda9ea7a21870a894031cedadf915aa8eba",
-      "buttons.battle": "3975f16a5aa78f6f28a91645d010e9d13f2f114c"
+      "buttons.battle": "3975f16a5aa78f6f28a91645d010e9d13f2f114c",
+      "block.large": "16232b9aab821861886a9586b9135f25aadcec5b",
+      "block.medium": "493294ba88372a774df8804e7966a8a7fb8182fe",
+      "block.small": "f40a5b2b55437e53d38dc5d3857a848ddcd8ea72"
     }
   },
   {
@@ -1046,7 +1049,10 @@
       "in-games": "6a4ed6a6638ac8785181d09d87f61ec14818eee6",
       "thumb.large": "09bf77a02f883bcc174e4977200db1e149efa510",
       "thumb.medium": "b930c8b5f95fe0d33047b942379f913fe9ae1723",
-      "thumb.small": "c2524a8b36bb8fb891abb4cd7bea851d249aa7b6"
+      "thumb.small": "c2524a8b36bb8fb891abb4cd7bea851d249aa7b6",
+      "block-copy.large": "5e4fac70366326960f085862d696bb38b76eaf56",
+      "block-copy.medium": "ffe677096eda0364ee71cee7b7027ed7d3eef054",
+      "block-copy.small": "1a817b84c4c318b4326774cb637b58738528f4b5"
     }
   }
 ]
