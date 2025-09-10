@@ -418,15 +418,15 @@
       "contextual.statuses.fill.info.background": "S:54bd7e1e374f494c43cb26fd93b82af855596f96,",
       "contextual.statuses.fill.info.text": "S:c6b8713e59731092d5c161095fb5712d5ef7d003,",
       "contextual.statuses.fill.info.icon": "S:0c60059d62d600c21d962aa08dd3691ce416a864,",
-      "contextual.progres.primary.track": "S:e1649184bd3ed5645e81c012522537f90d213df3,",
-      "contextual.progres.primary.container": "S:34431847f114deb18cf980fa232b30f74f981289,",
-      "contextual.progres.secondary.track": "S:59d4177e28bb5c57e50ddadfc12fe3e919733646,",
-      "contextual.progres.secondary.container": "S:bcfe5602e4d5c45f845fa98ab8a6b773ad281e17,",
-      "contextual.progres.static.track": "S:30732d98b741729730a73410d92ecd8d405b3f89,",
-      "contextual.progres.static.container": "S:3dc839a43d09d15bb08239706b1835a1b619126a,",
-      "contextual.progres.profile.track": "S:eb1e8e4297814451b82280a306f0b811db96ad9e,",
-      "contextual.progres.profile.container": "S:1aca924fd7a7d3e277705000014f18fafbd7369f,",
-      "contextual.progres.profile.text": "S:5b602208cf06729e1d4427c05ef8e2b1e14bd04a,"
+      "contextual.progres.primary.track": "S:73106e36fac4e6b094cd17b859a6dc67dfa4d50e,",
+      "contextual.progres.primary.container": "S:19c5218cc87ff310971a0697f59203656c16678c,",
+      "contextual.progres.secondary.track": "S:2e18fb0e12bb7272f94f6585d3c2c189a402867a,",
+      "contextual.progres.secondary.container": "S:25e5b1cadeca5f4320ca302482e79e1d544f1f15,",
+      "contextual.progres.static.track": "S:8f30ab4ab01a204a4bdbb5de2edcb36fefa8d341,",
+      "contextual.progres.static.container": "S:853a4a1f67d63c3d351fdf046ef9e09094ba25a9,",
+      "contextual.progres.profile.track": "S:780508ece681433323093573788f60cb5770489c,",
+      "contextual.progres.profile.container": "S:623af680937345b1bd88e39820c81f4bcf15075e,",
+      "contextual.progres.profile.text": "S:95b9c504362b9c46c40a1ec9b290f7325346db3e,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -947,7 +947,16 @@
       "contextual.statuses.overlay.Info.icon": "S:1351150db86549ee4e2049aac8eb71472d724ece,",
       "contextual.statuses.fill.info.background": "S:42c06fa98c5ef12b3a4a15838e49f04be13d6a7c,",
       "contextual.statuses.fill.info.text": "S:4be771527eb2a1bb31795a9f1e9d46d13e5f38f4,",
-      "contextual.statuses.fill.info.icon": "S:222b225cf8c2ba7209d2192ccac421b2c7cb2310,"
+      "contextual.statuses.fill.info.icon": "S:222b225cf8c2ba7209d2192ccac421b2c7cb2310,",
+      "contextual.progres.primary.track": "S:8609ffd9da1e731b8262f640e975afb973974281,",
+      "contextual.progres.primary.container": "S:926dbcfe35b7328f9f46739735e8e472fa961adc,",
+      "contextual.progres.secondary.track": "S:8e39f395f70ca9a60197be300fee3b91d4a18d95,",
+      "contextual.progres.secondary.container": "S:2334552cd4ce565b4b95e7a066ff7d9a65fe5a68,",
+      "contextual.progres.static.track": "S:70878a9e866ad686d799ac4ea8c00daa511e2557,",
+      "contextual.progres.static.container": "S:159548c4c6e8911148a912fbcf3d8fde80260e60,",
+      "contextual.progres.profile.track": "S:83923261bd00df199375d39fa42ab6ec17f05919,",
+      "contextual.progres.profile.container": "S:bb1ba3feda6fb13fd7bd188b6f079c296fa34a8a,",
+      "contextual.progres.profile.text": "S:d7f9ffc0133b5a0882421ab867fa4e318f2095df,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
