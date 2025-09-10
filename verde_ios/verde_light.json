@@ -2222,8 +2222,14 @@
     "type": "borderRadius"
   },
   "search": {
-    "value": "{core-radios.400}",
-    "type": "borderRadius"
+    "ios": {
+      "value": "{core-radios.400}",
+      "type": "borderRadius"
+    },
+    "android": {
+      "value": "{core-radios.500}",
+      "type": "borderRadius"
+    }
   },
   "bottom-sheet": {
     "value": "{core-radios.600}",
