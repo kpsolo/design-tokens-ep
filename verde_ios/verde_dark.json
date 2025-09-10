@@ -1245,6 +1245,48 @@
             "value": "{core.red.100}",
             "type": "color"
           }
+        },
+        "default": {
+          "background": {
+            "value": "{core.green.400}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.green.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.green.100}",
+            "type": "color"
+          }
+        },
+        "Info": {
+          "background": {
+            "value": "{core.black.700}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.black.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.black.100}",
+            "type": "color"
+          }
+        },
+        "note": {
+          "background": {
+            "value": "{core.accent.400}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.accent.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.accent.100}",
+            "type": "color"
+          }
         }
       },
       "fill": {
@@ -1279,6 +1321,34 @@
         "error": {
           "background": {
             "value": "{core.red.100}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.white.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.white.100}",
+            "type": "color"
+          }
+        },
+        "default": {
+          "background": {
+            "value": "{core.red.100}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.white.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.white.100}",
+            "type": "color"
+          }
+        },
+        "note": {
+          "background": {
+            "value": "{core.accent.100}",
             "type": "color"
           },
           "text": {
