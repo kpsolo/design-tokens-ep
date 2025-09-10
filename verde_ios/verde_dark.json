@@ -1262,15 +1262,15 @@
         },
         "Info": {
           "background": {
-            "value": "{core.black.700}",
+            "value": "{core.white.700}",
             "type": "color"
           },
           "text": {
-            "value": "{core.black.100}",
+            "value": "{core.white.100}",
             "type": "color"
           },
           "icon": {
-            "value": "{core.black.100}",
+            "value": "{core.white.100}",
             "type": "color"
           }
         },
@@ -1334,7 +1334,7 @@
         },
         "default": {
           "background": {
-            "value": "{core.red.100}",
+            "value": "{core.neutral.500}",
             "type": "color"
           },
           "text": {
