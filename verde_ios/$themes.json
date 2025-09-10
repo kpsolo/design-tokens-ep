@@ -399,7 +399,25 @@
       "contextual.statuses.fill.warning.icon": "S:074cf92e28577c8604b7e571c122b4c59062844e,",
       "contextual.statuses.fill.error.background": "S:446b897653d5f6b8568d60bb1c17e5ffc83786f2,",
       "contextual.statuses.fill.error.text": "S:164f29732212091be17117a1bb3a11e449ffe710,",
-      "contextual.statuses.fill.error.icon": "S:a869ea497708484f64b3580891994a802f544d9d,"
+      "contextual.statuses.fill.error.icon": "S:a869ea497708484f64b3580891994a802f544d9d,",
+      "contextual.statuses.overlay.default.background": "S:eb6eb6e891193e6a7d589ad6e15f36097008a0e3,",
+      "contextual.statuses.overlay.default.text": "S:ef5e13daddbe19ee6625ee1855830e80dadc3771,",
+      "contextual.statuses.overlay.default.icon": "S:83ea5cedfb9a9556db014c52a04723ab65662a25,",
+      "contextual.statuses.overlay.note.background": "S:8b658092e327b14b03e5ffb6bc3d681b416de576,",
+      "contextual.statuses.overlay.note.text": "S:4dcd4c6101082264ede71ef6b6edf6cc79a91fd6,",
+      "contextual.statuses.overlay.note.icon": "S:3dc033940fb7251cc31933cf0b6936dcb4e764ef,",
+      "contextual.statuses.fill.default.background": "S:851c4893010dec4f7ae98e8ad33e853b48ad9ae0,",
+      "contextual.statuses.fill.default.text": "S:cb144fc6464f80706fc293faee8f21a31d91a9c8,",
+      "contextual.statuses.fill.default.icon": "S:4b99b00e302738defbd8cd68e738a422b3d81007,",
+      "contextual.statuses.fill.note.background": "S:9307e5a95da73d61a619a5b65a79eab2b3d30fb9,",
+      "contextual.statuses.fill.note.text": "S:e43d6167db2733ea02d9c0ac6cbc7edf18c88347,",
+      "contextual.statuses.fill.note.icon": "S:33c47ce93ce6cb5c01785019d440d1f45ba2d20f,",
+      "contextual.statuses.overlay.info.background": "S:553e8b1a9431de3b220322b35f5ce53783c85fc4,",
+      "contextual.statuses.overlay.info.text": "S:0132be01978bfb6715898fb9bb8862cb76cc39a7,",
+      "contextual.statuses.overlay.info.icon": "S:99dedc7767b587535e7dcf49e8352e04ab0ca715,",
+      "contextual.statuses.fill.info.background": "S:54bd7e1e374f494c43cb26fd93b82af855596f96,",
+      "contextual.statuses.fill.info.text": "S:c6b8713e59731092d5c161095fb5712d5ef7d003,",
+      "contextual.statuses.fill.info.icon": "S:0c60059d62d600c21d962aa08dd3691ce416a864,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -898,7 +916,22 @@
       "contextual.statuses.fill.warning.icon": "S:3049f87b7360295beb2a635cb755dfe587cf7189,",
       "contextual.statuses.fill.error.background": "S:b192b982d6c73414808348deb976b68f727dc473,",
       "contextual.statuses.fill.error.text": "S:e71ff73c5e06106fbb243878cbb5821e60c3e131,",
-      "contextual.statuses.fill.error.icon": "S:253fccefe8e70f08b16de723949a6dc4782df84a,"
+      "contextual.statuses.fill.error.icon": "S:253fccefe8e70f08b16de723949a6dc4782df84a,",
+      "contextual.statuses.overlay.default.background": "S:f6f05739dfb42c2c768d92fed5d434a90868c88e,",
+      "contextual.statuses.overlay.default.text": "S:287918a41aac8812a75b533ebfe1dcd739582d5a,",
+      "contextual.statuses.overlay.default.icon": "S:1df69bacb1ccbe2aa2a19a83c9d5002af972f5ed,",
+      "contextual.statuses.overlay.note.background": "S:2bbbc73bb00e33fa4dd12ee94423912467057c64,",
+      "contextual.statuses.overlay.note.text": "S:0b855dccb176694a147765925a4b6c28d5b3b757,",
+      "contextual.statuses.overlay.note.icon": "S:a5615cff769802f737ef57502cc47361930e108b,",
+      "contextual.statuses.fill.default.background": "S:b8cf7a45c18e895e92c9b143ec7ae80c8a5ab591,",
+      "contextual.statuses.fill.default.text": "S:0e77b6ad893699e8c79d61ee6147686cb88e7310,",
+      "contextual.statuses.fill.default.icon": "S:f4b941b6b12f3269578420cc24df79c8145b5376,",
+      "contextual.statuses.fill.note.background": "S:0fc73f05cc74061cd056f7eac9b01efb64b6d02b,",
+      "contextual.statuses.fill.note.text": "S:b599ee3a97e877bd84b82d0dd9c25314640b13f0,",
+      "contextual.statuses.fill.note.icon": "S:43ac492708abcfc8a2550d07882e612712f91571,",
+      "contextual.statuses.overlay.Info.background": "S:2260b4e17a2c092f1971f466fd7aaa63139b731e,",
+      "contextual.statuses.overlay.Info.text": "S:4042eacb24c8fdae602657ebca4d4226aa2b947d,",
+      "contextual.statuses.overlay.Info.icon": "S:1351150db86549ee4e2049aac8eb71472d724ece,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
