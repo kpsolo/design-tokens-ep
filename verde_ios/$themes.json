@@ -524,6 +524,7 @@
       "background-blur.navigation-bar": "10dde8e16bfcc03d9dc05577ea35be102c436a72",
       "background-blur.top-game": "70e436be24f1cc3a489c1d46952177a2164e6e88",
       "background-blur.in-game": "ec897ae93cf2764768ed52ebd8b1a7be06a823bc",
+      "background-blur.progres": "034a5745bd714d04d9eaa6971668ec360325834c",
       "background-blur.button": "ea01f4dce92aec4a97a616a111d27a60546035fd",
       "background-blur.backdrop": "b41eb70654c44e2a9aeeb4ff4647ce15c4ac7717",
       "text-field": "fccd0cf97392c27e6dc881fbba7c52c55008995d",
@@ -1068,6 +1069,7 @@
       "thumb.large": "09bf77a02f883bcc174e4977200db1e149efa510",
       "thumb.medium": "b930c8b5f95fe0d33047b942379f913fe9ae1723",
       "thumb.small": "c2524a8b36bb8fb891abb4cd7bea851d249aa7b6",
+      "background-blur.progres": "a22be34c217117dbf838bf1d20136b917a7486eb",
       "block-copy.large": "5e4fac70366326960f085862d696bb38b76eaf56",
       "block-copy.medium": "ffe677096eda0364ee71cee7b7027ed7d3eef054",
       "block-copy.small": "1a817b84c4c318b4326774cb637b58738528f4b5"
