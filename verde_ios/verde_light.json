@@ -1358,36 +1358,6 @@
         }
       }
     },
-    "progres": {
-      "track": {
-        "primary": {
-          "value": "{core.brand.primery}",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "{core.accent.100}",
-          "type": "color"
-        },
-        "tertiary": {
-          "value": "{core.white.100}",
-          "type": "color"
-        }
-      },
-      "background": {
-        "primary": {
-          "value": "{core.white.600}",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "{core.white.600}",
-          "type": "color"
-        },
-        "tertiary": {
-          "value": "{core.white.600}",
-          "type": "color"
-        }
-      }
-    },
     "in-game": {
       "background": {
         "value": "{core.white.600}",
@@ -1404,6 +1374,52 @@
       "inactive": {
         "value": "{core.white.100}",
         "type": "color"
+      }
+    },
+    "progres": {
+      "primary": {
+        "track": {
+          "value": "{core.brand.primery}",
+          "type": "color"
+        },
+        "container": {
+          "value": "{core.white.600}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "track": {
+          "value": "{core.brand.primery}",
+          "type": "color"
+        },
+        "container": {
+          "value": "{core.white.600}",
+          "type": "color"
+        }
+      },
+      "static": {
+        "track": {
+          "value": "{core.white.100}",
+          "type": "color"
+        },
+        "container": {
+          "value": "{core.white.600}",
+          "type": "color"
+        }
+      },
+      "profile": {
+        "track": {
+          "value": "{core.accent.100}",
+          "type": "color"
+        },
+        "container": {
+          "value": "{core.white.100}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.black.100}",
+          "type": "color"
+        }
       }
     }
   },
