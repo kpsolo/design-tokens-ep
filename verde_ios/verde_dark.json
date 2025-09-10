@@ -2463,5 +2463,19 @@
       "value": "{core-radios.500}",
       "type": "borderRadius"
     }
+  },
+  "block-copy": {
+    "large": {
+      "value": "{core-radios.600}",
+      "type": "borderRadius"
+    },
+    "medium": {
+      "value": "{core-radios.500}",
+      "type": "borderRadius"
+    },
+    "small": {
+      "value": "{core-radios.400}",
+      "type": "borderRadius"
+    }
   }
 }
