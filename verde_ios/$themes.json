@@ -417,7 +417,16 @@
       "contextual.statuses.overlay.info.icon": "S:99dedc7767b587535e7dcf49e8352e04ab0ca715,",
       "contextual.statuses.fill.info.background": "S:54bd7e1e374f494c43cb26fd93b82af855596f96,",
       "contextual.statuses.fill.info.text": "S:c6b8713e59731092d5c161095fb5712d5ef7d003,",
-      "contextual.statuses.fill.info.icon": "S:0c60059d62d600c21d962aa08dd3691ce416a864,"
+      "contextual.statuses.fill.info.icon": "S:0c60059d62d600c21d962aa08dd3691ce416a864,",
+      "contextual.progres.primary.track": "S:e1649184bd3ed5645e81c012522537f90d213df3,",
+      "contextual.progres.primary.container": "S:34431847f114deb18cf980fa232b30f74f981289,",
+      "contextual.progres.secondary.track": "S:59d4177e28bb5c57e50ddadfc12fe3e919733646,",
+      "contextual.progres.secondary.container": "S:bcfe5602e4d5c45f845fa98ab8a6b773ad281e17,",
+      "contextual.progres.static.track": "S:30732d98b741729730a73410d92ecd8d405b3f89,",
+      "contextual.progres.static.container": "S:3dc839a43d09d15bb08239706b1835a1b619126a,",
+      "contextual.progres.profile.track": "S:eb1e8e4297814451b82280a306f0b811db96ad9e,",
+      "contextual.progres.profile.container": "S:1aca924fd7a7d3e277705000014f18fafbd7369f,",
+      "contextual.progres.profile.text": "S:5b602208cf06729e1d4427c05ef8e2b1e14bd04a,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
