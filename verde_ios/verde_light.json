@@ -1389,7 +1389,7 @@
       },
       "secondary": {
         "track": {
-          "value": "{core.brand.primery}",
+          "value": "{core.accent.100}",
           "type": "color"
         },
         "container": {
@@ -2394,6 +2394,10 @@
     "backdrop": {
       "value": "2px",
       "type": "dimension"
+    },
+    "progres": {
+      "value": "24px",
+      "type": "dimension"
     }
   },
   "text-field": {
@@ -2497,5 +2501,16 @@
       "value": "{core-radios.400}",
       "type": "borderRadius"
     }
+  },
+  "progres": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "8",
+      "spread": "30",
+      "color": "rgba(0,0,0,0.3)",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
   }
 }
