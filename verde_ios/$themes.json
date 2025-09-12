@@ -1059,6 +1059,7 @@
       "background-blur.in-game": "0429b8550d90a5d16c6923218c48579611b97bb1",
       "background-blur.button": "d1fd42b0343c585903d025cb8fe7fbcd2410999d",
       "background-blur.backdrop": "841b8679fc7fdf2dc24c2dbb93405b3f3805b3ad",
+      "background-blur.progres": "a22be34c217117dbf838bf1d20136b917a7486eb",
       "text-field": "e2bd0202d24cd93706c89307f8563655107e97f1",
       "radio-buttons": "cf12f9375f8c9e011e6887c2509db51d101348b0",
       "checkboxs": "90e946fd94da33893541ea8fb790a3224d16ae66",
@@ -1069,7 +1070,6 @@
       "thumb.large": "09bf77a02f883bcc174e4977200db1e149efa510",
       "thumb.medium": "b930c8b5f95fe0d33047b942379f913fe9ae1723",
       "thumb.small": "c2524a8b36bb8fb891abb4cd7bea851d249aa7b6",
-      "background-blur.progres": "a22be34c217117dbf838bf1d20136b917a7486eb",
       "block-copy.large": "5e4fac70366326960f085862d696bb38b76eaf56",
       "block-copy.medium": "ffe677096eda0364ee71cee7b7027ed7d3eef054",
       "block-copy.small": "1a817b84c4c318b4326774cb637b58738528f4b5"
