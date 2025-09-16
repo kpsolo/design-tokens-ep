@@ -426,7 +426,13 @@
       "contextual.progres.static.container": "S:853a4a1f67d63c3d351fdf046ef9e09094ba25a9,",
       "contextual.progres.profile.track": "S:780508ece681433323093573788f60cb5770489c,",
       "contextual.progres.profile.container": "S:623af680937345b1bd88e39820c81f4bcf15075e,",
-      "contextual.progres.profile.text": "S:95b9c504362b9c46c40a1ec9b290f7325346db3e,"
+      "contextual.progres.profile.text": "S:95b9c504362b9c46c40a1ec9b290f7325346db3e,",
+      "contextual.tabs.background.active": "S:6b69a0a8da5216f75623d289fb3f0debd6bf9d6f,",
+      "contextual.tabs.background.inactive": "S:463dfd0d6289d246900a4d5e56123f1bbe3bfb81,",
+      "contextual.tabs.text.active": "S:1b9f717f4429d919adf67fde16e39c783cdb783b,",
+      "contextual.tabs.text.inactive": "S:a2da70035a3389468e87fecd23fa1111a4a25ea4,",
+      "contextual.tabs.icon.active": "S:f54c3a0822ecc84103aa3a33ae160eafd08a6afc,",
+      "contextual.tabs.icon.inactive": "S:68e19a197542ba1ee6d01a1c6cf28db69dc4b32b,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -957,7 +963,13 @@
       "contextual.progres.static.container": "S:159548c4c6e8911148a912fbcf3d8fde80260e60,",
       "contextual.progres.profile.track": "S:83923261bd00df199375d39fa42ab6ec17f05919,",
       "contextual.progres.profile.container": "S:bb1ba3feda6fb13fd7bd188b6f079c296fa34a8a,",
-      "contextual.progres.profile.text": "S:d7f9ffc0133b5a0882421ab867fa4e318f2095df,"
+      "contextual.progres.profile.text": "S:d7f9ffc0133b5a0882421ab867fa4e318f2095df,",
+      "contextual.tabs.background.active": "S:f8965a2b0181adbcf8d3e0b6c3c8bd2bd18691a4,",
+      "contextual.tabs.background.inactive": "S:b49c93ccb4c8eb4cb9b7ca983b4a645e8bc8bf9a,",
+      "contextual.tabs.text.active": "S:cb6c6c421f45d38812927378eb74012264087595,",
+      "contextual.tabs.text.inactive": "S:549ee1f9c51adf307505bb08f9af291b65d56bd0,",
+      "contextual.tabs.icon.active": "S:8251ece4beb749ebcddec7e7f1fb5950608e42ca,",
+      "contextual.tabs.icon.inactive": "S:f5badb0b31a8ace8911900e9706a1da382cfea91,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
