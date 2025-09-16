@@ -1421,6 +1421,38 @@
           }
         }
       }
+    },
+    "tabs": {
+      "background": {
+        "active": {
+          "value": "{core.accent.100}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "#00000000",
+          "type": "color"
+        }
+      },
+      "text": {
+        "active": {
+          "value": "{core.accent.100}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{core.white.300}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "active": {
+          "value": "{core.accent.100}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{core.white.300}",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {
