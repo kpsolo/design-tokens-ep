@@ -518,7 +518,6 @@
       "chips": "67883bf04fac63e254fd9d4e583eddfe8c735ad7",
       "bottom-sheet": "1570b1e1fa9a48c599708ff87ff117d83744cd79",
       "tab-item": "85a598ad59980f0872371d14faa59acfe67b3aa8",
-      "statuses": "2006dc093837c69cc05009e95edcc62f2f92edd9",
       "snackbar": "7245bbe594f82fcad8a8769a949ed8c2a4264c57",
       "switch": "5468d3eaa23ff51153d5dce83c2d22e2b4ec670b",
       "radio-button": "7021626d186319e98dc642c761a5ecffaa81701c",
@@ -539,7 +538,6 @@
       "text-fields.default": "d24e7a20643030af02adfefb45f08a12ecca268e",
       "text-fields.focus": "7c0b15b9f360d55e3fb99866cc1e8ba072f8ab52",
       "text-fields.error": "7fc72dacb19f6bb1c023b124c428beda7995911f",
-      "in-games": "d7aa061f5590281f19ceb4491650ef396a1ae373",
       "thumb.large": "8644dedb62c9203dc0af7916ca876337a6af493b",
       "thumb.medium": "f30693f486a7054a980ff778be871dc31129a758",
       "thumb.small": "0544bba4886afa4192577f722ccb07c0af073613",
@@ -548,7 +546,9 @@
       "buttons.battle": "3975f16a5aa78f6f28a91645d010e9d13f2f114c",
       "block.large": "16232b9aab821861886a9586b9135f25aadcec5b",
       "block.medium": "493294ba88372a774df8804e7966a8a7fb8182fe",
-      "block.small": "f40a5b2b55437e53d38dc5d3857a848ddcd8ea72"
+      "block.small": "f40a5b2b55437e53d38dc5d3857a848ddcd8ea72",
+      "statuses.small": "2006dc093837c69cc05009e95edcc62f2f92edd9",
+      "in-games.container": "d7aa061f5590281f19ceb4491650ef396a1ae373"
     }
   },
   {
@@ -1058,7 +1058,6 @@
       "search.android": "41e90e2e74d4fb8cefce2fc21dd90dc5f45c6b86",
       "bottom-sheet": "c4ba4adc7ef1f88b2d330575588b72dc3281c450",
       "tab-item": "8a7c59b78fd028eb1c06b17f2fc4182d1a0f4d00",
-      "statuses": "cfea7f79fb90304bf9c1664c5877a696546e3804",
       "snackbar": "857d6f99ae78ab1819a065f1a58a637ace7725e1",
       "switch": "49cd70e46715f345420b6d0c20ab8e3bc66f7810",
       "radio-button": "32677802bce4412853d9026b92d0a9096a86cde6",
@@ -1079,13 +1078,14 @@
       "text-fields.default": "fdbe872cb3c2941c65eebd6044ddf86f0bab5810",
       "text-fields.focus": "8dc746f76b308acdaa4674bb5b65cdda67308944",
       "text-fields.error": "6e032067bbbc9142c462381bca067f4430067919",
-      "in-games": "6a4ed6a6638ac8785181d09d87f61ec14818eee6",
       "thumb.large": "09bf77a02f883bcc174e4977200db1e149efa510",
       "thumb.medium": "b930c8b5f95fe0d33047b942379f913fe9ae1723",
       "thumb.small": "c2524a8b36bb8fb891abb4cd7bea851d249aa7b6",
-      "block-copy.large": "5e4fac70366326960f085862d696bb38b76eaf56",
-      "block-copy.medium": "ffe677096eda0364ee71cee7b7027ed7d3eef054",
-      "block-copy.small": "1a817b84c4c318b4326774cb637b58738528f4b5"
+      "statuses.small": "cfea7f79fb90304bf9c1664c5877a696546e3804",
+      "in-games.container": "6a4ed6a6638ac8785181d09d87f61ec14818eee6",
+      "block.large": "5e4fac70366326960f085862d696bb38b76eaf56",
+      "block.medium": "ffe677096eda0364ee71cee7b7027ed7d3eef054",
+      "block.small": "1a817b84c4c318b4326774cb637b58738528f4b5"
     }
   }
 ]

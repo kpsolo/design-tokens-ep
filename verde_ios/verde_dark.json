@@ -2154,6 +2154,14 @@
       "value": "{core-radios.300}",
       "type": "borderRadius"
     },
+    "picker": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    },
+    "battle": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    },
     "primary": {
       "value": "0",
       "type": "borderWidth"
@@ -2187,6 +2195,16 @@
     "static-outlined": {
       "value": "1.5",
       "type": "borderWidth"
+    },
+    "pre-gaming": {
+      "large": {
+        "value": "{core-radios.full}",
+        "type": "borderRadius"
+      },
+      "small": {
+        "value": "{core-radios.full}",
+        "type": "borderRadius"
+      }
     }
   },
   "card": {
@@ -2223,6 +2241,18 @@
         "value": "{core-radios.400}",
         "type": "borderRadius"
       }
+    },
+    "balances": {
+      "value": "{core-radios.500}",
+      "type": "borderRadius"
+    },
+    "battle": {
+      "value": "{core-radios.500}",
+      "type": "borderRadius"
+    },
+    "callout": {
+      "value": "{core-radios.500}",
+      "type": "borderRadius"
     }
   },
   "segmented-controls": {
@@ -2271,10 +2301,6 @@
   },
   "tab-item": {
     "value": "{core-radios.400}",
-    "type": "borderRadius"
-  },
-  "statuses": {
-    "value": "{core-radios.full}",
     "type": "borderRadius"
   },
   "snackbar": {
@@ -2416,6 +2442,10 @@
     "backdrop": {
       "value": "2px",
       "type": "dimension"
+    },
+    "balance-copy": {
+      "value": "32px",
+      "type": "dimension"
     }
   },
   "text-field": {
@@ -2488,10 +2518,6 @@
     },
     "type": "boxShadow"
   },
-  "in-games": {
-    "value": "{core-radios.full}",
-    "type": "borderRadius"
-  },
   "thumb": {
     "large": {
       "value": "{core-radios.500}",
@@ -2516,7 +2542,7 @@
       "type": "borderRadius"
     }
   },
-  "block-copy": {
+  "block": {
     "large": {
       "value": "{core-radios.600}",
       "type": "borderRadius"
@@ -2540,5 +2566,47 @@
       "type": "dropShadow"
     },
     "type": "boxShadow"
+  },
+  "statuses": {
+    "large": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    },
+    "small": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    }
+  },
+  "progress": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
+  },
+  "balance": {
+    "container": {
+      "value": "10",
+      "type": "borderRadius"
+    },
+    "button": {
+      "value": "{core-radios.300}",
+      "type": "borderRadius"
+    }
+  },
+  "dialog": {
+    "value": "{core-radios.600}",
+    "type": "borderRadius"
+  },
+  "in-games": {
+    "container": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    },
+    "button": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    }
+  },
+  "categories-tab": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
   }
 }

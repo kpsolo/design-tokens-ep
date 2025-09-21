@@ -2154,6 +2154,10 @@
       "value": "{core-radios.300}",
       "type": "borderRadius"
     },
+    "picker": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    },
     "battle": {
       "value": "{core-radios.full}",
       "type": "borderRadius"
@@ -2191,6 +2195,16 @@
         "value": "{core-radios.400}",
         "type": "borderRadius"
       }
+    },
+    "pre-gaming": {
+      "large": {
+        "value": "{core-radios.full}",
+        "type": "borderRadius"
+      },
+      "small": {
+        "value": "{core-radios.full}",
+        "type": "borderRadius"
+      }
     }
   },
   "card": {
@@ -2210,11 +2224,23 @@
       "value": "{core-radios.500}",
       "type": "borderRadius"
     },
+    "balances": {
+      "value": "{core-radios.500}",
+      "type": "borderRadius"
+    },
+    "battle": {
+      "value": "{core-radios.500}",
+      "type": "borderRadius"
+    },
     "collection": {
       "value": "{core-radios.500}",
       "type": "borderRadius"
     },
     "winning-now": {
+      "value": "{core-radios.500}",
+      "type": "borderRadius"
+    },
+    "callout": {
       "value": "{core-radios.500}",
       "type": "borderRadius"
     },
@@ -2284,15 +2310,25 @@
     "type": "borderRadius"
   },
   "tab-item": {
-    "value": "{core-radios.400}",
+    "value": "{core-radios.500}",
     "type": "borderRadius"
   },
   "statuses": {
-    "value": "{core-radios.full}",
-    "type": "borderRadius"
+    "large": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    },
+    "small": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    }
   },
   "snackbar": {
     "value": "{core-radios.400}",
+    "type": "borderRadius"
+  },
+  "progress": {
+    "value": "{core-radios.full}",
     "type": "borderRadius"
   },
   "switch": {
@@ -2430,6 +2466,14 @@
     "progres": {
       "value": "24px",
       "type": "dimension"
+    },
+    "balance": {
+      "value": "32px",
+      "type": "dimension"
+    },
+    "balance-copy": {
+      "value": "32px",
+      "type": "dimension"
     }
   },
   "text-field": {
@@ -2503,6 +2547,20 @@
     "type": "boxShadow"
   },
   "in-games": {
+    "container": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    },
+    "button": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    }
+  },
+  "dialog": {
+    "value": "{core-radios.600}",
+    "type": "borderRadius"
+  },
+  "categories-tab": {
     "value": "{core-radios.full}",
     "type": "borderRadius"
   },
@@ -2544,5 +2602,15 @@
       "type": "dropShadow"
     },
     "type": "boxShadow"
+  },
+  "balance": {
+    "container": {
+      "value": "10",
+      "type": "borderRadius"
+    },
+    "button": {
+      "value": "{core-radios.300}",
+      "type": "borderRadius"
+    }
   }
 }
