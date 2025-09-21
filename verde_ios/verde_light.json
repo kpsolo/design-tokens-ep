@@ -2279,6 +2279,26 @@
       "type": "borderRadius"
     }
   },
+  "search": {
+    "ios": {
+      "value": "{core-radios.400}",
+      "type": "borderRadius"
+    },
+    "android": {
+      "value": "{core-radios.500}",
+      "type": "borderRadius"
+    }
+  },
+  "statuses": {
+    "large": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    },
+    "small": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    }
+  },
   "badge": {
     "value": "{core-radios.full}",
     "type": "borderRadius"
@@ -2295,33 +2315,17 @@
     "value": "{core-radios.full}",
     "type": "borderRadius"
   },
-  "search": {
-    "ios": {
-      "value": "{core-radios.400}",
-      "type": "borderRadius"
-    },
-    "android": {
-      "value": "{core-radios.500}",
-      "type": "borderRadius"
-    }
-  },
-  "bottom-sheet": {
-    "value": "{core-radios.600}",
-    "type": "borderRadius"
-  },
   "tab-item": {
     "value": "{core-radios.500}",
     "type": "borderRadius"
   },
-  "statuses": {
-    "large": {
-      "value": "{core-radios.full}",
-      "type": "borderRadius"
-    },
-    "small": {
-      "value": "{core-radios.full}",
-      "type": "borderRadius"
-    }
+  "dialog": {
+    "value": "{core-radios.600}",
+    "type": "borderRadius"
+  },
+  "bottom-sheet": {
+    "value": "{core-radios.600}",
+    "type": "borderRadius"
   },
   "snackbar": {
     "value": "{core-radios.400}",
@@ -2476,6 +2480,10 @@
       "type": "dimension"
     }
   },
+  "categories-tab": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
+  },
   "text-field": {
     "value": "{core-radios.500}",
     "type": "borderRadius"
@@ -2555,14 +2563,6 @@
       "value": "{core-radios.full}",
       "type": "borderRadius"
     }
-  },
-  "dialog": {
-    "value": "{core-radios.600}",
-    "type": "borderRadius"
-  },
-  "categories-tab": {
-    "value": "{core-radios.full}",
-    "type": "borderRadius"
   },
   "thumb": {
     "large": {

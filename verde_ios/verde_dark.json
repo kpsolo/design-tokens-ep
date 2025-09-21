@@ -2279,50 +2279,6 @@
       "type": "borderRadius"
     }
   },
-  "badge": {
-    "value": "{core-radios.full}",
-    "type": "borderRadius"
-  },
-  "tab-bar": {
-    "value": "{core-radios.500}",
-    "type": "borderRadius"
-  },
-  "modal": {
-    "value": "{core-radios.500}",
-    "type": "borderRadius"
-  },
-  "chips": {
-    "value": "{core-radios.full}",
-    "type": "borderRadius"
-  },
-  "bottom-sheet": {
-    "value": "{core-radios.600}",
-    "type": "borderRadius"
-  },
-  "tab-item": {
-    "value": "{core-radios.400}",
-    "type": "borderRadius"
-  },
-  "snackbar": {
-    "value": "{core-radios.400}",
-    "type": "borderRadius"
-  },
-  "switch": {
-    "value": "{core-radios.full}",
-    "type": "borderRadius"
-  },
-  "radio-button": {
-    "value": "{core-radios.full}",
-    "type": "borderRadius"
-  },
-  "checkbox": {
-    "value": "{core-radios.200}",
-    "type": "borderRadius"
-  },
-  "tooltip": {
-    "value": "{core-radios.300}",
-    "type": "borderRadius"
-  },
   "switch-knob": {
     "value": {
       "x": "0",
@@ -2447,10 +2403,6 @@
       "value": "32px",
       "type": "dimension"
     }
-  },
-  "text-field": {
-    "value": "{core-radios.500}",
-    "type": "borderRadius"
   },
   "radio-buttons": {
     "value": "1.5",
@@ -2577,6 +2529,62 @@
       "type": "borderRadius"
     }
   },
+  "badge": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
+  },
+  "modal": {
+    "value": "{core-radios.500}",
+    "type": "borderRadius"
+  },
+  "chips": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
+  },
+  "snackbar": {
+    "value": "{core-radios.400}",
+    "type": "borderRadius"
+  },
+  "checkbox": {
+    "value": "{core-radios.200}",
+    "type": "borderRadius"
+  },
+  "radio-button": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
+  },
+  "switch": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
+  },
+  "tab-item": {
+    "value": "{core-radios.400}",
+    "type": "borderRadius"
+  },
+  "categories-tab": {
+    "value": "{core-radios.full}",
+    "type": "borderRadius"
+  },
+  "dialog": {
+    "value": "{core-radios.600}",
+    "type": "borderRadius"
+  },
+  "text-field": {
+    "value": "{core-radios.500}",
+    "type": "borderRadius"
+  },
+  "tooltip": {
+    "value": "{core-radios.300}",
+    "type": "borderRadius"
+  },
+  "bottom-sheet": {
+    "value": "{core-radios.600}",
+    "type": "borderRadius"
+  },
+  "tab-bar": {
+    "value": "{core-radios.500}",
+    "type": "borderRadius"
+  },
   "progress": {
     "value": "{core-radios.full}",
     "type": "borderRadius"
@@ -2591,10 +2599,6 @@
       "type": "borderRadius"
     }
   },
-  "dialog": {
-    "value": "{core-radios.600}",
-    "type": "borderRadius"
-  },
   "in-games": {
     "container": {
       "value": "{core-radios.full}",
@@ -2604,9 +2608,5 @@
       "value": "{core-radios.full}",
       "type": "borderRadius"
     }
-  },
-  "categories-tab": {
-    "value": "{core-radios.full}",
-    "type": "borderRadius"
   }
 }
