@@ -1161,7 +1161,7 @@
           "type": "color"
         },
         "container": {
-          "value": "{core.white.600}",
+          "value": "{core.neutral.500}",
           "type": "color"
         }
       },
@@ -1171,7 +1171,7 @@
           "type": "color"
         },
         "container": {
-          "value": "{core.white.600}",
+          "value": "{core.neutral.500}",
           "type": "color"
         }
       },
@@ -1860,7 +1860,7 @@
     "small": {
       "value": {
         "fontFamily": "{fontFamilies.montserrat}",
-        "fontWeight": "{fontWeights.bold}",
+        "fontWeight": "{fontWeights.semibold}",
         "lineHeight": "{lineHeights.24}",
         "fontSize": "{fontSize.18}"
       },
