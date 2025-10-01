@@ -622,20 +622,6 @@
         }
       }
     },
-    "timer": {
-      "background": {
-        "value": "#FFFFFF",
-        "type": "color"
-      },
-      "separator": {
-        "value": "#FFFFFF",
-        "type": "color"
-      },
-      "text-time": {
-        "value": "#242425",
-        "type": "color"
-      }
-    },
     "search": {
       "background": {
         "value": "{core.neutral.200}",
@@ -1450,6 +1436,36 @@
         },
         "inactive": {
           "value": "{core.white.300}",
+          "type": "color"
+        }
+      }
+    },
+    "timer": {
+      "static": {
+        "background": {
+          "value": "{core.white.100}",
+          "type": "color"
+        },
+        "separator": {
+          "value": "{core.white.100}",
+          "type": "color"
+        },
+        "text-time": {
+          "value": "{core.black.100}",
+          "type": "color"
+        }
+      },
+      "base": {
+        "background": {
+          "value": "{core.white.100}",
+          "type": "color"
+        },
+        "separator": {
+          "value": "{core.white.100}",
+          "type": "color"
+        },
+        "text-time": {
+          "value": "{core.black.100}",
           "type": "color"
         }
       }
@@ -2297,8 +2313,8 @@
         "y": "8",
         "blur": "10",
         "spread": "1",
-        "color": "#rgba(0,0,0,0.04)",
-        "type": "innerShadow"
+        "color": "rgba(0,0,0,0.1)",
+        "type": "dropShadow"
       },
       {
         "x": "0",
@@ -2306,7 +2322,7 @@
         "blur": "14",
         "spread": "2",
         "color": "rgba(0,0,0,0.08)",
-        "type": "dropShadow"
+        "type": "innerShadow"
       },
       {
         "x": "0",
@@ -2324,8 +2340,8 @@
       "x": "0",
       "y": "0",
       "blur": "4",
-      "spread": "",
-      "color": "rgba(0,0,0,0.1)",
+      "spread": "0",
+      "color": "rgba(0,0,0,0.2)",
       "type": "dropShadow"
     },
     "type": "boxShadow"
@@ -2336,7 +2352,7 @@
       "y": "-4",
       "blur": "16",
       "spread": "0",
-      "color": "rgba(95,95,95,0.1)",
+      "color": "rgba(95,95,95,0.2)",
       "type": "dropShadow"
     },
     "type": "boxShadow"
