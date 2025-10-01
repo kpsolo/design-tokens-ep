@@ -432,7 +432,13 @@
       "contextual.tabs.text.active": "S:1b9f717f4429d919adf67fde16e39c783cdb783b,",
       "contextual.tabs.text.inactive": "S:a2da70035a3389468e87fecd23fa1111a4a25ea4,",
       "contextual.tabs.icon.active": "S:f54c3a0822ecc84103aa3a33ae160eafd08a6afc,",
-      "contextual.tabs.icon.inactive": "S:68e19a197542ba1ee6d01a1c6cf28db69dc4b32b,"
+      "contextual.tabs.icon.inactive": "S:68e19a197542ba1ee6d01a1c6cf28db69dc4b32b,",
+      "contextual.timer.static.background": "S:6015b6d2de20ca6cfbe5d65ea2fd2672cd1164ec,",
+      "contextual.timer.static.separator": "S:ec5a53486eea227261fea83ff1be3cc58e918537,",
+      "contextual.timer.static.text-time": "S:ad93ae0732d29981a1931bca63ca5ec9b96a4903,",
+      "contextual.timer.base.background": "S:2db02b31f6fb1e1489f67b6e36cbcee75b881ed0,",
+      "contextual.timer.base.separator": "S:80b2fba742677aee18c1ba3a9f97f803f8eba709,",
+      "contextual.timer.base.text-time": "S:7abdfc587b50a4dcdd58b11c4b484e2e7cc2ba70,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -984,7 +990,13 @@
       "contextual.tabs.text.active": "S:cb6c6c421f45d38812927378eb74012264087595,",
       "contextual.tabs.text.inactive": "S:549ee1f9c51adf307505bb08f9af291b65d56bd0,",
       "contextual.tabs.icon.active": "S:8251ece4beb749ebcddec7e7f1fb5950608e42ca,",
-      "contextual.tabs.icon.inactive": "S:f5badb0b31a8ace8911900e9706a1da382cfea91,"
+      "contextual.tabs.icon.inactive": "S:f5badb0b31a8ace8911900e9706a1da382cfea91,",
+      "contextual.timer.static.background": "S:3282ec1053da3bca77e0a32cc8ea458219fb32bd,",
+      "contextual.timer.static.separator": "S:3738790a78190c9dd07d0ea6564fbae2992cfbfb,",
+      "contextual.timer.static.text-time": "S:d7df507b640ad08b6a37e19bf99a3c8799479990,",
+      "contextual.timer.base.background": "S:2293b104d6a273f8251cc213c3728892785f6255,",
+      "contextual.timer.base.separator": "S:c6fa91343506ce5b704fc931c007d7b815d3ac6a,",
+      "contextual.timer.base.text-time": "S:ba9d30c109c1b2ccd82bba8c1595ebc5142463d4,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
