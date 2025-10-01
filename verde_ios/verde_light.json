@@ -2386,7 +2386,7 @@
         "blur": "10",
         "spread": "1",
         "color": "rgba(0,0,0,0.1)",
-        "type": "innerShadow"
+        "type": "dropShadow"
       },
       {
         "x": "0",

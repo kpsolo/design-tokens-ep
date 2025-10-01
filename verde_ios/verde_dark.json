@@ -2322,7 +2322,7 @@
         "blur": "14",
         "spread": "2",
         "color": "rgba(0,0,0,0.08)",
-        "type": "innerShadow"
+        "type": "dropShadow"
       },
       {
         "x": "0",
