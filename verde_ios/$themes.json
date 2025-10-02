@@ -438,7 +438,19 @@
       "contextual.timer.static.text-time": "S:ad93ae0732d29981a1931bca63ca5ec9b96a4903,",
       "contextual.timer.base.background": "S:2db02b31f6fb1e1489f67b6e36cbcee75b881ed0,",
       "contextual.timer.base.separator": "S:80b2fba742677aee18c1ba3a9f97f803f8eba709,",
-      "contextual.timer.base.text-time": "S:7abdfc587b50a4dcdd58b11c4b484e2e7cc2ba70,"
+      "contextual.timer.base.text-time": "S:7abdfc587b50a4dcdd58b11c4b484e2e7cc2ba70,",
+      "contextual.callout.base.background": "S:e836cd7cc06375f946fc2ab20b410cfc65000de9,",
+      "contextual.callout.base.text": "S:e72ec17581981b41b65842a427d1ed9ded0be458,",
+      "contextual.callout.base.icon": "S:a5d89f8f326bb9190ffec8658377efbc3917f02d,",
+      "contextual.callout.success.background": "S:6282be929ac4172cbb330bdd875f7d6d8c0d1a42,",
+      "contextual.callout.success.text": "S:9266f49e9f8764c07eb0edef626e7930aaa92078,",
+      "contextual.callout.success.icon": "S:7a922bdb238acddfc1a69cb4991c4262a63b9562,",
+      "contextual.callout.warning.background": "S:aa0fdc3d16f515c557d8456c31673daf4dc61fff,",
+      "contextual.callout.warning.text": "S:5763a15daaf949cf2d73e76e72541ae90ba6e695,",
+      "contextual.callout.warning.icon": "S:05c1e6afc98210ec9cdd4fff6d7dc66a2ee0f652,",
+      "contextual.callout.danger.background": "S:e5dc2aec6f887d18750b0553c664368f477714ca,",
+      "contextual.callout.danger.text": "S:00ea92b5852133ee68c52fee6348f8cc16310422,",
+      "contextual.callout.danger.icon": "S:2034992ab1b14970c6369e9eb9ce2b44370c7bb6,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -996,7 +1008,19 @@
       "contextual.timer.static.text-time": "S:d7df507b640ad08b6a37e19bf99a3c8799479990,",
       "contextual.timer.base.background": "S:2293b104d6a273f8251cc213c3728892785f6255,",
       "contextual.timer.base.separator": "S:c6fa91343506ce5b704fc931c007d7b815d3ac6a,",
-      "contextual.timer.base.text-time": "S:ba9d30c109c1b2ccd82bba8c1595ebc5142463d4,"
+      "contextual.timer.base.text-time": "S:ba9d30c109c1b2ccd82bba8c1595ebc5142463d4,",
+      "contextual.callout.base.background": "S:76cdd479b94a081324c936e5914b4adc4b9482c7,",
+      "contextual.callout.base.text": "S:0379013b27f1b7ca3c157909a0983462dabb1526,",
+      "contextual.callout.base.icon": "S:9f75e3f5b0c70de905169797fa7345b5320aeda9,",
+      "contextual.callout.success.background": "S:62d1f1f69368ec5cca05885c0e07816b8e14e0d3,",
+      "contextual.callout.success.text": "S:63dbc58849f8820808ed559a24412851429515a4,",
+      "contextual.callout.success.icon": "S:2570b6d797517c004c07d8843426f120db5f6717,",
+      "contextual.callout.warning.background": "S:b2a6bd5fde1102c1c1b59cb00ee24dcb22cf36c5,",
+      "contextual.callout.warning.text": "S:4e035aa05b33bfc23a5b4f8df97bf0a510cc183f,",
+      "contextual.callout.warning.icon": "S:bba4dfd0d6c80fe5f90c46740b8bd3981da07030,",
+      "contextual.callout.danger.background": "S:aa180641e45265b4c850ab1318f0dd9fe9a5492d,",
+      "contextual.callout.danger.text": "S:eae15ac47e97da80529d6d8f3feadacc42c81d67,",
+      "contextual.callout.danger.icon": "S:89e9c4526843d7d2e40047678fc015155242cad7,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
