@@ -1469,6 +1469,64 @@
           "type": "color"
         }
       }
+    },
+    "callout": {
+      "base": {
+        "background": {
+          "value": "{core.black.800}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.black.100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.black.200}",
+          "type": "color"
+        }
+      },
+      "success": {
+        "background": {
+          "value": "{core.green.500}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.green.100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.green.100}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "background": {
+          "value": "{core.yellow.500}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.yellow.100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.yellow.100}",
+          "type": "color"
+        }
+      },
+      "danger": {
+        "background": {
+          "value": "{core.red.500}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.red.100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.red.100}",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {
