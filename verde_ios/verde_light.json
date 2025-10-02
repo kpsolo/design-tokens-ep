@@ -2552,6 +2552,10 @@
     "balance-copy": {
       "value": "32px",
       "type": "dimension"
+    },
+    "callout": {
+      "value": "24px",
+      "type": "dimension"
     }
   },
   "categories-tab": {
