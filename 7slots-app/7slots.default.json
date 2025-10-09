@@ -2404,7 +2404,7 @@
     "value": "{core-dimension.16}",
     "type": "dimension"
   },
-  "tab-bar": {
+  "app-bar": {
     "value": "{core-dimension.16}",
     "type": "dimension"
   },
