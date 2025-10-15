@@ -450,7 +450,19 @@
       "contextual.callout.warning.icon": "S:05c1e6afc98210ec9cdd4fff6d7dc66a2ee0f652,",
       "contextual.callout.danger.background": "S:e5dc2aec6f887d18750b0553c664368f477714ca,",
       "contextual.callout.danger.text": "S:00ea92b5852133ee68c52fee6348f8cc16310422,",
-      "contextual.callout.danger.icon": "S:2034992ab1b14970c6369e9eb9ce2b44370c7bb6,"
+      "contextual.callout.danger.icon": "S:2034992ab1b14970c6369e9eb9ce2b44370c7bb6,",
+      "contextual.button.timer.background": "S:0791cc6cb6a622c5af6e8fab090f98108ec89dd6,",
+      "contextual.button.timer.border": "S:e4b43ffffe656bffe7525c7dc3d7cfbf44baf8b7,",
+      "contextual.button.timer.text": "S:7583cf7c83fc5a18b328b9fc803ad60724bef6f7,",
+      "contextual.button.timer.icon": "S:652ad8217c9f9758e9a6ac1d8be174c288047add,",
+      "contextual.button.apple.background": "S:470043c605596d1401c30b6bcf67af15d8a1d8d3,",
+      "contextual.button.apple.border": "S:290a03d5b890cc419b0013f61912657a1f6b0131,",
+      "contextual.button.apple.text": "S:755bb7e7235faec1e12f32e9c3ca73af653215a8,",
+      "contextual.button.apple.icon": "S:351d33b8985c3a366fde6e469252e1d3c669d91a,",
+      "contextual.button.google.background": "S:f713e8e26ff7468a8ce313fa0c8a4739235e8266,",
+      "contextual.button.google.border": "S:924b846137073c4088124bfd2512a0081d2a2c64,",
+      "contextual.button.google.text": "S:dfe70208ca8ea85ba5ef6ed80c8685f9f1f8052f,",
+      "contextual.button.google.icon": "S:73a7fa51f45270324d352776cfa0052bfb8479ef,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -547,6 +559,7 @@
       "background-blur.button": "396ad60ca64e69bf5e7f5ff8cf63d14c4720a8a4",
       "background-blur.backdrop": "a2429cb9b74175e2ca402f17fa344f144ecd8908",
       "background-blur.balance-copy": "e3657e572e4bba7097bcfbdf0b873af33a4e272a",
+      "background-blur.callout": "3c63f178e773690de3b9f1e31451bf5de8bc9fd2",
       "radio-buttons": "5b002ea4590b1799fe93ea5661dbf4e33614efa6",
       "checkboxs": "79435f15466a413809dffb9b9e59dcce14ce62ee",
       "text-fields.default": "54964f2a55b6687b11e67b3eefb9b35ec912145b",
@@ -1020,7 +1033,19 @@
       "contextual.callout.warning.icon": "S:bba4dfd0d6c80fe5f90c46740b8bd3981da07030,",
       "contextual.callout.danger.background": "S:aa180641e45265b4c850ab1318f0dd9fe9a5492d,",
       "contextual.callout.danger.text": "S:eae15ac47e97da80529d6d8f3feadacc42c81d67,",
-      "contextual.callout.danger.icon": "S:89e9c4526843d7d2e40047678fc015155242cad7,"
+      "contextual.callout.danger.icon": "S:89e9c4526843d7d2e40047678fc015155242cad7,",
+      "contextual.button.timer.background": "S:4b4250338f605f055219122d5664647e533c1595,",
+      "contextual.button.timer.border": "S:0f1981f117086e894d7a775ab6c7a73b72a389eb,",
+      "contextual.button.timer.text": "S:e5338d95d46e856ae0330fabe36f472f9d754993,",
+      "contextual.button.timer.icon": "S:9a3f4e5fc84175a6ef7c1f47c3c53523b21c1318,",
+      "contextual.button.apple.background": "S:d36553e5aa39ed49da15579655de3190177a9906,",
+      "contextual.button.apple.border": "S:9704d322e72d19666aa3d4c393c0b95def9228a3,",
+      "contextual.button.apple.text": "S:1c2e8403e4257d46b9b0be94b72c48008c938624,",
+      "contextual.button.apple.icon": "S:a8111b32f537c9cadba29f399178d99b3664ac71,",
+      "contextual.button.google.background": "S:92e190f7d27f0ca823ecf76ff8fdf235895a47e1,",
+      "contextual.button.google.border": "S:ca665ad56c51dd73cabf2d81decc8cdab736bb89,",
+      "contextual.button.google.text": "S:798c275590b0aa2055377cd9abb80d89c6460246,",
+      "contextual.button.google.icon": "S:00aa221f5f076d0a01985a2d1e31399f55518b1f,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
