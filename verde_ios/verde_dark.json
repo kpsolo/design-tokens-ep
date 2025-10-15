@@ -620,6 +620,72 @@
             "type": "color"
           }
         }
+      },
+      "timer": {
+        "background": {
+          "value": "{core.white.800}",
+          "type": "color",
+          "description": "The background of the disabled button"
+        },
+        "border": {
+          "value": "#transparent",
+          "type": "color",
+          "description": "The border color of the disabled button"
+        },
+        "text": {
+          "value": "{core.white.100}",
+          "type": "color",
+          "description": "The text color of the disabled button"
+        },
+        "icon": {
+          "value": "{core.white.100}",
+          "type": "color",
+          "description": "The icon color of the disabled button"
+        }
+      },
+      "apple": {
+        "background": {
+          "value": "rgba(255, 255, 255, 1)",
+          "type": "color",
+          "description": "The background of the disabled button"
+        },
+        "border": {
+          "value": "#transparent",
+          "type": "color",
+          "description": "The border color of the disabled button"
+        },
+        "text": {
+          "value": "rgba(0, 0, 0, 1)",
+          "type": "color",
+          "description": "The text color of the disabled button"
+        },
+        "icon": {
+          "value": "rgba(0, 0, 0, 1)",
+          "type": "color",
+          "description": "The icon color of the disabled button"
+        }
+      },
+      "google": {
+        "background": {
+          "value": "rgba(255, 255, 255, 1)",
+          "type": "color",
+          "description": "The background of the disabled button"
+        },
+        "border": {
+          "value": "rgba(116, 119, 117, 1)",
+          "type": "color",
+          "description": "The border color of the disabled button"
+        },
+        "text": {
+          "value": "rgba(31, 31, 31, 1)",
+          "type": "color",
+          "description": "The text color of the disabled button"
+        },
+        "icon": {
+          "value": "rgba(31, 31, 31, 1)",
+          "type": "color",
+          "description": "The icon color of the disabled button"
+        }
       }
     },
     "search": {
