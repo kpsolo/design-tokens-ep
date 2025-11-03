@@ -2608,12 +2608,12 @@
       "value": "24",
       "type": "lineHeights"
     },
-    "26": {
-      "value": "26",
+    "32": {
+      "value": "32",
       "type": "lineHeights"
     },
-    "34": {
-      "value": "34",
+    "40": {
+      "value": "40",
       "type": "lineHeights"
     }
   },
@@ -2682,7 +2682,7 @@
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.black-italic}",
-        "lineHeight": "{lineHeights.34}",
+        "lineHeight": "{lineHeights.40}",
         "fontSize": "{fontSize.30}"
       },
       "type": "typography"
@@ -2691,7 +2691,7 @@
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.semi-bold-italic}",
-        "lineHeight": "{lineHeights.26}",
+        "lineHeight": "{lineHeights.32}",
         "fontSize": "{fontSize.24}"
       },
       "type": "typography"
@@ -2711,7 +2711,7 @@
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.bold}",
-        "lineHeight": "{lineHeights.34}",
+        "lineHeight": "{lineHeights.40}",
         "fontSize": "{fontSize.30}"
       },
       "type": "typography"
@@ -2720,7 +2720,7 @@
       "value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.semibold}",
-        "lineHeight": "{lineHeights.26}",
+        "lineHeight": "{lineHeights.32}",
         "fontSize": "{fontSize.24}"
       },
       "type": "typography"
