@@ -493,7 +493,10 @@
       "contextual.button.danger-outlined.enabled.border": "S:b6a27018008422bb93a528619befe6f55f155581,",
       "contextual.button.danger-outlined.disabled.text": "S:ca9ed7184f70301cbeb8364f5d683c20ce2389a0,",
       "contextual.button.danger-outlined.disabled.icon": "S:a1c7dd219d07831bce1fd44ae9ec756af7705c18,",
-      "contextual.button.danger-outlined.disabled.border": "S:0301ec9520980633f35d83bf6d6230443e8613af,"
+      "contextual.button.danger-outlined.disabled.border": "S:0301ec9520980633f35d83bf6d6230443e8613af,",
+      "semantic.background.overlay.total black.primary": "S:44d75c35605e11022315a8343906c9e52c7cef14,",
+      "semantic.background.overlay.total black.secondary": "S:c5d70a50a6df784bcb17f2a1ae61033c229ce900,",
+      "semantic.background.overlay.total black.tertiary": "S:1d530807ed3b10863de7116f8dcc4b2da73e57b9,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
