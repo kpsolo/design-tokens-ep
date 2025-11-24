@@ -627,7 +627,9 @@
       "backdrop": "26f5cf394f24d391de815a5f030ab166afc50376",
       "statusess": "38e58df5b2a227208477ba4b51320f45d38c14d1",
       "bonus-surface": "230f85d6f4116dab4102a7676dd749505b9bdcad",
-      "callout": "afa9e46fdc650909669718e0630487267e772788"
+      "callout": "afa9e46fdc650909669718e0630487267e772788",
+      "tournaments.card": "ed1e2c63ed43f9fc605de0b079a1e6c9d669f151",
+      "tournaments.surface": "f42bd85ae595a3b62588ccd6b3955fe521af43ca"
     },
     "$figmaCollectionId": "VariableCollectionId:25278:667",
     "$figmaModeId": "25278:0"
