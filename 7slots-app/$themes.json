@@ -496,7 +496,8 @@
       "contextual.button.danger-outlined.disabled.border": "S:0301ec9520980633f35d83bf6d6230443e8613af,",
       "semantic.background.overlay.total black.primary": "S:44d75c35605e11022315a8343906c9e52c7cef14,",
       "semantic.background.overlay.total black.secondary": "S:c5d70a50a6df784bcb17f2a1ae61033c229ce900,",
-      "semantic.background.overlay.total black.tertiary": "S:1d530807ed3b10863de7116f8dcc4b2da73e57b9,"
+      "semantic.background.overlay.total black.tertiary": "S:1d530807ed3b10863de7116f8dcc4b2da73e57b9,",
+      "semantic.border.accent": "S:1f64240eca23c572ae1469f4e577703397d3f985,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
