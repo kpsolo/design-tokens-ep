@@ -497,7 +497,19 @@
       "semantic.background.overlay.total black.primary": "S:44d75c35605e11022315a8343906c9e52c7cef14,",
       "semantic.background.overlay.total black.secondary": "S:c5d70a50a6df784bcb17f2a1ae61033c229ce900,",
       "semantic.background.overlay.total black.tertiary": "S:1d530807ed3b10863de7116f8dcc4b2da73e57b9,",
-      "semantic.border.accent": "S:1f64240eca23c572ae1469f4e577703397d3f985,"
+      "semantic.border.accent": "S:1f64240eca23c572ae1469f4e577703397d3f985,",
+      "contextual.progres.primary.track": "S:0a82e54b3c3de6c016ef2c276c7aa9810a4fb607,",
+      "contextual.progres.primary.fill": "S:b28b627cf8ad6afcde8841746d2ba81658f0146b,",
+      "contextual.progres.primary.text": "S:a86688f666e985eb7629d395a5b8195241f1e2ce,",
+      "contextual.progres.secondary.track": "S:05ae2fd4a612e8e0560890d9daa9199bc2d1c375,",
+      "contextual.progres.secondary.fill": "S:bedf1cc54485b6814d481113aa7434f15a25cea2,",
+      "contextual.progres.secondary.text": "S:42eea872dbc18ff53022cb5ab7fb1f02dd6eadf4,",
+      "contextual.progres.static.track": "S:98bd718c3585b9c1c2db2d83977124c44d5ab1e6,",
+      "contextual.progres.static.fill": "S:b8222dd323bdd368a0aea3a68ed049391bc5f5b5,",
+      "contextual.progres.static.text": "S:5773e8b626b549291a9ead3c3b781ec92d5c6950,",
+      "contextual.progres.profile.track": "S:1d4aca9dd1965fe73161380a46e16f991e064fc9,",
+      "contextual.progres.profile.fill": "S:a473cafc80915b429f8dfc5b6d7df95f75ba39d4,",
+      "contextual.progres.profile.text": "S:debb1d785e59fcd2cd770099148881b7c9ec7fe0,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
