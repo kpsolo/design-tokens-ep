@@ -1950,8 +1950,7 @@
       },
       "accent": {
         "value": "{core.white.50}",
-        "type": "color",
-        "description": "used for the timer"
+        "type": "color"
       },
       "success": {
         "value": "{core.green.50}",
