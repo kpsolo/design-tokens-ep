@@ -924,7 +924,7 @@
     },
     "tooltip": {
       "background": {
-        "value": "{semantic.background.accent}",
+        "value": "{core.white.50}",
         "type": "color"
       },
       "text-default": {
