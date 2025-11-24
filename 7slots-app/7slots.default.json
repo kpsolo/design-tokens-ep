@@ -1949,7 +1949,7 @@
         "type": "color"
       },
       "accent": {
-        "value": "{core.white.50}",
+        "value": "{core.brand.support.100}",
         "type": "color"
       },
       "success": {
@@ -2078,6 +2078,10 @@
         "value": "{core.white.800}",
         "type": "color",
         "description": "Used for a disabled border on a dark background"
+      },
+      "accent": {
+        "value": "{core.brand.support.100}",
+        "type": "color"
       },
       "success": {
         "value": "{core.green.50}",
