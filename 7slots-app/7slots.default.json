@@ -2987,5 +2987,15 @@
   "callout": {
     "value": "{core-radios.16}",
     "type": "borderRadius"
+  },
+  "tournaments": {
+    "card": {
+      "value": "{core-radios.24}",
+      "type": "borderRadius"
+    },
+    "surface": {
+      "value": "{core-radios.16}",
+      "type": "borderRadius"
+    }
   }
 }
