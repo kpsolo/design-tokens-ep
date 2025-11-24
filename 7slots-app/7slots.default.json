@@ -1786,20 +1786,6 @@
           "type": "color"
         }
       },
-      "secondary": {
-        "indicator": {
-          "value": "{core.white.50}",
-          "type": "color"
-        },
-        "track": {
-          "value": "{core.white.600}",
-          "type": "color"
-        },
-        "content": {
-          "value": "{core.black.50}",
-          "type": "color"
-        }
-      },
       "static": {
         "indicator": {
           "value": "{core.white.50}",
