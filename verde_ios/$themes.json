@@ -178,14 +178,6 @@
       "contextual.text-field.icon.disabled": "S:867f6452816532749ed5afb2e3f8700ab2f05dda,",
       "contextual.text-field.cursor": "S:5ae7bdfe2b9281889410739427f5378f08772c2f,",
       "contextual.text-field.label.error": "S:4f79ac6f510a842cc745902f497e625937f95727,",
-      "contextual.switch.on.background.enable": "S:7c792cc8905b5753838afb86ef519fb39cf1eb8e,",
-      "contextual.switch.on.background.disabled": "S:9e9ed1da59d33f968f08e465f67593299202061e,",
-      "contextual.switch.on.thumb.enable": "S:d456bf55d2324e733f3597f67c4d34b29b4fa510,",
-      "contextual.switch.on.thumb.disabled": "S:02f003dbf64e84ec515d965b437131e402de6610,",
-      "contextual.switch.off.background.enable": "S:4f610e5f51d36cf0fd144583ea5541043060f69b,",
-      "contextual.switch.off.background.disabled": "S:b665089315a9a23b6ce5f9454bb1e4af980e0621,",
-      "contextual.switch.off.thumb.enable": "S:6c6eed20eb5384a11cd4697d1112a04f8d592fd8,",
-      "contextual.switch.off.thumb.disabled": "S:eabafba5ae95a0d350e448e9325306f03b8405e4,",
       "contextual.radio.unselected.border.enable": "S:e9430e3cabc18af0ae741b00f69ac4dc865f1c14,",
       "contextual.radio.unselected.border.disabled": "S:ab47fa1d84889a81f944678125e1c66910867d1c,",
       "contextual.radio.selected.border.enable": "S:bd941c4c1ff0eca5a4e091e019bcf438411cc2a4,",
@@ -462,7 +454,15 @@
       "contextual.button.google.background": "S:f713e8e26ff7468a8ce313fa0c8a4739235e8266,",
       "contextual.button.google.border": "S:924b846137073c4088124bfd2512a0081d2a2c64,",
       "contextual.button.google.text": "S:dfe70208ca8ea85ba5ef6ed80c8685f9f1f8052f,",
-      "contextual.button.google.icon": "S:73a7fa51f45270324d352776cfa0052bfb8479ef,"
+      "contextual.button.google.icon": "S:73a7fa51f45270324d352776cfa0052bfb8479ef,",
+      "contextual.switch.on.background.enable": "S:4f610e5f51d36cf0fd144583ea5541043060f69b,",
+      "contextual.switch.on.background.disabled": "S:b665089315a9a23b6ce5f9454bb1e4af980e0621,",
+      "contextual.switch.on.thumb.enable": "S:6c6eed20eb5384a11cd4697d1112a04f8d592fd8,",
+      "contextual.switch.on.thumb.disabled": "S:eabafba5ae95a0d350e448e9325306f03b8405e4,",
+      "contextual.switch.off.background.enable": "S:7c792cc8905b5753838afb86ef519fb39cf1eb8e,",
+      "contextual.switch.off.background.disabled": "S:9e9ed1da59d33f968f08e465f67593299202061e,",
+      "contextual.switch.off.thumb.enable": "S:d456bf55d2324e733f3597f67c4d34b29b4fa510,",
+      "contextual.switch.off.thumb.disabled": "S:02f003dbf64e84ec515d965b437131e402de6610,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -768,14 +768,6 @@
       "contextual.text-field.icon.disabled": "S:0e61e3782d149d956c7c3893abbe60f9d3a77a44,",
       "contextual.text-field.cursor": "S:2841091aa9598f78cccddd71e633b013fdfd65f4,",
       "contextual.text-field.label.error": "S:d09e18f30f5ad55538a3b3fd7fdc2f961a22f93c,",
-      "contextual.switch.on.background.enable": "S:ebb0f954121b53662d8b46279ab71efa74911369,",
-      "contextual.switch.on.background.disabled": "S:f4f9093b762acf23503afe66fdb8eeace33274d5,",
-      "contextual.switch.on.thumb.enable": "S:56f74952acba4ecaf3b3da9d15feffee653721e4,",
-      "contextual.switch.on.thumb.disabled": "S:0fd0c0770907a14ba87d80079580e621c8322d75,",
-      "contextual.switch.off.background.enable": "S:5a725d5dc9a49c000aec98dcd99aff77db07c2b0,",
-      "contextual.switch.off.background.disabled": "S:7d36224019f9fdf9b33acd9eadcbc4977094ab35,",
-      "contextual.switch.off.thumb.enable": "S:6bbcd141480379c96beabb3d47cd22274800f526,",
-      "contextual.switch.off.thumb.disabled": "S:ef50ef05e62eb5d6d3d5d9ecd9bc34089a3b87a3,",
       "contextual.radio.unselected.border.enable": "S:7bd69ebf47c403b83e774f8fd18609228572b3fc,",
       "contextual.radio.unselected.border.disabled": "S:c55299831af9cb36f7afcf528dc79d359574aa2f,",
       "contextual.radio.selected.border.enable": "S:8d244ca443b919153633c2b5226e3fa9accfdcf2,",
@@ -1045,7 +1037,15 @@
       "contextual.button.google.background": "S:92e190f7d27f0ca823ecf76ff8fdf235895a47e1,",
       "contextual.button.google.border": "S:ca665ad56c51dd73cabf2d81decc8cdab736bb89,",
       "contextual.button.google.text": "S:798c275590b0aa2055377cd9abb80d89c6460246,",
-      "contextual.button.google.icon": "S:00aa221f5f076d0a01985a2d1e31399f55518b1f,"
+      "contextual.button.google.icon": "S:00aa221f5f076d0a01985a2d1e31399f55518b1f,",
+      "contextual.switch.on.background.enable": "S:5a725d5dc9a49c000aec98dcd99aff77db07c2b0,",
+      "contextual.switch.on.background.disabled": "S:7d36224019f9fdf9b33acd9eadcbc4977094ab35,",
+      "contextual.switch.on.thumb.enable": "S:6bbcd141480379c96beabb3d47cd22274800f526,",
+      "contextual.switch.on.thumb.disabled": "S:ef50ef05e62eb5d6d3d5d9ecd9bc34089a3b87a3,",
+      "contextual.switch.off.background.enable": "S:ebb0f954121b53662d8b46279ab71efa74911369,",
+      "contextual.switch.off.background.disabled": "S:f4f9093b762acf23503afe66fdb8eeace33274d5,",
+      "contextual.switch.off.thumb.enable": "S:56f74952acba4ecaf3b3da9d15feffee653721e4,",
+      "contextual.switch.off.thumb.disabled": "S:0fd0c0770907a14ba87d80079580e621c8322d75,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
