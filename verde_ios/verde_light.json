@@ -869,7 +869,7 @@
       }
     },
     "switch": {
-      "on": {
+      "off": {
         "background": {
           "enable": {
             "value": "{core.neutral.600}",
@@ -891,7 +891,7 @@
           }
         }
       },
-      "off": {
+      "on": {
         "background": {
           "enable": {
             "value": "{core.accent.100}",
