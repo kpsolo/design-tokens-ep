@@ -2307,7 +2307,7 @@
       "type": "borderWidth"
     },
     "secondaty": {
-      "value": "0",
+      "value": "1.5",
       "type": "borderWidth"
     },
     "tertiary": {
