@@ -2300,9 +2300,15 @@
     }
   },
   "card": {
-    "winning-now": {
-      "value": "{core-radios.16}",
-      "type": "borderRadius"
+    "winning_now": {
+      "thumb": {
+        "value": "{core-radios.16}",
+        "type": "borderRadius"
+      },
+      "surface": {
+        "value": "{core-radios.16}",
+        "type": "borderRadius"
+      }
     },
     "collection": {
       "value": "{core-radios.16}",
