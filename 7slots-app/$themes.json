@@ -648,9 +648,13 @@
       "backdrop": "26f5cf394f24d391de815a5f030ab166afc50376",
       "statusess": "38e58df5b2a227208477ba4b51320f45d38c14d1",
       "bonus-surface": "230f85d6f4116dab4102a7676dd749505b9bdcad",
+      "lottery-surface": "49888ed37bc4a9f76970835b90d1cee71bb9d590",
+      "tournaments-surface": "7a9e7df0b9049e6c4f2446385328dc2334e51bdd",
       "callout": "afa9e46fdc650909669718e0630487267e772788",
       "tournaments.card": "ed1e2c63ed43f9fc605de0b079a1e6c9d669f151",
-      "tournaments.surface": "f42bd85ae595a3b62588ccd6b3955fe521af43ca"
+      "tournaments.surface": "f42bd85ae595a3b62588ccd6b3955fe521af43ca",
+      "lottery.card": "1f84577271c441b4475817bd8572be82edd2e336",
+      "lottery.surface": "66835299503b343ab3c47fe471136b47bac920c8"
     },
     "$figmaCollectionId": "VariableCollectionId:25278:667",
     "$figmaModeId": "25278:0"

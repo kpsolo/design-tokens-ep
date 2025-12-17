@@ -3004,11 +3004,29 @@
     "value": "{core-dimension.24}",
     "type": "dimension"
   },
+  "lottery-surface": {
+    "value": "{core-dimension.24}",
+    "type": "dimension"
+  },
+  "tournaments-surface": {
+    "value": "{core-dimension.24}",
+    "type": "dimension"
+  },
   "callout": {
     "value": "{core-radios.16}",
     "type": "borderRadius"
   },
   "tournaments": {
+    "card": {
+      "value": "{core-radios.24}",
+      "type": "borderRadius"
+    },
+    "surface": {
+      "value": "{core-radios.16}",
+      "type": "borderRadius"
+    }
+  },
+  "lottery": {
     "card": {
       "value": "{core-radios.24}",
       "type": "borderRadius"
