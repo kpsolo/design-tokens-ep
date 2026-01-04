@@ -658,5 +658,13 @@
     },
     "$figmaCollectionId": "VariableCollectionId:25278:667",
     "$figmaModeId": "25278:0"
+  },
+  {
+    "id": "102cff8b2e182c4e410eee639dce52fd5bef5357",
+    "name": "7K",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "7k": "enabled"
+    }
   }
 ]

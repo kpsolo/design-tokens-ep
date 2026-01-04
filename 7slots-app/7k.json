@@ -43,15 +43,27 @@
     "brand": {
       "accent": {
         "100": {
-          "value": "linear-gradient(180deg, rgba(92, 217, 149, 1) 0%, rgba(37, 166, 96, 1) 100%)",
+          "value": "rgb(209, 2, 27)",
           "type": "color"
         },
         "200": {
-          "value": "linear-gradient(180deg, rgb(70, 169, 118) 0%, rgb(26, 117, 68) 100%)",
+          "value": "rgb(167, 16, 35)",
           "type": "color"
         },
         "300": {
-          "value": "linear-gradient(180deg, rgba(56, 118, 85, 1) 0%, rgba(29, 93, 59, 1) 100%)",
+          "value": "rgb(142, 20, 38)",
+          "type": "color"
+        },
+        "400": {
+          "value": "rgb(124, 14, 28)",
+          "type": "color"
+        },
+        "500": {
+          "value": "rgb(90, 8, 25)",
+          "type": "color"
+        },
+        "600": {
+          "value": "rgb(42, 7, 1)",
           "type": "color"
         }
       },
@@ -351,7 +363,7 @@
       "primary": {
         "enabled": {
           "background": {
-            "value": "{core.brand.accent.100}",
+            "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.brand.accent.200} 100%)",
             "type": "color",
             "description": "The background of the enabled button"
           },
