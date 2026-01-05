@@ -1154,7 +1154,7 @@
             "type": "color"
           },
           "on": {
-            "value": "{core.brand.support.100}",
+            "value": "{core.brand.accent.100}",
             "type": "color"
           }
         },
@@ -1345,11 +1345,11 @@
     "сhips": {
       "background": {
         "сhosen": {
-          "value": "{core.brand.support.100}",
+          "value": "{core.brand.support.300}",
           "type": "color"
         },
         "Default": {
-          "value": "{core.neutral.400}",
+          "value": "{core.neutral.300}",
           "type": "color"
         },
         "info": {
@@ -1359,7 +1359,7 @@
       },
       "text": {
         "сhosen": {
-          "value": "{core.white.50}",
+          "value": "{core.black.50}",
           "type": "color"
         },
         "Default": {
@@ -1373,7 +1373,7 @@
       },
       "icon": {
         "сhosen": {
-          "value": "{core.white.50}",
+          "value": "{core.black.50}",
           "type": "color"
         },
         "Default": {
@@ -1401,7 +1401,7 @@
           "type": "color"
         },
         "attention": {
-          "value": "{core.brand.support.100}",
+          "value": "{core.brand.support.600}",
           "type": "color"
         },
         "info": {
@@ -1584,7 +1584,7 @@
     },
     "segmented": {
       "background": {
-        "value": "{core.neutral.400}",
+        "value": "{core.neutral.500}",
         "type": "color"
       },
       "separator": {
@@ -1593,7 +1593,7 @@
       },
       "selected": {
         "background": {
-          "value": "{core.brand.support.100}",
+          "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.brand.accent.200} 100%)",
           "type": "color"
         },
         "text": {
@@ -1884,7 +1884,7 @@
         "description": "Color for third line information on a dark background"
       },
       "accent": {
-        "value": "{core.brand.accent.100}",
+        "value": "{core.brand.support.300}",
         "type": "color"
       },
       "success": {
@@ -1942,7 +1942,7 @@
         "description": "Used for a disabled icon on a dark background"
       },
       "accent": {
-        "value": "{core.brand.accent.100}",
+        "value": "{core.brand.support.300}",
         "type": "color"
       },
       "success": {
@@ -1985,21 +1985,21 @@
     },
     "background": {
       "primary": {
-        "value": "{core.black.50}",
+        "value": "{core.neutral.900}",
         "type": "color",
         "description": "Used as a background for the background of the main pages, and bottom sheet"
       },
       "secondary": {
-        "value": "linear-gradient(135deg, rgba(32, 62, 152, 1) 0%, rgba(15, 39, 111, 1) 100%)",
+        "value": "{core.black.500}",
         "type": "color",
         "description": "Used for the default state of the card"
       },
       "tertiary": {
-        "value": "{core.neutral.300}",
+        "value": "{core.neutral.400}",
         "type": "color"
       },
       "accent": {
-        "value": "{core.brand.support.100}",
+        "value": "{core.brand.support.300}",
         "type": "color"
       },
       "success": {
@@ -2040,7 +2040,7 @@
           "type": "color"
         },
         "backdrop": {
-          "value": "rgba(0,0,0,0.6)",
+          "value": "{core.black.500}",
           "type": "color",
           "description": "It is used as a shadow under the pop-up and bottom sheet"
         },
@@ -2060,15 +2060,15 @@
         },
         "total black": {
           "primary": {
-            "value": "rgba(0,0,0,0.4)",
+            "value": "{core.black.500}",
             "type": "color"
           },
           "secondary": {
-            "value": "rgba(0,0,0,0.25)",
+            "value": "{core.black.600}",
             "type": "color"
           },
           "tertiary": {
-            "value": "rgba(0,0,0,0.15)",
+            "value": "{core.black.700}",
             "type": "color"
           }
         }
@@ -2130,7 +2130,7 @@
         "description": "Used for a disabled border on a dark background"
       },
       "accent": {
-        "value": "{core.brand.support.100}",
+        "value": "{core.brand.support.300}",
         "type": "color"
       },
       "success": {
