@@ -2050,11 +2050,11 @@
             "type": "color"
           },
           "error": {
-            "value": "linear-gradient(180deg, rgba(255, 26, 81, 0.25) 0%, rgba(17, 30, 69, 0.00) 100%)",
+            "value": "linear-gradient(180deg, {core.red.500} 0%, rgba(17, 30, 69, 0.00) 100%)",
             "type": "color"
           },
           "success": {
-            "value": "linear-gradient(180deg, rgba(23, 205, 107, 0.25) 0%, rgba(17, 30, 69, 0.00) 100%)",
+            "value": "linear-gradient(180deg, {core.green.500} , rgba(17, 30, 69, 0.00) 100%)",
             "type": "color"
           }
         },
@@ -2130,7 +2130,7 @@
         "description": "Used for a disabled border on a dark background"
       },
       "accent": {
-        "value": "{core.brand.support.300}",
+        "value": "{core.brand.accent.100}",
         "type": "color"
       },
       "success": {
