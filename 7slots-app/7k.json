@@ -423,12 +423,12 @@
       "primery-outlined": {
         "enabled": {
           "text": {
-            "value": "{core.brand.accent.100}",
+            "value": "{core.white.50}",
             "type": "color",
             "description": "The text color of the enabled button"
           },
           "icon": {
-            "value": "{core.brand.accent.100}",
+            "value": "{core.white.50}",
             "type": "color",
             "description": "The icon color of the enabled button"
           },
@@ -458,17 +458,17 @@
       "secondary": {
         "enabled": {
           "background": {
-            "value": "{core.brand.support.100}",
+            "value": "linear-gradient(180deg, {core.brand.support.300} 0%, {core.brand.support.500} 100%)",
             "type": "color",
             "description": "The background of the enabled button"
           },
           "text": {
-            "value": "{core.white.50}",
+            "value": "{core.black.50}",
             "type": "color",
             "description": "The text color of the enabled button"
           },
           "icon": {
-            "value": "{core.white.50}",
+            "value": "{core.black.50}",
             "type": "color",
             "description": "The icon color of the enabled button"
           }
@@ -494,17 +494,17 @@
       "secondary-outlined": {
         "enabled": {
           "text": {
-            "value": "{core.brand.support.100}",
+            "value": "{core.white.50}",
             "type": "color",
             "description": "The text color of the enabled button"
           },
           "icon": {
-            "value": "{core.brand.support.100}",
+            "value": "{core.white.50}",
             "type": "color",
             "description": "The icon color of the enabled button"
           },
           "border": {
-            "value": "{core.brand.support.100}",
+            "value": "{core.brand.support.400}",
             "type": "color",
             "description": "The border color of the enabled button"
           }
@@ -529,7 +529,7 @@
       "tertiary": {
         "enabled": {
           "background": {
-            "value": "{core.neutral.300}",
+            "value": "{core.neutral.200}",
             "type": "color",
             "description": "The background of the enabled button"
           },
@@ -575,7 +575,7 @@
             "description": "The icon color of the enabled button"
           },
           "border": {
-            "value": "{core.neutral.300}",
+            "value": "{core.neutral.200}",
             "type": "color",
             "description": "The border color of the enabled button"
           }
@@ -742,7 +742,7 @@
       "danger": {
         "enabled": {
           "background": {
-            "value": "{core.red.50}",
+            "value": "{core.red.300}",
             "type": "color",
             "description": "The background of the enabled button"
           },
@@ -788,7 +788,7 @@
             "description": "The icon color of the enabled button"
           },
           "border": {
-            "value": "{core.red.50}",
+            "value": "{core.red.300}",
             "type": "color",
             "description": "The border color of the enabled button"
           }
@@ -817,7 +817,7 @@
             "type": "color"
           },
           "thumb": {
-            "value": "{core.brand.accent.100}",
+            "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.brand.accent.200} 100%)",
             "type": "color"
           },
           "text": {
@@ -835,7 +835,7 @@
             "type": "color"
           },
           "thumb": {
-            "value": "{core.brand.accent.100}",
+            "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.brand.accent.200} 100%)",
             "type": "color"
           },
           "icon": {
@@ -849,7 +849,7 @@
             "type": "color"
           },
           "thumb": {
-            "value": "{core.brand.accent.100}",
+            "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.brand.accent.200} 100%)",
             "type": "color"
           },
           "text": {
@@ -1037,25 +1037,25 @@
     "radio": {
       "icon": {
         "selected": {
-          "value": "{core.white.50}",
+          "value": "{core.brand.accent.100}",
           "type": "color"
         },
         "disabled": {
-          "value": "{core.white.500}",
+          "value": "{core.brand.accent.500}",
           "type": "color"
         }
       },
       "border": {
         "default": {
-          "value": "{core.white.300}",
+          "value": "{core.neutral.100}",
           "type": "color"
         },
         "selected": {
-          "value": "{core.brand.support.100}",
+          "value": "{core.brand.accent.400}",
           "type": "color"
         },
         "disabled": {
-          "value": "{core.white.700}",
+          "value": "{core.neutral.600}",
           "type": "color"
         }
       }
@@ -1063,11 +1063,11 @@
     "check-box": {
       "background": {
         "selected": {
-          "value": "{core.brand.support.100}",
+          "value": "{core.brand.accent.100}",
           "type": "color"
         },
         "disabled": {
-          "value": "{core.white.700}",
+          "value": "{core.brand.accent.500}",
           "type": "color"
         }
       },
@@ -1083,11 +1083,11 @@
       },
       "border": {
         "default": {
-          "value": "{core.white.300}",
+          "value": "{core.neutral.100}",
           "type": "color"
         },
         "disabled": {
-          "value": "{core.white.700}",
+          "value": "{core.neutral.600}",
           "type": "color"
         }
       }
@@ -1095,7 +1095,7 @@
     "snackbar": {
       "background": {
         "info": {
-          "value": "{core.neutral.100}",
+          "value": "{core.neutral.200}",
           "type": "color"
         },
         "error": {
@@ -1117,7 +1117,7 @@
           "type": "color"
         },
         "success": {
-          "value": "{core.black.50}",
+          "value": "{core.white.50}",
           "type": "color"
         }
       },
@@ -1131,14 +1131,14 @@
           "type": "color"
         },
         "success": {
-          "value": "{core.black.50}",
+          "value": "{core.white.50}",
           "type": "color"
         }
       }
     },
     "bottom-sheet": {
       "background": {
-        "value": "{core.neutral.500}",
+        "value": "{core.neutral.900}",
         "type": "color"
       },
       "handle": {
@@ -1990,7 +1990,7 @@
         "description": "Used as a background for the background of the main pages, and bottom sheet"
       },
       "secondary": {
-        "value": "{core.black.500}",
+        "value": "{core.neutral.500}",
         "type": "color",
         "description": "Used for the default state of the card"
       },
@@ -2209,7 +2209,7 @@
       "type": "typography"
     },
     "smal": {
-      "value": "{core-radios.full}",
+      "value": "{core-radios.8}",
       "type": "borderRadius"
     },
     "tab-bar": {
