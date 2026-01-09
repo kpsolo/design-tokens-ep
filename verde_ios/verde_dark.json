@@ -2463,7 +2463,7 @@
     "value": {
       "x": "0",
       "y": "0",
-      "blur": "4",
+      "blur": "2",
       "spread": "0",
       "color": "rgba(0,0,0,0.2)",
       "type": "dropShadow"
