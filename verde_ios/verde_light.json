@@ -1593,6 +1593,74 @@
           "type": "color"
         }
       }
+    },
+    "piggy": {
+      "dialog": {
+        "success": {
+          "background": {
+            "value": "linear-gradient(180deg, rgba(30, 32, 2, 0.50) 0%, rgba(47, 70, 2, 0.50) 47.16%, rgba(58, 121, 13, 0.50) 100%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.green.400}",
+            "type": "color"
+          }
+        },
+        "error": {
+          "background": {
+            "value": "linear-gradient(180deg, rgba(33, 31, 1, 0.50) 0%, rgba(42, 21, 1, 0.50) 50%, rgba(144, 0, 0, 0.50) 100%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.red.400}",
+            "type": "color"
+          }
+        },
+        "general": {
+          "background": {
+            "value": "{core.black.400}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.500}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "shake": {
+      "dialog": {
+        "success": {
+          "background": {
+            "value": "linear-gradient(180deg, rgba(30, 32, 2, 0.50) 0%, rgba(47, 70, 2, 0.50) 47.16%, rgba(58, 121, 13, 0.50) 100%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.green.400}",
+            "type": "color"
+          }
+        },
+        "error": {
+          "background": {
+            "value": "linear-gradient(180deg, rgba(33, 31, 1, 0.50) 0%, rgba(42, 21, 1, 0.50) 50%, rgba(144, 0, 0, 0.50) 100%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.red.400}",
+            "type": "color"
+          }
+        },
+        "general": {
+          "background": {
+            "value": "{core.black.400}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.500}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "semantic": {
@@ -2620,6 +2688,14 @@
       "type": "dimension"
     },
     "callout": {
+      "value": "24px",
+      "type": "dimension"
+    },
+    "piggy-dialog": {
+      "value": "24px",
+      "type": "dimension"
+    },
+    "shake-dialog": {
       "value": "24px",
       "type": "dimension"
     }
