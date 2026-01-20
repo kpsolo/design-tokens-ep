@@ -649,11 +649,11 @@
       },
       "bg": {
         "def": {
-          "value": "{base.F5}",
+          "value": "{base.B3}",
           "type": "color"
         },
         "actv": {
-          "value": "{base.F3}",
+          "value": "{base.A2}",
           "type": "color"
         },
         "dis": {
