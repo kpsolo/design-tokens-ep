@@ -605,11 +605,11 @@
       },
       "bg": {
         "def": {
-          "value": "{base.B3}",
+          "value": "{base.A1}",
           "type": "color"
         },
         "actv": {
-          "value": "{base.A2}",
+          "value": "{base.A3}",
           "type": "color"
         },
         "dis": {
