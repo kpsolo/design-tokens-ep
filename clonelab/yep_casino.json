@@ -1,31 +1,31 @@
 {
   "base": {
     "A1": {
-      "value": "#C30054",
+      "value": "#D80400",
       "type": "color"
     },
     "A2": {
-      "value": "#FF2885",
+      "value": "#890022",
       "type": "color"
     },
     "A3": {
-      "value": "#3C297B",
+      "value": "#FFC300",
       "type": "color"
     },
     "B1": {
-      "value": "#4D339F",
+      "value": "#FFE100",
       "type": "color"
     },
     "B2": {
-      "value": "#A4A4B3",
+      "value": "#FFFFFF66",
       "type": "color"
     },
     "B3": {
-      "value": "#004EA8",
+      "value": "#420D1F",
       "type": "color"
     },
     "C1": {
-      "value": "#007F35",
+      "value": "#006E39",
       "type": "color"
     },
     "C2": {
@@ -49,7 +49,7 @@
       "type": "color"
     },
     "E1": {
-      "value": "#FF4D4F",
+      "value": "#FF0048",
       "type": "color"
     },
     "E2": {
@@ -69,23 +69,23 @@
       "type": "color"
     },
     "F3": {
-      "value": "#333366",
+      "value": "#252837",
       "type": "color"
     },
     "F4": {
-      "value": "#272753",
+      "value": "#202330",
       "type": "color"
     },
     "F5": {
-      "value": "#1B1B40",
+      "value": "#1B1E29",
       "type": "color"
     },
     "F6": {
-      "value": "#10102D",
+      "value": "#14161F",
       "type": "color"
     },
     "F7": {
-      "value": "#010104",
+      "value": "#0C0D13",
       "type": "color"
     }
   },
