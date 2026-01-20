@@ -213,5 +213,13 @@
       "Hit'n'Spin": "enabled"
     },
     "$figmaVariableReferences": {}
+  },
+  {
+    "id": "6198618c3ed7bd1b8a8366ad3d00068bee161dea",
+    "name": "yep_casino",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "yep_casino": "enabled"
+    }
   }
 ]
