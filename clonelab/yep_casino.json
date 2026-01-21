@@ -77,11 +77,11 @@
       "type": "color"
     },
     "F5": {
-      "value": "#1B1E29",
+      "value": "#14161F",
       "type": "color"
     },
     "F6": {
-      "value": "#14161F",
+      "value": "#0C0D13",
       "type": "color"
     },
     "F7": {
@@ -91,11 +91,11 @@
   },
   "surface": {
     "primary": {
-      "value": "{base.F6}",
+      "value": "{base.F5}",
       "type": "color"
     },
     "secondary": {
-      "value": "{base.F7}",
+      "value": "{base.F6}",
       "type": "color"
     },
     "transparent": {
