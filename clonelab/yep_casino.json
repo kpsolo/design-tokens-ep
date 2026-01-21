@@ -91,11 +91,11 @@
   },
   "surface": {
     "primary": {
-      "value": "{base.F5}",
+      "value": "{base.F6}",
       "type": "color"
     },
     "secondary": {
-      "value": "{base.F6}",
+      "value": "{base.F7}",
       "type": "color"
     },
     "transparent": {
@@ -117,7 +117,7 @@
   },
   "background": {
     "primary": {
-      "value": "{base.F5}",
+      "value": "{base.F6}",
       "type": "color"
     },
     "secondary": {
