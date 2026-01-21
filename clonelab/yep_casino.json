@@ -316,11 +316,11 @@
       }
     },
     "accent": {
-      "value": "{base.A3}",
+      "value": "{base.A1}",
       "type": "color"
     },
     "brand": {
-      "value": "{base.A1}",
+      "value": "{base.A3}",
       "type": "color"
     },
     "success": {
@@ -362,7 +362,7 @@
       "type": "color"
     },
     "brand": {
-      "value": "{base.A1}",
+      "value": "{base.A3}",
       "type": "color"
     },
     "ondark": {
