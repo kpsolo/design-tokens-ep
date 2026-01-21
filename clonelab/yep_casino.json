@@ -117,7 +117,7 @@
   },
   "background": {
     "primary": {
-      "value": "{base.F6}",
+      "value": "{base.F5}",
       "type": "color"
     },
     "secondary": {
