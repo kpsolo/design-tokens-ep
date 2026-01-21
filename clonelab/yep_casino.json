@@ -514,7 +514,7 @@
     },
     "bg": {
       "def": {
-        "value": "{base.F7}",
+        "value": "{base.F5}",
         "type": "color"
       },
       "actv": {
