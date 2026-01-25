@@ -324,7 +324,7 @@
   "contextual": {
     "tab-bar": {
       "background": {
-        "value": "{core.black.100}",
+        "value": "{core.neutral.900}",
         "type": "color",
         "description": "Used for the background of the tab bar container"
       },
@@ -335,7 +335,7 @@
       },
       "text": {
         "active": {
-          "value": "#2dd890",
+          "value": "{core.brand.accent.100}",
           "type": "color",
           "description": "The color of the selected tab"
         },
@@ -362,7 +362,7 @@
           "description": "Color of inactive tab (used for icon)"
         },
         "active": {
-          "value": "#2dd890",
+          "value": "{core.brand.accent.100}",
           "type": "color",
           "description": "Color of selected tab (used for icon)"
         },
@@ -374,7 +374,7 @@
       },
       "border": {
         "active": {
-          "value": "#2DD890",
+          "value": "{core.brand.accent.100}",
           "type": "color"
         },
         "default": {
@@ -1401,7 +1401,7 @@
           "type": "color"
         },
         "attention": {
-          "value": "{core.brand.support.600}",
+          "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.brand.accent.200} 100%)",
           "type": "color"
         },
         "info": {
@@ -1482,7 +1482,7 @@
     },
     "skeleton": {
       "background": {
-        "value": "linear-gradient(135deg, rgba(100, 137, 255, 0.30) 0%, rgba(100, 137, 255, 0.10) 100%)",
+        "value": "linear-gradient(135deg, {core.brand.accent.600} 0%, {core.brand.accent.500} 100%)",
         "type": "color"
       },
       "logo": {
@@ -1824,7 +1824,7 @@
       },
       "secondary": {
         "indicator": {
-          "value": "{core.white.50}",
+          "value": "{core.brand.support.300}",
           "type": "color"
         },
         "track": {
