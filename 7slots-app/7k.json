@@ -1569,7 +1569,7 @@
     "tag-thumb": {
       "background": {
         "new": {
-          "value": "linear-gradient(135deg, rgb(9, 198, 249) 0%, rgb(4, 93, 233) 100%)",
+          "value": "linear-gradient(180deg, {core.brand.support.300} 0%, {core.brand.support.500} 100%)",
           "type": "color"
         },
         "tournaments": {
@@ -1578,7 +1578,7 @@
         }
       },
       "icon": {
-        "value": "{core.white.50}",
+        "value": "{core.black.50}",
         "type": "color"
       }
     },
@@ -1619,39 +1619,39 @@
     "bonus": {
       "background": {
         "no-deposit": {
-          "value": "linear-gradient(241deg, #8BC9FF 7.95%, #6F00FF 92.05%)",
+          "value": "linear-gradient(123deg, {core.brand.accent.300} 0%, {core.brand.accent.400} 50%, {core.brand.accent.500} 100%)",
           "type": "color"
         },
         "manual": {
-          "value": "linear-gradient(123deg, #0052D4 0%, #4364F7 50%, #6FB1FC 100%)",
+          "value": "linear-gradient(123deg, {core.brand.accent.300} 0%, {core.brand.accent.400} 50%, {core.brand.accent.500} 100%)",
           "type": "color"
         },
         "progressive": {
-          "value": "linear-gradient(309deg, #9C1EBC 0%, #D72590 49.34%, #FF7676 100%)",
+          "value": "linear-gradient(123deg, {core.brand.accent.300} 0%, {core.brand.accent.400} 50%, {core.brand.accent.500} 100%)",
           "type": "color"
         },
         "range": {
-          "value": "linear-gradient(135deg, #D24074 0%, #A21599 50%, #6518B4 100%)",
+          "value": "linear-gradient(123deg, {core.brand.accent.300} 0%, {core.brand.accent.400} 50%, {core.brand.accent.500} 100%)",
           "type": "color"
         },
         "total-bets": {
-          "value": "linear-gradient(127deg, #E13303 0%, #FF6923 50.42%, #FF8127 100%)",
+          "value": "linear-gradient(123deg, {core.brand.accent.300} 0%, {core.brand.accent.400} 50%, {core.brand.accent.500} 100%)",
           "type": "color"
         },
         "choose": {
-          "value": "linear-gradient(128deg, #0A3AE6 0%, #8B66F6 50%, #CB5DFF 100%)",
+          "value": "linear-gradient(123deg, {core.brand.accent.300} 0%, {core.brand.accent.400} 50%, {core.brand.accent.500} 100%)",
           "type": "color"
         },
         "reactivate": {
-          "value": "linear-gradient(123deg, #F28703 0%, #FFB115 50%, #F4C003 100%)",
+          "value": "linear-gradient(123deg, {core.brand.accent.300} 0%, {core.brand.accent.400} 50%, {core.brand.accent.500} 100%)",
           "type": "color"
         },
         "permanent": {
-          "value": "linear-gradient(225deg, #6D158C 0%, #A82CD3 100%)",
+          "value": "linear-gradient(123deg, {core.brand.accent.300} 0%, {core.brand.accent.400} 50%, {core.brand.accent.500} 100%)",
           "type": "color"
         },
         "promo-code": {
-          "value": "linear-gradient(135deg, #FD8709 2.88%, #F72FD9 100%)",
+          "value": "linear-gradient(123deg, {core.brand.accent.300} 0%, {core.brand.accent.400} 50%, {core.brand.accent.500} 100%)",
           "type": "color"
         },
         "inactive": {
@@ -1659,46 +1659,46 @@
           "type": "color"
         },
         "welcome": {
-          "value": "linear-gradient(224deg, rgba(242, 81, 31, 1) 23.7%, rgba(41, 126, 254, 1) 79.69%)",
+          "value": "linear-gradient(123deg, {core.brand.accent.300} 0%, {core.brand.accent.400} 50%, {core.brand.accent.500} 100%)",
           "type": "color",
           "description": "Used for the background of the first welcome screen when the application is launched"
         }
       },
       "sheet": {
         "no-deposit": {
-          "value": "linear-gradient(194deg, #8AC8FE 0%, #5102B8 43.04%, #111E45 100%)",
+          "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.neutral.900} 100%)",
           "type": "color"
         },
         "manual": {
-          "value": "linear-gradient(180deg, #3661EF 0%, #0B3D9A 30.43%, #192D6B 100%)",
+          "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.neutral.900} 100%)",
           "type": "color"
         },
         "progressive": {
-          "value": "linear-gradient(180deg, #F05E7D 0%, #7B2C67 30.43%, #241D5A 100%)",
+          "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.neutral.900} 100%)",
           "type": "color"
         },
         "range": {
-          "value": "linear-gradient(180deg, #C7377B 0%, #7B2C67 30.43%, #241D5A 100%)",
+          "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.neutral.900} 100%)",
           "type": "color"
         },
         "total-bets": {
-          "value": "linear-gradient(180deg, #E13303 0%, #BA5127 30.43%, #42303E 100%)",
+          "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.neutral.900} 100%)",
           "type": "color"
         },
         "choose": {
-          "value": "linear-gradient(180deg, #6D5BEF 0%, #404DEC 30.43%, #2F2C6A 100%), linear-gradient(194deg, #8AC8FE 0%, #5102B8 43.04%, #111E45 100%)",
+          "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.neutral.900} 100%)",
           "type": "color"
         },
         "reactivate": {
-          "value": "linear-gradient(166deg, #F28703 0%, #8E6F2A 43.04%, #534D32 100%)",
+          "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.neutral.900} 100%)",
           "type": "color"
         },
         "permanent": {
-          "value": "linear-gradient(180deg, #811DA4 0%, #472076 30.43%, #302162 100%)",
+          "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.neutral.900} 100%)",
           "type": "color"
         },
         "welcome": {
-          "value": "linear-gradient(180deg, #EF511F 0%, #0B3DA1 100%)",
+          "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.neutral.900} 100%)",
           "type": "color"
         },
         "inactive": {
