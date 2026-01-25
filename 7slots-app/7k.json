@@ -1545,11 +1545,11 @@
       },
       "secondary": {
         "active": {
-          "value": "{core.white.50}",
+          "value": "{core.brand.support.400}",
           "type": "color"
         },
         "default": {
-          "value": "{core.white.600}",
+          "value": "{core.neutral.300}",
           "type": "color"
         }
       }
@@ -1557,7 +1557,7 @@
     "data-confirm": {
       "email": {
         "background": {
-          "value": "rgba(51,128,243,1)",
+          "value": "{core.brand.accent.500}",
           "type": "color"
         },
         "text": {
