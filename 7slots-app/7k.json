@@ -1007,7 +1007,7 @@
     "badge": {
       "background": {
         "primary": {
-          "value": "{core.brand.accent.100}",
+          "value": "{core.brand.support.300}",
           "type": "color"
         },
         "secondary": {
@@ -1021,7 +1021,7 @@
       },
       "text": {
         "primary": {
-          "value": "{core.white.50}",
+          "value": "{core.black.50}",
           "type": "color"
         },
         "secondary": {
