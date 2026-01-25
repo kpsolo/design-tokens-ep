@@ -1493,7 +1493,7 @@
     "category": {
       "background": {
         "active": {
-          "value": "#00000000",
+          "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.brand.accent.200} 100%)",
           "type": "color"
         },
         "inactive": {
@@ -1503,7 +1503,7 @@
       },
       "text": {
         "active": {
-          "value": "{core.brand.support.100}",
+          "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.brand.accent.200} 100%)",
           "type": "color"
         },
         "inactive": {
@@ -1513,11 +1513,11 @@
       },
       "border": {
         "active": {
-          "value": "{core.brand.support.100}",
+          "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.brand.accent.200} 100%)",
           "type": "color"
         },
         "inactive": {
-          "value": "#00000000",
+          "value": "{core.white.600}",
           "type": "color"
         }
       },
