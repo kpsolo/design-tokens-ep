@@ -866,25 +866,25 @@
     "text-fields": {
       "background": {
         "default": {
-          "value": "#00000000",
+          "value": "{core.neutral.400}",
           "type": "color",
           "description": "Field text used for the background"
         },
         "focused": {
-          "value": "#00000000",
+          "value": "{core.neutral.400}",
           "type": "color"
         },
         "danger": {
-          "value": "#00000000",
+          "value": "{core.neutral.400}",
           "type": "color"
         },
         "disabled": {
-          "value": "#00000000",
+          "value": "{core.neutral.600}",
           "type": "color"
         }
       },
       "cursor": {
-        "value": "{core.brand.accent.100}",
+        "value": "{core.brand.support.300}",
         "type": "color",
         "description": "Used for the cursor when focusing with a text field"
       },
@@ -938,12 +938,12 @@
       },
       "border": {
         "enabled": {
-          "value": "{core.white.400}",
+          "value": "#00000000",
           "type": "color",
           "description": "Default stroke root field text"
         },
         "focused": {
-          "value": "{core.brand.support.100}",
+          "value": "{core.brand.support.300}",
           "type": "color",
           "description": "The root of interaction with the text field "
         },
@@ -953,7 +953,7 @@
           "description": "Error color for the border"
         },
         "disabled": {
-          "value": "{core.white.500}",
+          "value": "#00000000",
           "type": "color"
         }
       }
