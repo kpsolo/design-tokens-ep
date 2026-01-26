@@ -2338,7 +2338,7 @@
   "card": {
     "winning_now": {
       "thumb": {
-        "value": "{core-radios.16}",
+        "value": "{core-radios.full}",
         "type": "borderRadius"
       },
       "surface": {
