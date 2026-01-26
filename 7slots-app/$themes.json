@@ -618,7 +618,6 @@
       "category": "5b68ac8187a60cd9b9df2fb0bf8c87d9ee3bb9b5",
       "categor": "6be9f8e4467033c1d55bd05ed731877f9da96d68",
       "page-control": "6038cc0e5398a2a53ffd975fd48f179de16145a5",
-      "fontFamilies.inter": "5b3c4c35211eddea19ec193c0ab04309e1b99135",
       "lineHeights.10": "850a1397bc30b6860825574d575c1799b859ccb8",
       "lineHeights.12": "b56d94df89d250d10edbdba5b29b050c70f3e71c",
       "lineHeights.16": "47bb14a50f3495e7fb97e9e9bad17f401f59d755",
@@ -654,7 +653,8 @@
       "tournaments.card": "ed1e2c63ed43f9fc605de0b079a1e6c9d669f151",
       "tournaments.surface": "f42bd85ae595a3b62588ccd6b3955fe521af43ca",
       "lottery.card": "1f84577271c441b4475817bd8572be82edd2e336",
-      "lottery.surface": "66835299503b343ab3c47fe471136b47bac920c8"
+      "lottery.surface": "66835299503b343ab3c47fe471136b47bac920c8",
+      "fontFamilies.manrope": "5b3c4c35211eddea19ec193c0ab04309e1b99135"
     },
     "$figmaCollectionId": "VariableCollectionId:25278:667",
     "$figmaModeId": "25278:0"
@@ -1219,7 +1219,7 @@
       "category": "ccbb9132619af592185f06637062d240b69a644e",
       "categor": "db547a439e484125f38d5bb60cf713866451a03c",
       "page-control": "00224b03ba012b052d181a7999788b54f6418e4e",
-      "fontFamilies.inter": "5d56dc8a30440c725eece4f48a01cddcfdaf1ffd",
+      "fontFamilies.manrope": "5d56dc8a30440c725eece4f48a01cddcfdaf1ffd",
       "lineHeights.10": "1d8c1adce0438478a4ddea87c39e80f12360871a",
       "lineHeights.12": "746bf2f6a825ed986d40343d662d4f863d836577",
       "lineHeights.16": "77a856ba9356b1dbbd2b833a1d3b914a0dffc2f1",
