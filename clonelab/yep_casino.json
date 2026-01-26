@@ -169,8 +169,9 @@
       "type": "color"
     },
     "gray": {
-      "value": "{base.F6}",
-      "type": "color"
+      "value": "{base.F4}",
+      "type": "color",
+      "description": "change bg grey"
     },
     "contrast": {
       "value": "{base.F5}",
