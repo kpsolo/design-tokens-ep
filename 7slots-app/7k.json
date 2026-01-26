@@ -2130,7 +2130,7 @@
         "description": "Used for a disabled border on a dark background"
       },
       "accent": {
-        "value": "{core.brand.accent.100}",
+        "value": "{core.brand.support.300}",
         "type": "color"
       },
       "success": {
