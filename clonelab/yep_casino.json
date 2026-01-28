@@ -169,12 +169,12 @@
       "type": "color"
     },
     "gray": {
-      "value": "{base.F4}",
+      "value": "{base.F7}",
       "type": "color",
       "description": "change bg grey"
     },
     "contrast": {
-      "value": "{base.F5}",
+      "value": "{base.F4}",
       "type": "color"
     },
     "none": {
