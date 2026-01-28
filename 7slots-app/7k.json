@@ -2040,7 +2040,7 @@
           "type": "color"
         },
         "backdrop": {
-          "value": "rgba(113, 0, 0, 0.3)",
+          "value": "rgba(0, 0, 0, 0.7)",
           "type": "color",
           "description": "It is used as a shadow under the pop-up and bottom sheet"
         },
