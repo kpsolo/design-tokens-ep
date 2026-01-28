@@ -1751,49 +1751,49 @@
     },
     "balances": {
       "current": {
-        "value": "linear-gradient(-45deg, #2830fa 0%, #0b7feb 100%)",
+        "value": "linear-gradient(0deg, rgb(44, 13, 2) 0%, rgb(148, 12, 5) 50%, rgb(169, 3, 3) 100%)",
         "type": "color",
         "description": "Color is used for current balance"
       },
       "bonus": {
-        "value": "linear-gradient(241deg, #00b274 0%, #00abbd 100%)",
+        "value": "linear-gradient(0deg, rgb(44, 13, 2) 0%, rgb(148, 12, 5) 50%, rgb(169, 3, 3) 100%)",
         "type": "color",
         "description": "Color is used for bonus balance"
       },
       "points": {
-        "value": "linear-gradient(135deg, #6d158c 0%, #d55cff 100%)",
+        "value": "linear-gradient(0deg, rgb(44, 13, 2) 0%, rgb(148, 12, 5) 50%, rgb(169, 3, 3) 100%)",
         "type": "color",
         "description": "Color is used for points balance"
       },
       "сashback": {
-        "value": "linear-gradient(0deg, #e84702 0%, #ffb133 100%)",
+        "value": "linear-gradient(0deg, rgb(44, 13, 2) 0%, rgb(148, 12, 5) 50%, rgb(169, 3, 3) 100%)",
         "type": "color",
         "description": "Color is used for сashback balance"
       },
       "savings": {
-        "value": "linear-gradient(132deg, #ff6a9c 0%, #fe5762 100%)",
+        "value": "linear-gradient(0deg, rgb(44, 13, 2) 0%, rgb(148, 12, 5) 50%, rgb(169, 3, 3) 100%)",
         "type": "color",
         "description": "Color is used for savings balance"
       },
       "real": {
-        "value": "linear-gradient(135deg, #ff5858 0%, #bf0dce 100%)",
+        "value": "linear-gradient(0deg, rgb(44, 13, 2) 0%, rgb(148, 12, 5) 50%, rgb(169, 3, 3) 100%)",
         "type": "color",
         "description": "Color is used for real balance"
       }
     },
     "welcome_scr": {
       "ws01": {
-        "value": "linear-gradient(225deg, rgba(255, 0, 79, 1) 0%, rgba(8, 158, 233, 1) 100%)",
+        "value": "linear-gradient(135deg, rgb(216, 104, 0) 0%, rgb(215, 0, 57) 50%, rgb(208, 3, 3) 100%)",
         "type": "color",
         "description": "Used for the background of the second welcome screen when the application starts"
       },
       "ws02": {
-        "value": "linear-gradient(225deg, rgba(80, 204, 252, 1) 0%, rgba(82, 0, 255, 1) 100%)",
+        "value": "linear-gradient(135deg, rgb(97, 0, 255) 0%, rgb(183, 0, 0) 100%)",
         "type": "color",
         "description": "Used for the background of the third welcome screen when the application starts"
       },
       "login": {
-        "value": "linear-gradient(218deg, #1FC86C 18.18%, #297EFE 63.54%)",
+        "value": "linear-gradient(0deg, rgb(44, 13, 2) 0%, rgb(148, 12, 5) 50%, rgb(169, 3, 3) 100%)",
         "type": "color"
       }
     },
