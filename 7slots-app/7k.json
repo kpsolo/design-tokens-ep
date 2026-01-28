@@ -866,16 +866,16 @@
     "text-fields": {
       "background": {
         "default": {
-          "value": "{core.neutral.400}",
+          "value": "{core.neutral.300}",
           "type": "color",
           "description": "Field text used for the background"
         },
         "focused": {
-          "value": "{core.neutral.400}",
+          "value": "{core.neutral.300}",
           "type": "color"
         },
         "danger": {
-          "value": "{core.neutral.400}",
+          "value": "{core.neutral.300}",
           "type": "color"
         },
         "disabled": {
