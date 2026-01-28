@@ -1138,7 +1138,7 @@
     },
     "bottom-sheet": {
       "background": {
-        "value": "{core.neutral.900}",
+        "value": "{core.neutral.800}",
         "type": "color"
       },
       "handle": {
@@ -2040,7 +2040,7 @@
           "type": "color"
         },
         "backdrop": {
-          "value": "{core.black.500}",
+          "value": "rgba(113, 0, 0, 0.3)",
           "type": "color",
           "description": "It is used as a shadow under the pop-up and bottom sheet"
         },
