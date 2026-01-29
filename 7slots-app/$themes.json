@@ -1116,7 +1116,13 @@
       "progressbar.tertiary": "S:4bf9704be6c4d83467876e16c136cdb3ddf70877,",
       "snackbars": "S:2ab32d8aa77ff940b5eb01ed1a743c743ae82b4c,",
       "winning_thumb": "S:1dfd59c03e2dd6a2fcc7c86a1fa5a6cead9430f1,",
-      "tooltips": "S:923cf6ee1302a35c349eadcff6535d1ad5753e38,"
+      "tooltips": "S:923cf6ee1302a35c349eadcff6535d1ad5753e38,",
+      "contextual.story.active.background": "S:dfd00a97aff37a24f02b9763ddd848e9e281a430,",
+      "contextual.story.active.border": "S:2a12702ae9531362bfda50f22fe37bf4e3957004,",
+      "contextual.story.active.icon": "S:f08eef251794b1ec0718ab708e6ecd1eadb70de7,",
+      "contextual.story.inactive.background": "S:56f4fbba6d32dc80d925de4b6357586a7c7e3e28,",
+      "contextual.story.inactive.border": "S:d443bdad93880427c573d11f24b4c2b137a0ec26,",
+      "contextual.story.inactive.icon": "S:dee1039c10569d511edb1c9db0699e34ec33e513,"
     },
     "selectedTokenSets": {
       "7k": "enabled"
