@@ -1371,10 +1371,6 @@
         "info": {
           "value": "{core.white.500}",
           "type": "color"
-        },
-        "story": {
-          "value": "{core.white.700}",
-          "type": "color"
         }
       },
       "text": {
@@ -1828,6 +1824,42 @@
           "type": "color"
         }
       }
+    },
+    "story": {
+      "active": {
+        "background": {
+          "value": "linear-gradient(225deg, rgba(138, 59, 238, 1) 0%, rgba(242, 0, 183, 1) 39%, rgba(254, 148, 2, 1) 91.67%)",
+          "type": "color",
+          "description": "Used for active and new stories that the user has not yet viewed"
+        },
+        "border": {
+          "value": "#00000000",
+          "type": "color",
+          "description": "Used for active and new stories that the user has not yet viewed"
+        },
+        "icon": {
+          "value": "{core.white.50}",
+          "type": "color",
+          "description": "Used for active and new stories that the user has not yet viewed"
+        }
+      },
+      "inactive": {
+        "background": {
+          "value": "{core.white.700}",
+          "type": "color",
+          "description": "Used for active and new stories that the user has not yet viewed"
+        },
+        "border": {
+          "value": "#00000000",
+          "type": "color",
+          "description": "Used for active and new stories that the user has not yet viewed"
+        },
+        "icon": {
+          "value": "{core.white.50}",
+          "type": "color",
+          "description": "Used for active and new stories that the user has not yet viewed"
+        }
+      }
     }
   },
   "semantic": {
@@ -2111,11 +2143,6 @@
         "value": "{core.red.50}",
         "type": "color",
         "description": "Used to highlight an error"
-      },
-      "story": {
-        "value": "linear-gradient(225deg, rgba(138, 59, 238, 1) 0%, rgba(242, 0, 183, 1) 39%, rgba(254, 148, 2, 1) 91.67%)",
-        "type": "color",
-        "description": "Used for active and new stories that the user has not yet viewed"
       },
       "static": {
         "primary": {
