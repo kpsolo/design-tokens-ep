@@ -1752,27 +1752,27 @@
         "description": "Color is used for current balance"
       },
       "bonus": {
-        "value": "linear-gradient(0deg, rgb(44, 13, 2) 0%, rgb(148, 12, 5) 50%, rgb(169, 3, 3) 100%)",
+        "value": "linear-gradient(180deg, rgb(182, 90, 44) 0%, rgb(126, 55, 24) 50%, rgb(69, 20, 3) 100%)",
         "type": "color",
         "description": "Color is used for bonus balance"
       },
       "points": {
-        "value": "linear-gradient(0deg, rgb(44, 13, 2) 0%, rgb(148, 12, 5) 50%, rgb(169, 3, 3) 100%)",
+        "value": "linear-gradient(180deg, rgb(167, 146, 121) 0%, rgb(105, 82, 60) 50%, rgb(61, 42, 26) 100%)",
         "type": "color",
         "description": "Color is used for points balance"
       },
       "сashback": {
-        "value": "linear-gradient(0deg, rgb(44, 13, 2) 0%, rgb(148, 12, 5) 50%, rgb(169, 3, 3) 100%)",
+        "value": "linear-gradient(180deg, rgb(219, 157, 14) 0%, rgb(167, 101, 8) 50%, rgb(115, 44, 1) 100%)",
         "type": "color",
         "description": "Color is used for сashback balance"
       },
       "savings": {
-        "value": "linear-gradient(0deg, rgb(44, 13, 2) 0%, rgb(148, 12, 5) 50%, rgb(169, 3, 3) 100%)",
+        "value": "linear-gradient(180deg, rgb(163, 66, 66) 0%, rgb(99, 38, 69) 50%, rgb(35, 10, 25) 100%)",
         "type": "color",
         "description": "Color is used for savings balance"
       },
       "real": {
-        "value": "linear-gradient(0deg, rgb(44, 13, 2) 0%, rgb(148, 12, 5) 50%, rgb(169, 3, 3) 100%)",
+        "value": "linear-gradient(180deg, rgb(193, 68, 44) 0%, rgb(143, 40, 28) 50%, rgb(94, 11, 11) 100%)",
         "type": "color",
         "description": "Color is used for real balance"
       }
