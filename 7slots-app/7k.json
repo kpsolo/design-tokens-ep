@@ -2092,15 +2092,15 @@
         },
         "total black": {
           "primary": {
-            "value": "rgba(0, 0, 0, 0.50)",
-            "type": "color"
-          },
-          "secondary": {
             "value": "rgba(0, 0, 0, 0.40)",
             "type": "color"
           },
-          "tertiary": {
+          "secondary": {
             "value": "rgba(0, 0, 0, 0.30)",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "rgba(0, 0, 0, 0.20)",
             "type": "color"
           }
         }
