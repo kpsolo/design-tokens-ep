@@ -517,7 +517,19 @@
       "contextual.progres.static.indicator": "S:f3e957e9f38b95e4a2219646e2ffebdeed61dae3,",
       "contextual.progres.static.content": "S:2e0b062b2a2ef9c82b665ecefbb95963f6065fd3,",
       "contextual.progres.profile.indicator": "S:0d22a34a43471f2bee53bfa5c5459e2522d40809,",
-      "contextual.progres.profile.content": "S:44060ae6ed29a2c7b59c6c781b964d26605518dc,"
+      "contextual.progres.profile.content": "S:44060ae6ed29a2c7b59c6c781b964d26605518dc,",
+      "contextual.tag.story.active.background": "S:1663f3be9512355da9cb2df5ce54cc163d047a4a,",
+      "contextual.tag.story.active.border": "S:3e25ce0398e99aea439d92ccffda8066222e8b6d,",
+      "contextual.tag.story.active.icon": "S:d1e445f801d4a5133a932c2ca7f581edbefd8705,",
+      "contextual.tag.story.inactive.background": "S:0da9333cb629626b26475e5dbafb3dce6293f7e9,",
+      "contextual.tag.story.inactive.border": "S:6424680e4fc860ef77e73433b8903fe4c6195c8d,",
+      "contextual.tag.story.inactive.icon": "S:edb3616cb5fac723dfb8ae554eedd44d695c13ec,",
+      "contextual.tag.thumb.tournaments.background": "S:f7a0dd7ddf4700b8bb487a3b59389b7077997ec3,",
+      "contextual.tag.thumb.tournaments.icon": "S:ff9212fb8c3a021bfd011057be6b54bf579daf77,",
+      "contextual.tag.thumb.new.background": "S:3c879c70ba8ee996096c5ad513a7f968ba280c3f,",
+      "contextual.tag.thumb.new.icon": "S:f39ef71b455b06d15e7fa212c67b02508af77f09,",
+      "contextual.tag.bonus.best.background": "S:30c4153aedde87578fa9ddce50997ed461630ef1,",
+      "contextual.tag.bonus.best.text": "S:ceb8e3aa3a4bac2a487acd193e7438d733353115,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -618,6 +630,7 @@
       "category": "5b68ac8187a60cd9b9df2fb0bf8c87d9ee3bb9b5",
       "categor": "6be9f8e4467033c1d55bd05ed731877f9da96d68",
       "page-control": "6038cc0e5398a2a53ffd975fd48f179de16145a5",
+      "fontFamilies.manrope": "5b3c4c35211eddea19ec193c0ab04309e1b99135",
       "lineHeights.10": "850a1397bc30b6860825574d575c1799b859ccb8",
       "lineHeights.12": "b56d94df89d250d10edbdba5b29b050c70f3e71c",
       "lineHeights.16": "47bb14a50f3495e7fb97e9e9bad17f401f59d755",
@@ -653,8 +666,7 @@
       "tournaments.card": "ed1e2c63ed43f9fc605de0b079a1e6c9d669f151",
       "tournaments.surface": "f42bd85ae595a3b62588ccd6b3955fe521af43ca",
       "lottery.card": "1f84577271c441b4475817bd8572be82edd2e336",
-      "lottery.surface": "66835299503b343ab3c47fe471136b47bac920c8",
-      "fontFamilies.manrope": "5b3c4c35211eddea19ec193c0ab04309e1b99135"
+      "lottery.surface": "66835299503b343ab3c47fe471136b47bac920c8"
     },
     "$figmaCollectionId": "VariableCollectionId:25278:667",
     "$figmaModeId": "25278:0"
