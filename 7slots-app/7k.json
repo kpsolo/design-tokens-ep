@@ -2092,37 +2092,37 @@
         },
         "total black": {
           "primary": {
-            "value": "{core.black.500}",
+            "value": "rgba(0, 0, 0, 0.50)",
             "type": "color"
           },
           "secondary": {
-            "value": "{core.black.600}",
+            "value": "rgba(0, 0, 0, 0.40)",
             "type": "color"
           },
           "tertiary": {
-            "value": "{core.black.700}",
+            "value": "rgba(0, 0, 0, 0.30)",
             "type": "color"
           }
         }
       },
       "shadow": {
         "left": {
-          "value": "linear-gradient(270deg, #070d1e00 0%, #070d1eb3 100%)",
+          "value": "linear-gradient(270deg, rgba(17, 13, 14, 0.00) 0%, rgba(17, 13, 14, 0.50) 100%)",
           "type": "color",
           "description": "Used as a surface to highlight text above it"
         },
         "bottom": {
-          "value": "linear-gradient(180deg, #070d1e00 0%, #070d1eb3 100%)",
+          "value": "linear-gradient(180deg, rgba(17, 13, 14, 0.00) 0%, rgba(17, 13, 14, 0.50) 100%)",
           "type": "color",
           "description": "Used as a surface to highlight text above it"
         },
         "top": {
-          "value": "linear-gradient(180deg, #070d1eb3 0%, #070d1e00 100%)",
+          "value": "linear-gradient(180deg, rgba(17, 13, 14, 0.50) 0%, rgba(17, 13, 14, 0.00) 100%)",
           "type": "color",
           "description": "Used as a surface to highlight text above it"
         },
         "right": {
-          "value": "linear-gradient(90deg, #070d1e00 0%, #070d1eb3 100%)",
+          "value": "linear-gradient(90deg, rgba(17, 13, 14, 0.00) 0%, rgba(17, 13, 14, 0.50) 100%)",
           "type": "color",
           "description": "Used as a surface to highlight text above it"
         }
