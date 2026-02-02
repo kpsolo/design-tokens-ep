@@ -1122,7 +1122,19 @@
       "contextual.story.active.icon": "S:f08eef251794b1ec0718ab708e6ecd1eadb70de7,",
       "contextual.story.inactive.background": "S:56f4fbba6d32dc80d925de4b6357586a7c7e3e28,",
       "contextual.story.inactive.border": "S:d443bdad93880427c573d11f24b4c2b137a0ec26,",
-      "contextual.story.inactive.icon": "S:dee1039c10569d511edb1c9db0699e34ec33e513,"
+      "contextual.story.inactive.icon": "S:dee1039c10569d511edb1c9db0699e34ec33e513,",
+      "contextual.tag.story.active.background": "S:df3b5c8e3517c85d215c34121d58b964ab3242c3,",
+      "contextual.tag.story.active.border": "S:da5b6358fc1cf832a3d1078338aac4a46bd499de,",
+      "contextual.tag.story.active.icon": "S:651dc97699f8e4c2fb3a87087e46470cff56b7d6,",
+      "contextual.tag.story.inactive.background": "S:46ebb1bdfe49f1f9698e951d349f439e21adb312,",
+      "contextual.tag.story.inactive.border": "S:25b834499cf7e09be218f972ba97f5b0be4baadf,",
+      "contextual.tag.story.inactive.icon": "S:85979dd3b02e15edee6e95c88b03a3dbbdd0bdd7,",
+      "contextual.tag.thumb.tournaments.background": "S:baff58a7c6c5ccbd63849277bfa9c7b4f218a4be,",
+      "contextual.tag.thumb.tournaments.icon": "S:44d5fc04777f97c4dd9e5bb38e2264af86f88f36,",
+      "contextual.tag.thumb.new.background": "S:2df7d29ae13d5c13d832677e8e0f9d1db96bd691,",
+      "contextual.tag.thumb.new.icon": "S:daaa9a0498a1423c8a434a0432c40f7022c20565,",
+      "contextual.tag.bonus.best.background": "S:02312d625228b62ceec074af45c4307e533432c8,",
+      "contextual.tag.bonus.best.text": "S:4a05ee6187e3714e41398472039a48aa9bb60768,"
     },
     "selectedTokenSets": {
       "7k": "enabled"
