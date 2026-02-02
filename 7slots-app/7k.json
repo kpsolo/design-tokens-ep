@@ -2655,7 +2655,7 @@
   },
   "fontFamilies": {
     "manrope": {
-      "value": "Inter",
+      "value": "manrope",
       "type": "fontFamilies"
     }
   },
