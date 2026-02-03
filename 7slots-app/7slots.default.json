@@ -1918,7 +1918,7 @@
             "type": "color"
           },
           "regular": {
-            "value": "{core.black.50}",
+            "value": "{core.white.50}",
             "type": "color"
           },
           "premium": {
