@@ -1782,16 +1782,6 @@
         "type": "color"
       }
     },
-    "background": {
-      "pre-gaming": {
-        "value": "{core.neutral.600}",
-        "type": "color"
-      },
-      "pop-up": {
-        "value": "{core.neutral.500}",
-        "type": "color"
-      }
-    },
     "progres": {
       "primary": {
         "indicator": {
@@ -1916,6 +1906,66 @@
             "type": "color"
           },
           "text": {
+            "value": "{core.white.50}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "dialogs": {
+      "background": {
+        "value": "{core.neutral.500}",
+        "type": "color"
+      }
+    },
+    "pre-gaming": {
+      "background": {
+        "value": "{core.neutral.600}",
+        "type": "color"
+      }
+    },
+    "tournaments": {
+      "background": {
+        "enabled": {
+          "value": "linear-gradient(140deg, rgb(180, 55, 36) 1.93%, rgb(122, 19, 55) 50.97%, rgb(42, 7, 1) 100%)",
+          "type": "color"
+        },
+        "finished": {
+          "value": "{core.white.500}",
+          "type": "color"
+        }
+      }
+    },
+    "lottery": {
+      "background": {
+        "enabled": {
+          "value": "linear-gradient(140deg, rgb(180, 55, 36) 1.93%, rgb(122, 19, 55) 50.97%, rgb(42, 7, 1) 100%)",
+          "type": "color"
+        },
+        "finished": {
+          "value": "{core.white.500}",
+          "type": "color"
+        }
+      },
+      "tiket": {
+        "text": {
+          "base": {
+            "value": "{core.white.50}",
+            "type": "color"
+          },
+          "regular": {
+            "value": "{core.white.50}",
+            "type": "color"
+          },
+          "premium": {
+            "value": "{core.black.50}",
+            "type": "color"
+          },
+          "regular-win": {
+            "value": "{core.white.50}",
+            "type": "color"
+          },
+          "premium-win": {
             "value": "{core.white.50}",
             "type": "color"
           }
