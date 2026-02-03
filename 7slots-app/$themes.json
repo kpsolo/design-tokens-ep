@@ -631,7 +631,7 @@
       "category": "5b68ac8187a60cd9b9df2fb0bf8c87d9ee3bb9b5",
       "categor": "6be9f8e4467033c1d55bd05ed731877f9da96d68",
       "page-control": "6038cc0e5398a2a53ffd975fd48f179de16145a5",
-      "fontFamilies.manrope": "5b3c4c35211eddea19ec193c0ab04309e1b99135",
+      "fontFamilies.inter": "5b3c4c35211eddea19ec193c0ab04309e1b99135",
       "lineHeights.10": "850a1397bc30b6860825574d575c1799b859ccb8",
       "lineHeights.12": "b56d94df89d250d10edbdba5b29b050c70f3e71c",
       "lineHeights.16": "47bb14a50f3495e7fb97e9e9bad17f401f59d755",
@@ -1251,7 +1251,6 @@
       "category": "ccbb9132619af592185f06637062d240b69a644e",
       "categor": "db547a439e484125f38d5bb60cf713866451a03c",
       "page-control": "00224b03ba012b052d181a7999788b54f6418e4e",
-      "fontFamilies.manrope": "5d56dc8a30440c725eece4f48a01cddcfdaf1ffd",
       "lineHeights.10": "1d8c1adce0438478a4ddea87c39e80f12360871a",
       "lineHeights.12": "746bf2f6a825ed986d40343d662d4f863d836577",
       "lineHeights.16": "77a856ba9356b1dbbd2b833a1d3b914a0dffc2f1",
@@ -1287,7 +1286,8 @@
       "tournaments.card": "1529fa4cda51ae9b5ec767abc6db35cd31e5dffb",
       "tournaments.surface": "fba93ea20ea2ba528417ca5fffd768ca5df9d521",
       "lottery.card": "cadf5cd9a89fa00524ac7f82cafddc143f09d7ca",
-      "lottery.surface": "b9aeadbfbb88ae235e9070578cb1d54d1451d7b7"
+      "lottery.surface": "b9aeadbfbb88ae235e9070578cb1d54d1451d7b7",
+      "fontFamilies.inter": "5d56dc8a30440c725eece4f48a01cddcfdaf1ffd"
     }
   }
 ]
