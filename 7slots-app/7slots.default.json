@@ -1746,16 +1746,6 @@
         "type": "color"
       }
     },
-    "background": {
-      "pre-gaming": {
-        "value": "{core.neutral.600}",
-        "type": "color"
-      },
-      "pop-up": {
-        "value": "{core.neutral.500}",
-        "type": "color"
-      }
-    },
     "progres": {
       "primary": {
         "indicator": {
