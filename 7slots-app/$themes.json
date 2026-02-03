@@ -530,7 +530,18 @@
       "contextual.tag.thumb.new.icon": "S:f39ef71b455b06d15e7fa212c67b02508af77f09,",
       "contextual.tag.bonus.best.background": "S:30c4153aedde87578fa9ddce50997ed461630ef1,",
       "contextual.tag.bonus.best.text": "S:ceb8e3aa3a4bac2a487acd193e7438d733353115,",
-      "contextual.tab-bar.shadow": "S:f6745885e86368d5072f2d6e68580f9cf7ba37e7,"
+      "contextual.tab-bar.shadow": "S:f6745885e86368d5072f2d6e68580f9cf7ba37e7,",
+      "contextual.lottery.background.enabled": "S:75d9347ac24c0d50b01383e9fdf2d94809bea3e9,",
+      "contextual.lottery.background.finished": "S:2e98866cb44774dad589593349620367d9f9f0a3,",
+      "contextual.lottery.tiket.text.base": "S:39931634403d1f6686cdbd9aa5035ae310a2d0f2,",
+      "contextual.lottery.tiket.text.regular": "S:eba7d53276124857264e549cf66c1dd1280ec651,",
+      "contextual.lottery.tiket.text.premium": "S:191b4a41bc6d250cc45ca7b13d3d796f63c87bfd,",
+      "contextual.lottery.tiket.text.regular-win": "S:5318ad65c4461eeec60fb0896b13df6fd8e11eca,",
+      "contextual.lottery.tiket.text.premium-win": "S:6208b453bce33eb7443ef15e90ce427a069e3bff,",
+      "contextual.tournaments.background.enabled": "S:5c226724a8cd3102a5b75a762dc077547dd8a8a2,",
+      "contextual.tournaments.background.finished": "S:33ab9bb81a7859ba430e1cb23b6ffa34d5623064,",
+      "contextual.dialogs.background": "S:d65199695fd4b23e87d3b1d2eed06614ee2d0ce7,",
+      "contextual.pre-gaming.background": "S:54d2af47b448b93908ce85751ae467b15fb40286,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
