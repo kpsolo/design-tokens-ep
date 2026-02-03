@@ -1885,6 +1885,66 @@
           }
         }
       }
+    },
+    "dialogs": {
+      "background": {
+        "value": "{core.neutral.500}",
+        "type": "color"
+      }
+    },
+    "pre-gaming": {
+      "background": {
+        "value": "{core.neutral.600}",
+        "type": "color"
+      }
+    },
+    "tournaments": {
+      "background": {
+        "enabled": {
+          "value": "linear-gradient(167deg, #0095ff 9.17%, #2f00ff 90.83%)",
+          "type": "color"
+        },
+        "finished": {
+          "value": "{core.white.500}",
+          "type": "color"
+        }
+      }
+    },
+    "lottery": {
+      "background": {
+        "enabled": {
+          "value": "linear-gradient(135deg, rgba(32, 62, 152, 1) 0%, rgba(15, 39, 111, 1) 100%)",
+          "type": "color"
+        },
+        "finished": {
+          "value": "{core.white.500}",
+          "type": "color"
+        }
+      },
+      "tiket": {
+        "text": {
+          "base": {
+            "value": "{core.white.50}",
+            "type": "color"
+          },
+          "regular": {
+            "value": "{core.black.50}",
+            "type": "color"
+          },
+          "premium": {
+            "value": "{core.black.50}",
+            "type": "color"
+          },
+          "regular-win": {
+            "value": "{core.brand.accent.100}",
+            "type": "color"
+          },
+          "premium-win": {
+            "value": "{core.white.50}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "semantic": {
