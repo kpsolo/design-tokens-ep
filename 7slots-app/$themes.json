@@ -529,7 +529,8 @@
       "contextual.tag.thumb.new.background": "S:3c879c70ba8ee996096c5ad513a7f968ba280c3f,",
       "contextual.tag.thumb.new.icon": "S:f39ef71b455b06d15e7fa212c67b02508af77f09,",
       "contextual.tag.bonus.best.background": "S:30c4153aedde87578fa9ddce50997ed461630ef1,",
-      "contextual.tag.bonus.best.text": "S:ceb8e3aa3a4bac2a487acd193e7438d733353115,"
+      "contextual.tag.bonus.best.text": "S:ceb8e3aa3a4bac2a487acd193e7438d733353115,",
+      "contextual.tab-bar.shadow": "S:f6745885e86368d5072f2d6e68580f9cf7ba37e7,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
