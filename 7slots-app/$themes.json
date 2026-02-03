@@ -1160,7 +1160,18 @@
       "contextual.tag.thumb.new.icon": "S:daaa9a0498a1423c8a434a0432c40f7022c20565,",
       "contextual.tag.bonus.best.background": "S:02312d625228b62ceec074af45c4307e533432c8,",
       "contextual.tag.bonus.best.text": "S:4a05ee6187e3714e41398472039a48aa9bb60768,",
-      "contextual.tab-bar.shadow": "S:cb58eef109a16db34f8345b5469b6c209a43992c,"
+      "contextual.tab-bar.shadow": "S:cb58eef109a16db34f8345b5469b6c209a43992c,",
+      "contextual.dialogs.background": "S:6441af148ce9128aee5fdd3107bb951061e608c0,",
+      "contextual.tournaments.background.enabled": "S:41c2f78f288af851cddabbb4b06a6abbb39e165b,",
+      "contextual.tournaments.background.finished": "S:914df563cb7f863003dfa3161763dca9d19a85a0,",
+      "contextual.lottery.background.enabled": "S:116beae6214b462daee0b91b2cf56fb48b30b856,",
+      "contextual.lottery.background.finished": "S:474f3441fad723f9409b9664558345d5c09ae2fe,",
+      "contextual.lottery.tiket.text.base": "S:390d116237e40c19cd7ed16a0a791403e6b6bdb0,",
+      "contextual.lottery.tiket.text.regular": "S:29ce5c3f8245c8aed3ba922834b35183511c64e5,",
+      "contextual.lottery.tiket.text.premium": "S:b5391e32a27b466f1826e7c628fbbf7c9bb70eb9,",
+      "contextual.lottery.tiket.text.regular-win": "S:e32c95240fa1751e003068a01be34de70cf0a608,",
+      "contextual.lottery.tiket.text.premium-win": "S:92fe83014153fc07c3a94e3e2f37c318adcf143c,",
+      "contextual.pre-gaming-copy.background": "S:de8db9482db27fbbe8bcd3ec30deb95a0fb92a16,"
     },
     "selectedTokenSets": {
       "7k": "enabled"
@@ -1263,6 +1274,7 @@
       "category": "ccbb9132619af592185f06637062d240b69a644e",
       "categor": "db547a439e484125f38d5bb60cf713866451a03c",
       "page-control": "00224b03ba012b052d181a7999788b54f6418e4e",
+      "fontFamilies.inter": "5d56dc8a30440c725eece4f48a01cddcfdaf1ffd",
       "lineHeights.10": "1d8c1adce0438478a4ddea87c39e80f12360871a",
       "lineHeights.12": "746bf2f6a825ed986d40343d662d4f863d836577",
       "lineHeights.16": "77a856ba9356b1dbbd2b833a1d3b914a0dffc2f1",
@@ -1298,8 +1310,7 @@
       "tournaments.card": "1529fa4cda51ae9b5ec767abc6db35cd31e5dffb",
       "tournaments.surface": "fba93ea20ea2ba528417ca5fffd768ca5df9d521",
       "lottery.card": "cadf5cd9a89fa00524ac7f82cafddc143f09d7ca",
-      "lottery.surface": "b9aeadbfbb88ae235e9070578cb1d54d1451d7b7",
-      "fontFamilies.inter": "5d56dc8a30440c725eece4f48a01cddcfdaf1ffd"
+      "lottery.surface": "b9aeadbfbb88ae235e9070578cb1d54d1451d7b7"
     }
   }
 ]
