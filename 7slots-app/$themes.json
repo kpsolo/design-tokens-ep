@@ -1171,7 +1171,7 @@
       "contextual.lottery.tiket.text.premium": "S:b5391e32a27b466f1826e7c628fbbf7c9bb70eb9,",
       "contextual.lottery.tiket.text.regular-win": "S:e32c95240fa1751e003068a01be34de70cf0a608,",
       "contextual.lottery.tiket.text.premium-win": "S:92fe83014153fc07c3a94e3e2f37c318adcf143c,",
-      "contextual.pre-gaming-copy.background": "S:de8db9482db27fbbe8bcd3ec30deb95a0fb92a16,"
+      "contextual.pre-gaming.background": "S:de8db9482db27fbbe8bcd3ec30deb95a0fb92a16,"
     },
     "selectedTokenSets": {
       "7k": "enabled"
