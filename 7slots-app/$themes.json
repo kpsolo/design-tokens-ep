@@ -1146,7 +1146,8 @@
       "contextual.tag.thumb.new.background": "S:2df7d29ae13d5c13d832677e8e0f9d1db96bd691,",
       "contextual.tag.thumb.new.icon": "S:daaa9a0498a1423c8a434a0432c40f7022c20565,",
       "contextual.tag.bonus.best.background": "S:02312d625228b62ceec074af45c4307e533432c8,",
-      "contextual.tag.bonus.best.text": "S:4a05ee6187e3714e41398472039a48aa9bb60768,"
+      "contextual.tag.bonus.best.text": "S:4a05ee6187e3714e41398472039a48aa9bb60768,",
+      "contextual.tab-bar.shadow": "S:cb58eef109a16db34f8345b5469b6c209a43992c,"
     },
     "selectedTokenSets": {
       "7k": "enabled"

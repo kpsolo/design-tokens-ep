@@ -333,6 +333,11 @@
         "type": "color",
         "description": "It is used for the background of the main button of the tab bar"
       },
+      "shadow": {
+        "value": "#000000000",
+        "type": "color",
+        "description": "It is used for the background of the main button of the tab bar"
+      },
       "text": {
         "active": {
           "value": "{core.brand.accent.100}",
