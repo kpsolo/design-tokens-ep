@@ -174,7 +174,7 @@
       "description": "change bg grey"
     },
     "contrast": {
-      "value": "{base.F4}",
+      "value": "{base.B3}",
       "type": "color"
     },
     "none": {
