@@ -636,7 +636,7 @@
     "secondary-grey": {
       "text": {
         "def": {
-          "value": "{base.F2}",
+          "value": "{base.F1}",
           "type": "color"
         },
         "act": {
