@@ -552,7 +552,7 @@
           "type": "color"
         },
         "actv": {
-          "value": "{base.F1}",
+          "value": "{base.B3}",
           "type": "color"
         },
         "dis": {
@@ -596,7 +596,7 @@
           "type": "color"
         },
         "actv": {
-          "value": "{base.F1}",
+          "value": "{base.B3}",
           "type": "color"
         },
         "dis": {
