@@ -1866,7 +1866,7 @@
             "description": "Used for active and new stories that the user has not yet viewed"
           },
           "border": {
-            "value": "#00000000",
+            "value": "{core.neutral.900}",
             "type": "color",
             "description": "Used for active and new stories that the user has not yet viewed"
           },
