@@ -1636,7 +1636,7 @@
           "type": "color"
         },
         "promo-code": {
-          "value": "linear-gradient(140deg, rgb(180, 55, 36) 1.93%, rgb(122, 19, 55) 50.97%, rgb(42, 7, 1) 100%)",
+          "value": "linear-gradient(180deg, rgb(219, 157, 14) 0%, rgb(167, 101, 8) 50%, rgb(115, 44, 1) 100%)",
           "type": "color"
         },
         "inactive": {
