@@ -542,7 +542,9 @@
       "contextual.tournaments.background.finished": "S:2013f7e509dc0b666a2ac93ef05b5dd464d55960,",
       "contextual.dialogs.background": "S:75febc9535eea2db9cff68acdedfb1f571a9f3e5,",
       "contextual.pre-gaming.background": "S:187147ad04db212be2b09c56540a5109c6834b66,",
-      "contextual.pop-up.background": "S:ddddf97632a893d08bb93e57f2de7cca1759aef2,"
+      "contextual.pop-up.background": "S:ddddf97632a893d08bb93e57f2de7cca1759aef2,",
+      "progressbar.static": "S:2ca4febef6e643cf3b21ff130da03e1a694309a9,",
+      "progressbar.profile": "S:2484b48e320a29a73a74da271dfb7427d3676d21,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
