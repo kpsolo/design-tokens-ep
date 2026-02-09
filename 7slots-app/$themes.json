@@ -1138,7 +1138,6 @@
       "lable.small_prominent": "S:ef0e89687ac4afedbfba1f46f541f23cbed628e4,",
       "progressbar.primary": "S:18f1f95d3a66761d572c1dae0fa301ba82447719,",
       "progressbar.secondary": "S:34871cc46c1c8ef1898a08b184f013078ef6628f,",
-      "progressbar.tertiary": "S:4bf9704be6c4d83467876e16c136cdb3ddf70877,",
       "snackbars": "S:2ab32d8aa77ff940b5eb01ed1a743c743ae82b4c,",
       "winning_thumb": "S:1dfd59c03e2dd6a2fcc7c86a1fa5a6cead9430f1,",
       "tooltips": "S:923cf6ee1302a35c349eadcff6535d1ad5753e38,",
@@ -1171,7 +1170,9 @@
       "contextual.lottery.tiket.text.premium": "S:b5391e32a27b466f1826e7c628fbbf7c9bb70eb9,",
       "contextual.lottery.tiket.text.regular-win": "S:e32c95240fa1751e003068a01be34de70cf0a608,",
       "contextual.lottery.tiket.text.premium-win": "S:92fe83014153fc07c3a94e3e2f37c318adcf143c,",
-      "contextual.pre-gaming.background": "S:de8db9482db27fbbe8bcd3ec30deb95a0fb92a16,"
+      "contextual.pre-gaming.background": "S:de8db9482db27fbbe8bcd3ec30deb95a0fb92a16,",
+      "progressbar.static": "S:4bf9704be6c4d83467876e16c136cdb3ddf70877,",
+      "progressbar.profile": "S:d37181f45878a4087f1bf7dfb3b7bc4030a6c7bd,"
     },
     "selectedTokenSets": {
       "7k": "enabled"

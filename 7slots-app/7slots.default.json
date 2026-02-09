@@ -2606,7 +2606,7 @@
       },
       "type": "boxShadow"
     },
-    "tertiary": {
+    "static": {
       "value": {
         "x": "0",
         "y": "0",
