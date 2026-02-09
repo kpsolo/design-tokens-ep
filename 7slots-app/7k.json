@@ -1719,7 +1719,7 @@
         "description": "Used for the background of the loyalty program status for “Platinum”"
       },
       "06": {
-        "value": "linear-gradient(180deg, rgb(219, 157, 14) 0%, rgb(167, 101, 8) 50%, rgb(115, 44, 1) 100%)",
+        "value": "linear-gradient(180deg, rgb(219, 157, 14) 0%, rgb(167, 101, 8) 50%, rgb(115, 44, 2) 100%)",
         "type": "color",
         "description": "Used for the background of the loyalty program status for “Diamond”"
       },
