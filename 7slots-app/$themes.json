@@ -997,7 +997,7 @@
       "contextual.bonus.background.choose": "S:d2d3a25199241ded898c5e2570d70d5ce10fd3d4,",
       "contextual.bonus.background.reactivate": "S:1a976ecd4f86d9d628a00c059a7f2d2e9f39e41c,",
       "contextual.bonus.background.permanent": "S:5861694e7afeea703a983b56c431ce9722a0d61b,",
-      "contextual.bonus.background.promo-code": "S:8427755aa65877e1285628629c5ec5dddaecd70c,",
+      "contextual.bonus.background.promo-code": "S:a40b8f91e0bc86c18dce8227552d967f72c1b7c2,",
       "contextual.bonus.background.inactive": "S:ff26b9365036c8634db2392251da77cee05dc982,",
       "contextual.bonus.background.welcome": "S:830e2e60c87eec6e9dcfe00d9f1ccbe50c1e1e31,",
       "contextual.bonus.sheet.no-deposit": "S:c9b03034fe47765c864a12e99aaa699d37af51af,",
@@ -1174,7 +1174,8 @@
       "contextual.lottery.tiket.text.premium-win": "S:92fe83014153fc07c3a94e3e2f37c318adcf143c,",
       "contextual.pre-gaming.background": "S:de8db9482db27fbbe8bcd3ec30deb95a0fb92a16,",
       "progressbar.static": "S:4bf9704be6c4d83467876e16c136cdb3ddf70877,",
-      "progressbar.profile": "S:d37181f45878a4087f1bf7dfb3b7bc4030a6c7bd,"
+      "progressbar.profile": "S:d37181f45878a4087f1bf7dfb3b7bc4030a6c7bd,",
+      "contextual.loyalty-copy.card": "S:cf1bbb3c2bc7dc1478489920da8671b09c2309ea,"
     },
     "selectedTokenSets": {
       "7k": "enabled"
