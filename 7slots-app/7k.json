@@ -1143,7 +1143,7 @@
     },
     "bottom-sheet": {
       "background": {
-        "value": "{core.neutral.800}",
+        "value": "{core.neutral.900}",
         "type": "color"
       },
       "handle": {
