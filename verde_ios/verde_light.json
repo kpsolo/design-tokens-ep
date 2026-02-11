@@ -572,19 +572,19 @@
       "swipe": {
         "default": {
           "background": {
-            "value": "{core.white.100}",
-            "type": "color"
-          },
-          "text": {
-            "value": "{core.black.100}",
-            "type": "color"
-          },
-          "thumb": {
             "value": "{core.accent.100}",
             "type": "color"
           },
-          "icon": {
+          "text": {
             "value": "{core.white.100}",
+            "type": "color"
+          },
+          "thumb": {
+            "value": "{core.white.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.accent.100}",
             "type": "color"
           }
         },
