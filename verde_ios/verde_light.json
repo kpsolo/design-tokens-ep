@@ -2258,7 +2258,7 @@
     "large": {
       "value": {
         "fontFamily": "{fontFamilies.montserrat}",
-        "fontWeight": "{fontWeights.medium}",
+        "fontWeight": "{fontWeights.semibold}",
         "lineHeight": "{lineHeights.24}",
         "fontSize": "{fontSize.16}"
       },
@@ -2267,7 +2267,7 @@
     "medium": {
       "value": {
         "fontFamily": "{fontFamilies.montserrat}",
-        "fontWeight": "{fontWeights.medium}",
+        "fontWeight": "{fontWeights.semibold}",
         "lineHeight": "{lineHeights.24}",
         "fontSize": "{fontSize.16}"
       },
@@ -2276,7 +2276,7 @@
     "small": {
       "value": {
         "fontFamily": "{fontFamilies.montserrat}",
-        "fontWeight": "{fontWeights.medium}",
+        "fontWeight": "{fontWeights.semibold}",
         "lineHeight": "{lineHeights.16}",
         "fontSize": "{fontSize.12}"
       },
