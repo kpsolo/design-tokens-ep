@@ -1844,17 +1844,17 @@
       "story": {
         "active": {
           "background": {
-            "value": "linear-gradient(225deg, rgba(138, 59, 238, 1) 0%, rgba(242, 0, 183, 1) 39%, rgba(254, 148, 2, 1) 91.67%)",
+            "value": "{core.brand.support.300}",
             "type": "color",
             "description": "Used for active and new stories that the user has not yet viewed"
           },
           "border": {
-            "value": "{core.neutral.900}",
+            "value": "#00000000",
             "type": "color",
             "description": "Used for active and new stories that the user has not yet viewed"
           },
           "icon": {
-            "value": "{core.white.50}",
+            "value": "{core.neutral.500}",
             "type": "color",
             "description": "Used for active and new stories that the user has not yet viewed"
           }
@@ -1866,12 +1866,12 @@
             "description": "Used for active and new stories that the user has not yet viewed"
           },
           "border": {
-            "value": "{core.neutral.900}",
+            "value": "#00000000",
             "type": "color",
             "description": "Used for active and new stories that the user has not yet viewed"
           },
           "icon": {
-            "value": "{core.white.50}",
+            "value": "{core.white.200}",
             "type": "color",
             "description": "Used for active and new stories that the user has not yet viewed"
           }
