@@ -2249,11 +2249,11 @@
       "type": "typography"
     },
     "larges": {
-      "value": "{core-radios.16}",
+      "value": "{core-radius.16}",
       "type": "borderRadius"
     },
     "middle": {
-      "value": "{core-radios.12}",
+      "value": "{core-radius.12}",
       "type": "borderRadius"
     },
     "medium": {
@@ -2275,16 +2275,16 @@
       "type": "typography"
     },
     "smal": {
-      "value": "{core-radios.full}",
+      "value": "{core-radius.full}",
       "type": "borderRadius"
     },
     "tab-bar": {
-      "value": "{core-radios.full}",
+      "value": "{core-radius.full}",
       "type": "borderRadius"
     }
   },
   "buttons": {
-    "lagre": {
+    "large": {
       "value": "{core-width.2}",
       "type": "borderWidth"
     },
@@ -2297,7 +2297,7 @@
       "type": "borderWidth"
     }
   },
-  "core-radios": {
+  "core-radius": {
     "2": {
       "value": "2",
       "type": "borderRadius"
@@ -2379,81 +2379,81 @@
       "type": "borderWidth"
     },
     "point": {
-      "value": "{core-radios.16}",
+      "value": "{core-radius.16}",
       "type": "borderRadius"
     },
     "default": {
-      "value": "{core-radios.16}",
+      "value": "{core-radius.16}",
       "type": "borderRadius"
     }
   },
   "thumb": {
     "l": {
-      "value": "{core-radios.16}",
+      "value": "{core-radius.16}",
       "type": "borderRadius"
     },
     "m": {
-      "value": "{core-radios.12}",
+      "value": "{core-radius.12}",
       "type": "borderRadius"
     },
     "s": {
-      "value": "{core-radios.8}",
+      "value": "{core-radius.8}",
       "type": "borderRadius"
     }
   },
   "card": {
     "winning_now": {
       "thumb": {
-        "value": "{core-radios.16}",
+        "value": "{core-radius.16}",
         "type": "borderRadius"
       },
       "surface": {
-        "value": "{core-radios.16}",
+        "value": "{core-radius.16}",
         "type": "borderRadius"
       }
     },
     "collection": {
-      "value": "{core-radios.16}",
+      "value": "{core-radius.16}",
       "type": "borderRadius"
     },
     "balance": {
-      "value": "{core-radios.16}",
+      "value": "{core-radius.16}",
       "type": "borderRadius"
     },
     "story": {
-      "value": "{core-radios.16}",
+      "value": "{core-radius.16}",
       "type": "borderRadius"
     },
     "menu": {
-      "value": "{core-radios.12}",
+      "value": "{core-radius.12}",
       "type": "borderRadius"
     },
     "providers": {
-      "value": "{core-radios.16}",
+      "value": "{core-radius.16}",
       "type": "borderRadius"
     },
     "vip-club": {
-      "value": "{core-radios.12}",
+      "value": "{core-radius.12}",
       "type": "borderRadius"
     }
   },
   "bonus": {
     "card": {
-      "value": "{core-radios.24}",
+      "value": "{core-radius.24}",
       "type": "borderRadius"
     },
     "surface": {
-      "value": "{core-radios.16}",
+      "value": "{core-radius.16}",
       "type": "borderRadius"
     }
   },
   "switch": {
     "container": {
-      "value": "{core-radios.full}",
+      "value": "{core-radius.full}",
       "type": "borderRadius"
     },
     "thumb": {
-      "value": "{core-radios.full}",
+      "value": "{core-radius.full}",
       "type": "borderRadius"
     }
   },
@@ -2571,15 +2571,15 @@
   },
   "timers": {
     "large": {
-      "value": "{core-radios.6}",
+      "value": "{core-radius.6}",
       "type": "borderRadius"
     },
     "medium": {
-      "value": "{core-radios.4}",
+      "value": "{core-radius.4}",
       "type": "borderRadius"
     },
     "small": {
-      "value": "{core-radios.4}",
+      "value": "{core-radius.4}",
       "type": "borderRadius"
     }
   },
@@ -2638,53 +2638,53 @@
     "type": "borderWidth"
   },
   "snackbar": {
-    "value": "{core-radios.12}",
+    "value": "{core-radius.12}",
     "type": "borderRadius"
   },
   "tooltip": {
-    "value": "{core-radios.8}",
+    "value": "{core-radius.8}",
     "type": "borderRadius"
   },
   "search": {
     "android": {
-      "value": "{core-radios.16}",
+      "value": "{core-radius.16}",
       "type": "borderRadius"
     },
     "ios": {
-      "value": "{core-radios.full}",
+      "value": "{core-radius.full}",
       "type": "borderRadius"
     }
   },
   "check-box": {
-    "value": "{core-radios.4}",
+    "value": "{core-radius.4}",
     "type": "borderRadius"
   },
   "tab-item": {
-    "value": "{core-radios.12}",
+    "value": "{core-radius.12}",
     "type": "borderRadius"
   },
   "badge": {
-    "value": "{core-radios.full}",
+    "value": "{core-radius.full}",
     "type": "borderRadius"
   },
   "dialogs": {
-    "value": "{core-radios.32}",
+    "value": "{core-radius.32}",
     "type": "borderRadius"
   },
   "chips": {
-    "value": "{core-radios.full}",
+    "value": "{core-radius.full}",
     "type": "borderRadius"
   },
   "radio": {
-    "value": "{core-radios.full}",
+    "value": "{core-radius.full}",
     "type": "borderRadius"
   },
   "progres": {
-    "value": "{core-radios.full}",
+    "value": "{core-radius.full}",
     "type": "borderRadius"
   },
   "status": {
-    "value": "{core-radios.full}",
+    "value": "{core-radius.full}",
     "type": "borderRadius"
   },
   "statuses": {
@@ -2692,11 +2692,11 @@
     "type": "borderWidth"
   },
   "bottom-sheet": {
-    "value": "{core-radios.32}",
+    "value": "{core-radius.32}",
     "type": "borderRadius"
   },
   "category": {
-    "value": "{core-radios.full}",
+    "value": "{core-radius.full}",
     "type": "borderRadius"
   },
   "categor": {
@@ -2704,7 +2704,7 @@
     "type": "borderWidth"
   },
   "page-control": {
-    "value": "{core-radios.full}",
+    "value": "{core-radius.full}",
     "type": "borderRadius"
   },
   "fontFamilies": {
@@ -3043,21 +3043,21 @@
   "segment": {
     "android": {
       "surface": {
-        "value": "{core-radios.8}",
+        "value": "{core-radius.8}",
         "type": "borderRadius"
       },
       "item": {
-        "value": "{core-radios.8}",
+        "value": "{core-radius.8}",
         "type": "borderRadius"
       }
     },
     "ios": {
       "surface": {
-        "value": "{core-radios.full}",
+        "value": "{core-radius.full}",
         "type": "borderRadius"
       },
       "item": {
-        "value": "{core-radios.full}",
+        "value": "{core-radius.full}",
         "type": "borderRadius"
       }
     }
@@ -3130,26 +3130,26 @@
     "type": "dimension"
   },
   "callout": {
-    "value": "{core-radios.16}",
+    "value": "{core-radius.16}",
     "type": "borderRadius"
   },
   "tournaments": {
     "card": {
-      "value": "{core-radios.24}",
+      "value": "{core-radius.24}",
       "type": "borderRadius"
     },
     "surface": {
-      "value": "{core-radios.16}",
+      "value": "{core-radius.16}",
       "type": "borderRadius"
     }
   },
   "lottery": {
     "card": {
-      "value": "{core-radios.24}",
+      "value": "{core-radius.24}",
       "type": "borderRadius"
     },
     "surface": {
-      "value": "{core-radios.16}",
+      "value": "{core-radius.16}",
       "type": "borderRadius"
     }
   }
