@@ -1935,6 +1935,12 @@
           }
         }
       }
+    },
+    "collection": {
+      "background": {
+        "value": "{core.neutral.500}",
+        "type": "color"
+      }
     }
   },
   "semantic": {

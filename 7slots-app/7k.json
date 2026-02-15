@@ -1971,6 +1971,12 @@
           }
         }
       }
+    },
+    "collection": {
+      "background": {
+        "value": "linear-gradient(140deg, rgb(180, 55, 36) 1.93%, rgb(122, 19, 55) 50.97%, rgb(42, 7, 1) 100%)",
+        "type": "color"
+      }
     }
   },
   "semantic": {

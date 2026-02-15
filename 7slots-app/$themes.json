@@ -1175,7 +1175,8 @@
       "contextual.loyalty-copy.card": "S:cf1bbb3c2bc7dc1478489920da8671b09c2309ea,",
       "semantic.background.overlay.total-black.primary": "S:b078860b40dfd84762f8b98f353e1ec54605b631,",
       "semantic.background.overlay.total-black.secondary": "S:5a9dc0b8a9fc36a0fa13d5266a6cc9385496193c,",
-      "semantic.background.overlay.total-black.tertiary": "S:499b9285fe4118e4c4bd9ebef9054476516e5f86,"
+      "semantic.background.overlay.total-black.tertiary": "S:499b9285fe4118e4c4bd9ebef9054476516e5f86,",
+      "contextual.collection.background": "S:c24b29ea992b89570790653f7246edfbefb3ecc7,"
     },
     "selectedTokenSets": {
       "7k": "enabled"
