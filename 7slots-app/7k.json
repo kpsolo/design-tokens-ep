@@ -1604,7 +1604,7 @@
     "bonus": {
       "background": {
         "no-deposit": {
-          "value": "linear-gradient(140deg, rgb(180, 55, 36) 1.93%, rgb(122, 19, 55) 50.97%, rgb(42, 7, 1) 100%)",
+          "value": "linear-gradient(180deg, rgb(167, 146, 121) 0%, rgb(105, 82, 60) 50%, rgb(61, 42, 26) 100%)",
           "type": "color"
         },
         "manual": {
@@ -1612,23 +1612,23 @@
           "type": "color"
         },
         "progressive": {
-          "value": "linear-gradient(140deg, rgb(180, 55, 36) 1.93%, rgb(122, 19, 55) 50.97%, rgb(42, 7, 1) 100%)",
+          "value": "linear-gradient(180deg, rgb(169, 47, 47) 0%, rgb(99, 38, 38) 50%, rgb(35, 10, 10) 100%)",
           "type": "color"
         },
         "range": {
-          "value": "linear-gradient(140deg, rgb(180, 55, 36) 1.93%, rgb(122, 19, 55) 50.97%, rgb(42, 7, 1) 100%)",
+          "value": "linear-gradient(0deg, rgb(62, 5, 58) 0%, rgb(128, 6, 27) 100%)",
           "type": "color"
         },
         "total-bets": {
-          "value": "linear-gradient(140deg, rgb(180, 55, 36) 1.93%, rgb(122, 19, 55) 50.97%, rgb(42, 7, 1) 100%)",
+          "value": "linear-gradient(180deg, rgb(179, 74, 21) 0%, rgb(126, 55, 24) 50%, rgb(69, 20, 3) 100%)",
           "type": "color"
         },
         "choose": {
-          "value": "linear-gradient(140deg, rgb(180, 55, 36) 1.93%, rgb(122, 19, 55) 50.97%, rgb(42, 7, 1) 100%)",
+          "value": "linear-gradient(180deg, rgb(186, 49, 22) 0%, rgb(143, 40, 28) 50%, rgb(94, 11, 11) 100%)",
           "type": "color"
         },
         "reactivate": {
-          "value": "linear-gradient(140deg, rgb(180, 55, 36) 1.93%, rgb(122, 19, 55) 50.97%, rgb(42, 7, 1) 100%)",
+          "value": "linear-gradient(180deg, rgb(204, 14, 14) 0%, rgb(62, 6, 53) 100%)",
           "type": "color"
         },
         "permanent": {
@@ -1640,7 +1640,7 @@
           "type": "color"
         },
         "inactive": {
-          "value": "linear-gradient(180deg, rgb(132, 45, 35) 0%, rgb(84, 31, 35) 50%, rgb(61, 25, 34) 100%)",
+          "value": "linear-gradient(180deg, rgb(61, 43, 42) 0%, rgb(49, 40, 42) 100%)",
           "type": "color"
         },
         "welcome": {
@@ -1651,7 +1651,7 @@
       },
       "sheet": {
         "no-deposit": {
-          "value": "linear-gradient(174deg, rgb(179, 55, 36) 0%, rgb(89, 18, 41) 47.45%, rgb(29, 13, 18) 94.91%)",
+          "value": "linear-gradient(174deg, rgb(165, 144, 119) 4.26%, rgb(98, 75, 54) 47.67%, rgb(29, 13, 18) 91.09%)",
           "type": "color"
         },
         "manual": {
@@ -1659,23 +1659,23 @@
           "type": "color"
         },
         "progressive": {
-          "value": "linear-gradient(174deg, rgb(179, 55, 36) 0%, rgb(89, 18, 41) 47.45%, rgb(29, 13, 18) 94.91%)",
+          "value": "linear-gradient(174deg, rgb(169, 47, 47) 4.26%, rgb(99, 38, 38) 47.67%, rgb(29, 13, 18) 91.09%)",
           "type": "color"
         },
         "range": {
-          "value": "linear-gradient(174deg, rgb(179, 55, 36) 0%, rgb(89, 18, 41) 47.45%, rgb(29, 13, 18) 94.91%)",
+          "value": "linear-gradient(174deg, rgb(127, 7, 28) 4.26%, rgb(62, 5, 58) 47.67%, rgb(29, 13, 18) 91.09%)",
           "type": "color"
         },
         "total-bets": {
-          "value": "linear-gradient(174deg, rgb(179, 55, 36) 0%, rgb(89, 18, 41) 47.45%, rgb(29, 13, 18) 94.91%)",
+          "value": "linear-gradient(174deg, rgb(174, 73, 22) 4.26%, rgb(80, 27, 7) 47.67%, rgb(29, 13, 18) 91.09%)",
           "type": "color"
         },
         "choose": {
-          "value": "linear-gradient(174deg, rgb(179, 55, 36) 0%, rgb(89, 18, 41) 47.45%, rgb(29, 13, 18) 94.91%)",
+          "value": "linear-gradient(174deg, rgb(186, 49, 22) 4.26%, rgb(124, 28, 21) 47.67%, rgb(29, 13, 18) 91.09%)",
           "type": "color"
         },
         "reactivate": {
-          "value": "linear-gradient(174deg, rgb(179, 55, 36) 0%, rgb(89, 18, 41) 47.45%, rgb(29, 13, 18) 94.91%)",
+          "value": "linear-gradient(174deg, rgb(200, 15, 16) 4.26%, rgb(93, 8, 44) 47.67%, rgb(29, 13, 18) 91.09%)",
           "type": "color"
         },
         "permanent": {
@@ -1687,7 +1687,7 @@
           "type": "color"
         },
         "inactive": {
-          "value": "linear-gradient(180deg, rgb(118, 39, 30) 0%, rgb(42, 16, 24) 50%, rgb(23, 16, 17) 100%)",
+          "value": "linear-gradient(174deg, rgb(61, 43, 42) 4.26%, rgb(49, 40, 42) 47.67%, rgb(29, 13, 18) 91.09%)",
           "type": "color"
         }
       }
@@ -1736,12 +1736,12 @@
     },
     "balances": {
       "current": {
-        "value": "linear-gradient(0deg, rgb(44, 13, 2) 0%, rgb(148, 12, 5) 50%, rgb(169, 3, 3) 100%)",
+        "value": "linear-gradient(140deg, rgb(180, 55, 36) 1.93%, rgb(122, 19, 55) 50.97%, rgb(42, 7, 1) 100%)",
         "type": "color",
         "description": "Color is used for current balance"
       },
       "bonus": {
-        "value": "linear-gradient(180deg, rgb(182, 90, 44) 0%, rgb(126, 55, 24) 50%, rgb(69, 20, 3) 100%)",
+        "value": "linear-gradient(0deg, rgb(44, 13, 2) 0%, rgb(148, 12, 5) 50%, rgb(169, 3, 3) 100%)",
         "type": "color",
         "description": "Color is used for bonus balance"
       },
@@ -1778,7 +1778,7 @@
         "description": "Used for the background of the third welcome screen when the application starts"
       },
       "login": {
-        "value": "linear-gradient(0deg, rgb(44, 13, 2) 0%, rgb(148, 12, 5) 50%, rgb(169, 3, 3) 100%)",
+        "value": "linear-gradient(140deg, rgb(180, 55, 36) 1.93%, rgb(122, 19, 55) 50.97%, rgb(42, 7, 1) 100%)",
         "type": "color"
       }
     },
