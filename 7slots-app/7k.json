@@ -2165,7 +2165,7 @@
             "type": "color"
           }
         },
-        "total black": {
+        "total-black": {
           "primary": {
             "value": "rgba(0, 0, 0, 0.40)",
             "type": "color"
@@ -2333,7 +2333,7 @@
       "type": "borderWidth"
     }
   },
-  "core-radios": {
+  "core-radius": {
     "2": {
       "value": "2",
       "type": "borderRadius"
