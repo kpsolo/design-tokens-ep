@@ -2455,7 +2455,7 @@
       }
     },
     "collection": {
-      "value": "{core-radius.16}",
+      "value": "{core-radius.24}",
       "type": "borderRadius"
     },
     "balance": {
