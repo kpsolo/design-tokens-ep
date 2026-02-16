@@ -1733,6 +1733,20 @@
         "backdrop": {
           "value": "rgba(0, 0, 0, 0.50)",
           "type": "color"
+        },
+        "black": {
+          "primary": {
+            "value": "{core.black.400}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core.black.500}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{core.black.800}",
+            "type": "color"
+          }
         }
       },
       "shadow": {
