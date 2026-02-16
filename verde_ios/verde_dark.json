@@ -586,6 +586,10 @@
           "icon": {
             "value": "{core.white.100}",
             "type": "color"
+          },
+          "border": {
+            "value": "{core.black.800}",
+            "type": "color"
           }
         },
         "filled": {
@@ -599,6 +603,10 @@
           },
           "icon": {
             "value": "{core.white.100}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.black.800}",
             "type": "color"
           }
         },
@@ -617,6 +625,10 @@
           },
           "icon": {
             "value": "{core.accent.100}",
+            "type": "color"
+          },
+          "border": {
+            "value": "#00000000",
             "type": "color"
           }
         }

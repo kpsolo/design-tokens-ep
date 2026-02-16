@@ -572,25 +572,29 @@
       "swipe": {
         "default": {
           "background": {
-            "value": "{core.accent.100}",
+            "value": "{core.neutral.200}",
             "type": "color"
           },
           "text": {
-            "value": "{core.white.100}",
+            "value": "{core.black.100}",
             "type": "color"
           },
           "thumb": {
-            "value": "{core.white.100}",
+            "value": "{core.accent.100}",
             "type": "color"
           },
           "icon": {
-            "value": "{core.accent.100}",
+            "value": "{core.white.100}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.black.800}",
             "type": "color"
           }
         },
         "filled": {
           "background": {
-            "value": "{core.white.100}",
+            "value": "{core.neutral.200}",
             "type": "color"
           },
           "thumb": {
@@ -599,6 +603,10 @@
           },
           "icon": {
             "value": "{core.white.100}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.black.800}",
             "type": "color"
           }
         },
@@ -617,6 +625,10 @@
           },
           "icon": {
             "value": "{core.accent.100}",
+            "type": "color"
+          },
+          "border": {
+            "value": "#00000000",
             "type": "color"
           }
         }

@@ -475,7 +475,10 @@
       "contextual.shake.dialog.error.border": "S:6214154cf3a0b58dcff82bbc948214df037362a0,",
       "contextual.shake.dialog.general.background": "S:de77bf48fe9e17c3adc4fe97b177f39d7c4ceeca,",
       "contextual.shake.dialog.general.border": "S:b9f8d00d6cddf5dfd78d82652fe02bb5d5fbc5f1,",
-      "progres": "S:b482e4ab76ec46bf9c3e1c418ac77d8a128e34db,"
+      "progres": "S:b482e4ab76ec46bf9c3e1c418ac77d8a128e34db,",
+      "contextual.button.swipe.completed.border": "S:6544baba3d5db2ae70da74345f2cbb5df68c6369,",
+      "contextual.button.swipe.default.border": "S:ac0ee0dc6113a0b8b7a9b069949c700d1c09a082,",
+      "contextual.button.swipe.filled.border": "S:10b86ca0c38984c19eca08f8e86e25dc652a55c2,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -890,20 +893,20 @@
       "button.large": "S:588ca84f6fb92cd3582913ae43423840ed356f38,",
       "button.medium": "S:0d51d2cab0a4d04db3a9da27c2d125e751905025,",
       "button.small": "S:492052cb38e7d112de3ddf1dd1cd46be3cb6b382,",
-      "switch-knob": "S:49c4d8cc3656439c77af87d515182b330bce6a5f,",
-      "snackbars": "S:e1f461d4507a0d7ca938e54262d8c44a141241f6,",
-      "timers": "S:42fc4172fd9b3b8e7ae18a80aa799ccdaf5b548d,",
-      "tab-bars": "S:cc5b1a3530b226afe161b0bdf444d6cb144a89bb,",
-      "segment-button": "S:c38dfee1b5fee45ee22ca38e14697f72a88c0408,",
-      "swipe-button": "S:21bea08000d85ee3110745e9efcce42334d7f78c,",
-      "winning-now": "S:6500d0beaa92895600c11afb25295340fbf9a7b8,",
+      "switch-knob": "S:10c39ea4d3f4ec230aa3cd16a9c8ff173f3a70a4,",
+      "snackbars": "S:f87ff7483cf76789255d9f273dca44993347b55f,",
+      "timers": "S:b1eba006c609c5b7ef8973072e21c1c900d0fdcb,",
+      "tab-bars": "S:0ca8ab2672175d95e872f92583dfbba6aea97833,",
+      "segment-button": "S:d8d41bc6ac2880e72977bf99c0e0b3c0bafaa993,",
+      "swipe-button": "S:e64d4465cc276d0f4901bb29ad29da35d574d47e,",
+      "winning-now": "S:bf6a26620ae5e937ba3eda48ff412b30fedead39,",
       "contextual.statuses.story.reviewed.background": "S:d61fdc08a029495cb26ac58977449c4aeb6e72f5,",
       "contextual.statuses.story.reviewed.border": "S:a94eb6fb53b7327f8bf1de613834d30018b81514,",
       "contextual.statuses.story.reviewed.icon": "S:8fea4bd436d8f8dd806b433f40211849451075ae,",
       "contextual.statuses.story.not-reviewed.background": "S:d0730777a28cf5775fbd4ccd0154be4a11b9b9b1,",
       "contextual.statuses.story.not-reviewed.border": "S:2aec40bbf6533b0dcc126fa069138443e9336d9c,",
       "contextual.statuses.story.not-reviewed.icon": "S:2ac0ad52a78e86da698b3b742306cc415af64344,",
-      "permission-notification": "S:764145983bb9896311af3e7bfc9d708fbad30352,",
+      "permission-notification": "S:31123ffe1a7480aff34f330ce1755321936b7f66,",
       "contextual.modal-screen.divider": "S:92ca3f8692ac4386820922f15f86ca236c1ea512,",
       "semantic.background.static.primary": "S:812d79b45b3685eb47d421cc3377f226ea9e5f43,",
       "semantic.background.static.secondary": "S:cd2a8d1dba467148f5b0d0e79933b59fd4af7818,",
@@ -926,7 +929,7 @@
       "contextual.in-game.background": "S:d4f3ac95539f598a00f08f2c824b88bd577cfcee,",
       "contextual.in-game.active": "S:d1045a66bb25e441c5cee2b1353338e19a03a0e9,",
       "contextual.in-game.inactive": "S:f2dd6e77efdf43284be84df018ea111a25a7de6b,",
-      "in-game": "S:b62d96d75c460fa1883e4b9b98d756b92e2fdb6e,",
+      "in-game": "S:ccd331336618a37f0f72120e0425f46ab0da65dc,",
       "contextual.in-game.tab": "S:f80890202a1a4beb546ef64889f28cd42b39028c,",
       "contextual.button.static.enabled.background": "S:e2b5f84ebd607b4d44f78be610154320e22d5177,",
       "contextual.button.static.enabled.border": "S:7a9aef80cc1ad73ce78777d9ad81487e005bb151,",
@@ -1073,7 +1076,10 @@
       "contextual.shake.dialog.error.border": "S:16dfa5d1743cd14411d5c085ef5c86f070dc3467,",
       "contextual.shake.dialog.general.background": "S:c58f35349de2ff774475481bad99060bcdadd09d,",
       "contextual.shake.dialog.general.border": "S:309306233b72fd7c0e75c812ff6e083f80b21e9b,",
-      "progres": "S:67bb4608e7a6f4bc36ce6f3e092f21e6a7715bf3,"
+      "progres": "S:100508203039cb1186153708d437f89eb983d553,",
+      "contextual.button.swipe.completed.border": "S:75f92889f9bcb096d4c31db626d2b4e9441ccdff,",
+      "contextual.button.swipe.default.border": "S:477e7e3f32a03c9bebe35b2f21d59f6043827395,",
+      "contextual.button.swipe.filled.border": "S:7f5abc49a7b44e90049de6e94378fbf5ce0af88a,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
