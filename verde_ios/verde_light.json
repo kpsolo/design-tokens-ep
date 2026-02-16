@@ -1736,15 +1736,15 @@
         },
         "black": {
           "primary": {
-            "value": "{core.black.400}",
+            "value": "rgba(0,0,0,0.5)",
             "type": "color"
           },
           "secondary": {
-            "value": "{core.black.500}",
+            "value": "rgba(0,0,0,0.3)",
             "type": "color"
           },
           "tertiary": {
-            "value": "{core.black.800}",
+            "value": "rgba(0,0,0,0.1)",
             "type": "color"
           }
         }
