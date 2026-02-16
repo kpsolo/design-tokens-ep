@@ -1546,6 +1546,62 @@
           "value": "{core.black.100}",
           "type": "color"
         }
+      },
+      "progress": {
+        "started": {
+          "background": {
+            "value": "rgba(0,0,0,0.4)",
+            "type": "color"
+          },
+          "border": {
+            "value": "#A4DC07",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.white.100}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.white.100}",
+            "type": "color"
+          }
+        },
+        "running": {
+          "background": {
+            "value": "rgba(0,0,0,0.4)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.accent.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "# {core.white.100}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.white.100}",
+            "type": "color"
+          }
+        },
+        "finished": {
+          "background": {
+            "value": "rgba(0,0,0,0.4)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.red.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.white.100}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.white.100}",
+            "type": "color"
+          }
+        }
       }
     },
     "callout": {

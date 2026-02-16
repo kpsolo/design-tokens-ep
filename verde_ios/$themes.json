@@ -481,7 +481,19 @@
       "contextual.button.swipe.filled.border": "S:10b86ca0c38984c19eca08f8e86e25dc652a55c2,",
       "semantic.background.overlay.black.primary": "S:ddde0f1bfa0cf6998da7798a0efef0a805e2675e,",
       "semantic.background.overlay.black.secondary": "S:dbcb6ffb082246a0d041da1e040e6b2fb7a99626,",
-      "semantic.background.overlay.black.tertiary": "S:d4db7aa3671d6b9e77c7a79391a70d2fd8ad930e,"
+      "semantic.background.overlay.black.tertiary": "S:d4db7aa3671d6b9e77c7a79391a70d2fd8ad930e,",
+      "contextual.timer.progress.started.background": "S:22343049b771d09976f899dc292fe05e644cdfd0,",
+      "contextual.timer.progress.started.border": "S:79aeff57e0e99f852077ec595e36781892c21a2b,",
+      "contextual.timer.progress.started.icon": "S:fbbec12db6753f9d7e944a8d862abbf8c84dd367,",
+      "contextual.timer.progress.running.background": "S:ba733f1a3f3109a929028066b32ac29ffd5f01bb,",
+      "contextual.timer.progress.finished.background": "S:5d96434e43dba7a8354dbe58f5398a13af44ea6f,",
+      "contextual.timer.progress.running.border": "S:99c603b7bca4336a9b0759b9fdc726dcbe571afa,",
+      "contextual.timer.progress.running.icon": "S:33600e22672598cacb4bceea6dbdf3ef47e7a657,",
+      "contextual.timer.progress.finished.border": "S:9ee603ea8c4dfda69e6d44609f9af4cdd6774279,",
+      "contextual.timer.progress.finished.icon": "S:32931639e1f8a1d20e179afc692f50fd73682f48,",
+      "contextual.timer.progress.started.text": "S:abd6d8a7ea6ca00f280b18f7aa9f01786e9832d9,",
+      "contextual.timer.progress.running.text": "S:ed78c9754fa81d6bf4dcc831d9332b656bb56fa0,",
+      "contextual.timer.progress.finished.text": "S:81d66abf88748f454dce2292b7f56a9103ac97cf,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -1085,7 +1097,19 @@
       "contextual.button.swipe.filled.border": "S:7f5abc49a7b44e90049de6e94378fbf5ce0af88a,",
       "semantic.background.overlay.black.primary": "S:750201bca6364d71e8398c7c72cf4490a8411cae,",
       "semantic.background.overlay.black.secondary": "S:bfcb25e8ae7f26aa85a46f0a876af811218a03b3,",
-      "semantic.background.overlay.black.tertiary": "S:c1c3e5dc05b29b54caf5cb6cb7d430859760dfbf,"
+      "semantic.background.overlay.black.tertiary": "S:c1c3e5dc05b29b54caf5cb6cb7d430859760dfbf,",
+      "contextual.timer.progress.started.background": "S:fc7165e2ce8f4924cde5a300496c52083bd25f5d,",
+      "contextual.timer.progress.started.border": "S:6837eb96e623df220bbb29a9469874676da5b12a,",
+      "contextual.timer.progress.started.icon": "S:e0db43e7cd9479e740d3de481a947b88b4bbb7bd,",
+      "contextual.timer.progress.running.background": "S:b382ff2690b6367cf8c77c4851a81b4614c1c787,",
+      "contextual.timer.progress.finished.background": "S:165296e0efde831d38591cf9cb8450acc4d03c93,",
+      "contextual.timer.progress.running.border": "S:54e80d823e79daf638a7715c35132a4ceeb17b84,",
+      "contextual.timer.progress.running.icon": "S:42861de601fcf974c015cab6a5db0a0d516901f9,",
+      "contextual.timer.progress.finished.border": "S:5945711ea99cc4cfda168ca17605b7502470cc7b,",
+      "contextual.timer.progress.finished.icon": "S:61d8e30c5827465bbd3432ddb10435fb2038397d,",
+      "contextual.timer.progress.started.text": "S:26ab22539de00b3cc1bf41fa5b4e94158db01ab7,",
+      "contextual.timer.progress.running.text": "S:17d55b93339c0eb86fe1ed9eb395363660c32712,",
+      "contextual.timer.progress.finished.text": "S:c0b72d8877cc2b6558ae82222d616b04738f396e,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
