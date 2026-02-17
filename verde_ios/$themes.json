@@ -493,7 +493,9 @@
       "contextual.timer.progress.finished.icon": "S:32931639e1f8a1d20e179afc692f50fd73682f48,",
       "contextual.timer.progress.started.text": "S:abd6d8a7ea6ca00f280b18f7aa9f01786e9832d9,",
       "contextual.timer.progress.running.text": "S:ed78c9754fa81d6bf4dcc831d9332b656bb56fa0,",
-      "contextual.timer.progress.finished.text": "S:81d66abf88748f454dce2292b7f56a9103ac97cf,"
+      "contextual.timer.progress.finished.text": "S:81d66abf88748f454dce2292b7f56a9103ac97cf,",
+      "contextual.tournaments.background.enable": "S:df4ebfcab8007606300443b3b882ba66a2529c6b,",
+      "contextual.tournaments.background.disable": "S:0235b36cfd16d240529cec32e05aa14ea72540a6,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -1109,7 +1111,9 @@
       "contextual.timer.progress.finished.icon": "S:61d8e30c5827465bbd3432ddb10435fb2038397d,",
       "contextual.timer.progress.started.text": "S:26ab22539de00b3cc1bf41fa5b4e94158db01ab7,",
       "contextual.timer.progress.running.text": "S:17d55b93339c0eb86fe1ed9eb395363660c32712,",
-      "contextual.timer.progress.finished.text": "S:c0b72d8877cc2b6558ae82222d616b04738f396e,"
+      "contextual.timer.progress.finished.text": "S:c0b72d8877cc2b6558ae82222d616b04738f396e,",
+      "contextual.tournaments.background.enable": "S:0090194b244be38261bc0728247a0f0ca73ec0c9,",
+      "contextual.tournaments.background.disable": "S:83c41fc8ea5dd40df72e3bfb970db448685ea630,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"

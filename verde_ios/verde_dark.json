@@ -1729,6 +1729,18 @@
           }
         }
       }
+    },
+    "tournaments": {
+      "background": {
+        "enable": {
+          "value": "linear-gradient(180deg, rgb(1, 157, 58) 0%, rgb(5, 74, 32) 100%)",
+          "type": "color"
+        },
+        "disable": {
+          "value": "linear-gradient(180deg, rgb(154, 154, 154) 0%, rgb(185, 185, 185) 50.38%, rgb(122, 122, 122) 100%)",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {
