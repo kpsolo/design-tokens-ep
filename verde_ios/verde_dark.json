@@ -1740,6 +1740,24 @@
           "value": "linear-gradient(180deg, rgb(154, 154, 154) 0%, rgb(185, 185, 185) 50.38%, rgb(122, 122, 122) 100%)",
           "type": "color"
         }
+      },
+      "switcher": {
+        "background": {
+          "value": "{core.white.600}",
+          "type": "color"
+        },
+        "tab": {
+          "value": "{core.accent.100}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.white.100}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{core.white.100}",
+          "type": "color"
+        }
       }
     }
   },
@@ -2716,6 +2734,10 @@
     "shake-dialog": {
       "value": "24px",
       "type": "dimension"
+    },
+    "switch-tournament": {
+      "value": "24px",
+      "type": "dimension"
     }
   },
   "radio-buttons": {
@@ -2922,5 +2944,16 @@
       "value": "{core-radios.full}",
       "type": "borderRadius"
     }
+  },
+  "switch-tournaments": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "16",
+      "spread": "0",
+      "color": "rgba(0,0,0,0.1)",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
   }
 }

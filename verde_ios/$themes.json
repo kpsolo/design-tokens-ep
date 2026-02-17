@@ -495,7 +495,12 @@
       "contextual.timer.progress.running.text": "S:ed78c9754fa81d6bf4dcc831d9332b656bb56fa0,",
       "contextual.timer.progress.finished.text": "S:81d66abf88748f454dce2292b7f56a9103ac97cf,",
       "contextual.tournaments.background.enable": "S:df4ebfcab8007606300443b3b882ba66a2529c6b,",
-      "contextual.tournaments.background.disable": "S:0235b36cfd16d240529cec32e05aa14ea72540a6,"
+      "contextual.tournaments.background.disable": "S:0235b36cfd16d240529cec32e05aa14ea72540a6,",
+      "contextual.tournaments.switcher.background": "S:b782ec37b571d2baf4a16df61a472db33cef43b0,",
+      "contextual.tournaments.switcher.tab": "S:fb27177e9f4f98974e7f54984e5a8e09609907ef,",
+      "contextual.tournaments.switcher.active": "S:c95511b0b91cf6bb9df11c03069b4daf96fd6fb9,",
+      "contextual.tournaments.switcher.inactive": "S:b44dc7d84152211a4515573c038f2c2248193312,",
+      "switch-tournaments": "S:e969f349ac68184bb1ce8405a624f4011bf1cb20,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -629,6 +634,7 @@
       "balance.button": "ec024c76f57cadd20f44a088cd5e4f42db059738",
       "in-games.container": "386e4d6e70e80d95ad2c57cd2d6cfd7fa987a530",
       "in-games.button": "947e93862c77df03b6d592a61934b2a897916c01",
+      "background-blur.switch-tournament": "d9fa2214dea6a68a3cda43c54b84c2b61cd7c26a",
       "background-blur.balance": "cf0b65210513ab43a9c2f1168a48aea5b9227926"
     }
   },
@@ -1113,7 +1119,12 @@
       "contextual.timer.progress.running.text": "S:17d55b93339c0eb86fe1ed9eb395363660c32712,",
       "contextual.timer.progress.finished.text": "S:c0b72d8877cc2b6558ae82222d616b04738f396e,",
       "contextual.tournaments.background.enable": "S:0090194b244be38261bc0728247a0f0ca73ec0c9,",
-      "contextual.tournaments.background.disable": "S:83c41fc8ea5dd40df72e3bfb970db448685ea630,"
+      "contextual.tournaments.background.disable": "S:83c41fc8ea5dd40df72e3bfb970db448685ea630,",
+      "contextual.tournaments.switcher.background": "S:9f910dee9f99321003f490bdbdd0ca678880691c,",
+      "contextual.tournaments.switcher.tab": "S:87cb186bf06c892f1461126c7b6c685f1d6683ad,",
+      "contextual.tournaments.switcher.active": "S:9ceb7cda1e7f19d735f18d74a1f3e349d29384a6,",
+      "contextual.tournaments.switcher.inactive": "S:910661304403bc3e12c9f7a0cefed08f11d8fa0b,",
+      "switch-tournaments": "S:222eab89ad1593735bc3c1d02b51621a5d34a4a5,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
@@ -1246,7 +1257,8 @@
       "block.medium": "ed2db11a6f5856eac2e5d19efcab46f6f6f0f328",
       "block.small": "713131138d843db618e5a6b4d0a44b4bdad0d05c",
       "balance.container": "03dcea85abed53328786c50148527bf870d27e8e",
-      "balance.button": "8f44ffac4d5f8eb5da93acd5699cf7d5a7d8c581"
+      "balance.button": "8f44ffac4d5f8eb5da93acd5699cf7d5a7d8c581",
+      "background-blur.switch-tournament": "f372e0f98d6cb70ba0407364b68192db7a7c97c7"
     }
   }
 ]
