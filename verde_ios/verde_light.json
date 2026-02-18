@@ -1739,9 +1739,13 @@
         "disable": {
           "value": "linear-gradient(180deg, rgb(154, 154, 154) 0%, rgb(185, 185, 185) 50.38%, rgb(122, 122, 122) 100%)",
           "type": "color"
+        },
+        "position": {
+          "value": "linear-gradient(136deg, rgba(2, 138, 78, 1) 0%, rgba(155, 209, 2, 1) 100%)",
+          "type": "color"
         }
       },
-      "switcher": {
+      "segment-control": {
         "background": {
           "value": "{core.white.600}",
           "type": "color"
@@ -2587,6 +2591,16 @@
     "button": {
       "value": "{core-radios.full}",
       "type": "borderRadius"
+    },
+    "tournaments": {
+      "container": {
+        "value": "{core-radios.full}",
+        "type": "borderRadius"
+      },
+      "button": {
+        "value": "{core-radios.full}",
+        "type": "borderRadius"
+      }
     }
   },
   "timer": {
@@ -2815,9 +2829,11 @@
       "value": "24px",
       "type": "dimension"
     },
-    "switch-tournament": {
-      "value": "24px",
-      "type": "dimension"
+    "tournaments": {
+      "segment-control": {
+        "value": "24px",
+        "type": "dimension"
+      }
     }
   },
   "categories-tab": {
@@ -2953,15 +2969,28 @@
       "type": "borderRadius"
     }
   },
-  "switch-tournaments": {
-    "value": {
-      "x": "0",
-      "y": "0",
-      "blur": "16",
-      "spread": "0",
-      "color": "rgba(0,0,0,0.1)",
-      "type": "dropShadow"
+  "tournaments": {
+    "segment-control": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "16",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.1)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     },
-    "type": "boxShadow"
+    "position": {
+      "value": {
+        "x": "0",
+        "y": "1",
+        "blur": "6",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.3)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
   }
 }
