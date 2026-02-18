@@ -1700,7 +1700,7 @@
       "dialog": {
         "success": {
           "background": {
-            "value": "linear-gradient(180deg, rgba(30, 32, 2, 0.50) 0%, rgba(47, 70, 2, 0.50) 47.16%, rgba(58, 121, 13, 0.50) 100%)",
+            "value": "linear-gradient(180deg, rgba(2, 14, 3, 0.40) 15%, rgba(4, 64, 7, 0.40) 60%, rgba(37, 168, 7, 0.40) 95%)",
             "type": "color"
           },
           "border": {
@@ -1710,7 +1710,7 @@
         },
         "error": {
           "background": {
-            "value": "linear-gradient(180deg, rgba(33, 31, 1, 0.50) 0%, rgba(42, 21, 1, 0.50) 50%, rgba(144, 0, 0, 0.50) 100%)",
+            "value": "linear-gradient(180deg, rgba(33, 3, 1, 0.40) 15%, rgba(33, 2, 2, 0.40) 60%, rgba(200, 0, 0, 0.40) 95%)",
             "type": "color"
           },
           "border": {
@@ -1720,7 +1720,7 @@
         },
         "general": {
           "background": {
-            "value": "linear-gradient(180deg, rgba(17, 28, 4, 0.50) 0%, rgba(10, 16, 1, 0.50) 100%)",
+            "value": "linear-gradient(180deg, rgba(1, 9, 19, 0.40) 15%, rgba(20, 48, 47, 0.40) 60%, rgba(1, 9, 19, 0.40) 95%)",
             "type": "color"
           },
           "border": {

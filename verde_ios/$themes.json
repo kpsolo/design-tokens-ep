@@ -583,8 +583,11 @@
       "card.balances": "bca191d29256087ec58b19e1a994d8a4587d7f52",
       "card.battle": "1b8ff4f3d0380e2997d0dcb585bccfd9babcaa51",
       "card.callout": "ee1db7aa28c46b7d4b7abe93dd94730817505b86",
+      "card.tournaments": "0a7a974a460cc3de537c1e6bc1efcf39ee13a387",
       "segmented-controls.container": "8ca3e0f219c97119307f786a341961867850404c",
       "segmented-controls.button": "68727ddadd0dca7c39f627b035ac31a79caef395",
+      "segmented-controls.tournaments.container": "df070cca3db25bfae24328c3468fffe5b80b2164",
+      "segmented-controls.tournaments.button": "50fef4e12319af99cd534e864b25f87be3511fae",
       "timer.large": "367689785e5f178286f85e314c2042351109e4ad",
       "timer.medium": "ca62a997acb602c1a52c090c1353eb41584fce6c",
       "timer.small": "b1f706c943daa6af9b0bc676c39b49987009898a",
@@ -636,9 +639,6 @@
       "balance.button": "ec024c76f57cadd20f44a088cd5e4f42db059738",
       "in-games.container": "386e4d6e70e80d95ad2c57cd2d6cfd7fa987a530",
       "in-games.button": "947e93862c77df03b6d592a61934b2a897916c01",
-      "card.tournaments": "0a7a974a460cc3de537c1e6bc1efcf39ee13a387",
-      "segmented-controls.tournaments.container": "df070cca3db25bfae24328c3468fffe5b80b2164",
-      "segmented-controls.tournaments.button": "50fef4e12319af99cd534e864b25f87be3511fae",
       "background-blur.balance": "cf0b65210513ab43a9c2f1168a48aea5b9227926"
     }
   },
@@ -1213,6 +1213,8 @@
       "card.top-game.thumb": "80c4f53c75598d15bc7c36c81ae222cbfd52b955",
       "segmented-controls.container": "9bdd539d3763978c71e75a87278aab19b13f318c",
       "segmented-controls.button": "18efbcfe27029bedbdee31442f7bb37211aeb91d",
+      "segmented-controls.tournaments.container": "ab751f5f1a11fb7f94937ec1a875bd82312a98b6",
+      "segmented-controls.tournaments.button": "07531da0c41bbfd7359253a342a52c44e41c3e15",
       "timer.large": "4423474771a668af2cad123d61b51945d3b9dded",
       "timer.medium": "afd44fffc9edb4155b27d6f7e5100f1f1a1f1996",
       "timer.small": "010a93efe139ab3a8e16968bae84f69d37ccad7c",
@@ -1263,9 +1265,7 @@
       "block.medium": "ed2db11a6f5856eac2e5d19efcab46f6f6f0f328",
       "block.small": "713131138d843db618e5a6b4d0a44b4bdad0d05c",
       "balance.container": "03dcea85abed53328786c50148527bf870d27e8e",
-      "balance.button": "8f44ffac4d5f8eb5da93acd5699cf7d5a7d8c581",
-      "segmented-controls.tournaments.container": "ab751f5f1a11fb7f94937ec1a875bd82312a98b6",
-      "segmented-controls.tournaments.button": "07531da0c41bbfd7359253a342a52c44e41c3e15"
+      "balance.button": "8f44ffac4d5f8eb5da93acd5699cf7d5a7d8c581"
     }
   }
 ]
