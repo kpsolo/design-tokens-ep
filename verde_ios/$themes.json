@@ -600,6 +600,7 @@
       "background-blur.callout": "3c63f178e773690de3b9f1e31451bf5de8bc9fd2",
       "background-blur.piggy-dialog": "98b4054cd7a41e2fbe1ccb22cb21369c58c2612c",
       "background-blur.shake-dialog": "b53d393eab3f2a3ca54e6da75bc9e9178dd97b91",
+      "background-blur.switch-tournament": "d9fa2214dea6a68a3cda43c54b84c2b61cd7c26a",
       "radio-buttons": "5b002ea4590b1799fe93ea5661dbf4e33614efa6",
       "checkboxs": "79435f15466a413809dffb9b9e59dcce14ce62ee",
       "text-fields.default": "54964f2a55b6687b11e67b3eefb9b35ec912145b",
@@ -634,7 +635,7 @@
       "balance.button": "ec024c76f57cadd20f44a088cd5e4f42db059738",
       "in-games.container": "386e4d6e70e80d95ad2c57cd2d6cfd7fa987a530",
       "in-games.button": "947e93862c77df03b6d592a61934b2a897916c01",
-      "background-blur.switch-tournament": "d9fa2214dea6a68a3cda43c54b84c2b61cd7c26a",
+      "card.tournaments": "0a7a974a460cc3de537c1e6bc1efcf39ee13a387",
       "background-blur.balance": "cf0b65210513ab43a9c2f1168a48aea5b9227926"
     }
   },
@@ -1202,6 +1203,7 @@
       "card.balances": "0ce43986ced459b7093a9113e2d5e0b367fc419c",
       "card.battle": "b717b79054a1633de02eac76888196f2e4feaae9",
       "card.collection": "645aaf8e0899768577ae2c78838a6db0ffa68bbf",
+      "card.tournaments": "d18414af737659817a0f8a97ce2ec7296cf737db",
       "card.winning-now": "8a65067ce8544fd6c2ccb26eb40a97e97a846c74",
       "card.callout": "4da980ce053125c90abd15e541ffa94f33201772",
       "card.top-game.container": "f0164b94ab4e12ee566b969048d11480773c50bf",
@@ -1241,6 +1243,7 @@
       "background-blur.callout": "1490b5cf1dbbd0aadf7d88cba7235572df13a21b",
       "background-blur.piggy-dialog": "f790f9eca0b6dae4e45ca2962c6f86554a389c74",
       "background-blur.shake-dialog": "2cf3091e0cceb8e91e747c665a4ea9c4311b0566",
+      "background-blur.switch-tournament": "f372e0f98d6cb70ba0407364b68192db7a7c97c7",
       "categories-tab": "263441930385b5e754c258a175b63a8db0b71f37",
       "text-field": "beb865371cc1bd32fadd60ce07674af05657a97d",
       "radio-buttons": "77a0dbef84ee279c09bfe3abbfc34132baf762e9",
@@ -1257,8 +1260,7 @@
       "block.medium": "ed2db11a6f5856eac2e5d19efcab46f6f6f0f328",
       "block.small": "713131138d843db618e5a6b4d0a44b4bdad0d05c",
       "balance.container": "03dcea85abed53328786c50148527bf870d27e8e",
-      "balance.button": "8f44ffac4d5f8eb5da93acd5699cf7d5a7d8c581",
-      "background-blur.switch-tournament": "f372e0f98d6cb70ba0407364b68192db7a7c97c7"
+      "balance.button": "8f44ffac4d5f8eb5da93acd5699cf7d5a7d8c581"
     }
   }
 ]

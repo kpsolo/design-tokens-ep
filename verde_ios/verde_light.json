@@ -2556,6 +2556,10 @@
       "value": "{core-radios.500}",
       "type": "borderRadius"
     },
+    "tournaments": {
+      "value": "{core-radios.600}",
+      "type": "borderRadius"
+    },
     "winning-now": {
       "value": "{core-radios.500}",
       "type": "borderRadius"
