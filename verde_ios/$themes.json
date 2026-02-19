@@ -593,6 +593,7 @@
       "timer.large": "367689785e5f178286f85e314c2042351109e4ad",
       "timer.medium": "ca62a997acb602c1a52c090c1353eb41584fce6c",
       "timer.small": "b1f706c943daa6af9b0bc676c39b49987009898a",
+      "timer.progress": "92508b4a4949cb588085bc85236cc53d2c1a14e0",
       "background-blur.chips": "ce0acaef5f1cd3205114d69197dfdda188edfef6",
       "background-blur.statuses": "f206ddf14e4bfbf0e89efc0fe4f35348ec91a2b5",
       "background-blur.tab-bar": "bc963f3022d5b6df5060f0f9effce7c552934155",
@@ -641,7 +642,7 @@
       "balance.button": "ec024c76f57cadd20f44a088cd5e4f42db059738",
       "in-games.container": "386e4d6e70e80d95ad2c57cd2d6cfd7fa987a530",
       "in-games.button": "947e93862c77df03b6d592a61934b2a897916c01",
-      "timer.progress": "92508b4a4949cb588085bc85236cc53d2c1a14e0",
+      "background-blur.tournaments.timer": "2e8c052bf37b4413e2f541577bed7df4ae77607c",
       "background-blur.balance": "cf0b65210513ab43a9c2f1168a48aea5b9227926"
     }
   },
@@ -1223,6 +1224,7 @@
       "timer.large": "4423474771a668af2cad123d61b51945d3b9dded",
       "timer.medium": "afd44fffc9edb4155b27d6f7e5100f1f1a1f1996",
       "timer.small": "010a93efe139ab3a8e16968bae84f69d37ccad7c",
+      "timer.progress": "dfe8cf5e991328bc4d830e74c4d29b3b0bd8601d",
       "search.ios": "ec63bac77de9285588bc7ebfcca7cdbcce15aa9b",
       "search.android": "dfa7922d4a12aa472a0303544d45bd0bcbcfffc4",
       "statuses.large": "75c3d26df095cfe28a49cfd54f5067ff5f822237",
@@ -1271,7 +1273,7 @@
       "block.small": "713131138d843db618e5a6b4d0a44b4bdad0d05c",
       "balance.container": "03dcea85abed53328786c50148527bf870d27e8e",
       "balance.button": "8f44ffac4d5f8eb5da93acd5699cf7d5a7d8c581",
-      "timer.progress": "dfe8cf5e991328bc4d830e74c4d29b3b0bd8601d"
+      "background-blur.tournaments.timer": "a33070630f97e589d399b88712ccbf1336795c26"
     }
   }
 ]

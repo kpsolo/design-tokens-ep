@@ -2837,6 +2837,10 @@
       "segment-control": {
         "value": "24px",
         "type": "dimension"
+      },
+      "timer": {
+        "value": "24px",
+        "type": "dimension"
       }
     }
   },
