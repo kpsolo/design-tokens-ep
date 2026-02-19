@@ -2615,6 +2615,10 @@
     "small": {
       "value": "{core-radios.100}",
       "type": "borderRadius"
+    },
+    "progress": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
     }
   },
   "search": {
