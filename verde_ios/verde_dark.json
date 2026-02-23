@@ -1741,7 +1741,7 @@
           "type": "color"
         }
       },
-      "switcher": {
+      "segment-control": {
         "background": {
           "value": "{core.white.600}",
           "type": "color"
@@ -1757,6 +1757,96 @@
         "inactive": {
           "value": "{core.white.100}",
           "type": "color"
+        }
+      }
+    },
+    "rank": {
+      "my-position": {
+        "primary": {
+          "background": {
+            "value": "{core.white.800}",
+            "type": "color"
+          },
+          "border": {
+            "value": "rgba(255, 184, 0, 0.70)",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.yellow.100}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "background": {
+            "value": "linear-gradient(136deg, rgba(2, 138, 78, 1) 0%, rgba(155, 209, 2, 1) 100%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "linear-gradient(136deg, rgba(2, 138, 78, 1) 0%, rgba(155, 209, 2, 1) 100%)",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.white.100}",
+            "type": "color"
+          }
+        },
+        "tertiary": {
+          "background": {
+            "value": "{core.white.100}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.300}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.neutral.200}",
+            "type": "color"
+          }
+        },
+        "quaternary": {
+          "background": {
+            "value": "{core.white.800}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.300}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.white.100}",
+            "type": "color"
+          }
+        }
+      },
+      "position": {
+        "primary": {
+          "background": {
+            "value": "#F2F2F7",
+            "type": "color"
+          },
+          "border": {
+            "value": "#F2F2F7",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.neutral.200}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "background": {
+            "value": "rgba(0,0,0,0.3)",
+            "type": "color"
+          },
+          "border": {
+            "value": "rgba(0,0,0,0.3)",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.white.100}",
+            "type": "color"
+          }
         }
       }
     }
