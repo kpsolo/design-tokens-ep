@@ -1768,7 +1768,7 @@
             "type": "color"
           },
           "border": {
-            "value": "rgba(255, 184, 0, 0.70)",
+            "value": "{core.yellow.200}",
             "type": "color"
           },
           "text": {
