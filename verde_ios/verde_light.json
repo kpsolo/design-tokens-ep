@@ -1804,7 +1804,7 @@
             "type": "color"
           },
           "text": {
-            "value": "{core.neutral.200}",
+            "value": "{core.black.100}",
             "type": "color"
           }
         },
@@ -1826,15 +1826,15 @@
       "position": {
         "primary": {
           "background": {
-            "value": "#F2F2F7",
+            "value": "{core.neutral.200}",
             "type": "color"
           },
           "border": {
-            "value": "#F2F2F7",
+            "value": "{core.neutral.200}",
             "type": "color"
           },
           "text": {
-            "value": "{core.neutral.200}",
+            "value": "{core.black.100}",
             "type": "color"
           }
         },
