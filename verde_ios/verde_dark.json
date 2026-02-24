@@ -1830,7 +1830,7 @@
             "type": "color"
           },
           "text": {
-            "value": "{core.black.100}",
+            "value": "{core.white.100}",
             "type": "color"
           }
         },
