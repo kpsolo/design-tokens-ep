@@ -341,10 +341,28 @@
         "$value": "{core.white.50}"
       },
       "secondary": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.7",
+              "space": "lch"
+            }
+          }
+        },
         "$type": "color",
         "$value": "{core.white.50}"
       },
       "tertiary": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "lch"
+            }
+          }
+        },
         "$type": "color",
         "$value": "{core.white.50}"
       },
@@ -368,10 +386,28 @@
         "$value": "{core.white.50}"
       },
       "secondary": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.7",
+              "space": "lch"
+            }
+          }
+        },
         "$type": "color",
         "$value": "{core.white.50}"
       },
       "tertiary": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "lch"
+            }
+          }
+        },
         "$type": "color",
         "$value": "{core.white.50}"
       },
@@ -395,10 +431,28 @@
         "$value": "{core.white.50}"
       },
       "secondary": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.7",
+              "space": "lch"
+            }
+          }
+        },
         "$type": "color",
         "$value": "{core.white.50}"
       },
       "tertiary": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "lch"
+            }
+          }
+        },
         "$type": "color",
         "$value": "{core.white.50}"
       },
