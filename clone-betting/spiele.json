@@ -469,28 +469,88 @@
     },
     "intent": {
       "brand": {
-        "$type": "color",
-        "$value": "{core.brand.400}"
+        "primary": {
+          "$type": "color",
+          "$value": "{core.brand.400}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{core.brand.700}"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "{core.brand.900}"
+        }
       },
       "accent": {
-        "$type": "color",
-        "$value": "{core.accent.500}"
+        "primary": {
+          "$type": "color",
+          "$value": "{core.accent.500}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{core.accent.700}"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "{core.accent.900}"
+        }
       },
       "success": {
-        "$type": "color",
-        "$value": "{core.green.400}"
+        "primary": {
+          "$type": "color",
+          "$value": "{core.green.400}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{core.green.700}"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "{core.green.900}"
+        }
       },
       "warning": {
-        "$type": "color",
-        "$value": "{core.yellow.300}"
+        "primary": {
+          "$type": "color",
+          "$value": "{core.yellow.300}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{core.yellow.700}"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "{core.yellow.900}"
+        }
       },
       "danger": {
-        "$type": "color",
-        "$value": "{core.red.400}"
+        "primary": {
+          "$type": "color",
+          "$value": "{core.red.400}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{core.red.700}"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "{core.red.900}"
+        }
       },
       "neutral": {
-        "$type": "color",
-        "$value": "{core.accent.50}"
+        "primary": {
+          "$type": "color",
+          "$value": "{core.neutral_soft.50}"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{core.neutral_soft.500}"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "{core.neutral_soft.900}"
+        }
       }
     },
     "static": {
