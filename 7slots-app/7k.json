@@ -1977,6 +1977,38 @@
         "value": "linear-gradient(140deg, rgb(180, 55, 36) 1.93%, rgb(122, 19, 55) 50.97%, rgb(42, 7, 1) 100%)",
         "type": "color"
       }
+    },
+    "loader": {
+      "from": {
+        "primary": {
+          "value": "{core.brand.accent.100}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.brand.accent.200}",
+          "type": "color"
+        }
+      },
+      "to": {
+        "primary": {
+          "value": "{core.brand.support.300}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.brand.support.500}",
+          "type": "color"
+        }
+      },
+      "intermediate": {
+        "primary": {
+          "value": "#E36443",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#B84F2F",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {

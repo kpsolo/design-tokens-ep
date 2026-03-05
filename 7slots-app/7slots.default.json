@@ -1941,6 +1941,38 @@
         "value": "linear-gradient(0deg, rgba(195, 47, 1, 1) 0%, rgba(243, 178, 0, 1) 100%)",
         "type": "color"
       }
+    },
+    "loader": {
+      "from": {
+        "primary": {
+          "value": "#5899FF",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#0368FF",
+          "type": "color"
+        }
+      },
+      "to": {
+        "primary": {
+          "value": "#5CD995",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#25A660",
+          "type": "color"
+        }
+      },
+      "intermediate": {
+        "primary": {
+          "value": "#2E6D4B",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#135330",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {
