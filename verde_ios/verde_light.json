@@ -333,7 +333,7 @@
             "description": "The background of the disabled button"
           },
           "border": {
-            "value": "#transparent",
+            "value": "transparent",
             "type": "color",
             "description": "The border color of the disabled button"
           },

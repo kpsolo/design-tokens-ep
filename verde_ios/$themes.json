@@ -523,9 +523,7 @@
       "contextual.rank.position.secondary.border": "S:a526007ad2d42ed7f187dd81939465c9b538ad5c,",
       "contextual.rank.position.secondary.text": "S:32bb1cad8e239eed8411dacc48f876f3c05dcf2f,"
     },
-    "selectedTokenSets": {
-      "verde_light": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:365:4020",
     "$figmaModeId": "365:2",
     "$figmaVariableReferences": {
@@ -1172,9 +1170,7 @@
       "contextual.rank.position.secondary.border": "S:99e5b215eea66bba25933c965c6303d980145516,",
       "contextual.rank.position.secondary.text": "S:7b7fc33cd767950dca4ddb3f110c9ed4a760520e,"
     },
-    "selectedTokenSets": {
-      "verde_dark": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:365:4021",
     "$figmaModeId": "365:3",
     "$figmaVariableReferences": {
