@@ -333,7 +333,7 @@
             "description": "The background of the disabled button"
           },
           "border": {
-            "value": "#transparent",
+            "value": "transparent",
             "type": "color",
             "description": "The border color of the disabled button"
           },
@@ -379,7 +379,7 @@
             "description": "The background of the disabled button"
           },
           "border": {
-            "value": "#transparent",
+            "value": "transparent",
             "type": "color",
             "description": "The border color of the disabled button"
           },
@@ -398,7 +398,7 @@
       "tertiary": {
         "enabled": {
           "background": {
-            "value": "#transparent",
+            "value": "transparent",
             "type": "color",
             "description": "The background of the enabled button"
           },
@@ -420,7 +420,7 @@
         },
         "disabled": {
           "background": {
-            "value": "#transparent",
+            "value": "transparent",
             "type": "color",
             "description": "The background of the disabled button"
           },
@@ -449,7 +449,7 @@
             "description": "The background of the enabled button"
           },
           "border": {
-            "value": "#transparent",
+            "value": "transparent",
             "type": "color",
             "description": "The border color of the enabled button"
           },
@@ -471,7 +471,7 @@
             "description": "The background of the disabled button"
           },
           "border": {
-            "value": "#transparent",
+            "value": "transparent",
             "type": "color",
             "description": "The border color of the disabled button"
           },
@@ -531,7 +531,7 @@
             "description": "The background of the enabled button"
           },
           "border": {
-            "value": "#transparent",
+            "value": "transparent",
             "type": "color",
             "description": "The border color of the enabled button"
           },
@@ -553,7 +553,7 @@
             "description": "The background of the disabled button"
           },
           "border": {
-            "value": "#transparent",
+            "value": "transparent",
             "type": "color",
             "description": "The border color of the disabled button"
           },
@@ -628,7 +628,7 @@
             "type": "color"
           },
           "border": {
-            "value": "#00000000",
+            "value": "transparent",
             "type": "color"
           }
         }
@@ -640,7 +640,7 @@
           "description": "The background of the disabled button"
         },
         "border": {
-          "value": "#transparent",
+          "value": "transparent",
           "type": "color",
           "description": "The border color of the disabled button"
         },
@@ -662,7 +662,7 @@
           "description": "The background of the disabled button"
         },
         "border": {
-          "value": "#transparent",
+          "value": "transparent",
           "type": "color",
           "description": "The border color of the disabled button"
         },
@@ -815,7 +815,7 @@
       },
       "border": {
         "enabled": {
-          "value": "Transparent",
+          "value": "transparent",
           "type": "color"
         },
         "focus": {
@@ -827,7 +827,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "Transparent",
+          "value": "transparent",
           "type": "color"
         }
       },
@@ -1187,7 +1187,7 @@
           "type": "color"
         },
         "border": {
-          "value": "#transparent",
+          "value": "transparent",
           "type": "color"
         },
         "text": {
@@ -1201,7 +1201,7 @@
       },
       "unselected": {
         "background": {
-          "value": "#transparent",
+          "value": "transparent",
           "type": "color"
         },
         "border": {
@@ -1493,7 +1493,7 @@
           "type": "color"
         },
         "inactive": {
-          "value": "#00000000",
+          "value": "transparent",
           "type": "color"
         }
       },
