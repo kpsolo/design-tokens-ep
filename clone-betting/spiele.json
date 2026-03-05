@@ -471,7 +471,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.3",
+              "value": "{opasity_primitives.300}",
               "space": "lch"
             }
           }
@@ -490,15 +490,6 @@
         "$value": "{primitives.neutral_strong.200}"
       },
       "tertiary": {
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.5",
-              "space": "lch"
-            }
-          }
-        },
         "$type": "color",
         "$value": "{primitives.neutral_strong.400}"
       },
@@ -507,7 +498,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.3",
+              "value": "{opasity_primitives.300}",
               "space": "lch"
             }
           }
@@ -534,7 +525,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.3",
+              "value": "{opasity_primitives.150}",
               "space": "lch"
             }
           }
@@ -640,7 +631,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.7",
+                "value": "{opasity_primitives.700}",
                 "space": "lch"
               }
             }
@@ -653,7 +644,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.45",
+                "value": "{opasity_primitives.450}",
                 "space": "lch"
               }
             }
@@ -666,7 +657,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.25",
+                "value": "{opasity_primitives.250}",
                 "space": "lch"
               }
             }
@@ -685,7 +676,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.7",
+                "value": "{opasity_primitives.700}",
                 "space": "lch"
               }
             }
@@ -698,7 +689,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.45",
+                "value": "{opasity_primitives.450}",
                 "space": "lch"
               }
             }
@@ -711,7 +702,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.25",
+                "value": "{opasity_primitives.250}",
                 "space": "lch"
               }
             }
@@ -990,39 +981,79 @@
     "$value": "line-through"
   },
   "opasity_primitives": {
+    "50": {
+      "$type": "opacity",
+      "$value": "0.05"
+    },
     "100": {
       "$type": "opacity",
       "$value": "0.1"
+    },
+    "150": {
+      "$type": "opacity",
+      "$value": "0.15"
     },
     "200": {
       "$type": "opacity",
       "$value": "0.2"
     },
+    "250": {
+      "$type": "opacity",
+      "$value": "0.25"
+    },
     "300": {
       "$type": "opacity",
       "$value": "0.3"
+    },
+    "350": {
+      "$type": "opacity",
+      "$value": "0.35"
     },
     "400": {
       "$type": "opacity",
       "$value": "0.4"
     },
+    "450": {
+      "$type": "opacity",
+      "$value": "0.45"
+    },
     "500": {
       "$type": "opacity",
       "$value": "0.5"
+    },
+    "550": {
+      "$type": "opacity",
+      "$value": "0.55"
     },
     "600": {
       "$type": "opacity",
       "$value": "0.6"
     },
+    "650": {
+      "$type": "opacity",
+      "$value": "0.65"
+    },
     "700": {
       "$type": "opacity",
       "$value": "0.7"
+    },
+    "750": {
+      "$type": "opacity",
+      "$value": "0.75"
     },
     "800": {
       "$type": "opacity",
       "$value": "0.8"
     },
+    "850": {
+      "$type": "opacity",
+      "$value": "0.85"
+    },
     "900": {
+      "$type": "opacity",
+      "$value": "0.9"
+    },
+    "950": {
       "$type": "opacity",
       "$value": "0.9"
     }
