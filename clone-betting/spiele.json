@@ -988,5 +988,43 @@
   "line-through": {
     "$type": "textDecoration",
     "$value": "line-through"
+  },
+  "opasity_primitives": {
+    "100": {
+      "$type": "opacity",
+      "$value": "0.1"
+    },
+    "200": {
+      "$type": "opacity",
+      "$value": "0.2"
+    },
+    "300": {
+      "$type": "opacity",
+      "$value": "0.3"
+    },
+    "400": {
+      "$type": "opacity",
+      "$value": "0.4"
+    },
+    "500": {
+      "$type": "opacity",
+      "$value": "0.5"
+    },
+    "600": {
+      "$type": "opacity",
+      "$value": "0.6"
+    },
+    "700": {
+      "$type": "opacity",
+      "$value": "0.7"
+    },
+    "800": {
+      "$type": "opacity",
+      "$value": "0.8"
+    },
+    "900": {
+      "$type": "opacity",
+      "$value": "0.9"
+    }
   }
 }
