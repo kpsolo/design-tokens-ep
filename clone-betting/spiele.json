@@ -498,7 +498,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opasity_primitives.300}",
+              "value": "{opasity_primitives.150}",
               "space": "lch"
             }
           }
@@ -525,7 +525,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opasity_primitives.150}",
+              "value": "{opasity_primitives.300}",
               "space": "lch"
             }
           }
