@@ -1244,11 +1244,11 @@
             "selected": {
               "background": {
                 "$type": "color",
-                "$value": "{primitives.accent.800}"
+                "$value": "{primitives.brand.500}"
               },
               "ball": {
                 "$type": "color",
-                "$value": "{primitives.accent.500}"
+                "$value": "{primitives.white.50}"
               }
             },
             "unselected": {
@@ -1262,11 +1262,11 @@
             "selected": {
               "background": {
                 "$type": "color",
-                "$value": "{primitives.accent.900}"
+                "$value": "{primitives.brand.900}"
               },
               "ball": {
                 "$type": "color",
-                "$value": "{primitives.accent.800}"
+                "$value": "{primitives.neutral_strong.100}"
               }
             },
             "unselected": {
@@ -1282,11 +1282,11 @@
             "checked": {
               "background": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.brand.500}"
               },
               "checkmark": {
                 "$type": "color",
-                "$value": "{primitives.black.50}"
+                "$value": "{primitives.white.50}"
               }
             },
             "unchecked": {
@@ -1300,11 +1300,11 @@
             "checked": {
               "background": {
                 "$type": "color",
-                "$value": "{primitives.accent.900}"
+                "$value": "{primitives.brand.900}"
               },
               "checkmark": {
                 "$type": "color",
-                "$value": "{primitives.accent.800}"
+                "$value": "{primitives.neutral_strong.100}"
               }
             },
             "unchecked": {
