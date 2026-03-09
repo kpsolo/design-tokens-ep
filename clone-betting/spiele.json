@@ -1182,21 +1182,29 @@
             "on": {
               "track": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.green.400}"
               },
               "knob": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.white.50}"
+              },
+              "ax-label": {
+                "$type": "color",
+                "$value": "{primitives.white.50}"
               }
             },
             "off": {
               "track": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.neutral_strong.200}"
               },
               "knob": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.white.50}"
+              },
+              "ax-label": {
+                "$type": "color",
+                "$value": "{primitives.neutral_strong.100}"
               }
             }
           },
@@ -1204,21 +1212,29 @@
             "on": {
               "track": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.green.900}"
               },
               "knob": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.neutral_strong.100}"
+              },
+              "ax-label": {
+                "$type": "color",
+                "$value": "{primitives.neutral_strong.100}"
               }
             },
             "off": {
               "track": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.neutral_strong.500}"
               },
               "knob": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.neutral_strong.200}"
+              },
+              "ax-label": {
+                "$type": "color",
+                "$value": "{primitives.neutral_strong.200}"
               }
             }
           }
