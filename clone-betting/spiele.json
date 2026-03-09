@@ -1139,7 +1139,7 @@
           "disabled": {
             "background": {
               "$type": "color",
-              "$value": "{primitives.neutral_strong.500}"
+              "$value": "{primitives.neutral_strong.600}"
             },
             "label": {
               "$extensions": {
@@ -1173,7 +1173,7 @@
       "segmented": {
         "background": {
           "$type": "color",
-          "$value": "{primitives.neutral_strong.500}"
+          "$value": "{contextual.navigation.toolbar.button.text.enabled.background}"
         },
         "control": {
           "selected": {
@@ -1353,7 +1353,7 @@
       "search-field": {
         "background": {
           "$type": "color",
-          "$value": "{primitives.neutral_strong.500}"
+          "$value": "{contextual.navigation.toolbar.button.text.enabled.background}"
         },
         "separator": {
           "$type": "color",
@@ -1558,9 +1558,65 @@
         }
       },
       "chip": {
-        "background": {
-          "$type": "color",
-          "$value": "{contextual.controls.segmented.background}"
+        "selected": {
+          "background": {
+            "$type": "color",
+            "$value": "{primitives.brand.500}"
+          },
+          "label": {
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          },
+          "icon": {
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          }
+        },
+        "unselected": {
+          "background": {
+            "$type": "color",
+            "$value": "{primitives.neutral_strong.500}"
+          },
+          "label": {
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          },
+          "icon": {
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          }
+        },
+        "disabled": {
+          "background": {
+            "$type": "color",
+            "$value": "{primitives.neutral_strong.600}"
+          },
+          "label": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{opasity_primitives.200}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          },
+          "icon": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{opasity_primitives.200}",
+                  "space": "lch"
+                }
+              }
+            },
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          }
         }
       },
       "status": {
