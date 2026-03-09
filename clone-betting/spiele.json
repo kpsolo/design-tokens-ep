@@ -1067,7 +1067,7 @@
               "$type": "color",
               "$value": "{primitives.accent.500}"
             },
-            "text": {
+            "label": {
               "$type": "color",
               "$value": "{primitives.black.50}"
             },
@@ -1081,7 +1081,7 @@
               "$type": "color",
               "$value": "{primitives.accent.900}"
             },
-            "text": {
+            "label": {
               "$type": "color",
               "$value": "{primitives.accent.800}"
             },
@@ -1097,7 +1097,7 @@
               "$type": "color",
               "$value": "{primitives.brand.500}"
             },
-            "text": {
+            "label": {
               "$type": "color",
               "$value": "{primitives.white.50}"
             },
@@ -1111,7 +1111,7 @@
               "$type": "color",
               "$value": "{primitives.brand.900}"
             },
-            "text": {
+            "label": {
               "$type": "color",
               "$value": "{primitives.brand.800}"
             },
@@ -1127,7 +1127,7 @@
               "$type": "color",
               "$value": "{primitives.neutral_strong.500}"
             },
-            "text": {
+            "label": {
               "$type": "color",
               "$value": "{primitives.neutral_soft.50}"
             },
@@ -1141,7 +1141,7 @@
               "$type": "color",
               "$value": "{primitives.neutral_strong.500}"
             },
-            "text": {
+            "label": {
               "$extensions": {
                 "studio.tokens": {
                   "modify": {
@@ -1170,10 +1170,28 @@
           }
         }
       },
-      "segmented-control": {
+      "segmented": {
         "background": {
           "$type": "color",
-          "$value": "{primitives.accent.300}"
+          "$value": "{primitives.neutral_strong.500}"
+        },
+        "control": {
+          "selected": {
+            "background": {
+              "$type": "color",
+              "$value": "{primitives.neutral_strong.200}"
+            },
+            "label": {
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            }
+          },
+          "unselected": {
+            "label": {
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            }
+          }
         }
       },
       "toggle": {
@@ -1321,13 +1339,13 @@
       "text-field": {
         "background": {
           "$type": "color",
-          "$value": "{contextual.controls.segmented-control.background}"
+          "$value": "{contextual.controls.segmented.background}"
         }
       },
       "search-field": {
         "background": {
           "$type": "color",
-          "$value": "{contextual.controls.segmented-control.background}"
+          "$value": "{contextual.controls.segmented.background}"
         }
       }
     },
@@ -1335,13 +1353,13 @@
       "tab-bar": {
         "background": {
           "$type": "color",
-          "$value": "{contextual.controls.segmented-control.background}"
+          "$value": "{contextual.controls.segmented.background}"
         }
       },
       "toolbar": {
         "background": {
           "$type": "color",
-          "$value": "{contextual.controls.segmented-control.background}"
+          "$value": "{contextual.controls.segmented.background}"
         }
       }
     },
@@ -1349,7 +1367,7 @@
       "snackbar": {
         "background": {
           "$type": "color",
-          "$value": "{contextual.controls.segmented-control.background}"
+          "$value": "{contextual.controls.segmented.background}"
         }
       }
     },
@@ -1357,7 +1375,7 @@
       "bottom-sheet": {
         "background": {
           "$type": "color",
-          "$value": "{contextual.controls.segmented-control.background}"
+          "$value": "{contextual.controls.segmented.background}"
         }
       }
     },
@@ -1365,19 +1383,19 @@
       "badge": {
         "background": {
           "$type": "color",
-          "$value": "{contextual.controls.segmented-control.background}"
+          "$value": "{contextual.controls.segmented.background}"
         }
       },
       "chip": {
         "background": {
           "$type": "color",
-          "$value": "{contextual.controls.segmented-control.background}"
+          "$value": "{contextual.controls.segmented.background}"
         }
       },
       "status": {
         "background": {
           "$type": "color",
-          "$value": "{contextual.controls.segmented-control.background}"
+          "$value": "{contextual.controls.segmented.background}"
         }
       }
     }
