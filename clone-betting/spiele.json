@@ -1057,5 +1057,93 @@
       "$type": "opacity",
       "$value": "0.9"
     }
+  },
+  "contextual": {
+    "controls": {
+      "button": {
+        "enabled": {
+          "background": {
+            "$type": "color",
+            "$value": "{primitives.brand.500}"
+          }
+        }
+      },
+      "segmented-control": {
+        "background": {
+          "$type": "color",
+          "$value": "{primitives.accent.300}"
+        }
+      },
+      "toggle": {
+        "background": {
+          "$type": "color",
+          "$value": "{primitives.accent.300}"
+        }
+      }
+    },
+    "Input": {
+      "text-field": {
+        "background": {
+          "$type": "color",
+          "$value": "{contextual.controls.segmented-control.background}"
+        }
+      },
+      "search-field": {
+        "background": {
+          "$type": "color",
+          "$value": "{contextual.controls.segmented-control.background}"
+        }
+      }
+    },
+    "navigation": {
+      "tab-bar": {
+        "background": {
+          "$type": "color",
+          "$value": "{contextual.controls.segmented-control.background}"
+        }
+      },
+      "toolbar": {
+        "background": {
+          "$type": "color",
+          "$value": "{contextual.controls.segmented-control.background}"
+        }
+      }
+    },
+    "feedback": {
+      "snackbar": {
+        "background": {
+          "$type": "color",
+          "$value": "{contextual.controls.segmented-control.background}"
+        }
+      }
+    },
+    "overlays": {
+      "bottom-sheet": {
+        "background": {
+          "$type": "color",
+          "$value": "{contextual.controls.segmented-control.background}"
+        }
+      }
+    },
+    "data-display": {
+      "badge": {
+        "background": {
+          "$type": "color",
+          "$value": "{contextual.controls.segmented-control.background}"
+        }
+      },
+      "chip": {
+        "background": {
+          "$type": "color",
+          "$value": "{contextual.controls.segmented-control.background}"
+        }
+      },
+      "status": {
+        "background": {
+          "$type": "color",
+          "$value": "{contextual.controls.segmented-control.background}"
+        }
+      }
+    }
   }
 }
