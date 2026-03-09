@@ -1244,17 +1244,17 @@
             "selected": {
               "background": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.accent.800}"
               },
               "ball": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.accent.500}"
               }
             },
             "unselected": {
               "background": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.neutral_strong.200}"
               }
             }
           },
@@ -1262,17 +1262,17 @@
             "selected": {
               "background": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.accent.900}"
               },
               "ball": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.accent.800}"
               }
             },
             "unselected": {
               "background": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.neutral_strong.500}"
               }
             }
           }
@@ -1286,13 +1286,13 @@
               },
               "checkmark": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.black.50}"
               }
             },
             "unchecked": {
               "background": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.neutral_strong.200}"
               }
             }
           },
@@ -1300,17 +1300,17 @@
             "checked": {
               "background": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.accent.900}"
               },
               "checkmark": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.accent.800}"
               }
             },
             "unchecked": {
               "background": {
                 "$type": "color",
-                "$value": "{primitives.accent.300}"
+                "$value": "{primitives.neutral_strong.500}"
               }
             }
           }
