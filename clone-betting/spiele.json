@@ -1416,9 +1416,97 @@
         }
       },
       "toolbar": {
-        "background": {
-          "$type": "color",
-          "$value": "{contextual.controls.segmented.background}"
+        "control": {
+          "symbol": {
+            "background": {
+              "$type": "color",
+              "$value": "{contextual.controls.segmented.background}"
+            }
+          },
+          "primary": {
+            "enabled": {
+              "background": {
+                "$type": "color",
+                "$value": "{contextual.controls.button.primary.enabled.background}"
+              },
+              "label": {
+                "$type": "color",
+                "$value": "{contextual.controls.button.primary.enabled.label}"
+              },
+              "icon": {
+                "$type": "color",
+                "$value": "{contextual.controls.button.primary.enabled.icon}"
+              }
+            },
+            "disabled": {
+              "background": {
+                "$type": "color",
+                "$value": "{contextual.controls.button.primary.disabled.background}"
+              },
+              "label": {
+                "$type": "color",
+                "$value": "{contextual.controls.button.primary.disabled.label}"
+              },
+              "icon": {
+                "$type": "color",
+                "$value": "{contextual.controls.button.primary.disabled.icon}"
+              }
+            }
+          },
+          "text": {
+            "enabled": {
+              "background": {
+                "$type": "color",
+                "$value": "{contextual.controls.button.tertiary.enabled.background}"
+              },
+              "label": {
+                "$type": "color",
+                "$value": "{contextual.controls.button.tertiary.enabled.label}"
+              },
+              "icon": {
+                "$type": "color",
+                "$value": "{contextual.controls.button.tertiary.enabled.icon}"
+              }
+            },
+            "disabled": {
+              "background": {
+                "$type": "color",
+                "$value": "{contextual.controls.button.tertiary.disabled.background}"
+              },
+              "label": {
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "alpha",
+                      "value": "{opasity_primitives.200}",
+                      "space": "lch"
+                    }
+                  }
+                },
+                "$type": "color",
+                "$value": "{contextual.controls.button.tertiary.disabled.label}"
+              },
+              "icon": {
+                "$extensions": {
+                  "studio.tokens": {
+                    "modify": {
+                      "type": "alpha",
+                      "value": "{opasity_primitives.200}",
+                      "space": "lch"
+                    }
+                  }
+                },
+                "$type": "color",
+                "$value": "{contextual.controls.button.tertiary.disabled.icon}"
+              }
+            }
+          }
+        },
+        "balance": {
+          "background": {
+            "$type": "color",
+            "$value": "{contextual.controls.segmented.background}"
+          }
         }
       }
     },
