@@ -1540,7 +1540,24 @@
       "bottom-sheet": {
         "background": {
           "$type": "color",
-          "$value": "{contextual.controls.segmented.background}"
+          "$value": "{semantic.background.secondary}"
+        },
+        "underlay": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{opasity_primitives.300}",
+                "space": "lch"
+              }
+            }
+          },
+          "$type": "color",
+          "$value": "{primitives.black.50}"
+        },
+        "grabber": {
+          "$type": "color",
+          "$value": "{semantic.border.primary}"
         }
       },
       "tooltip": {
