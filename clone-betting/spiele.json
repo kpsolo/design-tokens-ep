@@ -1528,10 +1528,22 @@
           "$type": "color",
           "$value": "{contextual.controls.segmented.background}"
         }
+      },
+      "alert": {
+        "background": {
+          "$type": "color",
+          "$value": "{contextual.controls.segmented.background}"
+        }
       }
     },
     "overlays": {
       "bottom-sheet": {
+        "background": {
+          "$type": "color",
+          "$value": "{contextual.controls.segmented.background}"
+        }
+      },
+      "tooltip": {
         "background": {
           "$type": "color",
           "$value": "{contextual.controls.segmented.background}"
