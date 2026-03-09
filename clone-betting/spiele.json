@@ -1183,11 +1183,19 @@
             },
             "label": {
               "$type": "color",
-              "$value": "{primitives.white.50}"
+              "$value": "{primitives.accent.500}"
+            },
+            "icon": {
+              "$type": "color",
+              "$value": "{primitives.accent.500}"
             }
           },
           "unselected": {
             "label": {
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            },
+            "icon": {
               "$type": "color",
               "$value": "{primitives.white.50}"
             }
@@ -1345,15 +1353,66 @@
       "search-field": {
         "background": {
           "$type": "color",
-          "$value": "{contextual.controls.segmented.background}"
+          "$value": "{primitives.neutral_strong.500}"
+        },
+        "separator": {
+          "$type": "color",
+          "$value": "{semantic.intent.accent.primary}"
+        },
+        "text": {
+          "placeholder": {
+            "$type": "color",
+            "$value": "{semantic.text.tertiary}"
+          },
+          "value": {
+            "$type": "color",
+            "$value": "{semantic.text.primary}"
+          }
+        },
+        "icon": {
+          "magnifier": {
+            "$type": "color",
+            "$value": "{semantic.icon.primary}"
+          },
+          "remove": {
+            "$type": "color",
+            "$value": "{semantic.icon.tertiary}"
+          }
         }
       }
     },
     "navigation": {
       "tab-bar": {
         "background": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{opasity_primitives.800}",
+                "space": "lch"
+              }
+            }
+          },
           "$type": "color",
           "$value": "{contextual.controls.segmented.background}"
+        },
+        "control": {
+          "selected": {
+            "background": {
+              "$type": "color",
+              "$value": "{primitives.neutral_strong.200}"
+            },
+            "label": {
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            }
+          },
+          "unselected": {
+            "label": {
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            }
+          }
         }
       },
       "toolbar": {
