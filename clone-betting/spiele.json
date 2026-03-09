@@ -1416,13 +1416,7 @@
         }
       },
       "toolbar": {
-        "control": {
-          "symbol": {
-            "background": {
-              "$type": "color",
-              "$value": "{contextual.controls.segmented.background}"
-            }
-          },
+        "button": {
           "primary": {
             "enabled": {
               "background": {
@@ -1502,10 +1496,28 @@
             }
           }
         },
+        "text": {
+          "title": {
+            "$type": "color",
+            "$value": "{semantic.text.primary}"
+          },
+          "subtitle": {
+            "$type": "color",
+            "$value": "{semantic.text.secondary}"
+          }
+        },
         "balance": {
           "background": {
             "$type": "color",
-            "$value": "{contextual.controls.segmented.background}"
+            "$value": "{contextual.controls.button.tertiary.enabled.background}"
+          },
+          "label": {
+            "$type": "color",
+            "$value": "{semantic.text.secondary}"
+          },
+          "value": {
+            "$type": "color",
+            "$value": "{semantic.text.primary}"
           }
         }
       }
