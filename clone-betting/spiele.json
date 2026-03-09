@@ -1524,9 +1524,71 @@
     },
     "feedback": {
       "snackbar": {
-        "background": {
-          "$type": "color",
-          "$value": "{contextual.controls.segmented.background}"
+        "neutral": {
+          "background": {
+            "$type": "color",
+            "$value": "{primitives.neutral_strong.400}"
+          },
+          "text": {
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          },
+          "icon": {
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          }
+        },
+        "success": {
+          "background": {
+            "$type": "color",
+            "$value": "{primitives.neutral_strong.400}"
+          },
+          "text": {
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          },
+          "icon": {
+            "$type": "color",
+            "$value": "{semantic.intent.success.primary}"
+          }
+        },
+        "warning": {
+          "background": {
+            "$type": "color",
+            "$value": "{primitives.neutral_strong.400}"
+          },
+          "text": {
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          },
+          "icon": {
+            "$type": "color",
+            "$value": "{semantic.intent.warning.primary}"
+          }
+        },
+        "error": {
+          "background": {
+            "$type": "color",
+            "$value": "{primitives.neutral_strong.400}"
+          },
+          "text": {
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          },
+          "icon": {
+            "$type": "color",
+            "$value": "{semantic.intent.danger.primary}"
+          }
+        },
+        "action": {
+          "text": {
+            "$type": "color",
+            "$value": "{semantic.intent.accent.primary}"
+          },
+          "icon": {
+            "$type": "color",
+            "$value": "{semantic.intent.accent.primary}"
+          }
         }
       },
       "alert": {
