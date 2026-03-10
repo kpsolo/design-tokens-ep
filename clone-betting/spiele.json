@@ -1631,9 +1631,25 @@
     },
     "data-display": {
       "badge": {
-        "background": {
-          "$type": "color",
-          "$value": "{contextual.controls.segmented.background}"
+        "default": {
+          "background": {
+            "$type": "color",
+            "$value": "{semantic.intent.danger.primary}"
+          },
+          "text": {
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          }
+        },
+        "brand": {
+          "background": {
+            "$type": "color",
+            "$value": "{semantic.intent.accent.primary}"
+          },
+          "text": {
+            "$type": "color",
+            "$value": "{primitives.black.50}"
+          }
         }
       },
       "chip": {
