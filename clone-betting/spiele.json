@@ -1625,7 +1625,15 @@
       "tooltip": {
         "background": {
           "$type": "color",
-          "$value": "{contextual.controls.segmented.background}"
+          "$value": "{primitives.white.50}"
+        },
+        "text": {
+          "$type": "color",
+          "$value": "{primitives.black.50}"
+        },
+        "icon": {
+          "$type": "color",
+          "$value": "{primitives.black.50}"
         }
       }
     },
