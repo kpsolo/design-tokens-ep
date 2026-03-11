@@ -1718,29 +1718,29 @@
         "accent": {
           "background": {
             "$type": "color",
-            "$value": "{semantic.intent.accent.primary}"
+            "$value": "{semantic.intent.accent.tertiary}"
           },
           "label": {
             "$type": "color",
-            "$value": "{primitives.black.50}"
+            "$value": "{semantic.intent.accent.primary}"
           },
           "icon": {
             "$type": "color",
-            "$value": "{primitives.black.50}"
+            "$value": "{semantic.intent.accent.primary}"
           }
         },
         "brand": {
           "background": {
             "$type": "color",
-            "$value": "{semantic.intent.brand.primary}"
+            "$value": "{semantic.intent.brand.tertiary}"
           },
           "label": {
             "$type": "color",
-            "$value": "{primitives.white.50}"
+            "$value": "{semantic.intent.brand.primary}"
           },
           "icon": {
             "$type": "color",
-            "$value": "{primitives.white.50}"
+            "$value": "{semantic.intent.brand.primary}"
           }
         },
         "neutral": {
