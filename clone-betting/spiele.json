@@ -612,11 +612,11 @@
         },
         "secondary": {
           "$type": "color",
-          "$value": "{primitives.neutral_soft.500}"
+          "$value": "{primitives.neutral_soft.900}"
         },
         "tertiary": {
           "$type": "color",
-          "$value": "{primitives.neutral_soft.900}"
+          "$value": "{primitives.neutral_strong.200}"
         }
       }
     },
@@ -1715,9 +1715,89 @@
         }
       },
       "status": {
-        "background": {
-          "$type": "color",
-          "$value": "{contextual.controls.segmented.background}"
+        "accent": {
+          "background": {
+            "$type": "color",
+            "$value": "{semantic.intent.accent.primary}"
+          },
+          "label": {
+            "$type": "color",
+            "$value": "{primitives.black.50}"
+          },
+          "icon": {
+            "$type": "color",
+            "$value": "{primitives.black.50}"
+          }
+        },
+        "brand": {
+          "background": {
+            "$type": "color",
+            "$value": "{semantic.intent.brand.primary}"
+          },
+          "label": {
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          },
+          "icon": {
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          }
+        },
+        "neutral": {
+          "background": {
+            "$type": "color",
+            "$value": "{semantic.intent.neutral.tertiary}"
+          },
+          "label": {
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          },
+          "icon": {
+            "$type": "color",
+            "$value": "{primitives.white.50}"
+          }
+        },
+        "success": {
+          "background": {
+            "$type": "color",
+            "$value": "{semantic.intent.success.tertiary}"
+          },
+          "label": {
+            "$type": "color",
+            "$value": "{semantic.intent.success.primary}"
+          },
+          "icon": {
+            "$type": "color",
+            "$value": "{semantic.intent.success.primary}"
+          }
+        },
+        "warning": {
+          "background": {
+            "$type": "color",
+            "$value": "{semantic.intent.warning.tertiary}"
+          },
+          "label": {
+            "$type": "color",
+            "$value": "{semantic.intent.warning.primary}"
+          },
+          "icon": {
+            "$type": "color",
+            "$value": "{semantic.intent.warning.primary}"
+          }
+        },
+        "danger": {
+          "background": {
+            "$type": "color",
+            "$value": "{semantic.intent.danger.tertiary}"
+          },
+          "label": {
+            "$type": "color",
+            "$value": "{semantic.intent.danger.primary}"
+          },
+          "icon": {
+            "$type": "color",
+            "$value": "{semantic.intent.danger.primary}"
+          }
         }
       }
     }
