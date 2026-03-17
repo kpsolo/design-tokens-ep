@@ -1216,6 +1216,54 @@
               "$value": "{primitives.white.50}"
             }
           }
+        },
+        "danger": {
+          "enabled": {
+            "background": {
+              "$type": "color",
+              "$value": "{primitives.neutral_strong.500}"
+            },
+            "label": {
+              "$type": "color",
+              "$value": "{primitives.red.500}"
+            },
+            "icon": {
+              "$type": "color",
+              "$value": "{primitives.red.500}"
+            }
+          },
+          "disabled": {
+            "background": {
+              "$type": "color",
+              "$value": "{primitives.neutral_strong.600}"
+            },
+            "label": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "{opasity_primitives.200}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            },
+            "icon": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "{opasity_primitives.200}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            }
+          }
         }
       },
       "segmented": {
