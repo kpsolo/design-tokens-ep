@@ -1494,6 +1494,28 @@
             }
           }
         }
+      },
+      "stepper": {
+        "enabled": {
+          "background": {
+            "$type": "color",
+            "$value": "{contextual.controls.button.tertiary.enabled.background}"
+          },
+          "icon": {
+            "$type": "color",
+            "$value": "{contextual.controls.button.tertiary.enabled.icon}"
+          }
+        },
+        "disabled": {
+          "background": {
+            "$type": "color",
+            "$value": "{contextual.controls.button.tertiary.disabled.background}"
+          },
+          "icon": {
+            "$type": "color",
+            "$value": "{contextual.controls.button.tertiary.disabled.icon}"
+          }
+        }
       }
     },
     "Input": {
