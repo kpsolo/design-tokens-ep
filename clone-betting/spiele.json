@@ -1379,6 +1379,30 @@
             "$value": "{semantic.icon.tertiary}"
           }
         }
+      },
+      "picker": {
+        "collapsed": {
+          "selected": {
+            "background": {
+              "$type": "color",
+              "$value": "{contextual.controls.button.tertiary.enabled.background}"
+            },
+            "label": {
+              "$type": "color",
+              "$value": "{semantic.intent.accent.primary}"
+            }
+          },
+          "unselected": {
+            "background": {
+              "$type": "color",
+              "$value": "{contextual.controls.button.tertiary.enabled.background}"
+            },
+            "label": {
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            }
+          }
+        }
       }
     },
     "navigation": {
