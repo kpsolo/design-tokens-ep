@@ -1264,6 +1264,63 @@
               "$value": "{primitives.white.50}"
             }
           }
+        },
+        "white": {
+          "enabled": {
+            "background": {
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            },
+            "label": {
+              "$type": "color",
+              "$value": "{primitives.black.50}"
+            },
+            "icon": {
+              "$type": "color",
+              "$value": "{primitives.black.50}"
+            }
+          },
+          "disabled": {
+            "background": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "{opasity_primitives.200}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            },
+            "label": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "{opasity_primitives.200}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            },
+            "icon": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "{opasity_primitives.200}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            }
+          }
         }
       },
       "segmented": {
