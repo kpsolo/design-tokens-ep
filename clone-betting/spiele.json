@@ -1735,6 +1735,22 @@
           "$type": "color",
           "$value": "{contextual.controls.button.danger.disabled.background}"
         }
+      },
+      "page-control": {
+        "background": {
+          "$type": "color",
+          "$value": "{contextual.navigation.toolbar.button.text.enabled.background}"
+        },
+        "dots": {
+          "selected": {
+            "$type": "color",
+            "$value": "{semantic.icon.primary}"
+          },
+          "unselected": {
+            "$type": "color",
+            "$value": "{semantic.icon.tertiary}"
+          }
+        }
       }
     },
     "feedback": {
