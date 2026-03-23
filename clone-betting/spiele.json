@@ -1597,20 +1597,24 @@
           "disabled": {
             "$type": "color",
             "$value": "{semantic.border.disabled}"
+          },
+          "focused": {
+            "$type": "color",
+            "$value": "{semantic.intent.accent.primary}"
+          },
+          "error": {
+            "$type": "color",
+            "$value": "{semantic.intent.danger.primary}"
           }
         },
         "text": {
-          "placeholder": {
-            "$type": "color",
-            "$value": "{semantic.text.tertiary}"
-          },
           "value": {
             "$type": "color",
             "$value": "{semantic.text.primary}"
           },
-          "label": {
+          "placeholder": {
             "$type": "color",
-            "$value": "{semantic.text.secondary}"
+            "$value": "{semantic.text.tertiary}"
           },
           "disabled": {
             "$type": "color",
