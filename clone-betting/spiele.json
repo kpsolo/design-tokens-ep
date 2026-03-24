@@ -2,7 +2,7 @@
   "size_primitives": {
     "100": {
       "$type": "fontSizes",
-      "$value": "8"
+      "$value": "9"
     },
     "200": {
       "$type": "fontSizes",
@@ -2100,6 +2100,50 @@
           "icon": {
             "$type": "color",
             "$value": "{semantic.intent.danger.primary}"
+          }
+        }
+      },
+      "tag": {
+        "thumb": {
+          "tournament": {
+            "background": {
+              "$type": "color",
+              "$value": "{primitives.green.500}"
+            },
+            "label": {
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            }
+          },
+          "pre-release": {
+            "background": {
+              "$type": "color",
+              "$value": "{primitives.red.300}"
+            },
+            "label": {
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            }
+          },
+          "new": {
+            "background": {
+              "$type": "color",
+              "$value": "{primitives.yellow.200}"
+            },
+            "label": {
+              "$type": "color",
+              "$value": "{primitives.black.50}"
+            }
+          },
+          "hot": {
+            "background": {
+              "$type": "color",
+              "$value": "{primitives.brand.500}"
+            },
+            "label": {
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            }
           }
         }
       }
