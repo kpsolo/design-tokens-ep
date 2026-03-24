@@ -2,7 +2,7 @@
   "size_primitives": {
     "100": {
       "$type": "fontSizes",
-      "$value": "9"
+      "$value": "8"
     },
     "200": {
       "$type": "fontSizes",
@@ -885,6 +885,15 @@
         "fontSize": "{size_primitives.300}"
       }
     },
+    "large_emphasized": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{family_primitives.body}",
+        "fontWeight": "{weight_primitives.500}",
+        "lineHeight": "{height_primitives.300}",
+        "fontSize": "{size_primitives.300}"
+      }
+    },
     "medium": {
       "$type": "typography",
       "$value": {
@@ -894,11 +903,29 @@
         "fontSize": "{size_primitives.200}"
       }
     },
+    "medium_emphasized": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{family_primitives.body}",
+        "fontWeight": "{weight_primitives.500}",
+        "lineHeight": "{height_primitives.200}",
+        "fontSize": "{size_primitives.200}"
+      }
+    },
     "small": {
       "$type": "typography",
       "$value": {
         "fontFamily": "{family_primitives.body}",
         "fontWeight": "{weight_primitives.400}",
+        "lineHeight": "{height_primitives.100}",
+        "fontSize": "{size_primitives.100}"
+      }
+    },
+    "small_emphasized": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{family_primitives.body}",
+        "fontWeight": "{weight_primitives.500}",
         "lineHeight": "{height_primitives.100}",
         "fontSize": "{size_primitives.100}"
       }
@@ -1540,54 +1567,10 @@
           }
         }
       },
-      "picker": {
-        "collapsed": {
-          "selected": {
-            "background": {
-              "$type": "color",
-              "$value": "{contextual.controls.button.tertiary.enabled.background}"
-            },
-            "label": {
-              "$type": "color",
-              "$value": "{semantic.intent.accent.primary}"
-            }
-          },
-          "unselected": {
-            "background": {
-              "$type": "color",
-              "$value": "{contextual.controls.button.tertiary.enabled.background}"
-            },
-            "label": {
-              "$type": "color",
-              "$value": "{primitives.white.50}"
-            }
-          }
-        },
-        "wheels": {
-          "selection": {
-            "$type": "color",
-            "$value": "{contextual.controls.button.tertiary.disabled.background}"
-          },
-          "text": {
-            "$type": "color",
-            "$value": "{semantic.text.primary}"
-          }
-        }
-      },
       "text-field": {
         "separator": {
           "$type": "color",
           "$value": "{semantic.intent.accent.primary}"
-        },
-        "background": {
-          "enabled": {
-            "$type": "color",
-            "$value": "{primitives.neutral_strong.400}"
-          },
-          "disabled": {
-            "$type": "color",
-            "$value": "{primitives.neutral_strong.600}"
-          }
         },
         "border": {
           "enabled": {
@@ -1633,6 +1616,40 @@
           "disabled": {
             "$type": "color",
             "$value": "{semantic.icon.disabled}"
+          }
+        }
+      },
+      "picker": {
+        "collapsed": {
+          "selected": {
+            "background": {
+              "$type": "color",
+              "$value": "{contextual.controls.button.tertiary.enabled.background}"
+            },
+            "label": {
+              "$type": "color",
+              "$value": "{semantic.intent.accent.primary}"
+            }
+          },
+          "unselected": {
+            "background": {
+              "$type": "color",
+              "$value": "{contextual.controls.button.tertiary.enabled.background}"
+            },
+            "label": {
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            }
+          }
+        },
+        "wheels": {
+          "selection": {
+            "$type": "color",
+            "$value": "{contextual.controls.button.tertiary.disabled.background}"
+          },
+          "text": {
+            "$type": "color",
+            "$value": "{semantic.text.primary}"
           }
         }
       }
