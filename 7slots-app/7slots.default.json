@@ -1975,8 +1975,12 @@
       }
     },
     "wheel-of-fortune": {
-      "item-list": {
-        "background": {
+      "background": {
+        "congratulation": {
+          "value": "linear-gradient(180deg, rgb(16, 84, 238) 0%, rgb(8, 17, 89) 65%, rgb(6, 8, 79) 100%);",
+          "type": "color"
+        },
+        "item-list": {
           "value": "{core.white.800}",
           "type": "color"
         }

@@ -560,7 +560,9 @@
       "contextual.wheel-of-fortune.text.denomination": "S:44a8ce5788b9b2eadeeee1af4d9f2ac73626c73c,",
       "contextual.wheel-of-fortune.text.spin-label": "S:cb4b35d27faf8279fc0c1ca0e6f2ff75200a3fdb,",
       "contextual.wheel-of-fortune.text.spin-price": "S:f94d3d8d656ee181d5db26b51a183f274060f4fa,",
-      "contextual.wheel-of-fortune.text.swipe-text": "S:da2ae5bbb7700dcc3471c970165965ebe65d3fc0,"
+      "contextual.wheel-of-fortune.text.swipe-text": "S:da2ae5bbb7700dcc3471c970165965ebe65d3fc0,",
+      "contextual.wheel-of-fortune.background.congratulation": "S:a9e831cca341886f38db71a705f3b854c6f98428,",
+      "contextual.wheel-of-fortune.background.item-list": "S:e5407c23a18fb0762409675f1f9ab021a67c5a88,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
