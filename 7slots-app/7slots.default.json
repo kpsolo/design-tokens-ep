@@ -1973,6 +1973,14 @@
           "type": "color"
         }
       }
+    },
+    "wheel-of-fortune": {
+      "item-list": {
+        "background": {
+          "value": "{core.white.800}",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {

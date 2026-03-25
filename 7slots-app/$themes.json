@@ -548,7 +548,14 @@
       "contextual.collection.background": "S:d914ff5d64a75030570049d76e3c8f0f9c8a00cb,",
       "semantic.background.overlay.total-black.primary": "S:44d75c35605e11022315a8343906c9e52c7cef14,",
       "semantic.background.overlay.total-black.secondary": "S:c5d70a50a6df784bcb17f2a1ae61033c229ce900,",
-      "semantic.background.overlay.total-black.tertiary": "S:1d530807ed3b10863de7116f8dcc4b2da73e57b9,"
+      "semantic.background.overlay.total-black.tertiary": "S:1d530807ed3b10863de7116f8dcc4b2da73e57b9,",
+      "contextual.loader.from.primary": "S:cb392c71ef47b684978c2d1aaa3b8a0bf78c8c75,",
+      "contextual.loader.from.secondary": "S:d0b0542cb3c386717d0422dd883f34c28f8f1850,",
+      "contextual.loader.to.primary": "S:bf0be2b969fdf581e4eafd9893d17f7a7d6a3da8,",
+      "contextual.loader.to.secondary": "S:3b43830355944be87dcc6da7de5338ce09fc2a67,",
+      "contextual.loader.intermediate.primary": "S:370d26fb9bf49f981860b0c8f94d7d3ee664ac4f,",
+      "contextual.loader.intermediate.secondary": "S:99838be3a3247bf9e0290951bf5401ed42c3b70c,",
+      "contextual.wheel-of-fortune.item-list.background": "S:2f674b7518e9ad21a1b61132a9697b399659403f,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -650,6 +657,8 @@
       "category": "5ee57201a3919e7e5d3fae8a576512da04822db2",
       "categor": "022190af9fba28778a910abfe0e70836796b41c3",
       "page-control": "849a2453fd400964b85684d77e970e23449cd5e5",
+      "fontFamilies.heading": "363a27d6979e4533c9c964200d86c728f0211c52",
+      "fontFamilies.body": "c36b04a72f15de7b27ac7650f159ee07897d4208",
       "lineHeights.10": "33186cfd9556cd10e80bf3f8a33ac7482bf47cab",
       "lineHeights.12": "da3c23b8543a0887958c131769f94f5f1b508ff8",
       "lineHeights.16": "2748e96cdd529026488486141018f19b6d21940e",
@@ -685,9 +694,7 @@
       "tournaments.card": "a8aff04fd025c516963b2a89542dee586850e112",
       "tournaments.surface": "8d3ee4dab0c3d0f7bb04b3420885abb3e341dc82",
       "lottery.card": "806e21261623bdc15e132b9f4824e4247ee875f3",
-      "lottery.surface": "83a93a5335e452ca2639d6322d8b83ddb20f6010",
-      "fontFamilies.heading": "363a27d6979e4533c9c964200d86c728f0211c52",
-      "fontFamilies.body": "c36b04a72f15de7b27ac7650f159ee07897d4208"
+      "lottery.surface": "83a93a5335e452ca2639d6322d8b83ddb20f6010"
     },
     "$figmaCollectionId": "VariableCollectionId:26281:375",
     "$figmaModeId": "26281:0"
