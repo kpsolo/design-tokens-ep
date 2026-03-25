@@ -555,7 +555,12 @@
       "contextual.loader.to.secondary": "S:3b43830355944be87dcc6da7de5338ce09fc2a67,",
       "contextual.loader.intermediate.primary": "S:370d26fb9bf49f981860b0c8f94d7d3ee664ac4f,",
       "contextual.loader.intermediate.secondary": "S:99838be3a3247bf9e0290951bf5401ed42c3b70c,",
-      "contextual.wheel-of-fortune.item-list.background": "S:2f674b7518e9ad21a1b61132a9697b399659403f,"
+      "contextual.wheel-of-fortune.item-list.background": "S:2f674b7518e9ad21a1b61132a9697b399659403f,",
+      "contextual.wheel-of-fortune.text.prize": "S:6243a403a37a2670d853502481c39fe2f5e883d0,",
+      "contextual.wheel-of-fortune.text.denomination": "S:44a8ce5788b9b2eadeeee1af4d9f2ac73626c73c,",
+      "contextual.wheel-of-fortune.text.spin-label": "S:cb4b35d27faf8279fc0c1ca0e6f2ff75200a3fdb,",
+      "contextual.wheel-of-fortune.text.spin-price": "S:f94d3d8d656ee181d5db26b51a183f274060f4fa,",
+      "contextual.wheel-of-fortune.text.swipe-text": "S:da2ae5bbb7700dcc3471c970165965ebe65d3fc0,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -694,7 +699,8 @@
       "tournaments.card": "a8aff04fd025c516963b2a89542dee586850e112",
       "tournaments.surface": "8d3ee4dab0c3d0f7bb04b3420885abb3e341dc82",
       "lottery.card": "806e21261623bdc15e132b9f4824e4247ee875f3",
-      "lottery.surface": "83a93a5335e452ca2639d6322d8b83ddb20f6010"
+      "lottery.surface": "83a93a5335e452ca2639d6322d8b83ddb20f6010",
+      "wheel-fortune-info": "740ee72e218f9abf7f4a25337cf609ae8a2bef0d"
     },
     "$figmaCollectionId": "VariableCollectionId:26281:375",
     "$figmaModeId": "26281:0"

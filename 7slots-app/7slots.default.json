@@ -1980,6 +1980,28 @@
           "value": "{core.white.800}",
           "type": "color"
         }
+      },
+      "text": {
+        "prize": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "denomination": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "spin-label": {
+          "value": "{core.white.100}",
+          "type": "color"
+        },
+        "spin-price": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "swipe-text": {
+          "value": "{core.white.200}",
+          "type": "color"
+        }
       }
     }
   },
@@ -2630,6 +2652,10 @@
     }
   },
   "progresbar": {
+    "value": "{core-dimension.8}",
+    "type": "dimension"
+  },
+  "wheel-fortune-info": {
     "value": "{core-dimension.8}",
     "type": "dimension"
   },
