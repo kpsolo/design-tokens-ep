@@ -1795,7 +1795,7 @@
         }
       },
       "context-menu": {
-        "bg": {
+        "background": {
           "$type": "color",
           "$value": "{contextual.controls.button.danger.disabled.background}"
         }
@@ -1889,7 +1889,7 @@
       "alert": {
         "background": {
           "$type": "color",
-          "$value": "{contextual.controls.segmented.background}"
+          "$value": "{semantic.background.tertiary}"
         }
       },
       "progress": {
@@ -1905,6 +1905,46 @@
           "neutral": {
             "$type": "color",
             "$value": "{primitives.white.50}"
+          }
+        },
+        "bar": {
+          "accent": {
+            "fill": {
+              "$type": "color",
+              "$value": "{primitives.accent.500}"
+            },
+            "track": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "{opasity_primitives.200}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            }
+          },
+          "neutral": {
+            "fill": {
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            },
+            "track": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "{opasity_primitives.200}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{primitives.white.50}"
+            }
           }
         }
       }
