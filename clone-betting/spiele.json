@@ -2204,5 +2204,42 @@
         }
       }
     }
+  },
+  "materials": {
+    "ultrathin": {
+      "$type": "composition",
+      "$value": {
+        "fill": "rgba(0, 0, 0, 0.02)",
+        "backgroundBlur": "24px"
+      }
+    },
+    "thin": {
+      "$type": "composition",
+      "$value": {
+        "fill": "rgba(0, 0, 0, 0.02)",
+        "backgroundBlur": "24px"
+      }
+    },
+    "regular": {
+      "$type": "composition",
+      "$value": {
+        "fill": "rgba(0, 0, 0, 0.02)",
+        "backgroundBlur": "24px"
+      }
+    },
+    "thick": {
+      "$type": "composition",
+      "$value": {
+        "fill": "rgba(0, 0, 0, 0.02)",
+        "backgroundBlur": "24px"
+      }
+    },
+    "chrome": {
+      "$type": "composition",
+      "$value": {
+        "fill": "rgba(0, 0, 0, 0.02)",
+        "backgroundBlur": "24px"
+      }
+    }
   }
 }
