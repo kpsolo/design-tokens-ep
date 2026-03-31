@@ -1909,7 +1909,7 @@
         },
         "bar": {
           "accent": {
-            "fill": {
+            "filled": {
               "$type": "color",
               "$value": "{primitives.accent.500}"
             },
@@ -1928,7 +1928,7 @@
             }
           },
           "neutral": {
-            "fill": {
+            "filled": {
               "$type": "color",
               "$value": "{primitives.white.50}"
             },
