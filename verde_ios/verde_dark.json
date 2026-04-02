@@ -1742,7 +1742,7 @@
         },
         "general": {
           "background": {
-            "value": "{core.black.400}",
+            "value": "linear-gradient(180deg, rgba(17, 28, 4, 0.50) 0%, rgba(10, 16, 1, 0.50) 100%)",
             "type": "color"
           },
           "border": {
