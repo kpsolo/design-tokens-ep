@@ -1686,7 +1686,7 @@
         },
         "general": {
           "background": {
-            "value": "{core.black.400}",
+            "value": "linear-gradient(180deg, rgba(17, 28, 4, 0.50) 0%, rgba(10, 16, 1, 0.50) 100%)",
             "type": "color"
           },
           "border": {
@@ -1742,7 +1742,7 @@
         },
         "general": {
           "background": {
-            "value": "linear-gradient(180deg, rgba(17, 28, 4, 0.50) 0%, rgba(10, 16, 1, 0.50) 100%)",
+            "value": "linear-gradient(180deg, rgba(1, 9, 19, 0.40) 15%, rgba(20, 48, 47, 0.40) 60%, rgba(1, 9, 19, 0.40) 95%)",
             "type": "color"
           },
           "border": {
