@@ -2011,6 +2011,22 @@
           "type": "color"
         }
       }
+    },
+    "kyc": {
+      "background": {
+        "upload-photo": {
+          "value": "{core.white.800}",
+          "type": "color"
+        },
+        "surface-container": {
+          "value": "{core.white.900}",
+          "type": "color"
+        },
+        "surface-icon": {
+          "value": "{core.white.800}",
+          "type": "color"
+        }
+      }
     }
   },
   "semantic": {
