@@ -766,7 +766,7 @@
       "$type": "typography",
       "$value": {
         "fontFamily": "{family_primitives.heading}",
-        "fontWeight": "{weight_primitives.500}",
+        "fontWeight": "{weight_primitives.600}",
         "lineHeight": "{height_primitives.900}",
         "fontSize": "{size_primitives.900}"
       }
@@ -775,7 +775,7 @@
       "$type": "typography",
       "$value": {
         "fontFamily": "{family_primitives.heading}",
-        "fontWeight": "{weight_primitives.500}",
+        "fontWeight": "{weight_primitives.600}",
         "lineHeight": "{height_primitives.800}",
         "fontSize": "{size_primitives.800}"
       }
@@ -784,7 +784,7 @@
       "$type": "typography",
       "$value": {
         "fontFamily": "{family_primitives.heading}",
-        "fontWeight": "{weight_primitives.500}",
+        "fontWeight": "{weight_primitives.600}",
         "lineHeight": "{height_primitives.700}",
         "fontSize": "{size_primitives.700}"
       }
