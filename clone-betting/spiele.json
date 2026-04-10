@@ -2273,7 +2273,15 @@
     },
     "700": {
       "$type": "borderRadius",
-      "$value": "48"
+      "$value": "38"
+    },
+    "800": {
+      "$type": "borderRadius",
+      "$value": "58"
+    },
+    "900": {
+      "$type": "borderRadius",
+      "$value": "64"
     },
     "full": {
       "$type": "borderRadius",
@@ -2282,6 +2290,122 @@
     "note": {
       "$type": "borderRadius",
       "$value": "0"
+    }
+  },
+  "radius_semantic": {
+    "small": {
+      "$type": "borderRadius",
+      "$value": "{radius_primitives.100}"
+    },
+    "medium": {
+      "$type": "borderRadius",
+      "$value": "{radius_primitives.300}"
+    },
+    "large": {
+      "$type": "borderRadius",
+      "$value": "{radius_primitives.500}"
+    },
+    "extra-large": {
+      "$type": "borderRadius",
+      "$value": "{radius_primitives.600}"
+    }
+  },
+  "radius_contextual": {
+    "controls": {
+      "button": {
+        "small": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.full}"
+        },
+        "medium": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.full}"
+        },
+        "large": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.full}"
+        }
+      },
+      "segmented": {
+        "small": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.100}"
+        },
+        "medium": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.300}"
+        }
+      },
+      "toggle": {
+        "switch": {
+          "small": {
+            "$type": "borderRadius",
+            "$value": "{radius_primitives.100}"
+          }
+        },
+        "radio": {
+          "medium": {
+            "$type": "borderRadius",
+            "$value": "{radius_primitives.300}"
+          }
+        },
+        "checkbox": {
+          "large": {
+            "$type": "borderRadius",
+            "$value": "{radius_primitives.500}"
+          }
+        }
+      },
+      "stepper": {
+        "small": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.100}"
+        }
+      }
+    },
+    "input": {
+      "search-field": {
+        "small": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.100}"
+        },
+        "medium": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.300}"
+        },
+        "large": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.500}"
+        }
+      },
+      "text-field": {
+        "small": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.100}"
+        },
+        "medium": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.300}"
+        },
+        "large": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.500}"
+        }
+      },
+      "picker": {
+        "small": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.100}"
+        },
+        "medium": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.300}"
+        },
+        "large": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.500}"
+        }
+      }
     }
   }
 }
