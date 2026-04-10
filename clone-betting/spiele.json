@@ -2241,5 +2241,47 @@
         "backgroundBlur": "24px"
       }
     }
+  },
+  "radius_primitives": {
+    "50": {
+      "$type": "borderRadius",
+      "$value": "4"
+    },
+    "100": {
+      "$type": "borderRadius",
+      "$value": "8"
+    },
+    "200": {
+      "$type": "borderRadius",
+      "$value": "12"
+    },
+    "300": {
+      "$type": "borderRadius",
+      "$value": "16"
+    },
+    "400": {
+      "$type": "borderRadius",
+      "$value": "20"
+    },
+    "500": {
+      "$type": "borderRadius",
+      "$value": "24"
+    },
+    "600": {
+      "$type": "borderRadius",
+      "$value": "36"
+    },
+    "700": {
+      "$type": "borderRadius",
+      "$value": "48"
+    },
+    "full": {
+      "$type": "borderRadius",
+      "$value": "999"
+    },
+    "note": {
+      "$type": "borderRadius",
+      "$value": "0"
+    }
   }
 }
