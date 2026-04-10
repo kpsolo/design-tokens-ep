@@ -2381,45 +2381,97 @@
     },
     "input": {
       "search-field": {
-        "small": {
+        "container": {
           "$type": "borderRadius",
-          "$value": "{radius_primitives.100}"
-        },
-        "medium": {
-          "$type": "borderRadius",
-          "$value": "{radius_primitives.300}"
-        },
-        "large": {
-          "$type": "borderRadius",
-          "$value": "{radius_primitives.500}"
+          "$value": "{radius_primitives.full}"
         }
       },
       "text-field": {
-        "small": {
+        "container": {
           "$type": "borderRadius",
-          "$value": "{radius_primitives.100}"
+          "$value": "{radius_primitives.full}"
+        }
+      }
+    },
+    "navigation": {
+      "tab-bar": {
+        "container": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.full}"
         },
-        "medium": {
+        "control": {
           "$type": "borderRadius",
-          "$value": "{radius_primitives.300}"
-        },
-        "large": {
-          "$type": "borderRadius",
-          "$value": "{radius_primitives.500}"
+          "$value": "{radius_primitives.full}"
         }
       },
-      "picker": {
-        "small": {
+      "toolbar": {
+        "button": {
           "$type": "borderRadius",
-          "$value": "{radius_primitives.100}"
+          "$value": "{radius_primitives.full}"
+        }
+      },
+      "context-menu": {
+        "container": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.600}"
         },
-        "medium": {
+        "action": {
           "$type": "borderRadius",
-          "$value": "{radius_primitives.300}"
-        },
-        "large": {
+          "$value": "{radius_primitives.400}"
+        }
+      },
+      "page-control": {
+        "container": {
           "$type": "borderRadius",
-          "$value": "{radius_primitives.500}"
+          "$value": "{radius_primitives.600}"
+        }
+      }
+    },
+    "feedback": {
+      "snackbar": {
+        "container": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.full}"
+        }
+      }
+    },
+    "overlays": {
+      "bottom-sheet": {
+        "container": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.700}"
+        }
+      },
+      "tooltip": {
+        "container": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.400}"
+        }
+      }
+    },
+    "data-display": {
+      "badge": {
+        "container": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.full}"
+        }
+      },
+      "chip": {
+        "container": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.full}"
+        }
+      },
+      "status": {
+        "container": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.full}"
+        }
+      },
+      "tag": {
+        "container": {
+          "$type": "borderRadius",
+          "$value": "{radius_primitives.full}"
         }
       }
     }
