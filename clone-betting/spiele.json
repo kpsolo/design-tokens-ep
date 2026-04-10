@@ -2366,16 +2366,16 @@
           }
         },
         "checkbox": {
-          "large": {
+          "container": {
             "$type": "borderRadius",
-            "$value": "{radius_primitives.500}"
+            "$value": "{radius_primitives.100}"
           }
         }
       },
       "stepper": {
-        "small": {
+        "container": {
           "$type": "borderRadius",
-          "$value": "{radius_primitives.100}"
+          "$value": "{radius_primitives.full}"
         }
       }
     },
