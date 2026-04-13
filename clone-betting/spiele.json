@@ -471,7 +471,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opasity_primitives.300}",
+              "value": "{opasity_semantic.300}",
               "space": "lch"
             }
           }
@@ -498,7 +498,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opasity_primitives.150}",
+              "value": "{opasity_primitives.shadow_semantic.low50}",
               "space": "lch"
             }
           }
@@ -525,7 +525,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opasity_primitives.300}",
+              "value": "{opasity_semantic.300}",
               "space": "lch"
             }
           }
@@ -631,7 +631,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "{opasity_primitives.700}",
+                "value": "{opasity_semantic.700}",
                 "space": "lch"
               }
             }
@@ -644,7 +644,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "{opasity_primitives.450}",
+                "value": "{opasity_semantic.450}",
                 "space": "lch"
               }
             }
@@ -657,7 +657,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "{opasity_primitives.250}",
+                "value": "{opasity_semantic.250}",
                 "space": "lch"
               }
             }
@@ -676,7 +676,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "{opasity_primitives.700}",
+                "value": "{opasity_semantic.700}",
                 "space": "lch"
               }
             }
@@ -689,7 +689,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "{opasity_primitives.450}",
+                "value": "{opasity_semantic.450}",
                 "space": "lch"
               }
             }
@@ -702,7 +702,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "{opasity_primitives.250}",
+                "value": "{opasity_semantic.250}",
                 "space": "lch"
               }
             }
@@ -1007,7 +1007,7 @@
     "$type": "textDecoration",
     "$value": "line-through"
   },
-  "opasity_primitives": {
+  "opasity_semantic": {
     "50": {
       "$type": "opacity",
       "$value": "0.05"
@@ -1173,7 +1173,7 @@
                 "studio.tokens": {
                   "modify": {
                     "type": "alpha",
-                    "value": "{opasity_primitives.200}",
+                    "value": "{opasity_semantic.200}",
                     "space": "lch"
                   }
                 }
@@ -1186,7 +1186,7 @@
                 "studio.tokens": {
                   "modify": {
                     "type": "alpha",
-                    "value": "{opasity_primitives.200}",
+                    "value": "{opasity_semantic.200}",
                     "space": "lch"
                   }
                 }
@@ -1221,7 +1221,7 @@
                 "studio.tokens": {
                   "modify": {
                     "type": "alpha",
-                    "value": "{opasity_primitives.200}",
+                    "value": "{opasity_semantic.200}",
                     "space": "lch"
                   }
                 }
@@ -1234,7 +1234,7 @@
                 "studio.tokens": {
                   "modify": {
                     "type": "alpha",
-                    "value": "{opasity_primitives.200}",
+                    "value": "{opasity_semantic.200}",
                     "space": "lch"
                   }
                 }
@@ -1269,7 +1269,7 @@
                 "studio.tokens": {
                   "modify": {
                     "type": "alpha",
-                    "value": "{opasity_primitives.200}",
+                    "value": "{opasity_semantic.200}",
                     "space": "lch"
                   }
                 }
@@ -1282,7 +1282,7 @@
                 "studio.tokens": {
                   "modify": {
                     "type": "alpha",
-                    "value": "{opasity_primitives.200}",
+                    "value": "{opasity_semantic.200}",
                     "space": "lch"
                   }
                 }
@@ -1317,7 +1317,7 @@
                 "studio.tokens": {
                   "modify": {
                     "type": "alpha",
-                    "value": "{opasity_primitives.200}",
+                    "value": "{opasity_semantic.200}",
                     "space": "lch"
                   }
                 }
@@ -1330,7 +1330,7 @@
                 "studio.tokens": {
                   "modify": {
                     "type": "alpha",
-                    "value": "{opasity_primitives.200}",
+                    "value": "{opasity_semantic.200}",
                     "space": "lch"
                   }
                 }
@@ -1661,7 +1661,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "{opasity_primitives.800}",
+                "value": "{opasity_semantic.800}",
                 "space": "lch"
               }
             }
@@ -1753,7 +1753,7 @@
                   "studio.tokens": {
                     "modify": {
                       "type": "alpha",
-                      "value": "{opasity_primitives.200}",
+                      "value": "{opasity_semantic.200}",
                       "space": "lch"
                     }
                   }
@@ -1766,7 +1766,7 @@
                   "studio.tokens": {
                     "modify": {
                       "type": "alpha",
-                      "value": "{opasity_primitives.200}",
+                      "value": "{opasity_semantic.200}",
                       "space": "lch"
                     }
                   }
@@ -1926,7 +1926,7 @@
                 "studio.tokens": {
                   "modify": {
                     "type": "alpha",
-                    "value": "{opasity_primitives.200}",
+                    "value": "{opasity_semantic.200}",
                     "space": "lch"
                   }
                 }
@@ -1945,7 +1945,7 @@
                 "studio.tokens": {
                   "modify": {
                     "type": "alpha",
-                    "value": "{opasity_primitives.200}",
+                    "value": "{opasity_semantic.200}",
                     "space": "lch"
                   }
                 }
@@ -1968,7 +1968,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "{opasity_primitives.300}",
+                "value": "{opasity_semantic.300}",
                 "space": "lch"
               }
             }
@@ -2058,7 +2058,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "{opasity_primitives.200}",
+                  "value": "{opasity_semantic.200}",
                   "space": "lch"
                 }
               }
@@ -2071,7 +2071,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "{opasity_primitives.200}",
+                  "value": "{opasity_semantic.200}",
                   "space": "lch"
                 }
               }
@@ -2474,6 +2474,55 @@
           "$value": "{radius_primitives.full}"
         }
       }
+    }
+  },
+  "shadow_semantic": {
+    "low": {
+      "$type": "boxShadow",
+      "$value": {
+        "x": "0",
+        "y": "6",
+        "blur": "20",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.08)",
+        "type": "dropShadow"
+      }
+    },
+    "medium": {
+      "$type": "boxShadow",
+      "$value": {
+        "x": "0",
+        "y": "8",
+        "blur": "40",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.12)",
+        "type": "dropShadow"
+      }
+    },
+    "high": {
+      "$type": "boxShadow",
+      "$value": {
+        "x": "0",
+        "y": "8",
+        "blur": "40",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.2)",
+        "type": "dropShadow"
+      }
+    }
+  },
+  "background-blur_semantic": {
+    "low": {
+      "$type": "dimension",
+      "$value": "4px"
+    },
+    "medium": {
+      "$type": "dimension",
+      "$value": "8px"
+    },
+    "high": {
+      "$type": "dimension",
+      "$value": "12px"
     }
   }
 }
