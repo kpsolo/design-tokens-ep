@@ -2316,6 +2316,10 @@
     "extra-large": {
       "$type": "borderRadius",
       "$value": "{radius_primitives.700}"
+    },
+    "full": {
+      "$type": "borderRadius",
+      "$value": "{radius_primitives.full}"
     }
   },
   "radius_contextual": {
