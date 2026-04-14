@@ -26,11 +26,11 @@
     },
     "700": {
       "$type": "fontSizes",
-      "$value": "24"
+      "$value": "20"
     },
     "800": {
       "$type": "fontSizes",
-      "$value": "28"
+      "$value": "24"
     },
     "900": {
       "$type": "fontSizes",
@@ -64,11 +64,11 @@
     },
     "700": {
       "$type": "lineHeights",
-      "$value": "32"
+      "$value": "28"
     },
     "800": {
       "$type": "lineHeights",
-      "$value": "36"
+      "$value": "32"
     },
     "900": {
       "$type": "lineHeights",
