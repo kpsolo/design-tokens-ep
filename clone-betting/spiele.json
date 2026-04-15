@@ -1354,11 +1354,11 @@
             },
             "label": {
               "$type": "color",
-              "$value": "{primitives.accent.500}"
+              "$value": "{primitives.white.50}"
             },
             "icon": {
               "$type": "color",
-              "$value": "{primitives.accent.500}"
+              "$value": "{primitives.white.50}"
             }
           },
           "unselected": {
