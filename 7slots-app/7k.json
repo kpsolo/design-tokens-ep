@@ -1434,6 +1434,10 @@
         "info": {
           "value": "{core.white.50}",
           "type": "color"
+        },
+        "description": {
+          "value": "{core.white.100}",
+          "type": "color"
         }
       },
       "icon": {
