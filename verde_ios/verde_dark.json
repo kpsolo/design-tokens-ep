@@ -352,7 +352,7 @@
       "secondary": {
         "enabled": {
           "background": {
-            "value": "{core.accent.500}",
+            "value": "{core.accent.100}",
             "type": "color",
             "description": "The background of the enabled button"
           },
@@ -362,12 +362,12 @@
             "description": "The border color of the enabled button"
           },
           "text": {
-            "value": "{core.accent.100}",
+            "value": "{core.white.100}",
             "type": "color",
             "description": "The text color of the enabled button"
           },
           "icon": {
-            "value": "{core.accent.100}",
+            "value": "{core.white.100}",
             "type": "color",
             "description": "The icon color of the enabled button"
           }
