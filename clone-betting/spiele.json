@@ -1954,6 +1954,12 @@
               "$value": "{primitives.white.50}"
             }
           }
+        },
+        "skeleton": {
+          "conteiner": {
+            "$type": "color",
+            "$value": "{primitives.neutral_soft.600}"
+          }
         }
       }
     },
