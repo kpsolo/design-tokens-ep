@@ -335,7 +335,8 @@
       "label.small_emphasized": "S:f3df1a183fefad5849e83aaa5ac1b941b1c0f4c7,",
       "shadow_semantic.low": "S:9006a6cc97d6539b49e1a4073b4389565d568fa5,",
       "shadow_semantic.medium": "S:a7cc4d3c8249c402fe1608a51f2978283ddcfbb6,",
-      "shadow_semantic.high": "S:fc99b9dbdcbacce93edc85349f94f7906645a4ab,"
+      "shadow_semantic.high": "S:fc99b9dbdcbacce93edc85349f94f7906645a4ab,",
+      "contextual.feedback.progress.skeleton.conteiner": "S:78f69e2012e87600e14e7d0cadcdbf0194dee604,"
     },
     "selectedTokenSets": {
       "spiele": "enabled"
