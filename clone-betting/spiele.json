@@ -1949,7 +1949,7 @@
         "skeleton": {
           "conteiner": {
             "$type": "color",
-            "$value": "{primitives.neutral_soft.600}"
+            "$value": "{primitives.neutral_strong.800}"
           }
         }
       }
