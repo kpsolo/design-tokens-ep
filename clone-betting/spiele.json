@@ -1657,15 +1657,6 @@
     "navigation": {
       "tab-bar": {
         "container": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{opasity_semantic.800}",
-                "space": "lch"
-              }
-            }
-          },
           "$type": "color",
           "$value": "{contextual.controls.segmented.container}"
         },
