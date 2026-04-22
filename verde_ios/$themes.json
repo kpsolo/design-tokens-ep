@@ -1180,7 +1180,11 @@
       "contextual.piggy.progress.border": "S:8ad1301795f6863256a7cd64866220b02a9fc804,",
       "contextual.piggy.progress.track": "S:0009d44d0de48c740e7fc5688d497038f9423851,",
       "contextual.piggy.progress.fill": "S:a8ee05963bbe6079ff857c137906a597ce2f62b1,",
-      "contextual.piggy.progress.icon": "S:2fa790af275c522bc69c4e547045959bd30b7a31,"
+      "contextual.piggy.progress.icon": "S:2fa790af275c522bc69c4e547045959bd30b7a31,",
+      "contextual.statuses.overlay.info.background": "S:ca6bf46cc0f9986228353df599847461b0aab105,",
+      "contextual.statuses.overlay.info.text": "S:06fcd0b6c9d673416b1b3f9ad3407bb0ec4166ab,",
+      "contextual.statuses.overlay.info.icon": "S:3628e1aebfd2a07d3e8eccb114c0300fbd3d8ca8,",
+      "contextual.tournaments.background.position": "S:a66278100af4aeef1e922a53afbded8ae3367800,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
@@ -1297,6 +1301,7 @@
       "background-blur.button": "381dcc7a2454124873c32197af2ce0664a52a1d1",
       "background-blur.backdrop": "4cdfa5c590fd675bdfab5613ffe8d7fafe328398",
       "background-blur.progres": "b682be63661bbcaddcaf8429e596f5cf0a7f20de",
+      "background-blur.balance": "5f3f7a732d5e3e671e82effb7e059b2e84aa277a",
       "background-blur.balance-copy": "0202e31e10c29ff6c9aebc7894b0badef2b5ca11",
       "background-blur.callout": "cc5ad8c978ff95271cd69a1eb7eab652ebde3dd4",
       "background-blur.piggy-dialog": "9505e40459901f52cd3df234bb2445dbb44b0297",
