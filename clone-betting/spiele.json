@@ -1948,8 +1948,17 @@
         },
         "skeleton": {
           "conteiner": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{opasity_semantic.200}",
+                  "space": "lch"
+                }
+              }
+            },
             "$type": "color",
-            "$value": "{primitives.neutral_strong.800}"
+            "$value": "linear-gradient(106deg, {primitives.neutral_strong.400} 0%, {primitives.neutral_strong.500} 100%)"
           }
         }
       }
