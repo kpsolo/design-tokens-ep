@@ -1894,7 +1894,7 @@
         },
         "new": {
           "background": {
-            "value": "linear-gradient(180deg, {core.brand.accent.100} 0%, {core.brand.accent.200} 100%)",
+            "value": "{core.white.50}",
             "type": "color"
           },
           "icon": {
