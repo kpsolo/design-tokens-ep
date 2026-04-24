@@ -1952,13 +1952,13 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "{opasity_semantic.200}",
+                  "value": "{opasity_semantic.400}",
                   "space": "lch"
                 }
               }
             },
             "$type": "color",
-            "$value": "linear-gradient(106deg, {primitives.neutral_strong.200} 0%, {primitives.neutral_strong.300} 100%)"
+            "$value": "{primitives.neutral_strong.200}"
           }
         }
       }
