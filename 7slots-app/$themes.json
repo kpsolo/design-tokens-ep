@@ -443,7 +443,7 @@
       "semantic.icon.accent": "S:73503692518b24d291d3566c182c77c065c452b1,",
       "contextual.welcome_scr.login": "S:caebd4371962af5799d9e2391936807802a1e955,",
       "contextual.bonus.background.welcome": "S:dcfbb1a960c61459acb5afb91a59738288fe7079,",
-      "contextual.welcome_scr.ws01": "S:a1ce6ccf58a67c538a3dbe6bae6771deeb474659,",
+      "contextual.welcome_scr.ws01": "S:ea3d81375807756205b1112f41b28e1f13d3b40c,",
       "contextual.background.pre-gaming": "S:5d3ac3d969c1d467656927be8b90d5b0dc29faef,",
       "contextual.background.pop-up": "S:ef50429079c9ce6732fa8d70825da5dd8c9545cd,",
       "contextual.button.primery-outlined.enabled.text": "S:70155f76a9f1a136de3d3f6d892ebbbee5dfbb82,",
@@ -567,10 +567,10 @@
       "contextual.kyc.background.upload-photo": "S:fb3c1c3f77ca79c22b9e0884becad8434ae93b12,",
       "contextual.kyc.background.surface-container": "S:b661b29670789e715b1b1f136219a47d23d1a41f,",
       "contextual.kyc.background.surface-icon": "S:320cf539688fee52423bd0e4c3b6259be0e189c7,",
-      "contextual.tag.thumb.free.background": "S:6b19f11d1a5f9d3d37afc378912d8803d7142a00,",
-      "contextual.tag.thumb.free.icon": "S:db8ff5901ff4e79acf6f7d920feb4f5016e227ff,",
-      "contextual.tag.thumb.free.text": "S:5cb5a8178665235dc9b35dbb613f7aa9302986b0,",
-      "contextual.tag.thumb.new.text": "S:551e8d99887e7a32176ffb08d54b449ed35ef81e,"
+      "contextual.tag.thumb.free.background": "S:290f41ede1caa288f12b8e3deda35a649de88d73,",
+      "contextual.tag.thumb.free.icon": "S:4916fb2ec2f90c79d4fd1cdf85e31b0e4038e925,",
+      "contextual.tag.thumb.free.text": "S:9f10f04f6c25c48282dc2e2f4ed0d537e316b2ce,",
+      "contextual.tag.thumb.new.text": "S:825b2ebd3a3e0f49a048bcf21e662c2079941535,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
