@@ -1958,7 +1958,7 @@
               }
             },
             "$type": "color",
-            "$value": "linear-gradient(106deg, {primitives.neutral_strong.400} 0%, {primitives.neutral_strong.500} 100%)"
+            "$value": "linear-gradient(106deg, {primitives.neutral_strong.200} 0%, {primitives.neutral_strong.300} 100%)"
           }
         }
       }
