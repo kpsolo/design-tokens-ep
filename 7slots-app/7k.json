@@ -1900,6 +1900,24 @@
           "icon": {
             "value": "{core.black.50}",
             "type": "color"
+          },
+          "text": {
+            "value": "{core.white.50}",
+            "type": "color"
+          }
+        },
+        "free": {
+          "background": {
+            "value": "linear-gradient(180deg, rgb(241, 77, 255) 0%, rgb(161, 6, 244) 100%)",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core.white.50}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.white.50}",
+            "type": "color"
           }
         }
       },
