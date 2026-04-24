@@ -1884,7 +1884,7 @@
       "thumb": {
         "tournaments": {
           "background": {
-            "value": "linear-gradient(180deg, {core.brand.support.300} 0%, {core.brand.support.500} 100%)",
+            "value": "{core.white.50}",
             "type": "color"
           },
           "icon": {
@@ -1894,7 +1894,7 @@
         },
         "new": {
           "background": {
-            "value": "{core.white.50}",
+            "value": "linear-gradient(180deg, {core.brand.support.300} 0%, {core.brand.support.500} 100%)",
             "type": "color"
           },
           "icon": {
@@ -1908,7 +1908,7 @@
         },
         "free": {
           "background": {
-            "value": "linear-gradient(180deg, {core.brand.support.300} 0%, {core.brand.support.500} 100%)",
+            "value": "{core.white.50}",
             "type": "color"
           },
           "icon": {
