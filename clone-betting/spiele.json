@@ -1897,10 +1897,6 @@
             "$type": "color",
             "$value": "{primitives.accent.500}"
           },
-          "brand": {
-            "$type": "color",
-            "$value": "{primitives.brand.500}"
-          },
           "neutral": {
             "$type": "color",
             "$value": "{primitives.white.50}"
