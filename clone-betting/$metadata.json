@@ -1,5 +1,6 @@
 {
   "tokenSetOrder": [
-    "fieryplay_dark"
+    "fieryplay/dark",
+    "fieryplay/light"
   ]
 }
