@@ -573,7 +573,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "{opasity_primitives.shadow.low50}",
+                "value": "{opacity.primitives.300}",
                 "space": "lch"
               }
             }
