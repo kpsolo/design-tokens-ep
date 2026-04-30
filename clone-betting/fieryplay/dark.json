@@ -546,7 +546,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "{opacity.semantic.300}",
+                "value": "{opacity.primitives.300}",
                 "space": "lch"
               }
             }
@@ -600,7 +600,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "{opacity.semantic.300}",
+                "value": "{opacity.primitives.300}",
                 "space": "lch"
               }
             }
@@ -706,7 +706,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "{opacity.semantic.700}",
+                  "value": "{opacity.primitives.700}",
                   "space": "lch"
                 }
               }
@@ -719,7 +719,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "{opacity.semantic.450}",
+                  "value": "{opacity.primitives.450}",
                   "space": "lch"
                 }
               }
@@ -732,7 +732,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "{opacity.semantic.250}",
+                  "value": "{opacity.primitives.250}",
                   "space": "lch"
                 }
               }
@@ -751,7 +751,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "{opacity.semantic.700}",
+                  "value": "{opacity.primitives.700}",
                   "space": "lch"
                 }
               }
@@ -764,7 +764,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "{opacity.semantic.450}",
+                  "value": "{opacity.primitives.450}",
                   "space": "lch"
                 }
               }
@@ -777,7 +777,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "{opacity.semantic.250}",
+                  "value": "{opacity.primitives.250}",
                   "space": "lch"
                 }
               }
@@ -876,7 +876,7 @@
                   "studio.tokens": {
                     "modify": {
                       "type": "alpha",
-                      "value": "{opacity.semantic.200}",
+                      "value": "{opacity.primitives.200}",
                       "space": "lch"
                     }
                   }
@@ -889,7 +889,7 @@
                   "studio.tokens": {
                     "modify": {
                       "type": "alpha",
-                      "value": "{opacity.semantic.200}",
+                      "value": "{opacity.primitives.200}",
                       "space": "lch"
                     }
                   }
@@ -924,7 +924,7 @@
                   "studio.tokens": {
                     "modify": {
                       "type": "alpha",
-                      "value": "{opacity.semantic.200}",
+                      "value": "{opacity.primitives.200}",
                       "space": "lch"
                     }
                   }
@@ -937,7 +937,7 @@
                   "studio.tokens": {
                     "modify": {
                       "type": "alpha",
-                      "value": "{opacity.semantic.200}",
+                      "value": "{opacity.primitives.200}",
                       "space": "lch"
                     }
                   }
@@ -972,7 +972,7 @@
                   "studio.tokens": {
                     "modify": {
                       "type": "alpha",
-                      "value": "{opacity.semantic.200}",
+                      "value": "{opacity.primitives.200}",
                       "space": "lch"
                     }
                   }
@@ -985,7 +985,7 @@
                   "studio.tokens": {
                     "modify": {
                       "type": "alpha",
-                      "value": "{opacity.semantic.200}",
+                      "value": "{opacity.primitives.200}",
                       "space": "lch"
                     }
                   }
@@ -1020,7 +1020,7 @@
                   "studio.tokens": {
                     "modify": {
                       "type": "alpha",
-                      "value": "{opacity.semantic.200}",
+                      "value": "{opacity.primitives.200}",
                       "space": "lch"
                     }
                   }
@@ -1033,7 +1033,7 @@
                   "studio.tokens": {
                     "modify": {
                       "type": "alpha",
-                      "value": "{opacity.semantic.200}",
+                      "value": "{opacity.primitives.200}",
                       "space": "lch"
                     }
                   }
@@ -1447,7 +1447,7 @@
                     "studio.tokens": {
                       "modify": {
                         "type": "alpha",
-                        "value": "{opacity.semantic.200}",
+                        "value": "{opacity.primitives.200}",
                         "space": "lch"
                       }
                     }
@@ -1460,7 +1460,7 @@
                     "studio.tokens": {
                       "modify": {
                         "type": "alpha",
-                        "value": "{opacity.semantic.200}",
+                        "value": "{opacity.primitives.200}",
                         "space": "lch"
                       }
                     }
@@ -1616,7 +1616,7 @@
                   "studio.tokens": {
                     "modify": {
                       "type": "alpha",
-                      "value": "{opacity.semantic.200}",
+                      "value": "{opacity.primitives.200}",
                       "space": "lch"
                     }
                   }
@@ -1635,7 +1635,7 @@
                   "studio.tokens": {
                     "modify": {
                       "type": "alpha",
-                      "value": "{opacity.semantic.200}",
+                      "value": "{opacity.primitives.200}",
                       "space": "lch"
                     }
                   }
@@ -1651,7 +1651,7 @@
                 "studio.tokens": {
                   "modify": {
                     "type": "alpha",
-                    "value": "{opacity.semantic.400}",
+                    "value": "{opacity.primitives.400}",
                     "space": "lch"
                   }
                 }
@@ -1673,7 +1673,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "{opacity.semantic.300}",
+                  "value": "{opacity.primitives.300}",
                   "space": "lch"
                 }
               }
@@ -1763,7 +1763,7 @@
                 "studio.tokens": {
                   "modify": {
                     "type": "alpha",
-                    "value": "{opacity.semantic.200}",
+                    "value": "{opacity.primitives.200}",
                     "space": "lch"
                   }
                 }
@@ -1776,7 +1776,7 @@
                 "studio.tokens": {
                   "modify": {
                     "type": "alpha",
-                    "value": "{opacity.semantic.200}",
+                    "value": "{opacity.primitives.200}",
                     "space": "lch"
                   }
                 }
@@ -2148,7 +2148,7 @@
     }
   },
   "opacity": {
-    "semantic": {
+    "primitives": {
       "50": {
         "$type": "opacity",
         "$value": "0.05"
