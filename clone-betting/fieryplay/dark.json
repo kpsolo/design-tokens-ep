@@ -1685,20 +1685,6 @@
             "$type": "color",
             "$value": "{color.semantic.border.primary}"
           }
-        },
-        "tooltip": {
-          "container": {
-            "$type": "color",
-            "$value": "{color.primitives.white.50}"
-          },
-          "text": {
-            "$type": "color",
-            "$value": "{color.primitives.black.50}"
-          },
-          "icon": {
-            "$type": "color",
-            "$value": "{color.primitives.black.50}"
-          }
         }
       },
       "data-display": {
