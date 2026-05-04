@@ -1499,7 +1499,7 @@
         "context-menu": {
           "container": {
             "$type": "color",
-            "$value": "{color.contextual.controls.button.danger.disabled.container}"
+            "$value": "{color.semantic.surface.tertiary}"
           }
         },
         "page-control": {
@@ -1647,6 +1647,19 @@
           },
           "skeleton": {
             "conteiner": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "{opacity.primitives.400}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{color.primitives.neutral_strong.200}"
+            },
+            "icon": {
               "$extensions": {
                 "studio.tokens": {
                   "modify": {
