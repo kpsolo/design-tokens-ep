@@ -2659,8 +2659,8 @@
     "value": "{core-dimension.8}",
     "type": "dimension"
   },
-  "wheel-fortune-info": {
-    "value": "{core-dimension.8}",
+  "wheel-fortune-option": {
+    "value": "{core-dimension.24}",
     "type": "dimension"
   },
   "progressbar": {
