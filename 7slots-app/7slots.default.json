@@ -833,7 +833,7 @@
       },
       "swipe-wof": {
         "background": {
-          "value": "{core.white.800}",
+          "value": "{core.white.700}",
           "type": "color"
         },
         "thumb": {
