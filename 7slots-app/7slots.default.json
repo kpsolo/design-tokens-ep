@@ -2005,6 +2005,10 @@
         "item-list": {
           "value": "{core.white.800}",
           "type": "color"
+        },
+        "swipe-button": {
+          "value": "linear-gradient(90deg, rgb(255 255 255 / 0%) 0%, rgb(255 255 255 / 10%) 25%, rgb(255 255 255 / 20%) 100%)",
+          "type": "color"
         }
       }
     }

@@ -570,7 +570,8 @@
       "contextual.tag.thumb.free.background": "S:290f41ede1caa288f12b8e3deda35a649de88d73,",
       "contextual.tag.thumb.free.icon": "S:4916fb2ec2f90c79d4fd1cdf85e31b0e4038e925,",
       "contextual.tag.thumb.free.text": "S:9f10f04f6c25c48282dc2e2f4ed0d537e316b2ce,",
-      "contextual.tag.thumb.new.text": "S:825b2ebd3a3e0f49a048bcf21e662c2079941535,"
+      "contextual.tag.thumb.new.text": "S:825b2ebd3a3e0f49a048bcf21e662c2079941535,",
+      "contextual.wheel-of-fortune.background.swipe-button": "S:d274b0dc2bc50cd88587e4e39d87d7eaa5d536b2,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -710,7 +711,7 @@
       "tournaments.surface": "8d3ee4dab0c3d0f7bb04b3420885abb3e341dc82",
       "lottery.card": "806e21261623bdc15e132b9f4824e4247ee875f3",
       "lottery.surface": "83a93a5335e452ca2639d6322d8b83ddb20f6010",
-      "wheel-fortune-info": "740ee72e218f9abf7f4a25337cf609ae8a2bef0d"
+      "wheel-fortune-option": "740ee72e218f9abf7f4a25337cf609ae8a2bef0d"
     },
     "$figmaCollectionId": "VariableCollectionId:26281:375",
     "$figmaModeId": "26281:0"
