@@ -2007,7 +2007,7 @@
           "type": "color"
         },
         "swipe-button": {
-          "value": "linear-gradient(90deg, rgb(255 255 255 / 0%) 0%, rgb(255 255 255 / 10%) 25%, rgb(255 255 255 / 20%) 100%)",
+          "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.10) 25%, rgba(255, 255, 255, 0.20) 100%)",
           "type": "color"
         }
       }
