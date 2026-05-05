@@ -571,7 +571,14 @@
       "contextual.tag.thumb.free.icon": "S:4916fb2ec2f90c79d4fd1cdf85e31b0e4038e925,",
       "contextual.tag.thumb.free.text": "S:9f10f04f6c25c48282dc2e2f4ed0d537e316b2ce,",
       "contextual.tag.thumb.new.text": "S:825b2ebd3a3e0f49a048bcf21e662c2079941535,",
-      "contextual.wheel-of-fortune.background.swipe-button": "S:d274b0dc2bc50cd88587e4e39d87d7eaa5d536b2,"
+      "contextual.wheel-of-fortune.background.swipe-button": "S:d274b0dc2bc50cd88587e4e39d87d7eaa5d536b2,",
+      "contextual.wof.background.congratulation": "S:065ceffb49c11de2fd263b6203074c7bca54b9ea,",
+      "contextual.wof.background.item-list": "S:63699224aae55950c8d3b6e988664703265f9b7e,",
+      "contextual.wof.background.swipe-button": "S:e8590f948378f8e10a8f0e5be17153ce790b89d7,",
+      "contextual.button.swipe-wof.background": "S:d1fa423d1a95bb6b87116f0dcaa90427c07884a3,",
+      "contextual.button.swipe-wof.thumb": "S:d82c10d963ef4ecf9d0e8708e5ab1ef66315db37,",
+      "contextual.button.swipe-wof.text": "S:6204f10abab2347eb7780db83aaa2d33cfb179ba,",
+      "contextual.button.swipe-wof.icon": "S:19ba4d1eb24d12ae23ebe08bb216bc687c53caff,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -711,6 +718,7 @@
       "tournaments.surface": "8d3ee4dab0c3d0f7bb04b3420885abb3e341dc82",
       "lottery.card": "806e21261623bdc15e132b9f4824e4247ee875f3",
       "lottery.surface": "83a93a5335e452ca2639d6322d8b83ddb20f6010",
+      "button.swipe-wof": "4f1100807b193d21983f8f18f2b66ee920ce238e",
       "wheel-fortune-option": "740ee72e218f9abf7f4a25337cf609ae8a2bef0d"
     },
     "$figmaCollectionId": "VariableCollectionId:26281:375",

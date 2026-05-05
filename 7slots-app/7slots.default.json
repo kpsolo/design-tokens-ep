@@ -830,6 +830,24 @@
             "type": "color"
           }
         }
+      },
+      "swipe-wof": {
+        "background": {
+          "value": "{core.white.800}",
+          "type": "color"
+        },
+        "thumb": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.black.50}",
+          "type": "color"
+        }
       }
     },
     "text-fields": {
@@ -1996,7 +2014,7 @@
         }
       }
     },
-    "wheel-of-fortune": {
+    "wof": {
       "background": {
         "congratulation": {
           "value": "linear-gradient(180deg, rgb(16, 84, 238) 0%, rgb(8, 17, 89) 65%, rgb(6, 8, 79) 100%);",
@@ -2355,6 +2373,10 @@
       "type": "borderRadius"
     },
     "tab-bar": {
+      "value": "{core-radius.full}",
+      "type": "borderRadius"
+    },
+    "swipe-wof": {
       "value": "{core-radius.full}",
       "type": "borderRadius"
     }
