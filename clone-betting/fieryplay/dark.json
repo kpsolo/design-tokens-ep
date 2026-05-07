@@ -1499,7 +1499,7 @@
         "context-menu": {
           "container": {
             "$type": "color",
-            "$value": "{color.semantic.surface.tertiary}"
+            "$value": "{color.contextual.controls.button.tertiary.enabled.container}"
           }
         },
         "page-control": {
