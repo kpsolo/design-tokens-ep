@@ -2521,7 +2521,7 @@
       "type": "borderRadius"
     },
     "menu": {
-      "value": "{core-radius.12}",
+      "value": "{core-radius.16}",
       "type": "borderRadius"
     },
     "providers": {
