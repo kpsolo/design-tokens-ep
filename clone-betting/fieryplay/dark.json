@@ -1499,11 +1499,11 @@
         "context-menu": {
           "container": {
             "$type": "color",
-            "$value": "{color.contextual.controls.button.tertiary.enabled.container}"
+            "$value": "{color.semantic.surface.tertiary}"
           },
           "items": {
             "$type": "color",
-            "$value": "{color.primitives.neutral_strong.200}"
+            "$value": "{color.contextual.controls.button.tertiary.enabled.container}"
           }
         },
         "page-control": {

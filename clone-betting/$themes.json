@@ -607,6 +607,7 @@
       "color.contextual.navigation.toolbar.balance.label": "60bcef3e5053251e66544db1ffadf95dd21bf738",
       "color.contextual.navigation.toolbar.balance.value": "6f8d4602915f50f8f5664b569fef96c4ed9ffb93",
       "color.contextual.navigation.context-menu.container": "996ccede343108adf792d05e51b922a420d19f90",
+      "color.contextual.navigation.context-menu.items": "d8b7b3c82944899d35732c54555da62e5618ce2a",
       "color.contextual.navigation.page-control.container": "c8bc4cb44f37f7db1dc5a4698d470c3c3cd1d33e",
       "color.contextual.navigation.page-control.dots.selected": "1284b2c7d87b06288e4e78b706a957ce94954557",
       "color.contextual.navigation.page-control.dots.unselected": "3bb0c8f6e090f36e3f978d100cda1cc21908ff11",
@@ -739,8 +740,7 @@
       "radius.contextual.data-display.tag.container": "368803c24386528e6c1b5a4bb360a7c2d80c6e5a",
       "background-blur.low": "1d4a9dc65fc7dea9a92d8905bc9a60d904fe6976",
       "background-blur.medium": "27a99751e9457b2003b0cc125250729a1b6f5ba3",
-      "background-blur.high": "e1493e2b1aaf11e8446ef6cc2153fc87548daa3f",
-      "color.contextual.navigation.context-menu.items": "d8b7b3c82944899d35732c54555da62e5618ce2a"
+      "background-blur.high": "e1493e2b1aaf11e8446ef6cc2153fc87548daa3f"
     }
   }
 ]
