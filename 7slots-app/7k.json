@@ -866,6 +866,24 @@
             "type": "color"
           }
         }
+      },
+      "swipe-wof": {
+        "background": {
+          "value": "{core.white.700}",
+          "type": "color"
+        },
+        "thumb": {
+          "value": "{core.brand.support.300}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.50}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.black.50}",
+          "type": "color"
+        }
       }
     },
     "text-fields": {
