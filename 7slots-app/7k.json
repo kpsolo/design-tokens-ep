@@ -1926,7 +1926,7 @@
         },
         "free": {
           "background": {
-            "value": "{core.white.50}",
+            "value": "linear-gradient(180deg, {core.brand.support.300} 0%, {core.brand.support.500} 100%)",
             "type": "color"
           },
           "icon": {
