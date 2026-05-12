@@ -1906,7 +1906,7 @@
       "bonus": {
         "best": {
           "background": {
-            "value": "linear-gradient(180deg, rgb(251, 102, 53) 0%, rgb(255, 37, 73) 100%)",
+            "value": "{core.brand.support.100}",
             "type": "color"
           },
           "text": {
