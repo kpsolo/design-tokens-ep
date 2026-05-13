@@ -873,7 +873,7 @@
           "type": "color"
         },
         "thumb": {
-          "value": "{core.white.50}",
+          "value": "{core.brand.support.300}",
           "type": "color"
         },
         "text": {
