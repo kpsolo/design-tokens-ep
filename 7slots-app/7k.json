@@ -2395,6 +2395,10 @@
     "tab-bar": {
       "value": "{core-radius.full}",
       "type": "borderRadius"
+    },
+    "swipe-wof": {
+      "value": "{core-radius.full}",
+      "type": "borderRadius"
     }
   },
   "buttons": {
@@ -2548,6 +2552,10 @@
     },
     "vip-club": {
       "value": "{core-radius.12}",
+      "type": "borderRadius"
+    },
+    "wof": {
+      "value": "{core-radius.16}",
       "type": "borderRadius"
     }
   },
