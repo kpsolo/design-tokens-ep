@@ -770,15 +770,15 @@
         },
         "secondaty": {
           "background": {
-            "value": "{core.accent.100}",
+            "value": "{core.accent.400}",
             "type": "color"
           },
           "text": {
-            "value": "{core.white.100}",
+            "value": "{core.accent.100}",
             "type": "color"
           },
           "icon": {
-            "value": "{core.white.100}",
+            "value": "{core.accent.100}",
             "type": "color"
           }
         }

@@ -501,7 +501,7 @@
       "contextual.tournaments.segment-control.tab": "S:fb27177e9f4f98974e7f54984e5a8e09609907ef,",
       "contextual.tournaments.segment-control.active": "S:c95511b0b91cf6bb9df11c03069b4daf96fd6fb9,",
       "contextual.tournaments.segment-control.inactive": "S:b44dc7d84152211a4515573c038f2c2248193312,",
-      "contextual.tournaments.background.position": "S:4d41827a6c95d02c1da74a7d50b6cb2f6b4c3186,",
+      "contextual.tournaments.background.position": "S:be6feddf6b83b8e77124ba65064f0a6c55297216,",
       "tournaments.segment-control": "S:a56b171e58402137d2e19bbf4ac22f3080c4a51e,",
       "tournaments.position": "S:2760d8b4ffdde3e43b6e4215b82fdd2e92c869c9,",
       "contextual.rank.my-position.primary.background": "S:85018994254eefe0c7e505d14ac1884436b365a9,",
@@ -632,6 +632,7 @@
       "background-blur.shake-dialog": "0666ac6036d14f181dff45ac47c7c34952891e5e",
       "background-blur.tournaments.segment-control": "94608b2d6b1bb1abf658d0f5fdb58965526d9b29",
       "background-blur.tournaments.timer": "2bf1c566ae509bd6bd1ac733e984636976144aef",
+      "background-blur.balance": "b842b2305b99e1f68bad798d509b9ac7d58a25d6",
       "radio-buttons": "96a79ee25019f31dd9726e7305426a7558f5f90b",
       "checkboxs": "8978dad49a54f4e22302029066bc8afd910e1514",
       "text-fields.default": "b161609c8261d9e6c9953a1c65eb149451647a05",
@@ -665,8 +666,7 @@
       "balance.container": "4548288bf1cc304ea63c709bd10342b00f987b24",
       "balance.button": "4e3e473c5394fc16eb9b46e4bf6781fd09e91cdf",
       "in-games.container": "086bbef9b160f27cf10a1b99daf005610084a7b5",
-      "in-games.button": "18dec2064f0b21aac1f6764d391cac4728e8e011",
-      "background-blur.balance": "b842b2305b99e1f68bad798d509b9ac7d58a25d6"
+      "in-games.button": "18dec2064f0b21aac1f6764d391cac4728e8e011"
     }
   },
   {
@@ -1184,7 +1184,7 @@
       "contextual.statuses.overlay.info.background": "S:ca6bf46cc0f9986228353df599847461b0aab105,",
       "contextual.statuses.overlay.info.text": "S:06fcd0b6c9d673416b1b3f9ad3407bb0ec4166ab,",
       "contextual.statuses.overlay.info.icon": "S:3628e1aebfd2a07d3e8eccb114c0300fbd3d8ca8,",
-      "contextual.tournaments.background.position": "S:a66278100af4aeef1e922a53afbded8ae3367800,"
+      "contextual.tournaments.background.position": "S:8cfb23d423d507cfb474bbf9622b0dc04aa84392,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
