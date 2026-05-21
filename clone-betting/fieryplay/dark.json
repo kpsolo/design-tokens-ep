@@ -1291,10 +1291,6 @@
             "error": {
               "$type": "color",
               "$value": "{color.semantic.intent.danger.primary}"
-            },
-            "success": {
-              "$type": "color",
-              "$value": "{color.semantic.intent.success.primary}"
             }
           },
           "text": {
