@@ -571,6 +571,7 @@
       "color.contextual.input.text-field.border.disabled": "319c793969d42c022d3e7484332f3ce39cfb846a",
       "color.contextual.input.text-field.border.focused": "22675fdae9c491a92409902756ca7ac0a2c75086",
       "color.contextual.input.text-field.border.error": "d93dce086fe59ce785e7859a18aecfa7e30a9c37",
+      "color.contextual.input.text-field.border.success": "98e9bb0417e1a96554c3e32c396b0d36a0337bca",
       "color.contextual.input.text-field.text.value": "76510f9086f62362a098aba669f2d57222535498",
       "color.contextual.input.text-field.text.placeholder": "dfc4c97d29c36b4658addc1e9d7c6914020dab86",
       "color.contextual.input.text-field.text.disabled": "2f099d6a393d5540ed2a57b8ed155e7108542286",
