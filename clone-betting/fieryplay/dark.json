@@ -1725,6 +1725,16 @@
               "$type": "color",
               "$value": "{color.primitives.black.50}"
             }
+          },
+          "tertiary": {
+            "container": {
+              "$type": "color",
+              "$value": "{color.semantic.intent.neutral.tertiary}"
+            },
+            "text": {
+              "$type": "color",
+              "$value": "{color.semantic.intent.neutral.primary}"
+            }
           }
         },
         "chip": {

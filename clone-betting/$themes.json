@@ -740,7 +740,9 @@
       "radius.contextual.data-display.tag.container": "368803c24386528e6c1b5a4bb360a7c2d80c6e5a",
       "background-blur.low": "1d4a9dc65fc7dea9a92d8905bc9a60d904fe6976",
       "background-blur.medium": "27a99751e9457b2003b0cc125250729a1b6f5ba3",
-      "background-blur.high": "e1493e2b1aaf11e8446ef6cc2153fc87548daa3f"
+      "background-blur.high": "e1493e2b1aaf11e8446ef6cc2153fc87548daa3f",
+      "color.contextual.data-display.badge.tertiary.container": "ce512c37f9fe0226a69a2aa6c7d497e2b3368e64",
+      "color.contextual.data-display.badge.tertiary.text": "b8a451bd18b25aea1339c96c70eb946a809c1276"
     }
   }
 ]
