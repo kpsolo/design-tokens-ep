@@ -53,7 +53,7 @@
       "type": "color"
     },
     "E2": {
-      "value": "#5C5C85",
+      "value": "#0D1A45",
       "type": "color"
     },
     "E3": {
@@ -69,15 +69,15 @@
       "type": "color"
     },
     "F3": {
-      "value": "#12011E",
+      "value": "#001029",
       "type": "color"
     },
     "F4": {
-      "value": "#00060F",
+      "value": "#060D22",
       "type": "color"
     },
     "F5": {
-      "value": "#0D274F",
+      "value": "#081E41",
       "type": "color"
     },
     "F6": {
@@ -85,7 +85,7 @@
       "type": "color"
     },
     "F7": {
-      "value": "#001029",
+      "value": "#00060F",
       "type": "color"
     }
   },
