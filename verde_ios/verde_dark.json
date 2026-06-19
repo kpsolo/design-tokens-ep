@@ -947,6 +947,16 @@
             "value": "{core.accent.100}",
             "type": "color"
           }
+        },
+        "text": {
+          "on": {
+            "value": "{core.white.100}",
+            "type": "color"
+          },
+          "off": {
+            "value": "{core.accent.100}",
+            "type": "color"
+          }
         }
       }
     },

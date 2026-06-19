@@ -530,7 +530,9 @@
       "contextual.switch.menu.background.enable": "S:253f68abf79630d9019f288ecc80ff88e441cecf,",
       "contextual.switch.menu.thumb.enable": "S:cb12754e9a2e20d003e8329c68bf5d7fbd1cde8d,",
       "contextual.switch.menu.icon.on": "S:6161b765f31fd2c790e2044656398f97d8d0efc7,",
-      "contextual.switch.menu.icon.off": "S:f2623151922e456444583c896d6c78673c87b224,"
+      "contextual.switch.menu.icon.off": "S:f2623151922e456444583c896d6c78673c87b224,",
+      "contextual.switch.menu.text.on": "S:ca0e09c0c4ca3063a18ddb13d5faf62ee94f6e2f,",
+      "contextual.switch.menu.text.off": "S:7e1889eff69a8dcd50adde19c2382822fd085cc1,"
     },
     "selectedTokenSets": {
       "verde_light": "enabled"
@@ -1192,7 +1194,9 @@
       "contextual.switch.menu.background.enable": "S:ebbab6ee181406610f3eed2a4f3ef6a13fa142a5,",
       "contextual.switch.menu.thumb.enable": "S:0432e8ee5b395f86f5ae2cd866a30b06d6b17efd,",
       "contextual.switch.menu.icon.on": "S:a04da5372e02e277d66747753eb7c56a47340de5,",
-      "contextual.switch.menu.icon.off": "S:f257f6356b8b4a2fd6c0459d3dfc144c435c3518,"
+      "contextual.switch.menu.icon.off": "S:f257f6356b8b4a2fd6c0459d3dfc144c435c3518,",
+      "contextual.switch.menu.text.on": "S:0f3d6b5cb57aad3ce1a9766668a18b2f89e1db43,",
+      "contextual.switch.menu.text.off": "S:4d942fa08911fffbd2ca6ad079efb699fdf5b441,"
     },
     "selectedTokenSets": {
       "verde_dark": "enabled"
