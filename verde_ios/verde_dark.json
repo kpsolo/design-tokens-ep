@@ -924,6 +924,30 @@
             "type": "color"
           }
         }
+      },
+      "menu": {
+        "background": {
+          "enable": {
+            "value": "{core.accent.400}",
+            "type": "color"
+          }
+        },
+        "thumb": {
+          "enable": {
+            "value": "{core.accent.100}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "on": {
+            "value": "{core.white.100}",
+            "type": "color"
+          },
+          "off": {
+            "value": "{core.accent.100}",
+            "type": "color"
+          }
+        }
       }
     },
     "radio": {
