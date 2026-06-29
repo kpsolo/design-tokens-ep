@@ -2426,7 +2426,7 @@
         "snackbar": {
           "container": {
             "$type": "borderRadius",
-            "$value": "{radius.primitives.full}"
+            "$value": "{radius.primitives.500}"
           }
         }
       },
