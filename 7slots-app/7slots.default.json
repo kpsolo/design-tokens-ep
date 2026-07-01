@@ -3262,5 +3262,15 @@
       "value": "{core-radius.16}",
       "type": "borderRadius"
     }
+  },
+  "kyc": {
+    "card": {
+      "value": "{core-radius.24}",
+      "type": "borderRadius"
+    },
+    "surface": {
+      "value": "{core-radius.16}",
+      "type": "borderRadius"
+    }
   }
 }

@@ -598,6 +598,7 @@
       "button.middle": "aab71014cdd93d3a4eb46cb776617c2acbeca704",
       "button.smal": "d8917d1291e24d2d88428512a92ce47a2445cdc4",
       "button.tab-bar": "42c78641d7b560856066781d88d433fee9534702",
+      "button.swipe-wof": "4f1100807b193d21983f8f18f2b66ee920ce238e",
       "buttons.large": "e3b0cc6976003272f6b781acf3f47814b4ef61ef",
       "buttons.medium": "e323842c8c429075693d7bb36085d1e7a723917c",
       "buttons.small": "fae7ded01513c2da0a20d6e33b667d9a66dbab0a",
@@ -633,6 +634,7 @@
       "card.menu": "522c16f13608c729cc575fc9e5ce7a4348c8792f",
       "card.providers": "826700bf88f6ca4e0c246adc77f551d2d52224d2",
       "card.vip-club": "4267a57249b9b867934571f445a6e8004551a1f2",
+      "card.wof": "6caa5214b29371a8ee5fcf361239fd9ddf5b9e48",
       "bonus.card": "c39b0c12f83a9ec0fe57b1ad803416ec2daacf23",
       "bonus.surface": "45a53193efbe35a612f4d3fa4f72353fbc8c55e6",
       "switch.container": "04221f36a8c92b1457479e3765147df23ef19435",
@@ -718,9 +720,9 @@
       "tournaments.surface": "8d3ee4dab0c3d0f7bb04b3420885abb3e341dc82",
       "lottery.card": "806e21261623bdc15e132b9f4824e4247ee875f3",
       "lottery.surface": "83a93a5335e452ca2639d6322d8b83ddb20f6010",
-      "button.swipe-wof": "4f1100807b193d21983f8f18f2b66ee920ce238e",
-      "card.wof": "6caa5214b29371a8ee5fcf361239fd9ddf5b9e48",
-      "wheel-fortune-option": "740ee72e218f9abf7f4a25337cf609ae8a2bef0d"
+      "wheel-fortune-option": "740ee72e218f9abf7f4a25337cf609ae8a2bef0d",
+      "kyc.card": "7f7e05dad36dfb03a24350c64990f582812cd0fc",
+      "kyc.surface": "1c1341379d6d231329e7f1c0744127f6a817562d"
     },
     "$figmaCollectionId": "VariableCollectionId:26281:375",
     "$figmaModeId": "26281:0"
