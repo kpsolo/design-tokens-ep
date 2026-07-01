@@ -1378,7 +1378,9 @@
       "tournaments.card": "f64f277d5fda44ca6868336cb200a10716037c71",
       "tournaments.surface": "c0c26d455c502fa84a6d3e0e67d5ab88ec7a1c6d",
       "lottery.card": "34750bf54e02821f781bda139ca799c0117db10c",
-      "lottery.surface": "b0462773d620a60d60605c1b3d216901f8d25a8f"
+      "lottery.surface": "b0462773d620a60d60605c1b3d216901f8d25a8f",
+      "kyc.card": "f2debcd50abf48798156e52f601533cae7eec457",
+      "kyc.surface": "4bca00e2723b12b6af0e0c7e414fdb31a4204d8e"
     }
   }
 ]
