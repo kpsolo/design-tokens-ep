@@ -2537,6 +2537,10 @@
     "wof": {
       "value": "{core-radius.16}",
       "type": "borderRadius"
+    },
+    "store": {
+      "value": "{core-radius.16}",
+      "type": "borderRadius"
     }
   },
   "bonus": {
