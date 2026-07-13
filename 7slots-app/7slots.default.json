@@ -2541,6 +2541,10 @@
     "store": {
       "value": "{core-radius.16}",
       "type": "borderRadius"
+    },
+    "news": {
+      "value": "{core-radius.16}",
+      "type": "borderRadius"
     }
   },
   "bonus": {
