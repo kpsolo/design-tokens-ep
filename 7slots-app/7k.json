@@ -2565,6 +2565,10 @@
     "news": {
       "value": "{core-radius.16}",
       "type": "borderRadius"
+    },
+    "achievement": {
+      "value": "{core-radius.16}",
+      "type": "borderRadius"
     }
   },
   "bonus": {

@@ -1297,6 +1297,7 @@
       "card.vip-club": "2dcf8bbddb56680fe22c2e654793aa9590ebe690",
       "card.wof": "8b42b1288f10a52fb0b827807cab3d56dc9ac1f1",
       "card.store": "e7cd5b8a49e923f362190066c452f6d2a6ff6a21",
+      "card.news": "717523ff0ff46478c45ee6065f1413ef8930a31d",
       "bonus.card": "f55282d88070b051788192fbe9fafb94ae9a8c01",
       "bonus.surface": "8941f9cda85459215943211d87d8bde74a35de37",
       "switch.container": "674e2b64b91a89a997763b0051f037d152fd2941",
@@ -1384,7 +1385,7 @@
       "lottery.surface": "b0462773d620a60d60605c1b3d216901f8d25a8f",
       "kyc.card": "f2debcd50abf48798156e52f601533cae7eec457",
       "kyc.surface": "4bca00e2723b12b6af0e0c7e414fdb31a4204d8e",
-      "card.news": "717523ff0ff46478c45ee6065f1413ef8930a31d"
+      "card.achievement": "eae5a394b6c83109acd0fa03b454c6f6f6f7c1ac"
     }
   }
 ]
