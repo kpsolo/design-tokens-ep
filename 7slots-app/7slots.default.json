@@ -2781,6 +2781,10 @@
     "value": "{core-radius.12}",
     "type": "borderRadius"
   },
+  "menu-item": {
+    "value": "{core-radius.16}",
+    "type": "borderRadius"
+  },
   "badge": {
     "value": "{core-radius.full}",
     "type": "borderRadius"
@@ -2808,6 +2812,10 @@
   "statuses": {
     "value": "{core-width.0}",
     "type": "borderWidth"
+  },
+  "large-status": {
+    "value": "{core-radius.16}",
+    "type": "borderRadius"
   },
   "bottom-sheet": {
     "value": "{core-radius.32}",
@@ -3284,13 +3292,5 @@
       "value": "{core-radius.16}",
       "type": "borderRadius"
     }
-  },
-  "large-status": {
-    "value": "{core-radius.16}",
-    "type": "borderRadius"
-  },
-  "menu-item": {
-    "value": "{core-radius.16}",
-    "type": "borderRadius"
   }
 }
