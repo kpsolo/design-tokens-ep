@@ -2797,6 +2797,10 @@
     "value": "{core-radius.12}",
     "type": "borderRadius"
   },
+  "menu-item": {
+    "value": "{core-radius.16}",
+    "type": "borderRadius"
+  },
   "badge": {
     "value": "{core-radius.full}",
     "type": "borderRadius"
@@ -2819,6 +2823,10 @@
   },
   "status": {
     "value": "{core-radius.full}",
+    "type": "borderRadius"
+  },
+  "large-status": {
+    "value": "{core-radius.16}",
     "type": "borderRadius"
   },
   "statuses": {

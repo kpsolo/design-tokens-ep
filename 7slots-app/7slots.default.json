@@ -3284,5 +3284,13 @@
       "value": "{core-radius.16}",
       "type": "borderRadius"
     }
+  },
+  "large-status": {
+    "value": "{core-radius.16}",
+    "type": "borderRadius"
+  },
+  "menu-item": {
+    "value": "{core-radius.16}",
+    "type": "borderRadius"
   }
 }
