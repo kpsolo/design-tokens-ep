@@ -3275,6 +3275,10 @@
     "value": "{core-dimension.24}",
     "type": "dimension"
   },
+  "shake-bonus-surface": {
+    "value": "{core-dimension.16}",
+    "type": "dimension"
+  },
   "callout": {
     "value": "{core-radius.16}",
     "type": "borderRadius"

@@ -3292,5 +3292,9 @@
       "value": "{core-radius.16}",
       "type": "borderRadius"
     }
+  },
+  "shake-bonus-surface": {
+    "value": "{core-dimension.16}",
+    "type": "dimension"
   }
 }
