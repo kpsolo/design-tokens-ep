@@ -643,7 +643,7 @@
           "type": "color"
         },
         "dis": {
-          "value": "{base.C3}",
+          "value": "{base.E2}",
           "type": "color"
         }
       },
@@ -671,7 +671,7 @@
           "type": "color"
         },
         "dis": {
-          "value": "{base.C3}",
+          "value": "{base.E2}",
           "type": "color"
         }
       }
@@ -687,7 +687,7 @@
           "type": "color"
         },
         "dis": {
-          "value": "{base.C3}",
+          "value": "{base.E2}",
           "type": "color"
         }
       },
