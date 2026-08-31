@@ -2350,6 +2350,38 @@
           "description": "Used for a disabled border on a dark background"
         }
       }
+    },
+    "xxs": {
+      "value": "{core-radius.4}",
+      "type": "borderRadius"
+    },
+    "xs": {
+      "value": "{core-radius.8}",
+      "type": "borderRadius"
+    },
+    "s": {
+      "value": "{core-radius.12}",
+      "type": "borderRadius"
+    },
+    "m": {
+      "value": "{core-radius.16}",
+      "type": "borderRadius"
+    },
+    "l": {
+      "value": "{core-radius.20}",
+      "type": "borderRadius"
+    },
+    "xl": {
+      "value": "{core-radius.24}",
+      "type": "borderRadius"
+    },
+    "xxl": {
+      "value": "{core-radius.32}",
+      "type": "borderRadius"
+    },
+    "full": {
+      "value": "{core-radius.full}",
+      "type": "borderRadius"
     }
   },
   "button": {
