@@ -3344,5 +3344,27 @@
       "value": "{core-radius.16}",
       "type": "borderRadius"
     }
+  },
+  "semantic-dimension": {
+    "light": {
+      "value": "{core-dimension.4}",
+      "type": "dimension"
+    },
+    "medium": {
+      "value": "{core-dimension.8}",
+      "type": "dimension"
+    },
+    "strong": {
+      "value": "{core-dimension.16}",
+      "type": "dimension"
+    },
+    "heavy": {
+      "value": "{core-dimension.24}",
+      "type": "dimension"
+    },
+    "max": {
+      "value": "{core-dimension.48}",
+      "type": "dimension"
+    }
   }
 }

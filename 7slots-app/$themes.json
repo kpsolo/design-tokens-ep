@@ -1408,7 +1408,12 @@
       "lottery.surface": "b0462773d620a60d60605c1b3d216901f8d25a8f",
       "kyc.card": "f2debcd50abf48798156e52f601533cae7eec457",
       "kyc.surface": "4bca00e2723b12b6af0e0c7e414fdb31a4204d8e",
-      "shake-bonus-surface": "1eb25a8142e009d813d942c92fe0cae33347f476"
+      "shake-bonus-surface": "1eb25a8142e009d813d942c92fe0cae33347f476",
+      "semantic-dimension.light": "db4ffc7c1ba5584f19c3980038011cfe0fde95ca",
+      "semantic-dimension.medium": "cf82633e69e87f7c6df7052f9067953086264816",
+      "semantic-dimension.strong": "791a19903da30815112d275331e895f96f630458",
+      "semantic-dimension.heavy": "159c406438a8dbf371fca3772221e226d1811dd1",
+      "semantic-dimension.max": "6474f92c989e3be65259b3f7e76301d19fdf5c0c"
     }
   }
 ]
