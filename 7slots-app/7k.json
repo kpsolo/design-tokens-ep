@@ -3363,7 +3363,7 @@
       "type": "dimension"
     },
     "max": {
-      "value": "{core-dimension.48}",
+      "value": "{core-dimension.32}",
       "type": "dimension"
     }
   }
