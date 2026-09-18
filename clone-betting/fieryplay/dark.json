@@ -697,11 +697,11 @@
       },
       "static": {
         "white": {
-          "secondary": {
+          "primary": {
             "$type": "color",
             "$value": "{color.primitives.white.50}"
           },
-          "primary": {
+          "secondary": {
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -742,11 +742,11 @@
           }
         },
         "black": {
-          "secondary": {
+          "primary": {
             "$type": "color",
             "$value": "{color.primitives.black.50}"
           },
-          "primary": {
+          "secondary": {
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -2236,7 +2236,7 @@
       },
       "950": {
         "$type": "opacity",
-        "$value": "0.9"
+        "$value": "0.95"
       }
     }
   },
