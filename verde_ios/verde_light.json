@@ -2165,6 +2165,58 @@
           "type": "color"
         }
       }
+    },
+    "xxs": {
+      "value": "{core-radios.100}",
+      "type": "borderRadius"
+    },
+    "xs": {
+      "value": "{core-radios.200}",
+      "type": "borderRadius"
+    },
+    "s": {
+      "value": "{core-radios.300}",
+      "type": "borderRadius"
+    },
+    "m": {
+      "value": "{core-radios.400}",
+      "type": "borderRadius"
+    },
+    "l": {
+      "value": "{core-radios.500}",
+      "type": "borderRadius"
+    },
+    "xl": {
+      "value": "{core-radios.600}",
+      "type": "borderRadius"
+    },
+    "xxl": {
+      "value": "{core-radios.700}",
+      "type": "borderRadius"
+    },
+    "full": {
+      "value": "{core-radios.full}",
+      "type": "borderRadius"
+    },
+    "light": {
+      "value": "2px",
+      "type": "dimension"
+    },
+    "medium": {
+      "value": "8px",
+      "type": "dimension"
+    },
+    "strong": {
+      "value": "12px",
+      "type": "dimension"
+    },
+    "heavy": {
+      "value": "24px",
+      "type": "dimension"
+    },
+    "max": {
+      "value": "32px",
+      "type": "dimension"
     }
   },
   "fontFamilies": {
