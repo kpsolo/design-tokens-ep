@@ -743,36 +743,6 @@
               },
               "label": {
                 "$type": "color",
-                "$value": "{color.primitives.accent.900}"
-              },
-              "icon": {
-                "$type": "color",
-                "$value": "{color.primitives.accent.900}"
-              }
-            },
-            "disabled": {
-              "container": {
-                "$type": "color",
-                "$value": "{color.primitives.accent.900}"
-              },
-              "label": {
-                "$type": "color",
-                "$value": "{color.primitives.accent.800}"
-              },
-              "icon": {
-                "$type": "color",
-                "$value": "{color.primitives.accent.800}"
-              }
-            }
-          },
-          "secondaty": {
-            "enabled": {
-              "container": {
-                "$type": "color",
-                "$value": "{color.primitives.accent.500}"
-              },
-              "label": {
-                "$type": "color",
                 "$value": "{color.primitives.accent.50}"
               },
               "icon": {
@@ -799,7 +769,7 @@
             "enabled": {
               "container": {
                 "$type": "color",
-                "$value": "{color.primitives.neutral_strong.500}"
+                "$value": "{color.primitives.neutral_strong.100}"
               },
               "label": {
                 "$type": "color",
@@ -847,7 +817,7 @@
             "enabled": {
               "border": {
                 "$type": "color",
-                "$value": "{color.primitives.neutral_strong.500}"
+                "$value": "{color.primitives.neutral_strong.50}"
               },
               "label": {
                 "$type": "color",
@@ -861,7 +831,7 @@
             "disabled": {
               "border": {
                 "$type": "color",
-                "$value": "{color.primitives.neutral_strong.600}"
+                "$value": "{color.primitives.neutral_strong.50}"
               },
               "label": {
                 "$extensions": {
@@ -895,15 +865,15 @@
             "enabled": {
               "container": {
                 "$type": "color",
-                "$value": "{color.primitives.neutral_strong.500}"
+                "$value": "{color.primitives.red.800}"
               },
               "label": {
                 "$type": "color",
-                "$value": "{color.primitives.red.500}"
+                "$value": "{color.primitives.red.100}"
               },
               "icon": {
                 "$type": "color",
-                "$value": "{color.primitives.red.500}"
+                "$value": "{color.primitives.red.100}"
               }
             },
             "disabled": {
