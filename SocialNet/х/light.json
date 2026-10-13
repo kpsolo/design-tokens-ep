@@ -571,15 +571,15 @@
         "brand": {
           "primary": {
             "$type": "color",
-            "$value": "{color.primitives.accent.400}"
+            "$value": "{color.primitives.accent.500}"
           },
           "secondary": {
             "$type": "color",
-            "$value": "{color.primitives.accent.700}"
+            "$value": "{color.primitives.accent.300}"
           },
           "tertiary": {
             "$type": "color",
-            "$value": "{color.primitives.accent.900}"
+            "$value": "{color.primitives.accent.200}"
           }
         },
         "success": {
@@ -1005,7 +1005,7 @@
               "on": {
                 "track": {
                   "$type": "color",
-                  "$value": "{color.primitives.green.400}"
+                  "$value": "{color.semantic.intent.brand.primary}"
                 },
                 "knob": {
                   "$type": "color",
@@ -1019,7 +1019,7 @@
               "off": {
                 "track": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_strong.200}"
+                  "$value": "{color.primitives.neutral_strong.100}"
                 },
                 "knob": {
                   "$type": "color",
@@ -1027,7 +1027,7 @@
                 },
                 "ax-label": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_strong.100}"
+                  "$value": "{color.primitives.neutral_soft.50}"
                 }
               }
             },
@@ -1035,29 +1035,29 @@
               "on": {
                 "track": {
                   "$type": "color",
-                  "$value": "{color.primitives.green.900}"
+                  "$value": "{color.primitives.neutral_soft.400}"
                 },
                 "knob": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_strong.100}"
+                  "$value": "{color.primitives.neutral_soft.50}"
                 },
                 "ax-label": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_strong.100}"
+                  "$value": "{color.primitives.neutral_soft.50}"
                 }
               },
               "off": {
                 "track": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_strong.500}"
+                  "$value": "{color.primitives.neutral_soft.400}"
                 },
                 "knob": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_strong.200}"
+                  "$value": "{color.primitives.neutral_soft.50}"
                 },
                 "ax-label": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_strong.200}"
+                  "$value": "{color.primitives.neutral_soft.50}"
                 }
               }
             }
@@ -1170,7 +1170,7 @@
           },
           "separator": {
             "$type": "color",
-            "$value": "{color.semantic.intent.accent.primary}"
+            "$value": "{color.semantic.intent.brand.primary}"
           },
           "text": {
             "placeholder": {
@@ -1196,7 +1196,7 @@
         "text-field": {
           "separator": {
             "$type": "color",
-            "$value": "{color.semantic.intent.accent.primary}"
+            "$value": "{color.semantic.intent.brand.primary}"
           },
           "border": {
             "enabled": {
@@ -1209,7 +1209,7 @@
             },
             "focused": {
               "$type": "color",
-              "$value": "{color.semantic.intent.accent.primary}"
+              "$value": "{color.semantic.intent.brand.primary}"
             },
             "error": {
               "$type": "color",
