@@ -753,15 +753,15 @@
             "disabled": {
               "container": {
                 "$type": "color",
-                "$value": "{color.primitives.accent.50}"
+                "$value": "{color.primitives.accent.200}"
               },
               "label": {
                 "$type": "color",
-                "$value": "{color.primitives.accent.200}"
+                "$value": "{color.primitives.accent.50}"
               },
               "icon": {
                 "$type": "color",
-                "$value": "{color.primitives.accent.200}"
+                "$value": "{color.primitives.accent.50}"
               }
             }
           },
@@ -1372,7 +1372,7 @@
               "disabled": {
                 "container": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_soft.500}"
+                  "$value": "{color.primitives.neutral_soft.600}"
                 },
                 "label": {
                   "$extensions": {
@@ -1421,13 +1421,13 @@
           },
           "items": {
             "$type": "color",
-            "$value": "{color.contextual.controls.button.secondaty.enabled.container}"
+            "$value": "{color.primitives.neutral_strong.50}"
           }
         },
         "page-control": {
           "container": {
             "$type": "color",
-            "$value": "{color.contextual.navigation.toolbar.button.text.enabled.container}"
+            "$value": "{color.primitives.neutral_soft.900}"
           },
           "dots": {
             "selected": {
