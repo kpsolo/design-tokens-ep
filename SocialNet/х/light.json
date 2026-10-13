@@ -1019,7 +1019,7 @@
               "off": {
                 "track": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_strong.100}"
+                  "$value": "{color.primitives.neutral_strong.200}"
                 },
                 "knob": {
                   "$type": "color",
@@ -1035,29 +1035,29 @@
               "on": {
                 "track": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_soft.400}"
+                  "$value": "{color.primitives.accent.200}"
                 },
                 "knob": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_soft.50}"
+                  "$value": "{color.primitives.neutral_soft.200}"
                 },
                 "ax-label": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_soft.50}"
+                  "$value": "{color.primitives.neutral_soft.200}"
                 }
               },
               "off": {
                 "track": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_soft.400}"
+                  "$value": "{color.primitives.neutral_soft.700}"
                 },
                 "knob": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_soft.50}"
+                  "$value": "{color.primitives.neutral_soft.200}"
                 },
                 "ax-label": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_soft.50}"
+                  "$value": "{color.primitives.neutral_soft.200}"
                 }
               }
             }
@@ -1085,17 +1085,17 @@
               "selected": {
                 "container": {
                   "$type": "color",
-                  "$value": "{color.primitives.accent.900}"
+                  "$value": "{color.primitives.accent.200}"
                 },
                 "ball": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_strong.100}"
+                  "$value": "{color.primitives.neutral_soft.200}"
                 }
               },
               "unselected": {
                 "container": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_strong.500}"
+                  "$value": "{color.primitives.neutral_soft.700}"
                 }
               }
             }
@@ -1123,17 +1123,17 @@
               "checked": {
                 "background": {
                   "$type": "color",
-                  "$value": "{color.primitives.accent.900}"
+                  "$value": "{color.primitives.accent.200}"
                 },
                 "checkmark": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_strong.100}"
+                  "$value": "{color.primitives.neutral_soft.200}"
                 }
               },
               "unchecked": {
                 "background": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_strong.500}"
+                  "$value": "{color.primitives.neutral_soft.700}"
                 }
               }
             }
