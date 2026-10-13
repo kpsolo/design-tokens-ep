@@ -280,127 +280,127 @@
       "green": {
         "50": {
           "$type": "color",
-          "$value": "rgba(223, 252, 240, 1)"
+          "$value": "rgba(240, 251, 246, 1)"
         },
         "100": {
           "$type": "color",
-          "$value": "rgba(186, 243, 219, 1)"
+          "$value": "rgba(224, 246, 237, 1)"
         },
         "200": {
           "$type": "color",
-          "$value": "rgba(126, 226, 184, 1)"
+          "$value": "rgba(184, 235, 214, 1)"
         },
         "300": {
           "$type": "color",
-          "$value": "rgba(75, 206, 151, 1)"
+          "$value": "rgba(133, 221, 184, 1)"
         },
         "400": {
           "$type": "color",
-          "$value": "rgba(42, 187, 127, 1)"
+          "$value": "rgba(71, 204, 148, 1)"
         },
         "500": {
           "$type": "color",
-          "$value": "rgba(34, 160, 107, 1)"
+          "$value": "rgba(0, 184, 107, 1)"
         },
         "600": {
           "$type": "color",
-          "$value": "rgba(31, 132, 90, 1)"
+          "$value": "rgba(0, 147, 86, 1)"
         },
         "700": {
           "$type": "color",
-          "$value": "rgba(33, 110, 78, 1)"
+          "$value": "rgba(0, 110, 64, 1)"
         },
         "800": {
           "$type": "color",
-          "$value": "rgba(22, 75, 53, 1)"
+          "$value": "rgba(0, 74, 43, 1)"
         },
         "900": {
           "$type": "color",
-          "$value": "rgba(19, 53, 39, 1)"
+          "$value": "rgba(0, 42, 25, 1)"
         }
       },
       "yellow": {
         "50": {
           "$type": "color",
-          "$value": "rgba(255, 247, 214, 1)"
+          "$value": "rgba(255, 252, 240, 1)"
         },
         "100": {
           "$type": "color",
-          "$value": "rgba(255, 230, 160, 1)"
+          "$value": "rgba(255, 249, 224, 1)"
         },
         "200": {
           "$type": "color",
-          "$value": "rgba(255, 205, 71, 1)"
+          "$value": "rgba(255, 241, 184, 1)"
         },
         "300": {
           "$type": "color",
-          "$value": "rgba(226, 178, 3, 1)"
+          "$value": "rgba(255, 231, 133, 1)"
         },
         "400": {
           "$type": "color",
-          "$value": "rgba(207, 159, 2, 1)"
+          "$value": "rgba(255, 218, 71, 1)"
         },
         "500": {
           "$type": "color",
-          "$value": "rgba(179, 134, 0, 1)"
+          "$value": "rgba(255, 204, 0, 1)"
         },
         "600": {
           "$type": "color",
-          "$value": "rgba(148, 111, 0, 1)"
+          "$value": "rgba(204, 163, 0, 1)"
         },
         "700": {
           "$type": "color",
-          "$value": "rgba(127, 95, 1, 1)"
+          "$value": "rgba(153, 122, 0, 1)"
         },
         "800": {
           "$type": "color",
-          "$value": "rgba(83, 63, 4, 1)"
+          "$value": "rgba(102, 82, 0, 1)"
         },
         "900": {
           "$type": "color",
-          "$value": "rgba(61, 46, 0, 1)"
+          "$value": "rgba(59, 47, 0, 1)"
         }
       },
       "red": {
         "50": {
           "$type": "color",
-          "$value": "rgba(255, 237, 235, 1)"
+          "$value": "rgba(255, 243, 243, 1)"
         },
         "100": {
           "$type": "color",
-          "$value": "rgba(255, 210, 204, 1)"
+          "$value": "rgba(255, 231, 230, 1)"
         },
         "200": {
           "$type": "color",
-          "$value": "rgba(255, 142, 128, 1)"
+          "$value": "rgba(255, 200, 197, 1)"
         },
         "300": {
           "$type": "color",
-          "$value": "rgba(248, 95, 74, 1)"
+          "$value": "rgba(255, 161, 156, 1)"
         },
         "400": {
           "$type": "color",
-          "$value": "rgba(239, 71, 48, 1)"
+          "$value": "rgba(255, 114, 106, 1)"
         },
         "500": {
           "$type": "color",
-          "$value": "rgba(229, 46, 23, 1)"
+          "$value": "rgba(255, 59, 48, 1)"
         },
         "600": {
           "$type": "color",
-          "$value": "rgba(204, 42, 20, 1)"
+          "$value": "rgba(204, 47, 38, 1)"
         },
         "700": {
           "$type": "color",
-          "$value": "rgba(174, 42, 25, 1)"
+          "$value": "rgba(153, 35, 29, 1)"
         },
         "800": {
           "$type": "color",
-          "$value": "rgba(96, 30, 22, 1)"
+          "$value": "rgba(102, 24, 19, 1)"
         },
         "900": {
           "$type": "color",
-          "$value": "rgba(57, 24, 19, 1)"
+          "$value": "rgba(59, 14, 11, 1)"
         }
       },
       "black": {
