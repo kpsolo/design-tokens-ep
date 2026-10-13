@@ -589,11 +589,11 @@
           },
           "secondary": {
             "$type": "color",
-            "$value": "{color.primitives.green.700}"
+            "$value": "{color.primitives.green.300}"
           },
           "tertiary": {
             "$type": "color",
-            "$value": "{color.primitives.green.900}"
+            "$value": "{color.primitives.green.100}"
           }
         },
         "warning": {
@@ -603,11 +603,11 @@
           },
           "secondary": {
             "$type": "color",
-            "$value": "{color.primitives.yellow.700}"
+            "$value": "{color.primitives.yellow.300}"
           },
           "tertiary": {
             "$type": "color",
-            "$value": "{color.primitives.yellow.900}"
+            "$value": "{color.primitives.yellow.100}"
           }
         },
         "danger": {
@@ -617,11 +617,11 @@
           },
           "secondary": {
             "$type": "color",
-            "$value": "{color.primitives.red.700}"
+            "$value": "{color.primitives.red.300}"
           },
           "tertiary": {
             "$type": "color",
-            "$value": "{color.primitives.red.900}"
+            "$value": "{color.primitives.red.100}"
           }
         },
         "neutral": {
@@ -1637,11 +1637,11 @@
           "brand": {
             "container": {
               "$type": "color",
-              "$value": "{color.semantic.intent.accent.primary}"
+              "$value": "{color.semantic.intent.brand.tertiary}"
             },
             "text": {
               "$type": "color",
-              "$value": "{color.primitives.black.50}"
+              "$value": "{color.semantic.intent.brand.primary}"
             }
           },
           "tertiary": {
