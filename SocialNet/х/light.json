@@ -585,7 +585,7 @@
         "success": {
           "primary": {
             "$type": "color",
-            "$value": "{color.primitives.green.400}"
+            "$value": "{color.primitives.green.500}"
           },
           "secondary": {
             "$type": "color",
@@ -593,13 +593,13 @@
           },
           "tertiary": {
             "$type": "color",
-            "$value": "{color.primitives.green.100}"
+            "$value": "{color.primitives.green.200}"
           }
         },
         "warning": {
           "primary": {
             "$type": "color",
-            "$value": "{color.primitives.yellow.300}"
+            "$value": "{color.primitives.yellow.500}"
           },
           "secondary": {
             "$type": "color",
@@ -613,7 +613,7 @@
         "danger": {
           "primary": {
             "$type": "color",
-            "$value": "{color.primitives.red.400}"
+            "$value": "{color.primitives.red.500}"
           },
           "secondary": {
             "$type": "color",
@@ -621,7 +621,7 @@
           },
           "tertiary": {
             "$type": "color",
-            "$value": "{color.primitives.red.100}"
+            "$value": "{color.primitives.red.200}"
           }
         },
         "neutral": {
