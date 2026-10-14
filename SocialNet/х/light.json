@@ -1143,21 +1143,21 @@
           "enabled": {
             "container": {
               "$type": "color",
-              "$value": "{color.contextual.controls.button.secondaty.enabled.container}"
+              "$value": "{color.contextual.controls.button.neutral.enabled.container}"
             },
             "icon": {
               "$type": "color",
-              "$value": "{color.contextual.controls.button.secondaty.enabled.icon}"
+              "$value": "{color.contextual.controls.button.neutral.enabled.icon}"
             }
           },
           "disabled": {
             "container": {
               "$type": "color",
-              "$value": "{color.contextual.controls.button.secondaty.disabled.container}"
+              "$value": "{color.contextual.controls.button.neutral.disabled.container}"
             },
             "icon": {
               "$type": "color",
-              "$value": "{color.contextual.controls.button.secondaty.disabled.icon}"
+              "$value": "{color.contextual.controls.button.neutral.disabled.icon}"
             }
           }
         }
