@@ -424,11 +424,11 @@
         },
         "secondary": {
           "$type": "color",
-          "$value": "{color.primitives.neutral_soft.300}"
+          "$value": "{color.primitives.white.50}"
         },
         "tertiary": {
           "$type": "color",
-          "$value": "{color.primitives.neutral_soft.500}"
+          "$value": "{color.primitives.neutral_soft.400}"
         }
       },
       "surface": {
@@ -438,11 +438,11 @@
         },
         "secondary": {
           "$type": "color",
-          "$value": "{color.primitives.neutral_soft.50}"
+          "$value": "{color.primitives.neutral_soft.400}"
         },
         "tertiary": {
           "$type": "color",
-          "$value": "{color.primitives.neutral_soft.100}"
+          "$value": "{color.primitives.white.50}"
         }
       },
       "overlay": {
@@ -579,7 +579,7 @@
           },
           "tertiary": {
             "$type": "color",
-            "$value": "{color.primitives.accent.200}"
+            "$value": "{color.primitives.accent.100}"
           }
         },
         "success": {
@@ -593,7 +593,7 @@
           },
           "tertiary": {
             "$type": "color",
-            "$value": "{color.primitives.green.200}"
+            "$value": "{color.primitives.green.100}"
           }
         },
         "warning": {
@@ -621,21 +621,21 @@
           },
           "tertiary": {
             "$type": "color",
-            "$value": "{color.primitives.red.200}"
+            "$value": "{color.primitives.red.100}"
           }
         },
         "neutral": {
           "primary": {
             "$type": "color",
-            "$value": "{color.primitives.neutral_soft.50}"
+            "$value": "{color.primitives.neutral_strong.900}"
           },
           "secondary": {
             "$type": "color",
-            "$value": "{color.primitives.neutral_soft.900}"
+            "$value": "{color.primitives.neutral_strong.500}"
           },
           "tertiary": {
             "$type": "color",
-            "$value": "{color.primitives.neutral_strong.200}"
+            "$value": "{color.primitives.neutral_soft.900}"
           }
         }
       },
@@ -783,7 +783,7 @@
             "disabled": {
               "container": {
                 "$type": "color",
-                "$value": "{color.primitives.neutral_soft.600}"
+                "$value": "{color.primitives.neutral_soft.500}"
               },
               "label": {
                 "$extensions": {
@@ -1005,7 +1005,7 @@
               "on": {
                 "track": {
                   "$type": "color",
-                  "$value": "{color.semantic.intent.brand.primary}"
+                  "$value": "{color.primitives.accent.500}"
                 },
                 "knob": {
                   "$type": "color",
@@ -1027,7 +1027,7 @@
                 },
                 "ax-label": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_soft.50}"
+                  "$value": "{color.primitives.neutral_soft.900}"
                 }
               }
             },
@@ -1250,28 +1250,28 @@
             "selected": {
               "container": {
                 "$type": "color",
-                "$value": "{color.contextual.controls.button.secondaty.enabled.container}"
+                "$value": "{color.primitives.neutral_soft.500}"
               },
               "label": {
                 "$type": "color",
-                "$value": "{color.semantic.intent.accent.primary}"
+                "$value": "{color.primitives.accent.500}"
               }
             },
             "unselected": {
               "container": {
                 "$type": "color",
-                "$value": "{color.contextual.controls.button.secondaty.enabled.container}"
+                "$value": "{color.primitives.neutral_soft.500}"
               },
               "label": {
                 "$type": "color",
-                "$value": "{color.primitives.white.50}"
+                "$value": "{color.primitives.neutral_strong.900}"
               }
             }
           },
           "wheels": {
             "selection": {
               "$type": "color",
-              "$value": "{color.contextual.controls.button.secondaty.disabled.container}"
+              "$value": "{color.contextual.controls.button.neutral.disabled.container}"
             },
             "text": {
               "$type": "color",
@@ -1513,7 +1513,7 @@
         "alert": {
           "container": {
             "$type": "color",
-            "$value": "{color.semantic.background.tertiary}"
+            "$value": "{color.semantic.background.secondary}"
           }
         },
         "progress": {
@@ -1579,7 +1579,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{color.primitives.neutral_strong.200}"
+              "$value": "{color.primitives.neutral_strong.50}"
             },
             "icon": {
               "$extensions": {
@@ -1608,7 +1608,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "{opacity.primitives.300}",
+                  "value": "{opacity.primitives.200}",
                   "space": "lch"
                 }
               }
@@ -1627,31 +1627,31 @@
           "default": {
             "container": {
               "$type": "color",
-              "$value": "{color.semantic.intent.danger.primary}"
+              "$value": "{color.primitives.red.500}"
             },
             "text": {
               "$type": "color",
-              "$value": "{color.primitives.white.50}"
+              "$value": "{color.primitives.red.50}"
             }
           },
           "brand": {
             "container": {
               "$type": "color",
-              "$value": "{color.semantic.intent.brand.tertiary}"
+              "$value": "{color.primitives.accent.200}"
             },
             "text": {
               "$type": "color",
-              "$value": "{color.semantic.intent.brand.primary}"
+              "$value": "{color.primitives.accent.500}"
             }
           },
           "tertiary": {
             "container": {
               "$type": "color",
-              "$value": "{color.semantic.intent.neutral.tertiary}"
+              "$value": "{color.primitives.neutral_strong.600}"
             },
             "text": {
               "$type": "color",
-              "$value": "{color.semantic.intent.neutral.primary}"
+              "$value": "{color.primitives.white.50}"
             }
           }
         },
@@ -1718,20 +1718,6 @@
           }
         },
         "status": {
-          "accent": {
-            "container": {
-              "$type": "color",
-              "$value": "{color.semantic.intent.accent.tertiary}"
-            },
-            "label": {
-              "$type": "color",
-              "$value": "{color.semantic.intent.accent.primary}"
-            },
-            "icon": {
-              "$type": "color",
-              "$value": "{color.semantic.intent.accent.primary}"
-            }
-          },
           "brand": {
             "container": {
               "$type": "color",
@@ -1753,11 +1739,11 @@
             },
             "label": {
               "$type": "color",
-              "$value": "{color.primitives.white.50}"
+              "$value": "{color.semantic.intent.neutral.primary}"
             },
             "icon": {
               "$type": "color",
-              "$value": "{color.primitives.white.50}"
+              "$value": "{color.semantic.intent.neutral.primary}"
             }
           },
           "success": {
