@@ -154,7 +154,8 @@
       "accent": {
         "50": {
           "$type": "color",
-          "$value": "rgba(240, 248, 255, 1)"
+          "$value": "rgba(240, 248, 255, 1)",
+          "$description": "test"
         },
         "100": {
           "$type": "color",
