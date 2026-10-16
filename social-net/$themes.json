@@ -4,19 +4,19 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "SocialNet/light": "enabled"
+      "brand/light": "enabled"
     },
     "$figmaVariableReferences": {},
-    "group": "SocialNet"
+    "group": "brand"
   },
   {
     "id": "dced6623c768aea891adc7f362bc8994d098cd91",
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "SocialNet/dark": "enabled"
+      "brand/dark": "enabled"
     },
     "$figmaVariableReferences": {},
-    "group": "SocialNet"
+    "group": "brand"
   }
 ]
