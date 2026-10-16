@@ -4,16 +4,16 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "х/light": "enabled"
+      "SocialNet/light": "enabled"
     },
     "$figmaVariableReferences": {},
-    "group": "fieryplay"
+    "group": "socialnet"
   },
   {
     "id": "177183bb39f712da3b36fc7ed9c05dfc037a2034",
     "name": "dark",
     "selectedTokenSets": {
-      "х/dark": "enabled"
+      "SocialNet/dark": "enabled"
     },
     "$figmaStyleReferences": {
       "text_styles.headline.large": "S:27cd41d6886ab67d34be68dc2b46db8192de3fd8,",
@@ -737,6 +737,6 @@
     },
     "$figmaCollectionId": "VariableCollectionId:588:16212",
     "$figmaModeId": "588:73",
-    "group": "fieryplay"
+    "group": "socialnet"
   }
 ]
