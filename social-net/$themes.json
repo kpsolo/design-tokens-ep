@@ -5,7 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {},
     "$figmaVariableReferences": {},
-    "group": "socialnet"
+    "group": "SocialNet"
   },
   {
     "id": "177183bb39f712da3b36fc7ed9c05dfc037a2034",
@@ -733,6 +733,6 @@
     },
     "$figmaCollectionId": "VariableCollectionId:588:16212",
     "$figmaModeId": "588:73",
-    "group": "fieryplay"
+    "group": "SocialNet"
   }
 ]
