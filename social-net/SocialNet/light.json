@@ -155,7 +155,7 @@
         "50": {
           "$type": "color",
           "$value": "rgba(240, 248, 255, 1)",
-          "$description": "test 1"
+          "$description": "test 2"
         },
         "100": {
           "$type": "color",
