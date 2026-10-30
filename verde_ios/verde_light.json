@@ -1799,7 +1799,7 @@
     "tournaments": {
       "background": {
         "enable": {
-          "value": "linear-gradient(180deg, rgb(1, 157, 58) 0%, rgb(5, 74, 32) 100%)",
+          "value": "{core.gradients.100}",
           "type": "color"
         },
         "disable": {
@@ -1807,7 +1807,7 @@
           "type": "color"
         },
         "position": {
-          "value": "linear-gradient(136deg, rgba(2, 138, 78, 1) 0%, rgba(155, 209, 2, 1) 100%)",
+          "value": "{core.gradients.200}",
           "type": "color"
         }
       },
@@ -1848,11 +1848,11 @@
         },
         "secondary": {
           "background": {
-            "value": "linear-gradient(136deg, rgba(2, 138, 78, 1) 0%, rgba(155, 209, 2, 1) 100%)",
+            "value": "{core.gradients.200}",
             "type": "color"
           },
           "border": {
-            "value": "linear-gradient(136deg, rgba(2, 138, 78, 1) 0%, rgba(155, 209, 2, 1) 100%)",
+            "value": "{core.gradients.200}",
             "type": "color"
           },
           "text": {
@@ -2034,7 +2034,7 @@
         "type": "color"
       },
       "winning": {
-        "value": "linear-gradient(136deg, rgba(2, 138, 78, 1) 0%, rgba(155, 209, 2, 1) 100%)",
+        "value": "{core.gradients.200}",
         "type": "color"
       },
       "overlay": {
