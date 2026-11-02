@@ -27,9 +27,9 @@
       "text_styles.label.medium_emphasized": "S:2af5669b14f7ccab21b447a1f31ff0b182360803,",
       "text_styles.label.small": "S:80140a37e4dd87b69c9a712d5c14d5dc008dac59,",
       "text_styles.label.small_emphasized": "S:923d24091e09ea50bcdb872426d7f3f9b810758c,",
-      "shadow.low": "S:004da2fbbe0ba2720848441725f0d78b8f621fbb,",
-      "shadow.medium": "S:5ee6ee3f479856cf3e230311bf281f8774872f81,",
-      "shadow.high": "S:dc042151e699194ae9279d486c3ea6a049488007,"
+      "shadow.low": "S:aef5a7545e210200a860e6c356415ef5940e349d,",
+      "shadow.medium": "S:231271a7650c07389637127ee909887b8eadc753,",
+      "shadow.high": "S:2eeda56f0b7c6c6b53ffd003089ec427441ff2aa,"
     },
     "selectedTokenSets": {
       "brand/light": "enabled"
@@ -444,9 +444,9 @@
       "text_styles.label.medium_emphasized": "S:2af5669b14f7ccab21b447a1f31ff0b182360803,",
       "text_styles.label.small": "S:80140a37e4dd87b69c9a712d5c14d5dc008dac59,",
       "text_styles.label.small_emphasized": "S:923d24091e09ea50bcdb872426d7f3f9b810758c,",
-      "shadow.low": "S:004da2fbbe0ba2720848441725f0d78b8f621fbb,",
-      "shadow.medium": "S:5ee6ee3f479856cf3e230311bf281f8774872f81,",
-      "shadow.high": "S:dc042151e699194ae9279d486c3ea6a049488007,"
+      "shadow.low": "S:aef5a7545e210200a860e6c356415ef5940e349d,",
+      "shadow.medium": "S:231271a7650c07389637127ee909887b8eadc753,",
+      "shadow.high": "S:2eeda56f0b7c6c6b53ffd003089ec427441ff2aa,"
     },
     "selectedTokenSets": {
       "brand/dark": "enabled"
