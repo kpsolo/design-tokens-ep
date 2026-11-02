@@ -1421,6 +1421,15 @@
             "$value": "{color.semantic.surface.tertiary}"
           },
           "items": {
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{opacity.primitives.500}",
+                  "space": "lch"
+                }
+              }
+            },
             "$type": "color",
             "$value": "{color.primitives.neutral_strong.50}"
           }
@@ -1674,21 +1683,21 @@
           "unselected": {
             "container": {
               "$type": "color",
-              "$value": "{color.primitives.neutral_strong.500}"
+              "$value": "{color.primitives.white.50}"
             },
             "label": {
               "$type": "color",
-              "$value": "{color.primitives.white.50}"
+              "$value": "{color.semantic.text.primary}"
             },
             "icon": {
               "$type": "color",
-              "$value": "{color.primitives.white.50}"
+              "$value": "{color.semantic.text.primary}"
             }
           },
           "disabled": {
             "container": {
               "$type": "color",
-              "$value": "{color.primitives.neutral_strong.600}"
+              "$value": "{color.primitives.white.50}"
             },
             "label": {
               "$extensions": {
@@ -1701,7 +1710,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{color.primitives.white.50}"
+              "$value": "{color.semantic.text.primary}"
             },
             "icon": {
               "$extensions": {
@@ -1714,7 +1723,7 @@
                 }
               },
               "$type": "color",
-              "$value": "{color.primitives.white.50}"
+              "$value": "{color.semantic.text.primary}"
             }
           }
         },
