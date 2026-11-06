@@ -971,6 +971,32 @@
               },
               "$type": "color",
               "$value": "{color.primitives.black.50}"
+            },
+            "focus": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "{opacity.primitives.100}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{color.primitives.black.50}"
+            },
+            "pressed": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "{opacity.primitives.100}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{color.primitives.black.50}"
             }
           }
         },
