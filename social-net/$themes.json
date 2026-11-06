@@ -410,7 +410,10 @@
       "radius.contextual.data-display.tag.container": "6605ddd927fd0fa2529263ebf6b1d369128452d0",
       "background-blur.low": "fffa4245744adf48f95297e1ceb36772e30e9930",
       "background-blur.medium": "3f50b59f9504f3c5c81bface5017f7d60f36538b",
-      "background-blur.high": "18ea3bc65a2794bf249fa6a948b2d501253d915b"
+      "background-blur.high": "18ea3bc65a2794bf249fa6a948b2d501253d915b",
+      "color.contextual.controls.button.state-layer.hover": "972627397e4a475256be3b863f04ec016e9a5793",
+      "color.contextual.controls.button.state-layer.focus": "e4eacf560ee53df4541e6dfc409ab5e442628320",
+      "color.contextual.controls.button.state-layer.pressed": "c59f7fb9d99acf3b2d0bf1eea5696c9515ebf563"
     },
     "group": "brand",
     "$figmaCollectionId": "VariableCollectionId:219:13310",
@@ -827,7 +830,10 @@
       "radius.contextual.data-display.tag.container": "6605ddd927fd0fa2529263ebf6b1d369128452d0",
       "background-blur.low": "fffa4245744adf48f95297e1ceb36772e30e9930",
       "background-blur.medium": "3f50b59f9504f3c5c81bface5017f7d60f36538b",
-      "background-blur.high": "18ea3bc65a2794bf249fa6a948b2d501253d915b"
+      "background-blur.high": "18ea3bc65a2794bf249fa6a948b2d501253d915b",
+      "color.contextual.controls.button.state-layer.hover": "972627397e4a475256be3b863f04ec016e9a5793",
+      "color.contextual.controls.button.state-layer.focus": "e4eacf560ee53df4541e6dfc409ab5e442628320",
+      "color.contextual.controls.button.state-layer.pressed": "c59f7fb9d99acf3b2d0bf1eea5696c9515ebf563"
     },
     "group": "brand",
     "$figmaCollectionId": "VariableCollectionId:219:13310",
