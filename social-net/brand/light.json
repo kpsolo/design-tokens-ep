@@ -957,6 +957,21 @@
                 "$value": "{color.primitives.black.50}"
               }
             }
+          },
+          "state-layer": {
+            "hover": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "{opacity.primitives.100}",
+                    "space": "lch"
+                  }
+                }
+              },
+              "$type": "color",
+              "$value": "{color.primitives.black.50}"
+            }
           }
         },
         "segmented": {
