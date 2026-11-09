@@ -880,7 +880,7 @@
             "disabled": {
               "container": {
                 "$type": "color",
-                "$value": "{color.primitives.neutral_soft.600}"
+                "$value": "{color.primitives.neutral_soft.500}"
               },
               "label": {
                 "$extensions": {
@@ -928,7 +928,7 @@
             "disabled": {
               "container": {
                 "$type": "color",
-                "$value": "{color.primitives.neutral_soft.600}"
+                "$value": "{color.primitives.neutral_soft.500}"
               },
               "label": {
                 "$extensions": {
