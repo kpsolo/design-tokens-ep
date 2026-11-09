@@ -832,7 +832,7 @@
             "disabled": {
               "border": {
                 "$type": "color",
-                "$value": "{color.primitives.neutral_strong.500}"
+                "$value": "{color.primitives.neutral_soft.600}"
               },
               "label": {
                 "$extensions": {

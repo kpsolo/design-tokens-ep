@@ -927,7 +927,7 @@
             "disabled": {
               "container": {
                 "$type": "color",
-                "$value": "{color.primitives.neutral_strong.600}"
+                "$value": "{color.primitives.neutral_strong.50}"
               },
               "label": {
                 "$extensions": {
