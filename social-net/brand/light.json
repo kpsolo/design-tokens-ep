@@ -1575,7 +1575,7 @@
             },
             "neutral": {
               "$type": "color",
-              "$value": "{color.primitives.white.50}"
+              "$value": "{color.primitives.neutral_soft.400}"
             }
           },
           "bar": {
@@ -1595,7 +1595,7 @@
                   }
                 },
                 "$type": "color",
-                "$value": "{color.primitives.white.50}"
+                "$value": "{color.primitives.accent.100}"
               }
             },
             "neutral": {
@@ -1614,7 +1614,7 @@
                   }
                 },
                 "$type": "color",
-                "$value": "{color.primitives.white.50}"
+                "$value": "{color.primitives.neutral_soft.200}"
               }
             }
           },
