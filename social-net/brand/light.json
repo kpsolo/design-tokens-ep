@@ -1595,13 +1595,13 @@
                   }
                 },
                 "$type": "color",
-                "$value": "{color.primitives.accent.100}"
+                "$value": "{color.primitives.neutral_strong.400}"
               }
             },
             "neutral": {
               "filled": {
                 "$type": "color",
-                "$value": "{color.primitives.white.50}"
+                "$value": "{color.primitives.accent.900}"
               },
               "track": {
                 "$extensions": {
@@ -1614,7 +1614,7 @@
                   }
                 },
                 "$type": "color",
-                "$value": "{color.primitives.neutral_soft.200}"
+                "$value": "{color.primitives.neutral_strong.400}"
               }
             }
           },
