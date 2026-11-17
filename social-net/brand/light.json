@@ -1575,7 +1575,7 @@
             },
             "neutral": {
               "$type": "color",
-              "$value": "{color.primitives.neutral_soft.400}"
+              "$value": "{color.primitives.neutral_strong.100}"
             }
           },
           "bar": {
