@@ -730,6 +730,51 @@
             "$value": "{color.primitives.black.50}"
           }
         }
+      },
+      "state-layer": {
+        "hover": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.08",
+                "space": "lch"
+              }
+            }
+          },
+          "$type": "color",
+          "$value": "{color.primitives.white.50}"
+        },
+        "focus": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "lch"
+              }
+            }
+          },
+          "$type": "color",
+          "$value": "{color.primitives.white.50}"
+        },
+        "pressed": {
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "lch"
+              }
+            }
+          },
+          "$type": "color",
+          "$value": "{color.primitives.white.50}"
+        },
+        "focus_indicator": {
+          "$type": "color",
+          "$value": "{color.primitives.accent.200}"
+        }
       }
     },
     "contextual": {
@@ -955,47 +1000,6 @@
                 "$type": "color",
                 "$value": "{color.primitives.white.50}"
               }
-            }
-          },
-          "state-layer": {
-            "hover": {
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "alpha",
-                    "value": "{opacity.primitives.100}",
-                    "space": "lch"
-                  }
-                }
-              },
-              "$type": "color",
-              "$value": "{color.primitives.black.50}"
-            },
-            "focus": {
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "alpha",
-                    "value": "{opacity.primitives.100}",
-                    "space": "lch"
-                  }
-                }
-              },
-              "$type": "color",
-              "$value": "{color.primitives.black.50}"
-            },
-            "pressed": {
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "alpha",
-                    "value": "{opacity.primitives.100}",
-                    "space": "lch"
-                  }
-                }
-              },
-              "$type": "color",
-              "$value": "{color.primitives.black.50}"
             }
           }
         },
