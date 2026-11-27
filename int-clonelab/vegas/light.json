@@ -562,7 +562,7 @@
         },
         "secondary": {
           "$type": "color",
-          "$value": "{color.primitives.neutral_soft.900}"
+          "$value": "{color.primitives.neutral_strong.50}"
         },
         "tertiary": {
           "$type": "color",
@@ -613,7 +613,7 @@
         "brand": {
           "primary": {
             "$type": "color",
-            "$value": "{color.primitives.brand.400}"
+            "$value": "{color.primitives.brand.500}"
           },
           "secondary": {
             "$type": "color",
@@ -813,11 +813,11 @@
               },
               "label": {
                 "$type": "color",
-                "$value": "{color.primitives.accent.50}"
+                "$value": "{color.primitives.accent.200}"
               },
               "icon": {
                 "$type": "color",
-                "$value": "{color.primitives.accent.50}"
+                "$value": "{color.primitives.accent.200}"
               }
             }
           },
@@ -843,11 +843,11 @@
               },
               "label": {
                 "$type": "color",
-                "$value": "{color.primitives.brand.50}"
+                "$value": "{color.primitives.brand.200}"
               },
               "icon": {
                 "$type": "color",
-                "$value": "{color.primitives.brand.50}"
+                "$value": "{color.primitives.brand.200}"
               }
             }
           },
