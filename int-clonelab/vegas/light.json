@@ -552,7 +552,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.primitives.neutral_strong.900}"
+          "$value": "{color.primitives.neutral_strong.800}"
         }
       },
       "border": {
@@ -579,7 +579,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.primitives.neutral_strong.900}"
+          "$value": "{color.primitives.neutral_strong.800}"
         }
       },
       "icon": {
@@ -606,7 +606,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.primitives.neutral_strong.900}"
+          "$value": "{color.primitives.neutral_strong.800}"
         }
       },
       "intent": {
@@ -691,7 +691,7 @@
           },
           "tertiary": {
             "$type": "color",
-            "$value": "{color.primitives.neutral_soft.800}"
+            "$value": "{color.primitives.neutral_soft.700}"
           }
         }
       },
@@ -1062,7 +1062,7 @@
                   }
                 },
                 "$type": "color",
-                "$value": "{color.primitives.neutral_soft.700}"
+                "$value": "{color.primitives.neutral_soft.800}"
               },
               "label": {
                 "$type": "color",
@@ -1113,7 +1113,7 @@
                 },
                 "ax-label": {
                   "$type": "color",
-                  "$value": "{color.primitives.neutral_strong.50}"
+                  "$value": "{color.primitives.neutral_soft.700}"
                 }
               }
             },
@@ -1340,7 +1340,7 @@
               },
               "label": {
                 "$type": "color",
-                "$value": "{color.semantic.intent.accent.primary}"
+                "$value": "{color.semantic.intent.brand.primary}"
               }
             },
             "unselected": {
@@ -1350,7 +1350,7 @@
               },
               "label": {
                 "$type": "color",
-                "$value": "{color.primitives.white.50}"
+                "$value": "{color.contextual.controls.button.tertiary.enabled.label}"
               }
             }
           },
@@ -1399,11 +1399,11 @@
             "unselected": {
               "label": {
                 "$type": "color",
-                "$value": "{color.primitives.neutral_strong.900}"
+                "$value": "{color.primitives.neutral_strong.800}"
               },
               "icon": {
                 "$type": "color",
-                "$value": "{color.primitives.neutral_strong.900}"
+                "$value": "{color.primitives.neutral_strong.800}"
               }
             }
           }
